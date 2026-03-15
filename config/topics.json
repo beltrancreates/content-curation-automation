@@ -1,0 +1,12 @@
+{
+  "topics": {
+    "alignment": ["alignment", "instruction hierarchy", "human values", "steerability"],
+    "safety": ["safety", "risk", "security", "misuse", "harm"],
+    "llm": ["llm", "language model", "frontier model", "gpt"],
+    "policy": ["regulation", "policy", "standards", "governance"],
+    "biology_risk": ["biological threat", "biosecurity", "biorisk"],
+    "open_source": ["open source", "open-weight", "weights"],
+    "agents": ["agent", "tool use", "autonomous system", "workflow"],
+    "multimodal": ["image", "video", "audio", "multimodal"]
+  }
+}
