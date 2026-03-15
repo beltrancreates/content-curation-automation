@@ -1,1 +1,39 @@
-
+{
+  "rules": {
+    "include_keywords": [
+      "artificial intelligence",
+      "ai",
+      "machine learning",
+      "modelo",
+      "model",
+      "research",
+      "regulation",
+      "safety",
+      "open source",
+      "llm"
+    ],
+    "exclude_keywords": [
+      "celebrity",
+      "gossip",
+      "casino",
+      "betting",
+      "tabloid"
+    ],
+    "preferred_domains": [
+      "openai.com",
+      "nature.com",
+      "technologyreview.com"
+    ],
+    "blocked_domains": [],
+    "max_age_days": 30,
+    "min_score": 5
+  },
+  "scoring": {
+    "keyword_match": 2,
+    "preferred_domain": 3,
+    "authority_multiplier": 0.3,
+    "recent_bonus": 2,
+    "duplicate_penalty": -4,
+    "exclude_penalty": -10
+  }
+}
