@@ -1,1 +1,25 @@
-
+{
+  "sources": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "rss",
+      "authority_weight": 9,
+      "tags": ["ia", "tecnologia", "modelos"]
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "type": "rss",
+      "authority_weight": 8,
+      "tags": ["tecnologia", "innovacion"]
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "type": "rss",
+      "authority_weight": 10,
+      "tags": ["ciencia", "investigacion"]
+    }
+  ]
+}
