@@ -248,5 +248,255 @@
       "authority:9",
       "old:613d"
     ]
+  },
+  {
+    "id": "22115610ea48ab1066ad14946c42d65d33b049e2560a47bcb8ceaa9ebfd696e4",
+    "title": "Why responsible AI development needs cooperation on safety",
+    "link": "https://openai.com/index/cooperation-on-safety",
+    "summary": "We’ve written a policy research paper identifying four strategies that can be used today to improve the likelihood of long-term industry cooperation on safety norms in AI: communicating risks and benefits, technical collaboration, increased transparency, and incentivizing standards. Our analysis shows that industry cooperation on safety will be instrumental in ensuring that AI systems are safe and beneficial, but competitive pressures could lead to a collective action problem, potentially causing AI companies to under-invest in safety. We hope these strategies will encourage greater cooperation on the safe development of AI and lead to better global outcomes of AI.",
+    "published": "Wed, 10 Jul 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:2440d"
+    ]
+  },
+  {
+    "id": "966f305a7c6bad6518dae9685cba1efae67f5b09d982eeb4fd754f6809fe1a1b",
+    "title": "DALL·E 3 is now available in ChatGPT Plus and Enterprise",
+    "link": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
+    "summary": "We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research.",
+    "published": "Thu, 19 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:878d"
+    ]
+  },
+  {
+    "id": "53b89a3fa546204fd4b5afaf3f21df5d838548337b15467ee7338c76599da50c",
+    "title": "Agent bio bug bounty call",
+    "link": "https://openai.com/bio-bug-bounty",
+    "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent’s safety with a universal jailbreak prompt and win up to $25,000.",
+    "published": "Thu, 17 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "a2186656d9ce389eb145407c97cae241fe5cfc554e20fa540604af1e70ab9c9c",
+    "title": "Superalignment Fast Grants",
+    "link": "https://openai.com/index/superalignment-fast-grants",
+    "summary": "We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.",
+    "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:822d"
+    ]
+  },
+  {
+    "id": "306c03f418dc68df44ef24897b3670fb22e8e5909d4565b05e1e1ebc42585d36",
+    "title": "Update to GPT-5 System Card: GPT-5.2",
+    "link": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+    "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+    "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:94d"
+    ]
+  },
+  {
+    "id": "dd7e5e506aa60c0de7782d5ea917349fd5a8dafeaf83c3c974c073cd6b58f7ca",
+    "title": "Frontier AI regulation: Managing emerging risks to public safety",
+    "link": "https://openai.com/index/frontier-ai-regulation",
+    "summary": "",
+    "published": "Thu, 06 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,regulation,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:983d"
+    ]
+  },
+  {
+    "id": "ee874fb8ed336194c4aac97eb2bde762b8996d6d17250046b82d797897dc4704",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "259252f95a3d4221055d047631d8773e056638f5f150d9d77bb3fae061f0086c",
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "link": "https://openai.com/index/chatgpt-for-excel",
+    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "54a189533d793edc61fd928f94a76a0824884b7de8acd16b68500c919bc95cdd",
+    "title": "Our agreement with the Department of War",
+    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "published": "Sat, 28 Feb 2026 12:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:15d"
+    ]
+  },
+  {
+    "id": "d668ed52747602498c77b614daac0cb749c317960c604f68f3dd62b4c19bcd43",
+    "title": "Enterprise-ready trust and safety",
+    "link": "https://openai.com/index/salesforce",
+    "summary": "Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.",
+    "published": "Mon, 18 Mar 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:727d"
+    ]
   }
 ]
