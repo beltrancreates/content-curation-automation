@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "id": "e86ef436b5592b1c9de246fb7b73bb35f0e15c9650071369b3e5a66afe329aa1",
+    "title": "Concrete AI safety problems",
+    "link": "https://openai.com/index/concrete-ai-safety-problems",
+    "summary": "We (along with researchers from Berkeley and Stanford) are co-authors on today’s paper led by Google Brain researchers, Concrete Problems in AI Safety. The paper explores many research problems around ensuring that modern machine learning systems operate as intended.",
+    "published": "Tue, 21 Jun 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:3554d"
+    ]
+  },
+  {
+    "id": "6e07fcbb6a73075a0f4988bba3352accf4ff3b00d28c8a6eabcf9cd66f1576b6",
+    "title": "AI safety needs social scientists",
+    "link": "https://openai.com/index/ai-safety-needs-social-scientists",
+    "summary": "We’ve written a paper arguing that long-term AI safety research needs social scientists to ensure AI alignment algorithms succeed when actual humans are involved. Properly aligning advanced AI systems with human values requires resolving many uncertainties related to the psychology of human rationality, emotion, and biases. The aim of this paper is to spark further collaboration between machine learning and social science researchers, and we plan to hire social scientists to work on this full time at OpenAI.",
+    "published": "Tue, 19 Feb 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2581d"
+    ]
+  },
+  {
+    "id": "c10bb33b142f69f54e0f4cb13062ef777dcaf0527cd5719fa328d8f6cb411c67",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "published": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety,llm",
+      "preferred_domain",
+      "authority:9",
+      "recent:5d"
+    ]
+  },
+  {
+    "id": "b58804beca89c88badae46e81d24925e912188c8c9e2d96d580b554420627449",
+    "title": "Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "published": "Thu, 19 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:24d"
+    ]
+  },
+  {
+    "id": "faae46c0b6909eaa70a8b696d2741b010a7392891e7362472dc3325294d99bdd",
+    "title": "Building an early warning system for LLM-aided biological threat creation",
+    "link": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+    "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 provides at most a mild uplift in biological threat creation accuracy. While this uplift is not large enough to be conclusive, our finding is a starting point for continued research and community deliberation.",
+    "published": "Wed, 31 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:774d"
+    ]
+  },
+  {
+    "id": "b2fec04c8337daa649c23f20bcd38bf9cb1dfa70d530874dc61359432ef07854",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+    "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:46d"
+    ]
+  },
+  {
+    "id": "ad77972c6dfa784bf92cd4c98a2eb9a8467ac9dc6c4858c8188e030763aacdb1",
+    "title": "Frontier Model Forum",
+    "link": "https://openai.com/index/frontier-model-forum",
+    "summary": "We’re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating information sharing among policymakers and industry.",
+    "published": "Wed, 26 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:963d"
+    ]
+  },
+  {
+    "id": "225ff6cc9a5850503308fc486129a62ddfc3a964b42c8ea6c0ad0b5cf88054eb",
+    "title": "DALL·E 2 research preview update",
+    "link": "https://openai.com/index/dall-e-2-update",
+    "summary": "Early users have created over 3 million images to date and helped us improve our safety processes. We’re excited to begin adding up to 1,000 new users from our waitlist each week.",
+    "published": "Wed, 18 May 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1397d"
+    ]
+  },
+  {
+    "id": "a897d1114865ad3cf3cd9d25a99686df931737c39fc3e6611d9930d927754145",
+    "title": "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk",
+    "link": "https://openai.com/index/forecasting-misuse",
+    "summary": "OpenAI researchers collaborated with Georgetown University’s Center for Security and Emerging Technology and the Stanford Internet Observatory to investigate how large language models might be misused for disinformation purposes. The collaboration included an October 2021 workshop bringing together 30 disinformation researchers, machine learning experts, and policy analysts, and culminated in a co-authored report building on more than a year of research. This report outlines the threats that language models pose to the information environment if used to augment disinformation campaigns and introduces a framework for analyzing potential mitigations. Read the full report here.",
+    "published": "Wed, 11 Jan 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1159d"
+    ]
+  },
+  {
+    "id": "8130182912315c8aa0906c3204835f8e8bf9c2ef232444989d12adecd2efd823",
+    "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
+    "link": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
+    "summary": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
+    "published": "Wed, 10 Jul 2024 06:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:613d"
+    ]
+  }
+]
