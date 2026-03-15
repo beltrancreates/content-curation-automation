@@ -498,5 +498,255 @@
       "authority:9",
       "old:727d"
     ]
+  },
+  {
+    "id": "23e11c422e25485f4bbe6ff75dd6fd0c9d7767505a107c9d6865cc0db1dc29a8",
+    "title": "Funding grants for new research into AI and mental health",
+    "link": "https://openai.com/index/ai-mental-health-research-grants",
+    "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+    "published": "Mon, 01 Dec 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:104d"
+    ]
+  },
+  {
+    "id": "1f7e7f57b2bc8df391899abc8a44ff69a081b6e49dc7ce1a9643fd82cca22776",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "link": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:16d"
+    ]
+  },
+  {
+    "id": "b1b2af8a41349527702ad966451b6683e1bfdd2fb232acff9446ebf22d7ef3bd",
+    "title": "An update on our mental health-related work",
+    "link": "https://openai.com/index/update-on-mental-health-related-work",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+    "published": "Fri, 27 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:16d"
+    ]
+  },
+  {
+    "id": "43cc768aaf8088841f14dc7387c864280893f30f3d190f0d992d0e6c50e369af",
+    "title": "Our First Proof submissions",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "published": "Fri, 20 Feb 2026 14:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:23d"
+    ]
+  },
+  {
+    "id": "c10ff8c0943e4e0704dbe36b95a16645098d001c452f407c0aa0b619c408c5c2",
+    "title": "Scaling social science research",
+    "link": "https://openai.com/index/scaling-social-science-research",
+    "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:30d"
+    ]
+  },
+  {
+    "id": "f2ea2d8f81e27f597dd55c368712bbe7dc9d2e138980527178f65dece4d7af3b",
+    "title": "Introducing OpenAI",
+    "link": "https://openai.com/index/introducing-openai",
+    "summary": "OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.",
+    "published": "Fri, 11 Dec 2015 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:3747d"
+    ]
+  },
+  {
+    "id": "24be97416bddb2779d25cad032b6a2f8f2028614056c7a2a80d6759d34d9f6c6",
+    "title": "Codex Security: now in research preview",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:9d"
+    ]
+  },
+  {
+    "id": "21284a77e7506950b59fb54d71ccc4949dc1fa2433b2928a1de128f9985d321e",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "link": "https://openai.com/index/balyasny-asset-management",
+    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "published": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:9d"
+    ]
+  },
+  {
+    "id": "4d1790ce5f22c336d445b421997439594f74a175d6f19e2e804feb432ee6878c",
+    "title": "Why language models hallucinate",
+    "link": "https://openai.com/index/why-language-models-hallucinate",
+    "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+    "published": "Fri, 05 Sep 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:191d"
+    ]
+  },
+  {
+    "id": "3ed85b203a72c4e84128670f6bc2c2e50204b7281bfd020a7d98d026b26258d7",
+    "title": "GPT-5 bio bug bounty call",
+    "link": "https://openai.com/gpt-5-bio-bug-bounty",
+    "summary": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
+    "published": "Fri, 05 Sep 2025 08:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:191d"
+    ]
   }
 ]
