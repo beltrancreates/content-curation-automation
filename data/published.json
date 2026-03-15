@@ -748,5 +748,255 @@
       "authority:9",
       "old:191d"
     ]
+  },
+  {
+    "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
+    "title": "Requests for Research 2.0",
+    "link": "https://openai.com/index/requests-for-research-2",
+    "summary": "We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI.",
+    "published": "Wed, 31 Jan 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2965d"
+    ]
+  },
+  {
+    "id": "d9b3a3e0a4632bed4674b069a0484bcd34e3fa6ad76a672b8c3a95778897d343",
+    "title": "OpenAI Fellows Fall 2018",
+    "link": "https://openai.com/index/openai-fellows",
+    "summary": "We’re now accepting applications for the next cohort of OpenAI Fellows, a program which offers a compensated 6-month apprenticeship in AI research at OpenAI.",
+    "published": "Wed, 30 May 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2846d"
+    ]
+  },
+  {
+    "id": "c3fab0e6f42bb299771467e21d3b9c24c0f15ff3e5eb0cee60c8eb06d92b87d0",
+    "title": "Introducing gpt-oss-safeguard",
+    "link": "https://openai.com/index/introducing-gpt-oss-safeguard",
+    "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+    "published": "Wed, 29 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:137d"
+    ]
+  },
+  {
+    "id": "e7ee432dfd476935c58f8ac88a452e026629cd980b5dfefb81ede1047b6f3f7f",
+    "title": "gpt-oss-safeguard technical report",
+    "link": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+    "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+    "published": "Wed, 29 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:137d"
+    ]
+  },
+  {
+    "id": "7bc42bde880830be7c8f52208086af86078d4e4567e97be0dd702ba5df3d1b0a",
+    "title": "DALL·E now available without waitlist",
+    "link": "https://openai.com/index/dall-e-now-available-without-waitlist",
+    "summary": "New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.",
+    "published": "Wed, 28 Sep 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1264d"
+    ]
+  },
+  {
+    "id": "97e13edb6c67121a7247562c9ed85826bf9fa7cdb94040118c03bef5fd7f26ec",
+    "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
+    "link": "https://openai.com/index/openai-anthropic-safety-evaluation",
+    "summary": "OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.",
+    "published": "Wed, 27 Aug 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:200d"
+    ]
+  },
+  {
+    "id": "cc567dadec2fd70d259fd5964dd22ea264a6e7ea90668ac7767c19ab7a2518c1",
+    "title": "Frontier Model Forum updates",
+    "link": "https://openai.com/index/frontier-model-forum-updates",
+    "summary": "Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.",
+    "published": "Wed, 25 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:872d"
+    ]
+  },
+  {
+    "id": "194295ec15d920db6a52e167db4095557f330da2ccfb687b89d3c12a1bec93ab",
+    "title": "OpenAI Scholars 2018: Meet our Scholars",
+    "link": "https://openai.com/index/openai-scholars-2018-meet-our-scholars",
+    "summary": "Our first class of OpenAI Scholars is underway, and you can now follow along as this group of experienced software developers becomes machine learning practitioners.",
+    "published": "Wed, 25 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2790d"
+    ]
+  },
+  {
+    "id": "6a8b747d57cef06c9f40a6ab2ca1385a9605ef8d96fa7ca03f12d7a8f2496927",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "published": "Wed, 25 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:18d"
+    ]
+  },
+  {
+    "id": "aecdddbe76fc7468b448c710f10199057eacb367d39c7c8ee6c6b1e9ee02cf98",
+    "title": "Our approach to alignment research",
+    "link": "https://openai.com/index/our-approach-to-alignment-research",
+    "summary": "We are improving our AI systems’ ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other alignment problems.",
+    "published": "Wed, 24 Aug 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1299d"
+    ]
   }
 ]

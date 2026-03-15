@@ -4,7 +4,137 @@ _Actualizado: 2026-03-15 17:23 UTC_
 
 ## Selección priorizada
 
-### 1. GPT-5 bio bug bounty call
+### 1. Our approach to alignment research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Aug 2022 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:1299d
+- **Enlace:** https://openai.com/index/our-approach-to-alignment-research
+
+We are improving our AI systems’ ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other alignment problems.
+
+---
+
+### 2. Disrupting malicious uses of AI | February 2026
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 25 Feb 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:18d
+- **Enlace:** https://openai.com/index/disrupting-malicious-ai-uses
+
+Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
+
+---
+
+### 3. OpenAI Scholars 2018: Meet our Scholars
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 25 Jul 2018 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:2790d
+- **Enlace:** https://openai.com/index/openai-scholars-2018-meet-our-scholars
+
+Our first class of OpenAI Scholars is underway, and you can now follow along as this group of experienced software developers becomes machine learning practitioners.
+
+---
+
+### 4. Frontier Model Forum updates
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 25 Oct 2023 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:872d
+- **Enlace:** https://openai.com/index/frontier-model-forum-updates
+
+Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.
+
+---
+
+### 5. OpenAI and Anthropic share findings from a joint safety evaluation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 Aug 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:200d
+- **Enlace:** https://openai.com/index/openai-anthropic-safety-evaluation
+
+OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.
+
+---
+
+### 6. DALL·E now available without waitlist
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Sep 2022 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:1264d
+- **Enlace:** https://openai.com/index/dall-e-now-available-without-waitlist
+
+New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.
+
+---
+
+### 7. gpt-oss-safeguard technical report
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 Oct 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:137d
+- **Enlace:** https://openai.com/index/gpt-oss-safeguard-technical-report
+
+gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see 
+
+---
+
+### 8. Introducing gpt-oss-safeguard
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 Oct 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:137d
+- **Enlace:** https://openai.com/index/introducing-gpt-oss-safeguard
+
+OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.
+
+---
+
+### 9. OpenAI Fellows Fall 2018
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 May 2018 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2846d
+- **Enlace:** https://openai.com/index/openai-fellows
+
+We’re now accepting applications for the next cohort of OpenAI Fellows, a program which offers a compensated 6-month apprenticeship in AI research at OpenAI.
+
+---
+
+### 10. Requests for Research 2.0
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 31 Jan 2018 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2965d
+- **Enlace:** https://openai.com/index/requests-for-research-2
+
+We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI.
+
+---
+
+### 11. GPT-5 bio bug bounty call
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a u
 
 ---
 
-### 2. Why language models hallucinate
+### 12. Why language models hallucinate
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI’s new research explains why language models hallucinate. The findings s
 
 ---
 
-### 3. How Balyasny Asset Management built an AI research engine for investing
+### 13. How Balyasny Asset Management built an AI research engine for investing
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ See how Balyasny built an AI research system with GPT-5.4, rigorous model evalua
 
 ---
 
-### 4. Codex Security: now in research preview
+### 14. Codex Security: now in research preview
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Codex Security is an AI application security agent that analyzes project context
 
 ---
 
-### 5. Introducing OpenAI
+### 15. Introducing OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI is a non-profit artificial intelligence research company. Our goal is to 
 
 ---
 
-### 6. Scaling social science research
+### 16. Scaling social science research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitati
 
 ---
 
-### 7. Our First Proof submissions
+### 17. Our First Proof submissions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We share our AI model’s proof attempts for the First Proof math challenge, tes
 
 ---
 
-### 8. An update on our mental health-related work
+### 18. An update on our mental health-related work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI shares updates on its mental health safety work, including parental contr
 
 ---
 
-### 9. Joint Statement from OpenAI and Microsoft
+### 19. Joint Statement from OpenAI and Microsoft
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Microsoft and OpenAI continue to work closely across research, engineering, and 
 
 ---
 
-### 10. Funding grants for new research into AI and mental health
+### 20. Funding grants for new research into AI and mental health
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Microsoft and OpenAI continue to work closely across research, engineering, and 
 - **Enlace:** https://openai.com/index/ai-mental-health-research-grants
 
 OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.
-
----
-
-### 11. Enterprise-ready trust and safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 18 Mar 2024 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety,llm, preferred_domain, authority:9, old:727d
-- **Enlace:** https://openai.com/index/salesforce
-
-Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-
----
-
-### 12. Our agreement with the Department of War
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 28 Feb 2026 12:30:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:15d
-- **Enlace:** https://openai.com/index/our-agreement-with-the-department-of-war
-
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
-
----
-
-### 13. Introducing ChatGPT for Excel and new financial data integrations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/chatgpt-for-excel
-
-OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.
-
----
-
-### 14. Reasoning models struggle to control their chains of thought, and that’s good
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/reasoning-models-chain-of-thought-controllability
-
-OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.
-
----
-
-### 15. Frontier AI regulation: Managing emerging risks to public safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Jul 2023 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,regulation,safety, preferred_domain, authority:9, old:983d
-- **Enlace:** https://openai.com/index/frontier-ai-regulation
-
-
-
----
-
-### 16. Update to GPT-5 System Card: GPT-5.2
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 11 Dec 2025 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, old:94d
-- **Enlace:** https://openai.com/index/gpt-5-system-card-update-gpt-5-2
-
-GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.
-
----
-
-### 17. Superalignment Fast Grants
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 Dec 2023 08:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, old:822d
-- **Enlace:** https://openai.com/index/superalignment-fast-grants
-
-We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.
-
----
-
-### 18. Agent bio bug bounty call
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 17 Jul 2025 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, old:241d
-- **Enlace:** https://openai.com/bio-bug-bounty
-
-OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent’s safety with a universal jailbreak prompt and win up to $25,000.
-
----
-
-### 19. DALL·E 3 is now available in ChatGPT Plus and Enterprise
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Oct 2023 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, old:878d
-- **Enlace:** https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise
-
-We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research.
-
----
-
-### 20. Why responsible AI development needs cooperation on safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Jul 2019 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, old:2440d
-- **Enlace:** https://openai.com/index/cooperation-on-safety
-
-We’ve written a policy research paper identifying four strategies that can be used today to improve the likelihood of long-term industry cooperation on safety norms in AI: communicating risks and benefits, technical collaboration, increased transparency, and incentivizing standards. Our analysis shows that industry cooperation on safety will be instrumental in ensuring that AI systems are safe and beneficial, but competitive pressures could lead to a collective action problem, potentially causin
 
 ---
