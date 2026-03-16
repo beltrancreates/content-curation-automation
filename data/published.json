@@ -998,5 +998,255 @@
       "authority:9",
       "old:1299d"
     ]
+  },
+  {
+    "id": "993af4fe40941b47f6273e52cdf3252eb026d47c36f097826e2aaf3673d1d7bf",
+    "title": "Strengthening our safety ecosystem with external testing",
+    "link": "https://openai.com/index/strengthening-safety-with-external-testing",
+    "summary": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+    "published": "Wed, 19 Nov 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "6dde6dafb992de57e20dda5ffc326ad700d2a9bc9147b28ceb841b6c6dba1410",
+    "title": "GPT-5.1-Codex-Max System Card",
+    "link": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+    "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+    "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "95e8bc0e2e947ef124760d83c24140d423110a56563ed55955e127f8ddd10287",
+    "title": "OpenAI Fellows Summer 2018: Final projects",
+    "link": "https://openai.com/index/openai-summer-fellows-2018",
+    "summary": "Our first cohort of OpenAI Fellows has concluded, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship.",
+    "published": "Wed, 19 Dec 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2643d"
+    ]
+  },
+  {
+    "id": "1e3b25e389035e2c365cd23e57086fb9dee13f437ed4deb137b6aa7f8ab44080",
+    "title": "Introducing OpenAI for India",
+    "link": "https://openai.com/index/openai-for-india",
+    "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "published": "Wed, 18 Feb 2026 21:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:24d"
+    ]
+  },
+  {
+    "id": "6c4e5af94eac9ddf21f9c2d1f84a12ef0ca6e449bd92b64d80c7d458924517a2",
+    "title": "Introducing EVMbench",
+    "link": "https://openai.com/index/introducing-evmbench",
+    "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+    "published": "Wed, 18 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:25d"
+    ]
+  },
+  {
+    "id": "f6af10b9bab2faa32b97da37703762324f058140ff89ba3273639bb1672ae654",
+    "title": "Detecting and reducing scheming in AI models",
+    "link": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+    "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
+    "published": "Wed, 17 Sep 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:179d"
+    ]
+  },
+  {
+    "id": "3b070471ec9454b83213be3697f6f1a1ddd09a84fda8075a5c93508458e9d21d",
+    "title": "More on Dota 2",
+    "link": "https://openai.com/index/more-on-dota-2",
+    "summary": "Our Dota 2 result shows that self-play can catapult the performance of machine learning systems from far below human level to superhuman, given sufficient compute. In the span of a month, our system went from barely matching a high-ranked player to beating the top pros and has continued to improve since then. Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data improves automatically as the agent gets better.",
+    "published": "Wed, 16 Aug 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3133d"
+    ]
+  },
+  {
+    "id": "4df80db8c9aa3e71f45228ca7f4629b421ad0417690e8f6db97cef15957745a7",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:4d"
+    ]
+  },
+  {
+    "id": "6a121168ce926437e8f177a4b99bb4cf7b4c76b38584481ddcb207aaa5b30a53",
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:4d"
+    ]
+  },
+  {
+    "id": "61fc2db7f737e14ba918c9d78c7b98aa099cb2bfb3ec14b2b8eff57fd6e1b846",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:4d"
+    ]
   }
 ]
