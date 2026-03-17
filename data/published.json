@@ -1248,5 +1248,255 @@
       "authority:9",
       "recent:4d"
     ]
+  },
+  {
+    "id": "4c3591cdce6d7b2e23346eff4ca5d6a2b6df741a21c3ed4e098fce0f693f6b73",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:4d"
+    ]
+  },
+  {
+    "id": "d1ba97f5bdb4314c03baca02e5ce36f4b24cc8674832200010d4c029ca283475",
+    "title": "Introducing Activation Atlases",
+    "link": "https://openai.com/index/introducing-activation-atlases",
+    "summary": "We’ve created activation atlases (in collaboration with Google researchers), a new technique for visualizing what interactions between neurons can represent. As AI systems are deployed in increasingly sensitive contexts, having a better understanding of their internal decision-making processes will let us identify weaknesses and investigate failures.",
+    "published": "Wed, 06 Mar 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2566d"
+    ]
+  },
+  {
+    "id": "f3fe69f9f0258b85ea0a83f21f9b049ba87e36973db2b864d365dd8d0cb28595",
+    "title": "Our approach to AI safety",
+    "link": "https://openai.com/index/our-approach-to-ai-safety",
+    "summary": "Ensuring that AI systems are built, deployed, and used safely is critical to our mission.",
+    "published": "Wed, 05 Apr 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1075d"
+    ]
+  },
+  {
+    "id": "48f091e111feb4c60e5b664261ceaeba8a8535ddc8e827d81f6b1639681fbd13",
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "link": "https://openai.com/index/axios-allison-murphy",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:11d"
+    ]
+  },
+  {
+    "id": "64898a684f58932a5a60f0c92bde966c1f7ed26650d8620c9301bda275d87cf4",
+    "title": "Understanding AI and learning outcomes",
+    "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:11d"
+    ]
+  },
+  {
+    "id": "085ae5e02e38ed48c165a91ce8445371119b566fb929577f198e24cd9017d2f6",
+    "title": "How confessions can keep language models honest",
+    "link": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "published": "Wed, 03 Dec 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:102d"
+    ]
+  },
+  {
+    "id": "3f13857bae71eca3071816917a9cb09efbb38dd25528ad08c1d6f69fe997c21c",
+    "title": "OpenAI to acquire Neptune",
+    "link": "https://openai.com/index/openai-to-acquire-neptune",
+    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "published": "Wed, 03 Dec 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:102d"
+    ]
+  },
+  {
+    "id": "de3384888c920bcae78731add0d4a363e553c24ede5d144d1dd6c727e7922310",
+    "title": "PaperBench: Evaluating AI’s Ability to Replicate AI Research",
+    "link": "https://openai.com/index/paperbench",
+    "summary": "We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research.",
+    "published": "Wed, 02 Apr 2025 10:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:347d"
+    ]
+  },
+  {
+    "id": "8073d7bf74495ae9c5a9def35fdebf31dc7d1ada7cf57bc99cbd7868dc80e4b9",
+    "title": "Knowledge preservation powered by ChatGPT",
+    "link": "https://openai.com/index/dai-nippon-printing",
+    "summary": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
+    "published": "Tue, 28 Oct 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:138d"
+    ]
+  },
+  {
+    "id": "13f03b822ebfaaf043e0ecd8f414e0e59ce148ba558a135458de7b7abb8a6391",
+    "title": "OpenAI Board Forms Safety and Security Committee",
+    "link": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
+    "summary": "",
+    "published": "Tue, 28 May 2024 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:656d"
+    ]
   }
 ]

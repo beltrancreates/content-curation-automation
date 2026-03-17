@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-16 08:05 UTC_
+_Actualizado: 2026-03-17 07:51 UTC_
 
 ## Selección priorizada
 
-### 1. Wayfair boosts catalog accuracy and support speed with OpenAI
+### 1. OpenAI Board Forms Safety and Security Committee
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 May 2024 03:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:656d
+- **Enlace:** https://openai.com/index/openai-board-forms-safety-and-security-committee
+
+
+
+---
+
+### 2. Knowledge preservation powered by ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Oct 2025 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:138d
+- **Enlace:** https://openai.com/index/dai-nippon-printing
+
+Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.
+
+---
+
+### 3. PaperBench: Evaluating AI’s Ability to Replicate AI Research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 02 Apr 2025 10:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:347d
+- **Enlace:** https://openai.com/index/paperbench
+
+We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research.
+
+---
+
+### 4. OpenAI to acquire Neptune
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 03 Dec 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:102d
+- **Enlace:** https://openai.com/index/openai-to-acquire-neptune
+
+OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.
+
+---
+
+### 5. How confessions can keep language models honest
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 03 Dec 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:102d
+- **Enlace:** https://openai.com/index/how-confessions-can-keep-language-models-honest
+
+OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.
+
+---
+
+### 6. Understanding AI and learning outcomes
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:11d
+- **Enlace:** https://openai.com/index/understanding-ai-and-learning-outcomes
+
+OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.
+
+---
+
+### 7. How Axios uses AI to help deliver high-impact local journalism
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:11d
+- **Enlace:** https://openai.com/index/axios-allison-murphy
+
+Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.
+
+---
+
+### 8. Our approach to AI safety
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 05 Apr 2023 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:1075d
+- **Enlace:** https://openai.com/index/our-approach-to-ai-safety
+
+Ensuring that AI systems are built, deployed, and used safely is critical to our mission.
+
+---
+
+### 9. Introducing Activation Atlases
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 06 Mar 2019 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2566d
+- **Enlace:** https://openai.com/index/introducing-activation-atlases
+
+We’ve created activation atlases (in collaboration with Google researchers), a new technique for visualizing what interactions between neurons can represent. As AI systems are deployed in increasingly sensitive contexts, having a better understanding of their internal decision-making processes will let us identify weaknesses and investigate failures.
+
+---
+
+### 10. From model to agent: Equipping the Responses API with a computer environment
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 11 Mar 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:4d
+- **Enlace:** https://openai.com/index/equip-responses-api-computer-environment
+
+How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.
+
+---
+
+### 11. Wayfair boosts catalog accuracy and support speed with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Wayfair uses OpenAI models to improve ecommerce support and product catalog accu
 
 ---
 
-### 2. Designing AI agents to resist prompt injection
+### 12. Designing AI agents to resist prompt injection
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ How ChatGPT defends against prompt injection and social engineering by constrain
 
 ---
 
-### 3. Rakuten fixes issues twice as fast with Codex
+### 13. Rakuten fixes issues twice as fast with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and sa
 
 ---
 
-### 4. More on Dota 2
+### 14. More on Dota 2
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Our Dota 2 result shows that self-play can catapult the performance of machine l
 
 ---
 
-### 5. Detecting and reducing scheming in AI models
+### 15. Detecting and reducing scheming in AI models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Apollo Research and OpenAI developed evaluations for hidden misalignment (“sch
 
 ---
 
-### 6. Introducing EVMbench
+### 16. Introducing EVMbench
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ abil
 
 ---
 
-### 7. Introducing OpenAI for India
+### 17. Introducing OpenAI for India
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI for India expands AI access across the country—building local infrastru
 
 ---
 
-### 8. OpenAI Fellows Summer 2018: Final projects
+### 18. OpenAI Fellows Summer 2018: Final projects
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Our first cohort of OpenAI Fellows has concluded, with each Fellow going from a 
 
 ---
 
-### 9. GPT-5.1-Codex-Max System Card
+### 19. GPT-5.1-Codex-Max System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ This system card outlines the comprehensive safety measures implemented for GPT�
 
 ---
 
-### 10. Strengthening our safety ecosystem with external testing
+### 20. Strengthening our safety ecosystem with external testing
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ This system card outlines the comprehensive safety measures implemented for GPT�
 - **Enlace:** https://openai.com/index/strengthening-safety-with-external-testing
 
 OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.
-
----
-
-### 11. Our approach to alignment research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Aug 2022 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:1299d
-- **Enlace:** https://openai.com/index/our-approach-to-alignment-research
-
-We are improving our AI systems’ ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other alignment problems.
-
----
-
-### 12. Disrupting malicious uses of AI | February 2026
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 25 Feb 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:18d
-- **Enlace:** https://openai.com/index/disrupting-malicious-ai-uses
-
-Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
-
----
-
-### 13. OpenAI Scholars 2018: Meet our Scholars
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 25 Jul 2018 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:2790d
-- **Enlace:** https://openai.com/index/openai-scholars-2018-meet-our-scholars
-
-Our first class of OpenAI Scholars is underway, and you can now follow along as this group of experienced software developers becomes machine learning practitioners.
-
----
-
-### 14. Frontier Model Forum updates
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 25 Oct 2023 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:872d
-- **Enlace:** https://openai.com/index/frontier-model-forum-updates
-
-Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.
-
----
-
-### 15. OpenAI and Anthropic share findings from a joint safety evaluation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 Aug 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:200d
-- **Enlace:** https://openai.com/index/openai-anthropic-safety-evaluation
-
-OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.
-
----
-
-### 16. DALL·E now available without waitlist
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 28 Sep 2022 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:1264d
-- **Enlace:** https://openai.com/index/dall-e-now-available-without-waitlist
-
-New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.
-
----
-
-### 17. gpt-oss-safeguard technical report
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Oct 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:137d
-- **Enlace:** https://openai.com/index/gpt-oss-safeguard-technical-report
-
-gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see 
-
----
-
-### 18. Introducing gpt-oss-safeguard
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Oct 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:137d
-- **Enlace:** https://openai.com/index/introducing-gpt-oss-safeguard
-
-OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.
-
----
-
-### 19. OpenAI Fellows Fall 2018
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 May 2018 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2846d
-- **Enlace:** https://openai.com/index/openai-fellows
-
-We’re now accepting applications for the next cohort of OpenAI Fellows, a program which offers a compensated 6-month apprenticeship in AI research at OpenAI.
-
----
-
-### 20. Requests for Research 2.0
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 31 Jan 2018 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2965d
-- **Enlace:** https://openai.com/index/requests-for-research-2
-
-We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI.
 
 ---
