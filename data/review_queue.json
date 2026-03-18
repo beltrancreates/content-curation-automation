@@ -750,6 +750,31 @@
     ]
   },
   {
+    "id": "db85e19350f264624079993ecc8f03322c069775e4ce32c5902190ee96cd6852",
+    "title": "Equipping workers with insights about compensation",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -17175,6 +17200,31 @@
     ]
   },
   {
+    "id": "00a469c0df3929efc029ac805ed7cc852e209a369cd2e559795522210b37028b",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "6e29bcfe290e6fa6e408bb70bd5ff440dabe1cd59eaa49113919aea0a0f8ea64",
     "title": "Reinforcement learning with prediction-based rewards",
     "link": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
@@ -22120,6 +22170,29 @@
     ]
   },
   {
+    "id": "0ea1179b03fbea606b5ad55cd39101f5e0d857ab730240eef01bef2cd7e9dce1",
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;",
+    "published": "Tue, 17 Mar 2026 22:30:46 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -22407,6 +22480,29 @@
     "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
     "summary": "",
     "published": "Mon, 16 Mar 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "18a9c4a822ecdb0f567461097784a6e4063470113c257385235b8724ca8aa216",
+    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;",
+    "published": "Tue, 17 Mar 2026 12:26:48 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

@@ -1498,5 +1498,255 @@
       "authority:9",
       "old:656d"
     ]
+  },
+  {
+    "id": "db85e19350f264624079993ecc8f03322c069775e4ce32c5902190ee96cd6852",
+    "title": "Equipping workers with insights about compensation",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "e655fa651bb26242c62a8791e962841a46898e22aa3d1cf2222197505ef5d178",
+    "title": "Automating 90% of finance and legal work with agents",
+    "link": "https://openai.com/index/hebbia",
+    "summary": "Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI",
+    "published": "Tue, 25 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:355d"
+    ]
+  },
+  {
+    "id": "6474c4308de0c7f22d4529c8aa5cc00136eb1a6d4c685b7cc12c0570a6d7eb36",
+    "title": "Deep research System Card",
+    "link": "https://openai.com/index/deep-research-system-card",
+    "summary": "This report outlines the safety work carried out prior to releasing deep research including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.",
+    "published": "Tue, 25 Feb 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:383d"
+    ]
+  },
+  {
+    "id": "1bdc34860fab76f3119883fd0448ac27eed09a107f0af07203d3e48e7dec63b9",
+    "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
+    "link": "https://openai.com/index/unify",
+    "summary": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
+    "published": "Tue, 24 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:264d"
+    ]
+  },
+  {
+    "id": "1018a5e69a2961673739bd7039d6e35494f2baccb298bab738fdd9ac0efb68d7",
+    "title": "Arvind KC appointed Chief People Officer",
+    "link": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "published": "Tue, 24 Feb 2026 13:40:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:19d"
+    ]
+  },
+  {
+    "id": "10ee137694706d6c7af895c5cafbbc3767e5737c2f6fe0667b8c62dd000377a2",
+    "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
+    "link": "https://openai.com/index/child-safety-adopting-sbd-principles",
+    "summary": "",
+    "published": "Tue, 23 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:691d"
+    ]
+  },
+  {
+    "id": "308a37d145cd19acb076a42779a8048e846c33c6cd238ea6d2abe9da83bf7ba7",
+    "title": "OpenAI’s new economic analysis",
+    "link": "https://openai.com/global-affairs/new-economic-analysis",
+    "summary": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
+    "published": "Tue, 22 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:236d"
+    ]
+  },
+  {
+    "id": "215e2fb06638ea53e5188a0e0d3d1dbffaa9bebbe445f369a234341305a8f851",
+    "title": "OpenAI safety practices",
+    "link": "https://openai.com/index/openai-safety-update",
+    "summary": "Artificial general intelligence has the potential to benefit nearly every aspect of our lives—so it must be developed and deployed responsibly.",
+    "published": "Tue, 21 May 2024 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:663d"
+    ]
+  },
+  {
+    "id": "631ba427377bade545548f14c176348b1a7d2170f65d43ab8eb68fd69e1b21f3",
+    "title": "GPT-2: 6-month follow-up",
+    "link": "https://openai.com/index/gpt-2-6-month-follow-up",
+    "summary": "We’re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re also releasing an open-source legal agreement to make it easier for organizations to initiate model-sharing partnerships with each other, and are publishing a technical report about our experience in coordinating with the wider AI research community on publication norms.",
+    "published": "Tue, 20 Aug 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2399d"
+    ]
+  },
+  {
+    "id": "fcae85180fdb97b0ae98a684382402c7a2505a9ad77f8b1b4e57e18ade1f8d2f",
+    "title": "OpenAI Red Teaming Network",
+    "link": "https://openai.com/index/red-teaming-network",
+    "summary": "We’re announcing an open call for the OpenAI Red Teaming Network and invite domain experts interested in improving the safety of OpenAI’s models to join our efforts.",
+    "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:908d"
+    ]
   }
 ]
