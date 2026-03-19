@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-18 07:48 UTC_
+_Actualizado: 2026-03-19 07:43 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI Red Teaming Network
+### 1. Argentina’s AI opportunity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Oct 2025 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:152d
+- **Enlace:** https://openai.com/global-affairs/argentinas-ai-opportunity
+
+OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.
+
+---
+
+### 2. Expert Council on Well-Being and AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Oct 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:152d
+- **Enlace:** https://openai.com/index/expert-council-on-well-being-and-ai
+
+OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.
+
+---
+
+### 3. Evaluating fairness in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 15 Oct 2024 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:516d
+- **Enlace:** https://openai.com/index/evaluating-fairness-in-chatgpt
+
+We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.
+
+---
+
+### 4. Measuring AI’s capability to accelerate biological research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Dec 2025 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:89d
+- **Enlace:** https://openai.com/index/accelerating-biological-research-in-the-wet-lab
+
+OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.
+
+---
+
+### 5. Evaluating AI’s ability to perform scientific research tasks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Dec 2025 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:89d
+- **Enlace:** https://openai.com/index/frontierscience
+
+OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.
+
+---
+
+### 6. Democratic inputs to AI grant program: lessons learned and implementation plans
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Jan 2024 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:789d
+- **Enlace:** https://openai.com/index/democratic-inputs-to-ai-grant-program-update
+
+We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as we continue this work.
+
+---
+
+### 7. Teen safety, freedom, and privacy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Sep 2025 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:180d
+- **Enlace:** https://openai.com/index/teen-safety-freedom-and-privacy
+
+Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.
+
+---
+
+### 8. Partnership with American Journalism Project to support local news
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Jul 2023 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:971d
+- **Enlace:** https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news
+
+A new $5+ million partnership aims to explore ways the development of artificial intelligence (AI) can support a thriving, innovative local news field, and ensure local news organizations shape the future of this emerging technology.
+
+---
+
+### 9. Rox goes “all in” on OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 19 Nov 2024 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:481d
+- **Enlace:** https://openai.com/index/rox
+
+By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller.
+
+---
+
+### 10. OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Mar 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/japan-teen-safety-blueprint
+
+OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.
+
+---
+
+### 11. OpenAI Red Teaming Network
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re announcing an open call for the OpenAI Red Teaming Network and invite do
 
 ---
 
-### 2. GPT-2: 6-month follow-up
+### 12. GPT-2: 6-month follow-up
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’re releasing the 774 million parameter GPT-2 language model after the relea
 
 ---
 
-### 3. OpenAI safety practices
+### 13. OpenAI safety practices
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Artificial general intelligence has the potential to benefit nearly every aspect
 
 ---
 
-### 4. OpenAI’s new economic analysis
+### 14. OpenAI’s new economic analysis
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also l
 
 ---
 
-### 5. OpenAI’s commitment to child safety: adopting safety by design principles
+### 15. OpenAI’s commitment to child safety: adopting safety by design principles
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also l
 
 ---
 
-### 6. Arvind KC appointed Chief People Officer
+### 16. Arvind KC appointed Chief People Officer
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI appoints Arvind KC as Chief People Officer to help scale the company, str
 
 ---
 
-### 7. Driving scalable growth with OpenAI o3, GPT-4.1, and CUA
+### 17. Driving scalable growth with OpenAI o3, GPT-4.1, and CUA
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to autom
 
 ---
 
-### 8. Deep research System Card
+### 18. Deep research System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ This report outlines the safety work carried out prior to releasing deep researc
 
 ---
 
-### 9. Automating 90% of finance and legal work with agents
+### 19. Automating 90% of finance and legal work with agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Hebbia’s deep research automates 90% of finance and legal work, powered by Ope
 
 ---
 
-### 10. Equipping workers with insights about compensation
+### 20. Equipping workers with insights about compensation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Hebbia’s deep research automates 90% of finance and legal work, powered by Ope
 - **Enlace:** https://openai.com/index/equipping-workers-with-insights-about-compensation
 
 New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.
-
----
-
-### 11. OpenAI Board Forms Safety and Security Committee
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 28 May 2024 03:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:656d
-- **Enlace:** https://openai.com/index/openai-board-forms-safety-and-security-committee
-
-
-
----
-
-### 12. Knowledge preservation powered by ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 28 Oct 2025 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:138d
-- **Enlace:** https://openai.com/index/dai-nippon-printing
-
-Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.
-
----
-
-### 13. PaperBench: Evaluating AI’s Ability to Replicate AI Research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Apr 2025 10:15:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:347d
-- **Enlace:** https://openai.com/index/paperbench
-
-We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research.
-
----
-
-### 14. OpenAI to acquire Neptune
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Dec 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:102d
-- **Enlace:** https://openai.com/index/openai-to-acquire-neptune
-
-OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.
-
----
-
-### 15. How confessions can keep language models honest
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Dec 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:102d
-- **Enlace:** https://openai.com/index/how-confessions-can-keep-language-models-honest
-
-OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.
-
----
-
-### 16. Understanding AI and learning outcomes
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:11d
-- **Enlace:** https://openai.com/index/understanding-ai-and-learning-outcomes
-
-OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.
-
----
-
-### 17. How Axios uses AI to help deliver high-impact local journalism
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:11d
-- **Enlace:** https://openai.com/index/axios-allison-murphy
-
-Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.
-
----
-
-### 18. Our approach to AI safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 05 Apr 2023 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:1075d
-- **Enlace:** https://openai.com/index/our-approach-to-ai-safety
-
-Ensuring that AI systems are built, deployed, and used safely is critical to our mission.
-
----
-
-### 19. Introducing Activation Atlases
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 06 Mar 2019 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2566d
-- **Enlace:** https://openai.com/index/introducing-activation-atlases
-
-We’ve created activation atlases (in collaboration with Google researchers), a new technique for visualizing what interactions between neurons can represent. As AI systems are deployed in increasingly sensitive contexts, having a better understanding of their internal decision-making processes will let us identify weaknesses and investigate failures.
-
----
-
-### 20. From model to agent: Equipping the Responses API with a computer environment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Mar 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:4d
-- **Enlace:** https://openai.com/index/equip-responses-api-computer-environment
-
-How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.
 
 ---

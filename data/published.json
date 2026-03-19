@@ -1748,5 +1748,255 @@
       "authority:9",
       "old:908d"
     ]
+  },
+  {
+    "id": "0e57f1723540de9e4d84434831d66775f8d5ab556b350614cf40def4b1c174c9",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "d9a5bf8c77b67cbe316896c6e2793d7527c5416fba4c59ca8dc09d65b0d4aed2",
+    "title": "Rox goes “all in” on OpenAI",
+    "link": "https://openai.com/index/rox",
+    "summary": "By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller.",
+    "published": "Tue, 19 Nov 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:481d"
+    ]
+  },
+  {
+    "id": "bd1e840f818ebb9110200937b93546992461efdb3f3877dba8db8c149b8cc73d",
+    "title": "Partnership with American Journalism Project to support local news",
+    "link": "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news",
+    "summary": "A new $5+ million partnership aims to explore ways the development of artificial intelligence (AI) can support a thriving, innovative local news field, and ensure local news organizations shape the future of this emerging technology.",
+    "published": "Tue, 18 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:971d"
+    ]
+  },
+  {
+    "id": "3189fb405759ff5c18cb249b2b4aeb955950c837e57e011ece280f072fdc2521",
+    "title": "Teen safety, freedom, and privacy",
+    "link": "https://openai.com/index/teen-safety-freedom-and-privacy",
+    "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+    "published": "Tue, 16 Sep 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:180d"
+    ]
+  },
+  {
+    "id": "81fb3dde180a95226d0fe897a95a1ff5320f60b58c2abb950d120b96df555d4e",
+    "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+    "link": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
+    "summary": "We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as we continue this work.",
+    "published": "Tue, 16 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:789d"
+    ]
+  },
+  {
+    "id": "9511d544eeb504c252341c826cf0319c7a03b4d3bbb8cee72fc18e13cca65d70",
+    "title": "Evaluating AI’s ability to perform scientific research tasks",
+    "link": "https://openai.com/index/frontierscience",
+    "summary": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+    "published": "Tue, 16 Dec 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:89d"
+    ]
+  },
+  {
+    "id": "c67cf26c53f8806df9b3c4ca47ea43a65d536de7de6377f62b29c1a18e0ed05d",
+    "title": "Measuring AI’s capability to accelerate biological research",
+    "link": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+    "summary": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+    "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:89d"
+    ]
+  },
+  {
+    "id": "6f57f83c8fe2576189a3404b03c234943ab16fd5d35d10a24953ef7fdb192e05",
+    "title": "Evaluating fairness in ChatGPT",
+    "link": "https://openai.com/index/evaluating-fairness-in-chatgpt",
+    "summary": "We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.",
+    "published": "Tue, 15 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:516d"
+    ]
+  },
+  {
+    "id": "47645de2cdbc37de8937aa5738b98a75e4975195fa683d0369d9ef93259b7575",
+    "title": "Expert Council on Well-Being and AI",
+    "link": "https://openai.com/index/expert-council-on-well-being-and-ai",
+    "summary": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+    "published": "Tue, 14 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:152d"
+    ]
+  },
+  {
+    "id": "c75b5cd219f06584e6294482b9d95a71a6e752e6a3181d160b9868f8a55c4c28",
+    "title": "Argentina’s AI opportunity",
+    "link": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+    "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
+    "published": "Tue, 14 Oct 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:152d"
+    ]
   }
 ]
