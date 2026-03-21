@@ -2248,5 +2248,255 @@
       "authority:9",
       "old:381d"
     ]
+  },
+  {
+    "id": "202bbe2a74ac8ebf64dd9f88dae5323f5d99aff7ebed1fd857cf6032d059045a",
+    "title": "Introducing GPT-4.5",
+    "link": "https://openai.com/index/introducing-gpt-4-5",
+    "summary": "We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training.",
+    "published": "Thu, 27 Feb 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:381d"
+    ]
+  },
+  {
+    "id": "cf0c0e97775444b847f6cc3a815f91c8a552bef5099a76c96d8bf0ffd0f4c800",
+    "title": "OpenAI’s Approach to Frontier Risk",
+    "link": "https://openai.com/global-affairs/our-approach-to-frontier-risk",
+    "summary": "An Update for the UK AI Safety Summit",
+    "published": "Thu, 26 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:871d"
+    ]
+  },
+  {
+    "id": "1ae318db9c314311bc04ac46c152fdb116e44369da815a7ff1d9e85e23fb9e47",
+    "title": "Frontier risk and preparedness",
+    "link": "https://openai.com/index/frontier-risk-and-preparedness",
+    "summary": "To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge.",
+    "published": "Thu, 26 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:871d"
+    ]
+  },
+  {
+    "id": "bdaf757ebe2782993ae23da4ff0cbb2b8eb2524903210fc09da877e0be4990f5",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "published": "Thu, 26 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:17d"
+    ]
+  },
+  {
+    "id": "58fb06856d88e3b7d949ec7abac816df369b5e1f1345bc9c6c47f68094048dc8",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "link": "https://openai.com/index/figma-partnership",
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "published": "Thu, 26 Feb 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:17d"
+    ]
+  },
+  {
+    "id": "15d658286224a25a91f1e7d90898e647bfc5f68a313789aea87d9fee30d84c9c",
+    "title": "Consensus accelerates research with GPT-5 and Responses API",
+    "link": "https://openai.com/index/consensus",
+    "summary": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
+    "published": "Thu, 23 Oct 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:143d"
+    ]
+  },
+  {
+    "id": "0d18de8dee54c4790db61cdd83b58b441d68211328ca3c7ce416c082a079b4d1",
+    "title": "Operator System Card",
+    "link": "https://openai.com/index/operator-system-card",
+    "summary": "Drawing from OpenAI’s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we’ve implemented to protect against prompt engineering and jailbreaks, protect privacy and security, as well as details our external red teaming efforts, safety evaluations, and ongoing work to further refine these safeguards.",
+    "published": "Thu, 23 Jan 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:416d"
+    ]
+  },
+  {
+    "id": "6a80abaa27ea60830b91246f4799487a5a037d8cd8583f022f38dc26becd2671",
+    "title": "Introducing Operator",
+    "link": "https://openai.com/index/introducing-operator",
+    "summary": "A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.",
+    "published": "Thu, 23 Jan 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:416d"
+    ]
+  },
+  {
+    "id": "a47800ab66d6b339ab8e8e99227d464d09e6856c03169cc4db4981111be482fe",
+    "title": "Safety Gym",
+    "link": "https://openai.com/index/safety-gym",
+    "summary": "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while training.",
+    "published": "Thu, 21 Nov 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:2306d"
+    ]
+  },
+  {
+    "id": "311d466a4f8ddf66f41104dcf1c0cfe860152f73602f9ad7bf838d2f94f0f4f3",
+    "title": "Implicit generation and generalization methods for energy-based models",
+    "link": "https://openai.com/index/energy-based-models",
+    "summary": "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with GANs at low temperatures, while also having mode coverage guarantees of likelihood-based models. We hope these findings stimulate further research into this promising class of models.",
+    "published": "Thu, 21 Mar 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2551d"
+    ]
   }
 ]
