@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-21 07:29 UTC_
+_Actualizado: 2026-03-22 07:34 UTC_
 
 ## Selección priorizada
 
-### 1. Implicit generation and generalization methods for energy-based models
+### 1. Solving complex problems with OpenAI o1 models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Oct 2024 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:514d
+- **Enlace:** https://openai.com/business/solving-complex-problems-with-openai-o1-models
+
+In this video, we share how the o1 reasoning models can help in domains like coding, strategy, and research.
+
+---
+
+### 2. Machine Learning Unconference
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Aug 2016 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3496d
+- **Enlace:** https://openai.com/index/machine-learning-unconference
+
+The latest information about the Unconference is now available at the Unconference wiki, which will be periodically updated with more information for attendees.
+
+---
+
+### 3. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/gpt-5-2-codex-system-card
+
+This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.
+
+---
+
+### 4. Updating our Model Spec with teen protections
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/updating-model-spec-with-teen-protections
+
+OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.
+
+---
+
+### 5. Deepening our collaboration with the U.S. Department of Energy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/us-department-of-energy-collaboration
+
+OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.
+
+---
+
+### 6. OpenAI’s API now available with no waitlist
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Nov 2021 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:1578d
+- **Enlace:** https://openai.com/index/api-no-waitlist
+
+Wider availability made possible by safety progress.
+
+---
+
+### 7. Empowering defenders through our Cybersecurity Grant Program
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jun 2024 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:633d
+- **Enlace:** https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program
+
+Highlighting innovative research and AI integration in cybersecurity
+
+---
+
+### 8. Personalizing travel at scale with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Mar 2025 23:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:359d
+- **Enlace:** https://openai.com/index/booking-com
+
+By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences.
+
+---
+
+### 9. Early experiments in accelerating science with GPT-5
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Nov 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:115d
+- **Enlace:** https://openai.com/index/accelerating-science-gpt-5
+
+OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.
+
+---
+
+### 10. Scaling domain expertise in complex, regulated domains
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Aug 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:206d
+- **Enlace:** https://openai.com/index/blue-j
+
+Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.
+
+---
+
+### 11. Implicit generation and generalization methods for energy-based models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’ve made progress towards stable and scalable training of energy-based mode
 
 ---
 
-### 2. Safety Gym
+### 12. Safety Gym
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’re releasing Safety Gym, a suite of environments and tools for measuring pr
 
 ---
 
-### 3. Introducing Operator
+### 13. Introducing Operator
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ A research preview of an agent that can use its own browser to perform tasks for
 
 ---
 
-### 4. Operator System Card
+### 14. Operator System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Drawing from OpenAI’s established safety frameworks, this document highlights 
 
 ---
 
-### 5. Consensus accelerates research with GPT-5 and Responses API
+### 15. Consensus accelerates research with GPT-5 and Responses API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent researc
 
 ---
 
-### 6. OpenAI Codex and Figma launch seamless code-to-design experience
+### 16. OpenAI Codex and Figma launch seamless code-to-design experience
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI and Figma launch a new Codex integration that connects code and design, e
 
 ---
 
-### 7. Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+### 17. Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new
 
 ---
 
-### 8. Frontier risk and preparedness
+### 18. Frontier risk and preparedness
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ To support the safety of highly-capable AI systems, we are developing our approa
 
 ---
 
-### 9. OpenAI’s Approach to Frontier Risk
+### 19. OpenAI’s Approach to Frontier Risk
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ An Update for the UK AI Safety Summit
 
 ---
 
-### 10. Introducing GPT-4.5
+### 20. Introducing GPT-4.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ An Update for the UK AI Safety Summit
 - **Enlace:** https://openai.com/index/introducing-gpt-4-5
 
 We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training.
-
----
-
-### 11. OpenAI GPT-4.5 System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Feb 2025 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:381d
-- **Enlace:** https://openai.com/index/gpt-4-5-system-card
-
-We’re releasing a research preview of OpenAI GPT‑4.5, our largest and most knowledgeable model yet.
-
----
-
-### 12. Aligning language models to follow instructions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Jan 2022 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:1508d
-- **Enlace:** https://openai.com/index/instruction-following
-
-We’ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment research. These InstructGPT models, which are trained with humans in the loop, are now deployed as the default language models on our API.
-
----
-
-### 13. Supporting nonprofit and community innovation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 Aug 2025 05:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:199d
-- **Enlace:** https://openai.com/index/supporting-nonprofit-and-community-innovation
-
-OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.
-
----
-
-### 14. Introducing Aardvark: OpenAI’s agentic security researcher
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Oct 2025 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:136d
-- **Enlace:** https://openai.com/index/introducing-aardvark
-
-OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.
-
----
-
-### 15. Estimating worst case frontier risks of open weight LLMs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 Aug 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:222d
-- **Enlace:** https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms
-
-In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.
-
----
-
-### 16. Shipping smarter agents with every new model
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Sep 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:187d
-- **Enlace:** https://openai.com/index/safetykit
-
-Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .
-
----
-
-### 17. OpenAI’s letter to Governor Newsom on harmonized regulation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 Aug 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,regulation, preferred_domain, authority:9, old:215d
-- **Enlace:** https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation
-
-We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.
-
----
-
-### 18. Learning from human preferences
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 13 Jun 2017 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:3197d
-- **Enlace:** https://openai.com/index/learning-from-human-preferences
-
-One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind’s safety team, we’ve developed an algorithm which can infer what humans want by being told which of two proposed behaviors is better.
-
----
-
-### 19. OpenAI Microscope
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Apr 2020 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2161d
-- **Enlace:** https://openai.com/index/microscope
-
-We’re introducing OpenAI Microscope, a collection of visualizations of every significant layer and neuron of eight vision “model organisms” which are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks, and we hope it will help the research community as we move towards understanding these complicated systems.
-
----
-
-### 20. How we monitor internal coding agents for misalignment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Mar 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
-
-How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.
 
 ---
