@@ -2748,5 +2748,255 @@
       "authority:9",
       "old:514d"
     ]
+  },
+  {
+    "id": "022f63b0bd864871f9ca4f4aa1f7ec604fdcb10ee4332fb9a21a56989f0e8040",
+    "title": "ChatGPT agent System Card",
+    "link": "https://openai.com/index/chatgpt-agent-system-card",
+    "summary": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
+    "published": "Thu, 17 Jul 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "812b30272749987637c8115c3a5a35baae1254a533520a6c91afa42a89948bb1",
+    "title": "Learning to communicate",
+    "link": "https://openai.com/index/learning-to-communicate",
+    "summary": "In this post we’ll outline new OpenAI research in which agents develop their own language.",
+    "published": "Thu, 16 Mar 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:3286d"
+    ]
+  },
+  {
+    "id": "e8322280e72c8c535b9cf733f728115bb77a87b41bd3f62afcbf9e22fee82c30",
+    "title": "Report from the OpenAI hackathon",
+    "link": "https://openai.com/index/hackathon-follow-up",
+    "summary": "On March 3rd, we hosted our first hackathon with 100 members of the artificial intelligence community.",
+    "published": "Thu, 15 Mar 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2922d"
+    ]
+  },
+  {
+    "id": "3ca7fe8f02d67cb73505e9b9f162a1ead3a42349ab2caff149264822f9efc2a5",
+    "title": "Investing in Merge Labs",
+    "link": "https://openai.com/index/investing-in-merge-labs",
+    "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+    "published": "Thu, 15 Jan 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:59d"
+    ]
+  },
+  {
+    "id": "140db6e743c0beae94354eaf3255b17df102ad6fb96b0befd4108e326269aefe",
+    "title": "Interpretable machine learning through teaching",
+    "link": "https://openai.com/index/interpretable-machine-learning-through-teaching",
+    "summary": "We’ve designed a method that encourages AIs to teach each other with examples that also make sense to humans. Our approach automatically selects the most informative examples to teach a concept—for instance, the best images to describe the concept of dogs—and experimentally we found our approach to be effective at teaching both AIs",
+    "published": "Thu, 15 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2950d"
+    ]
+  },
+  {
+    "id": "aa842c34589ceec2dac02b97a4131e00958924b4a17b17081a595ababc80eb35",
+    "title": "Report from the self-organizing conference",
+    "link": "https://openai.com/index/report-from-the-self-organizing-conference",
+    "summary": "Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning.",
+    "published": "Thu, 13 Oct 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3440d"
+    ]
+  },
+  {
+    "id": "0be7941a5c94f851bb3ecf11212ccf8e2872b17481f32824c9e7db3521edf366",
+    "title": "OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors",
+    "link": "https://openai.com/index/openai-appoints-retired-us-army-general",
+    "summary": "Nakasone brings cybersecurity experience to growing Board of Directors; will join the Board’s Safety and Security Committee",
+    "published": "Thu, 13 Jun 2024 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:640d"
+    ]
+  },
+  {
+    "id": "33e713493ddbf3ec77520be3b5a95d14160d6843581b5c2fe4d276dab764fb5d",
+    "title": "Using OpenAI o1 for financial analysis",
+    "link": "https://openai.com/index/rogo",
+    "summary": "Rogo scales AI-driven financial research with OpenAI o1",
+    "published": "Thu, 13 Feb 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:395d"
+    ]
+  },
+  {
+    "id": "869df81395009de86560d98903d6aa3bb34042389530c2736307763ae5df14fd",
+    "title": "Learning to reason with LLMs",
+    "link": "https://openai.com/index/learning-to-reason-with-llms",
+    "summary": "We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers—it can produce a long internal chain of thought before responding to the user.",
+    "published": "Thu, 12 Sep 2024 10:02:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "e119cd0e32723d8b7d38c7da1a171f5586028123aab60283ef37c2e9751c0c20",
+    "title": "A joint statement from OpenAI and Microsoft",
+    "link": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+    "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+    "published": "Thu, 11 Sep 2025 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:185d"
+    ]
   }
 ]

@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-22 07:34 UTC_
+_Actualizado: 2026-03-23 07:59 UTC_
 
 ## Selección priorizada
 
-### 1. Solving complex problems with OpenAI o1 models
+### 1. A joint statement from OpenAI and Microsoft
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 11 Sep 2025 14:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:185d
+- **Enlace:** https://openai.com/index/joint-statement-from-openai-and-microsoft
+
+OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.
+
+---
+
+### 2. Learning to reason with LLMs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 10:02:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/learning-to-reason-with-llms
+
+We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers—it can produce a long internal chain of thought before responding to the user.
+
+---
+
+### 3. Using OpenAI o1 for financial analysis
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Feb 2025 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:395d
+- **Enlace:** https://openai.com/index/rogo
+
+Rogo scales AI-driven financial research with OpenAI o1
+
+---
+
+### 4. OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Jun 2024 14:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:640d
+- **Enlace:** https://openai.com/index/openai-appoints-retired-us-army-general
+
+Nakasone brings cybersecurity experience to growing Board of Directors; will join the Board’s Safety and Security Committee
+
+---
+
+### 5. Report from the self-organizing conference
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Oct 2016 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3440d
+- **Enlace:** https://openai.com/index/report-from-the-self-organizing-conference
+
+Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning.
+
+---
+
+### 6. Interpretable machine learning through teaching
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Feb 2018 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:2950d
+- **Enlace:** https://openai.com/index/interpretable-machine-learning-through-teaching
+
+We’ve designed a method that encourages AIs to teach each other with examples that also make sense to humans. Our approach automatically selects the most informative examples to teach a concept—for instance, the best images to describe the concept of dogs—and experimentally we found our approach to be effective at teaching both AIs
+
+---
+
+### 7. Investing in Merge Labs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Jan 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:59d
+- **Enlace:** https://openai.com/index/investing-in-merge-labs
+
+OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.
+
+---
+
+### 8. Report from the OpenAI hackathon
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Mar 2018 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:2922d
+- **Enlace:** https://openai.com/index/hackathon-follow-up
+
+On March 3rd, we hosted our first hackathon with 100 members of the artificial intelligence community.
+
+---
+
+### 9. Learning to communicate
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 Mar 2017 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:3286d
+- **Enlace:** https://openai.com/index/learning-to-communicate
+
+In this post we’ll outline new OpenAI research in which agents develop their own language.
+
+---
+
+### 10. ChatGPT agent System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Jul 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:241d
+- **Enlace:** https://openai.com/index/chatgpt-agent-system-card
+
+ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.
+
+---
+
+### 11. Solving complex problems with OpenAI o1 models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ In this video, we share how the o1 reasoning models can help in domains like cod
 
 ---
 
-### 2. Machine Learning Unconference
+### 12. Machine Learning Unconference
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ The latest information about the Unconference is now available at the Unconferen
 
 ---
 
-### 3. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+### 13. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ This system card outlines the comprehensive safety measures implemented for GPT�
 
 ---
 
-### 4. Updating our Model Spec with teen protections
+### 14. Updating our Model Spec with teen protections
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI is updating its Model Spec with new Under-18 Principles that define how C
 
 ---
 
-### 5. Deepening our collaboration with the U.S. Department of Energy
+### 15. Deepening our collaboration with the U.S. Department of Energy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI and the U.S. Department of Energy have signed a memorandum of understandi
 
 ---
 
-### 6. OpenAI’s API now available with no waitlist
+### 16. OpenAI’s API now available with no waitlist
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Wider availability made possible by safety progress.
 
 ---
 
-### 7. Empowering defenders through our Cybersecurity Grant Program
+### 17. Empowering defenders through our Cybersecurity Grant Program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Highlighting innovative research and AI integration in cybersecurity
 
 ---
 
-### 8. Personalizing travel at scale with OpenAI
+### 18. Personalizing travel at scale with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smart
 
 ---
 
-### 9. Early experiments in accelerating science with GPT-5
+### 19. Early experiments in accelerating science with GPT-5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI introduces the first research cases showing how GPT-5 accelerates scienti
 
 ---
 
-### 10. Scaling domain expertise in complex, regulated domains
+### 20. Scaling domain expertise in complex, regulated domains
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI introduces the first research cases showing how GPT-5 accelerates scienti
 - **Enlace:** https://openai.com/index/blue-j
 
 Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.
-
----
-
-### 11. Implicit generation and generalization methods for energy-based models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Mar 2019 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2551d
-- **Enlace:** https://openai.com/index/energy-based-models
-
-We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with GANs at low temperatures, while also having mode coverage guarantees of likelihood-based models. We hope these findings stimulate further research into this promising class of models.
-
----
-
-### 12. Safety Gym
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Nov 2019 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:2306d
-- **Enlace:** https://openai.com/index/safety-gym
-
-We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while training.
-
----
-
-### 13. Introducing Operator
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Jan 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:416d
-- **Enlace:** https://openai.com/index/introducing-operator
-
-A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.
-
----
-
-### 14. Operator System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Jan 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:416d
-- **Enlace:** https://openai.com/index/operator-system-card
-
-Drawing from OpenAI’s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we’ve implemented to protect against prompt engineering and jailbreaks, protect privacy and security, as well as details our external red teaming efforts, safety evaluations, and ongoing work to further refine these safeguards.
-
----
-
-### 15. Consensus accelerates research with GPT-5 and Responses API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Oct 2025 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:143d
-- **Enlace:** https://openai.com/index/consensus
-
-Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.
-
----
-
-### 16. OpenAI Codex and Figma launch seamless code-to-design experience
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Feb 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:17d
-- **Enlace:** https://openai.com/index/figma-partnership
-
-OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.
-
----
-
-### 17. Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Feb 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:17d
-- **Enlace:** https://openai.com/index/pacific-northwest-national-laboratory
-
-OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.
-
----
-
-### 18. Frontier risk and preparedness
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Oct 2023 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:871d
-- **Enlace:** https://openai.com/index/frontier-risk-and-preparedness
-
-To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge.
-
----
-
-### 19. OpenAI’s Approach to Frontier Risk
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Oct 2023 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:871d
-- **Enlace:** https://openai.com/global-affairs/our-approach-to-frontier-risk
-
-An Update for the UK AI Safety Summit
-
----
-
-### 20. Introducing GPT-4.5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Feb 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:381d
-- **Enlace:** https://openai.com/index/introducing-gpt-4-5
-
-We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training.
 
 ---
