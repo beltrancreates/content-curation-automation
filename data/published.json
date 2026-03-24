@@ -2998,5 +2998,255 @@
       "authority:9",
       "old:185d"
     ]
+  },
+  {
+    "id": "04e9c29b7e2044804f376512a28b9c3bb9dab2a3fb08d1038e6045918f1e9d83",
+    "title": "Advancing science and math with GPT-5.2",
+    "link": "https://openai.com/index/gpt-5-2-for-science-and-math",
+    "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+    "published": "Thu, 11 Dec 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:94d"
+    ]
+  },
+  {
+    "id": "0023ca887080ae7d3ed9f3bc206ae61674779db201209df5193eec7ed2caad55",
+    "title": "Ten years",
+    "link": "https://openai.com/index/ten-years",
+    "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+    "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:94d"
+    ]
+  },
+  {
+    "id": "c7b3d32f0bed7cc69fcc168587ba9f34a646de75ccdbf122fdf1ea3aaced22d3",
+    "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "link": "https://openai.com/index/mle-bench",
+    "summary": "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.",
+    "published": "Thu, 10 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:521d"
+    ]
+  },
+  {
+    "id": "2c39bc45d5c9fc5fa5d7467787070e62abd40fec32f2fe9184ec7bbe62fb6c92",
+    "title": "Improving language model behavior by training on a curated dataset",
+    "link": "https://openai.com/index/improving-language-model-behavior",
+    "summary": "Our latest research finds we can improve language model behavior with respect to specific behavioral values by fine-tuning on a small, curated dataset.",
+    "published": "Thu, 10 Jun 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1739d"
+    ]
+  },
+  {
+    "id": "6bbfb3cf227584ece905a509cc365e03f9944024bb67f3e4626434487fa99c8a",
+    "title": "Defining and evaluating political bias in LLMs",
+    "link": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+    "summary": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+    "published": "Thu, 09 Oct 2025 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:157d"
+    ]
+  },
+  {
+    "id": "461c03b9f0ccd3414b48163691e1f9aa004fef7bf655fea48e53898cf5cfa7f2",
+    "title": "Techniques for training large neural networks",
+    "link": "https://openai.com/index/techniques-for-training-large-neural-networks",
+    "summary": "Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation.",
+    "published": "Thu, 09 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1375d"
+    ]
+  },
+  {
+    "id": "df84ae0a2798971ee80005ccc8fcd1021962f5f174a2f8d48fa434cf2e5123e8",
+    "title": "OpenAI Scholars 2020: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2020-final-projects",
+    "summary": "Our third class of OpenAI Scholars presented their final projects at virtual Demo Day, showcasing their research results from over the past five months.",
+    "published": "Thu, 09 Jul 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2075d"
+    ]
+  },
+  {
+    "id": "f5964703a36e8c29c17641be8de9ca3fa9e3e2fd43878fc821b8e62d63ba7a71",
+    "title": "Learning to cooperate, compete, and communicate",
+    "link": "https://openai.com/index/learning-to-cooperate-compete-and-communicate",
+    "summary": "Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum—the difficulty of the environment is determined by the skill of your competitors (and if you’re competing against clones of yourself, the environment exactly matches your skill level). Second, a multiagent environment has no stable equilibrium: no matter how smart an agent is, there’s always pressure to get smarter. These environments have a very different feel from traditional environments, and it’ll take a lot more research before we become good at them.",
+    "published": "Thu, 08 Jun 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:3202d"
+    ]
+  },
+  {
+    "id": "3570cc4bf441a5bcc59ce616da6ccc8a73f4fc3c2fedcd4b4e3cbada29598570",
+    "title": "Zico Kolter Joins OpenAI’s Board of Directors",
+    "link": "https://openai.com/index/zico-kolter-joins-openais-board-of-directors",
+    "summary": "Zico Kolter Joins OpenAI’s Board of Directors\nWe’re strengthening our governance with expertise in AI safety and alignment. Zico will also join the Safety & Security Committee",
+    "published": "Thu, 08 Aug 2024 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:584d"
+    ]
+  },
+  {
+    "id": "84d27c18c0898092971bcab08cb7ba7855877ee7a2bcbb1a2a57590cade9ec90",
+    "title": "From hard refusals to safe-completions: toward output-centric safety training",
+    "link": "https://openai.com/index/gpt-5-safe-completions",
+    "summary": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
   }
 ]
