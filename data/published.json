@@ -3248,5 +3248,255 @@
       "authority:9",
       "old:220d"
     ]
+  },
+  {
+    "id": "c277a5744b72a30ac0f655f4e5a07eaa7ce005f6002fe10f78fa0e024c094c1d",
+    "title": "Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "72cc97aa73d2b3bc9020aadc256932f4c6864df9660795df1af4fe5fcc853fda",
+    "title": "AI progress and recommendations",
+    "link": "https://openai.com/index/ai-progress-and-recommendations",
+    "summary": "AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.",
+    "published": "Thu, 06 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:129d"
+    ]
+  },
+  {
+    "id": "bb40f95adb9040fea586471965535433a9e185f9933947672abd9b8096519654",
+    "title": "Introducing the Teen Safety Blueprint",
+    "link": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+    "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "published": "Thu, 06 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:129d"
+    ]
+  },
+  {
+    "id": "3eed08c475162843a9cf299700e011e14d122b6aef2e19d99cb8a7d5d4615f6c",
+    "title": "Introducing GPT-5.4",
+    "link": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "73bf861ae9376fde79b916ae7c6496d9d57cd5fdfcb2b68c20205c6b70eef549",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "link": "https://openai.com/index/ai-education-opportunity",
+    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "published": "Thu, 05 Mar 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "26bed546a34ea7843b27ae52b1b94dc5437c90989505db7cd9d64914a76c340c",
+    "title": "Introducing the Adoption news channel",
+    "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "6f5e6d4a5a5de4acb02be036981cf9dda6316505cb1e0266b57db8af77ac7343",
+    "title": "The five AI value models driving business reinvention",
+    "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "851c568f70b5a698f22993d75c0335ad46bbe9c074bd6e922505146d74fc7db9",
+    "title": "Disrupting malicious uses of AI: June 2025",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025",
+    "summary": "In our June 2025 update, we outline how we’re disrupting malicious uses of AI—through safety tools that detect and counter abuse, support democratic values, and promote responsible AI deployment for the benefit of all.",
+    "published": "Thu, 05 Jun 2025 02:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:283d"
+    ]
+  },
+  {
+    "id": "ea1bfa5525ca72baae99483417ed644c8a68e73accc605bc723337414673f998",
+    "title": "OpenAI o1 System Card",
+    "link": "https://openai.com/index/openai-o1-system-card",
+    "summary": "This report outlines the safety work carried out prior to releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk evaluations according to our Preparedness Framework.",
+    "published": "Thu, 05 Dec 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:465d"
+    ]
+  },
+  {
+    "id": "9210aa48b930251ab62ca0ca6c5b784a6ad1899e0e2030467f80cf561e1ee12b",
+    "title": "Deep double descent",
+    "link": "https://openai.com/index/deep-double-descent",
+    "summary": "We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don’t yet fully understand why it happens, and view further study of this phenomenon as an important research direction.",
+    "published": "Thu, 05 Dec 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2292d"
+    ]
   }
 ]

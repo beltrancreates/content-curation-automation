@@ -825,6 +825,31 @@
     ]
   },
   {
+    "id": "c277a5744b72a30ac0f655f4e5a07eaa7ce005f6002fe10f78fa0e024c094c1d",
+    "title": "Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -4747,6 +4772,31 @@
       "preferred_domain",
       "authority:9",
       "recent:1d"
+    ]
+  },
+  {
+    "id": "90fdf122f2921c29aca02552091b48fd28a193ae87c2394cd5adc3fc1d829975",
+    "title": "Update on the OpenAI Foundation",
+    "link": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
     ]
   },
   {
@@ -17325,6 +17375,31 @@
     ]
   },
   {
+    "id": "d37ed4865532fe92f6eeb9754b06e1c9e59dd3bf7182ff233d5f0a0258ba99ca",
+    "title": "Powering product discovery in ChatGPT",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "6e29bcfe290e6fa6e408bb70bd5ff440dabe1cd59eaa49113919aea0a0f8ea64",
     "title": "Reinforcement learning with prediction-based rewards",
     "link": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
@@ -22385,6 +22460,29 @@
     ]
   },
   {
+    "id": "20646f791b93d753f44aab9157a7bb79034b89dcaeb35f1bce05e8167caeca73",
+    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+    "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;",
+    "published": "Tue, 24 Mar 2026 12:28:27 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -22810,6 +22908,52 @@
     "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&#8230;",
     "published": "Mon, 23 Mar 2026 16:31:20 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ee4a5ce48ea96cdb1e9fb027e542b0c0a9af003c64951d378b10ec98c98977c4",
+    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+    "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only&#8230;",
+    "published": "Tue, 24 Mar 2026 18:17:13 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c87e37366e6fa0bd3bb11120473680b5f27bfabd46cd62534cfbc876cb871b8d",
+    "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+    "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+    "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&#8230;",
+    "published": "Tue, 24 Mar 2026 16:43:36 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

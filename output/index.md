@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-24 07:51 UTC_
+_Actualizado: 2026-03-25 07:50 UTC_
 
 ## Selección priorizada
 
-### 1. From hard refusals to safe-completions: toward output-centric safety training
+### 1. Deep double descent
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Dec 2019 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2292d
+- **Enlace:** https://openai.com/index/deep-double-descent
+
+We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don’t yet fully understand why it happens, and view further study of this phenomenon as an important research direction.
+
+---
+
+### 2. OpenAI o1 System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Dec 2024 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:465d
+- **Enlace:** https://openai.com/index/openai-o1-system-card
+
+This report outlines the safety work carried out prior to releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk evaluations according to our Preparedness Framework.
+
+---
+
+### 3. Disrupting malicious uses of AI: June 2025
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Jun 2025 02:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:283d
+- **Enlace:** https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025
+
+In our June 2025 update, we outline how we’re disrupting malicious uses of AI—through safety tools that detect and counter abuse, support democratic values, and promote responsible AI deployment for the benefit of all.
+
+---
+
+### 4. The five AI value models driving business reinvention
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
+- **Enlace:** https://openai.com/index/the-five-ai-value-models-driving-business-reinvention
+
+Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.
+
+---
+
+### 5. Introducing the Adoption news channel
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
+- **Enlace:** https://openai.com/index/introducing-the-adoption-news-channel
+
+Practical insights and frameworks to turn AI progress into business advantage
+
+---
+
+### 6. Ensuring AI use in education leads to opportunity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Mar 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
+- **Enlace:** https://openai.com/index/ai-education-opportunity
+
+OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.
+
+---
+
+### 7. Introducing GPT-5.4
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Mar 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
+- **Enlace:** https://openai.com/index/introducing-gpt-5-4
+
+Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
+
+---
+
+### 8. Introducing the Teen Safety Blueprint
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 06 Nov 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:129d
+- **Enlace:** https://openai.com/index/introducing-the-teen-safety-blueprint
+
+Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.
+
+---
+
+### 9. AI progress and recommendations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 06 Nov 2025 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:129d
+- **Enlace:** https://openai.com/index/ai-progress-and-recommendations
+
+AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.
+
+---
+
+### 10. Helping developers build safer AI experiences for teens
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Mar 2026 11:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
+
+OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.
+
+---
+
+### 11. From hard refusals to safe-completions: toward output-centric safety training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Discover how OpenAI's new safe-completions approach in GPT-5 improves both safet
 
 ---
 
-### 2. Zico Kolter Joins OpenAI’s Board of Directors
+### 12. Zico Kolter Joins OpenAI’s Board of Directors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -31,7 +161,7 @@ We’re strengthening our governance with expertise in AI safety and alignment. 
 
 ---
 
-### 3. Learning to cooperate, compete, and communicate
+### 13. Learning to cooperate, compete, and communicate
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -44,7 +174,7 @@ Multiagent environments where agents compete for resources are stepping stones o
 
 ---
 
-### 4. OpenAI Scholars 2020: Final projects
+### 14. OpenAI Scholars 2020: Final projects
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -57,7 +187,7 @@ Our third class of OpenAI Scholars presented their final projects at virtual Dem
 
 ---
 
-### 5. Techniques for training large neural networks
+### 15. Techniques for training large neural networks
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -70,7 +200,7 @@ Large neural networks are at the core of many recent advances in AI, but trainin
 
 ---
 
-### 6. Defining and evaluating political bias in LLMs
+### 16. Defining and evaluating political bias in LLMs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -83,7 +213,7 @@ Learn how OpenAI evaluates political bias in ChatGPT through new real-world test
 
 ---
 
-### 7. Improving language model behavior by training on a curated dataset
+### 17. Improving language model behavior by training on a curated dataset
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -96,7 +226,7 @@ Our latest research finds we can improve language model behavior with respect to
 
 ---
 
-### 8. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering
+### 18. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -109,7 +239,7 @@ We introduce MLE-bench, a benchmark for measuring how well AI agents perform at 
 
 ---
 
-### 9. Ten years
+### 19. Ten years
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -122,7 +252,7 @@ OpenAI reflects on ten years of progress, from early research breakthroughs to w
 
 ---
 
-### 10. Advancing science and math with GPT-5.2
+### 20. Advancing science and math with GPT-5.2
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -132,135 +262,5 @@ OpenAI reflects on ten years of progress, from early research breakthroughs to w
 - **Enlace:** https://openai.com/index/gpt-5-2-for-science-and-math
 
 GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.
-
----
-
-### 11. A joint statement from OpenAI and Microsoft
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 11 Sep 2025 14:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:185d
-- **Enlace:** https://openai.com/index/joint-statement-from-openai-and-microsoft
-
-OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.
-
----
-
-### 12. Learning to reason with LLMs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 10:02:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/learning-to-reason-with-llms
-
-We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers—it can produce a long internal chain of thought before responding to the user.
-
----
-
-### 13. Using OpenAI o1 for financial analysis
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Feb 2025 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:395d
-- **Enlace:** https://openai.com/index/rogo
-
-Rogo scales AI-driven financial research with OpenAI o1
-
----
-
-### 14. OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Jun 2024 14:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:640d
-- **Enlace:** https://openai.com/index/openai-appoints-retired-us-army-general
-
-Nakasone brings cybersecurity experience to growing Board of Directors; will join the Board’s Safety and Security Committee
-
----
-
-### 15. Report from the self-organizing conference
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Oct 2016 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3440d
-- **Enlace:** https://openai.com/index/report-from-the-self-organizing-conference
-
-Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning.
-
----
-
-### 16. Interpretable machine learning through teaching
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Feb 2018 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:2950d
-- **Enlace:** https://openai.com/index/interpretable-machine-learning-through-teaching
-
-We’ve designed a method that encourages AIs to teach each other with examples that also make sense to humans. Our approach automatically selects the most informative examples to teach a concept—for instance, the best images to describe the concept of dogs—and experimentally we found our approach to be effective at teaching both AIs
-
----
-
-### 17. Investing in Merge Labs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Jan 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:59d
-- **Enlace:** https://openai.com/index/investing-in-merge-labs
-
-OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.
-
----
-
-### 18. Report from the OpenAI hackathon
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Mar 2018 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:2922d
-- **Enlace:** https://openai.com/index/hackathon-follow-up
-
-On March 3rd, we hosted our first hackathon with 100 members of the artificial intelligence community.
-
----
-
-### 19. Learning to communicate
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Mar 2017 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:3286d
-- **Enlace:** https://openai.com/index/learning-to-communicate
-
-In this post we’ll outline new OpenAI research in which agents develop their own language.
-
----
-
-### 20. ChatGPT agent System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 17 Jul 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:241d
-- **Enlace:** https://openai.com/index/chatgpt-agent-system-card
-
-ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.
 
 ---
