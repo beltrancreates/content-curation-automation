@@ -3498,5 +3498,255 @@
       "authority:9",
       "old:2292d"
     ]
+  },
+  {
+    "id": "09717866ef4332d58e55874d87c5e4d6288cd33cb53f03db8121177b826fa650",
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "d449f839e8382555207bd4721b78b61fc5b01df74dded16b9401646f16186884",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "0e1a73caaddd8c250a02d837735d7c9cbac7331e9bea1cc5e190c00ccf47ea92",
+    "title": "AI safety via debate",
+    "link": "https://openai.com/index/debate",
+    "summary": "We’re proposing an AI safety technique which trains agents to debate topics with one another, using a human to judge who wins.",
+    "published": "Thu, 03 May 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:2873d"
+    ]
+  },
+  {
+    "id": "83acdb16a2f9039d2a94332e618db692d58b682a13557f32db16ae3ea73fb253",
+    "title": "Economic impacts research at OpenAI",
+    "link": "https://openai.com/index/economic-impacts",
+    "summary": "Call for expressions of interest to study the economic impacts of large language models.",
+    "published": "Thu, 03 Mar 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1473d"
+    ]
+  },
+  {
+    "id": "9453671bcfa72612bf07d75c5104b8c682bbfbab984fab2f2d632d4d984033c4",
+    "title": "Lessons learned on language model safety and misuse",
+    "link": "https://openai.com/index/language-model-safety-and-misuse",
+    "summary": "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed models.",
+    "published": "Thu, 03 Mar 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1473d"
+    ]
+  },
+  {
+    "id": "97a6c5f87eb13cbe8dfeb817df2211e314a80ccd746bce02171eb1cbd1c24d84",
+    "title": "Introducing the Intelligence Age",
+    "link": "https://openai.com/global-affairs/introducing-the-intelligence-age",
+    "summary": "We aired our first-ever television ad during the Super Bowl to pique people’s curiosity and help us all realize how AI can open up new possibilities for us, create more fulfillment in our lives, and make us more productive, just as all the tools that came before AI did for those who came before us.",
+    "published": "Sun, 09 Feb 2025 22:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:398d"
+    ]
+  },
+  {
+    "id": "417ea4c40830497665aff0bb91b03ba6339844ef6fdc9b97782cde812595be9f",
+    "title": "Understanding complex trends with deep research",
+    "link": "https://openai.com/index/deep-research",
+    "summary": "How OpenAI deep research helps Bain & Company understand complex industry trends.",
+    "published": "Sun, 02 Feb 2025 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:406d"
+    ]
+  },
+  {
+    "id": "098544ee307b87f39d9cd8c1d8d5dfb1af81de22df305edb38aba32dd685cef2",
+    "title": "Introducing deep research",
+    "link": "https://openai.com/index/introducing-deep-research",
+    "summary": "An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you. Available to Pro users today, Plus and Team next.",
+    "published": "Sun, 02 Feb 2025 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:406d"
+    ]
+  },
+  {
+    "id": "a64dee8e5add2dbfd485cf925ccc881e04422b38c2594c077e2bca82620c7664",
+    "title": "New funding to build towards AGI",
+    "link": "https://openai.com/index/march-funding-updates",
+    "summary": "Today we’re announcing new funding—$40B at a $300B post-money valuation, which enables us to push the frontiers of AI research even further, scale our compute infrastructure, and deliver increasingly powerful tools for the 500 million people who use ChatGPT every week.",
+    "published": "Mon, 31 Mar 2025 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:349d"
+    ]
+  },
+  {
+    "id": "6fa4619c5e274de8d9e2d05a680346fdc0a174f781b11bc265fc427c059a7533",
+    "title": "AI in Australia—OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/global-affairs/openais-australia-economic-blueprint",
+    "summary": "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionable plan for how Australia can unlock the full economic and social potential of artificial intelligence.",
+    "published": "Mon, 30 Jun 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:258d"
+    ]
   }
 ]
