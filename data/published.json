@@ -3748,5 +3748,255 @@
       "authority:9",
       "old:258d"
     ]
+  },
+  {
+    "id": "e8cd95a2c05a3735e7071baa86aa1e25a4fffbe475afbb7a2f30c53ba15075cd",
+    "title": "Empowering teams to unlock insights faster at OpenAI",
+    "link": "https://openai.com/index/openai-research-assistant",
+    "summary": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "82cf1b1409c98a9f0bd1cdb1781d5623eaf135492e3c984caec4dfb7f4304109",
+    "title": "Ingredients for robotics research",
+    "link": "https://openai.com/index/ingredients-for-robotics-research",
+    "summary": "We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.",
+    "published": "Mon, 26 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2939d"
+    ]
+  },
+  {
+    "id": "a06f2a44890d46dac2671f0d7c320bdf5eb591baaf4f3691722e15633e0c4162",
+    "title": "Announcing the OpenAI Learning Accelerator",
+    "link": "https://openai.com/global-affairs/learning-accelerator",
+    "summary": "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.",
+    "published": "Mon, 25 Aug 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:202d"
+    ]
+  },
+  {
+    "id": "28267ad824a92277a465fcde181093c548ddf498c66db22b690c492e634aec04",
+    "title": "Leadership updates",
+    "link": "https://openai.com/index/leadership-updates-march-2025",
+    "summary": "OpenAI has grown a lot. We remain focused on the same core—pursuing frontier AI research that accelerates human progress–but we now also deliver products used by hundreds of millions of people.",
+    "published": "Mon, 24 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:356d"
+    ]
+  },
+  {
+    "id": "a8cac55075c8b6d8d9b803a0bb6e4857a310a9d9ec358abb899ab8c66e7f053a",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "published": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:20d"
+    ]
+  },
+  {
+    "id": "2e9c5bdf6b6bea2d0ef97738c3252c98eabe4da945db971ad86c9bb7df269e10",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "link": "https://openai.com/index/frontier-alliance-partners",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "published": "Mon, 23 Feb 2026 05:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:20d"
+    ]
+  },
+  {
+    "id": "ff6646ccffcaf963ebe54bf317c82042dc000d44839843e91c995a77ae6c5e36",
+    "title": "Learning complex goals with iterated amplification",
+    "link": "https://openai.com/index/learning-complex-goals-with-iterated-amplification",
+    "summary": "We’re proposing an AI safety technique called iterated amplification that lets us specify complicated behaviors and goals that are beyond human scale, by demonstrating how to decompose a task into simpler sub-tasks, rather than by providing labeled data or a reward function. Although this idea is in its very early stages and we have only completed experiments on simple toy algorithmic domains, we’ve decided to present it in its preliminary state because we think it could prove to be a scalable approach to AI safety.",
+    "published": "Mon, 22 Oct 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:2701d"
+    ]
+  },
+  {
+    "id": "91e5c823621f38a0066c689fb3300b8172fc34daf1eb7ca4df78fa1f39312e4c",
+    "title": "Distill",
+    "link": "https://openai.com/index/distill",
+    "summary": "We’re excited to support today’s launch of Distill, a new kind of journal aimed at excellent communication of machine learning results (novel or existing).",
+    "published": "Mon, 20 Mar 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3282d"
+    ]
+  },
+  {
+    "id": "a7f767445c7ec03566e8b602ad2b106dba3ae3b1a2bb4e56d96a85ca1c543c00",
+    "title": "How people are using ChatGPT",
+    "link": "https://openai.com/index/how-people-are-using-chatgpt",
+    "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+    "published": "Mon, 15 Sep 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:181d"
+    ]
+  },
+  {
+    "id": "8ad930e497a1ec99162dcd5d645300686691210effa5d9049ba8d6dfb8dd85f1",
+    "title": "Introducing HealthBench",
+    "link": "https://openai.com/index/healthbench",
+    "summary": "HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.",
+    "published": "Mon, 12 May 2025 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:307d"
+    ]
   }
 ]

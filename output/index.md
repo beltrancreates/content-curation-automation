@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-26 07:59 UTC_
+_Actualizado: 2026-03-27 07:57 UTC_
 
 ## Selección priorizada
 
-### 1. AI in Australia—OpenAI’s Economic Blueprint
+### 1. Introducing HealthBench
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 12 May 2025 10:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:307d
+- **Enlace:** https://openai.com/index/healthbench
+
+HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.
+
+---
+
+### 2. How people are using ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 15 Sep 2025 03:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:181d
+- **Enlace:** https://openai.com/index/how-people-are-using-chatgpt
+
+New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.
+
+---
+
+### 3. Distill
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 20 Mar 2017 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3282d
+- **Enlace:** https://openai.com/index/distill
+
+We’re excited to support today’s launch of Distill, a new kind of journal aimed at excellent communication of machine learning results (novel or existing).
+
+---
+
+### 4. Learning complex goals with iterated amplification
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Oct 2018 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:2701d
+- **Enlace:** https://openai.com/index/learning-complex-goals-with-iterated-amplification
+
+We’re proposing an AI safety technique called iterated amplification that lets us specify complicated behaviors and goals that are beyond human scale, by demonstrating how to decompose a task into simpler sub-tasks, rather than by providing labeled data or a reward function. Although this idea is in its very early stages and we have only completed experiments on simple toy algorithmic domains, we’ve decided to present it in its preliminary state because we think it could prove to be a scalable a
+
+---
+
+### 5. OpenAI announces Frontier Alliance Partners
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Feb 2026 05:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:20d
+- **Enlace:** https://openai.com/index/frontier-alliance-partners
+
+OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.
+
+---
+
+### 6. Why we no longer evaluate SWE-bench Verified
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Feb 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:20d
+- **Enlace:** https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified
+
+SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.
+
+---
+
+### 7. Leadership updates
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 24 Mar 2025 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:356d
+- **Enlace:** https://openai.com/index/leadership-updates-march-2025
+
+OpenAI has grown a lot. We remain focused on the same core—pursuing frontier AI research that accelerates human progress–but we now also deliver products used by hundreds of millions of people.
+
+---
+
+### 8. Announcing the OpenAI Learning Accelerator
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Aug 2025 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:202d
+- **Enlace:** https://openai.com/global-affairs/learning-accelerator
+
+OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.
+
+---
+
+### 9. Ingredients for robotics research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Feb 2018 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2939d
+- **Enlace:** https://openai.com/index/ingredients-for-robotics-research
+
+We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.
+
+---
+
+### 10. Empowering teams to unlock insights faster at OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:167d
+- **Enlace:** https://openai.com/index/openai-research-assistant
+
+OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.
+
+---
+
+### 11. AI in Australia—OpenAI’s Economic Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Ec
 
 ---
 
-### 2. New funding to build towards AGI
+### 12. New funding to build towards AGI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Today we’re announcing new funding—$40B at a $300B post-money valuation, whi
 
 ---
 
-### 3. Introducing deep research
+### 13. Introducing deep research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ An agent that uses reasoning to synthesize large amounts of online information a
 
 ---
 
-### 4. Understanding complex trends with deep research
+### 14. Understanding complex trends with deep research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ How OpenAI deep research helps Bain & Company understand complex industry trends
 
 ---
 
-### 5. Introducing the Intelligence Age
+### 15. Introducing the Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We aired our first-ever television ad during the Super Bowl to pique people’s 
 
 ---
 
-### 6. Lessons learned on language model safety and misuse
+### 16. Lessons learned on language model safety and misuse
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We describe our latest thinking in the hope of helping other AI developers addre
 
 ---
 
-### 7. Economic impacts research at OpenAI
+### 17. Economic impacts research at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Call for expressions of interest to study the economic impacts of large language
 
 ---
 
-### 8. AI safety via debate
+### 18. AI safety via debate
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’re proposing an AI safety technique which trains agents to debate topics wi
 
 ---
 
-### 9. Introducing the OpenAI Safety Bug Bounty program
+### 19. Introducing the OpenAI Safety Bug Bounty program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risk
 
 ---
 
-### 10. Inside our approach to the Model Spec
+### 20. Inside our approach to the Model Spec
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risk
 - **Enlace:** https://openai.com/index/our-approach-to-the-model-spec
 
 Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.
-
----
-
-### 11. Deep double descent
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Dec 2019 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:2292d
-- **Enlace:** https://openai.com/index/deep-double-descent
-
-We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don’t yet fully understand why it happens, and view further study of this phenomenon as an important research direction.
-
----
-
-### 12. OpenAI o1 System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Dec 2024 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:465d
-- **Enlace:** https://openai.com/index/openai-o1-system-card
-
-This report outlines the safety work carried out prior to releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk evaluations according to our Preparedness Framework.
-
----
-
-### 13. Disrupting malicious uses of AI: June 2025
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Jun 2025 02:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:283d
-- **Enlace:** https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025
-
-In our June 2025 update, we outline how we’re disrupting malicious uses of AI—through safety tools that detect and counter abuse, support democratic values, and promote responsible AI deployment for the benefit of all.
-
----
-
-### 14. The five AI value models driving business reinvention
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/the-five-ai-value-models-driving-business-reinvention
-
-Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.
-
----
-
-### 15. Introducing the Adoption news channel
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/introducing-the-adoption-news-channel
-
-Practical insights and frameworks to turn AI progress into business advantage
-
----
-
-### 16. Ensuring AI use in education leads to opportunity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/ai-education-opportunity
-
-OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.
-
----
-
-### 17. Introducing GPT-5.4
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Mar 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:10d
-- **Enlace:** https://openai.com/index/introducing-gpt-5-4
-
-Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
-
----
-
-### 18. Introducing the Teen Safety Blueprint
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Nov 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:129d
-- **Enlace:** https://openai.com/index/introducing-the-teen-safety-blueprint
-
-Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.
-
----
-
-### 19. AI progress and recommendations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Nov 2025 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:129d
-- **Enlace:** https://openai.com/index/ai-progress-and-recommendations
-
-AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.
-
----
-
-### 20. Helping developers build safer AI experiences for teens
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 24 Mar 2026 11:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
-
-OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.
 
 ---
