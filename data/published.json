@@ -4248,5 +4248,255 @@
       "authority:9",
       "old:408d"
     ]
+  },
+  {
+    "id": "cc226e305bc6d72e7315b12e93a012dea44c801eaccc9bc04b0875891cd0e076",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:16d"
+    ]
+  },
+  {
+    "id": "54d8b856a06e3e8d487517f954ab3f7efd9f6d4cbb004ccd2a9668055f5ed0dc",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "link": "https://openai.com/index/amazon-partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:16d"
+    ]
+  },
+  {
+    "id": "d7a0ff9f18d59f7f8e2844a4328cb14e6b93046829ffd6a09db8c7cf3df19b17",
+    "title": "Scaling AI for everyone",
+    "link": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:16d"
+    ]
+  },
+  {
+    "id": "7da5e5d57e38226a844a53f858f3388458a665b6d836a492f3d5c34df7396f23",
+    "title": "Attacking machine learning with adversarial examples",
+    "link": "https://openai.com/index/attacking-machine-learning-with-adversarial-examples",
+    "summary": "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post we’ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.",
+    "published": "Fri, 24 Feb 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3306d"
+    ]
+  },
+  {
+    "id": "6c604ea57cb29e2935730db061788f7d984f5b496b1e9e1d40ecc970a67be0cd",
+    "title": "The power of continuous learning",
+    "link": "https://openai.com/index/the-power-of-continuous-learning",
+    "summary": "Lilian Weng works on Applied AI Research at OpenAI.",
+    "published": "Fri, 23 Dec 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1178d"
+    ]
+  },
+  {
+    "id": "c3df67c7e637a2d7207a1a91dac272bcc2d39733f9e300aa6adb8b7ae73a013a",
+    "title": "Accelerating life sciences research",
+    "link": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+    "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
+    "published": "Fri, 22 Aug 2025 08:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:205d"
+    ]
+  },
+  {
+    "id": "a6052d898cec7903c6cefcbd7e56b7ba03549fdcc70bc0022267921a0092fd4e",
+    "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
+    "link": "https://openai.com/index/affective-use-study",
+    "summary": "An OpenAI and MIT Media Lab Research collaboration.",
+    "published": "Fri, 21 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:359d"
+    ]
+  },
+  {
+    "id": "55fb65b7a141e8ed6854a502e5f61bada9de5dc417b7526092fa82ccc31236e8",
+    "title": "Moving AI governance forward",
+    "link": "https://openai.com/index/moving-ai-governance-forward",
+    "summary": "OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments.",
+    "published": "Fri, 21 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:968d"
+    ]
+  },
+  {
+    "id": "e8b1c4363d184fd49477193af85e50ae216b1301b24041ab30223424edb959fc",
+    "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+    "link": "https://openai.com/index/the-instruction-hierarchy",
+    "summary": "Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks that allow adversaries to overwrite a model's original instructions with their own malicious prompts.",
+    "published": "Fri, 19 Apr 2024 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:694d"
+    ]
+  },
+  {
+    "id": "065680ab415031d72b888c9969b6d83d562087e5b47677bede2f6dfbbb72de75",
+    "title": "OpenAI Fellows Fall 2018: Final projects",
+    "link": "https://openai.com/index/openai-fellows-fall-2018",
+    "summary": "Our second class of OpenAI Fellows has wrapped up, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship. We are currently reviewing applications on a rolling basis for our next round of OpenAI Fellows Summer 2019.",
+    "published": "Fri, 17 May 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2494d"
+    ]
   }
 ]
