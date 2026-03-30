@@ -4850,6 +4850,31 @@
     ]
   },
   {
+    "id": "f91c8657db60b582cd8fe7895b8c943faa74499e758740fdc256ac59d3408a0a",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "published": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "5785036cc010e8a373a9b2ee4f594064b469bce0476a7f2d54a0d88d032ebc70",
     "title": "Improving mathematical reasoning with process supervision",
     "link": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",

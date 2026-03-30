@@ -4498,5 +4498,255 @@
       "authority:9",
       "old:2494d"
     ]
+  },
+  {
+    "id": "c16b69a1be247646e27accee1cdfb1fdc1e84a50e3e751ba3779fc36552530f1",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics",
+    "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+    "published": "Fri, 13 Feb 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:30d"
+    ]
+  },
+  {
+    "id": "c5ef81aef2a2ccc1de1bb122cda82f4b411276599b92b2065835789e355213ba",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+    "published": "Fri, 13 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:30d"
+    ]
+  },
+  {
+    "id": "9d95a891a81b27c3f05841913ac4c36d6218eb39247fe40253d87c3be8b7e841",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "link": "https://openai.com/index/beyond-rate-limits",
+    "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+    "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:30d"
+    ]
+  },
+  {
+    "id": "520b7723e732fe866c558cf535caa99460671675a87d0ade1b78ad5d28ba6003",
+    "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+    "link": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+    "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
+    "published": "Fri, 12 Sep 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:184d"
+    ]
+  },
+  {
+    "id": "5cf75602a00bc433a7f4de53dcfaf26c0933179125a114a2607c72cf84f43aa2",
+    "title": "OpenAI announces new members to board of directors",
+    "link": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
+    "summary": "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board",
+    "published": "Fri, 08 Mar 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:737d"
+    ]
+  },
+  {
+    "id": "486d90c37650d2e5423f6975ca1786f793dcd9d28113448dee198624e1d28490",
+    "title": "Understanding prompt injections: a frontier security challenge",
+    "link": "https://openai.com/index/prompt-injections",
+    "summary": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
+    "published": "Fri, 07 Nov 2025 11:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:128d"
+    ]
+  },
+  {
+    "id": "b5f9dad2d184a13ac1bc5087ca941f9752fb8a19997438a064e8b987ff261f85",
+    "title": "Expanding on how Voice Engine works and our safety research",
+    "link": "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research",
+    "summary": "Exploring the technology behind our text-to-speech model.",
+    "published": "Fri, 07 Jun 2024 17:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:645d"
+    ]
+  },
+  {
+    "id": "7af8e06694eec5e9b5434103f243d11f0a299cbef898e05460b98e07e65e2a70",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "link": "https://openai.com/index/descript",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:9d"
+    ]
+  },
+  {
+    "id": "ebf24cf04fa0982c1941d8c0c76ab018cdeb09419fe5433d088101a3a2c5bf96",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "link": "https://openai.com/index/our-approach-to-localization",
+    "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+    "published": "Fri, 06 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:37d"
+    ]
+  },
+  {
+    "id": "b684e097385901c139de7a4035413559cd94c0480b4d1afc8affa33f0b4c3bc9",
+    "title": "Response to NIST Executive Order on AI",
+    "link": "https://openai.com/global-affairs/response-to-nist-executive-order-on-ai",
+    "summary": "The National Institute of Standards and Technology (NIST) request for information related to its assignments under sections 4.1, 4.5, and 11 of the Executive Order Concerning Artificial Intelligence",
+    "published": "Fri, 02 Feb 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:772d"
+    ]
   }
 ]

@@ -17164,5 +17164,23 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "f91c8657db60b582cd8fe7895b8c943faa74499e758740fdc256ac59d3408a0a",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "published": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
   }
 ]
