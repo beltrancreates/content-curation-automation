@@ -4748,5 +4748,255 @@
       "authority:9",
       "old:772d"
     ]
+  },
+  {
+    "id": "773b4a71d8a0997d01d1f32e4915ae4d119b23f0fbe0dcee96e7f96b1cbbff0f",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "e2d63c4e958b01a6a90fc20dc01b7398fea98d880cb7b15d39bbf674f838d92c",
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "df74e7d08a142abf0e3c00ae470a78510e63e010ad1bb77a33c230282c51dbc7",
+    "title": "Creating with Sora Safely",
+    "link": "https://openai.com/index/creating-with-sora-safely",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+    "published": "Mon, 23 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "90fdf122f2921c29aca02552091b48fd28a193ae87c2394cd5adc3fc1d829975",
+    "title": "Update on the OpenAI Foundation",
+    "link": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "f91c8657db60b582cd8fe7895b8c943faa74499e758740fdc256ac59d3408a0a",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "published": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "5785036cc010e8a373a9b2ee4f594064b469bce0476a7f2d54a0d88d032ebc70",
+    "title": "Improving mathematical reasoning with process supervision",
+    "link": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",
+    "summary": "We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.",
+    "published": "Wed, 31 May 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1019d"
+    ]
+  },
+  {
+    "id": "a7b1357edc0e957aab741ef69761d225cfab678b34d201423dddfd020a27ff28",
+    "title": "DALL·E: Introducing outpainting",
+    "link": "https://openai.com/index/dall-e-introducing-outpainting",
+    "summary": "Extend creativity and tell a bigger story with DALL·E images of any size.",
+    "published": "Wed, 31 Aug 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1292d"
+    ]
+  },
+  {
+    "id": "9932fad525eac2be4b4845c98ffcaf2cc67f99f34eac08a1c141bb028d9e74be",
+    "title": "Introducing ChatGPT",
+    "link": "https://openai.com/index/chatgpt",
+    "summary": "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.",
+    "published": "Wed, 30 Nov 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1201d"
+    ]
+  },
+  {
+    "id": "67e661a7c1b6a9aed3cced2e2f1531f0d3dc06942ba299be68550d83c1f96590",
+    "title": "Three lessons for creating a sustainable AI advantage",
+    "link": "https://openai.com/index/intercom",
+    "summary": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
+    "published": "Wed, 30 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:228d"
+    ]
+  },
+  {
+    "id": "4268f7d68737a50ddb2183ef3c1ec1b2882b346c6bfc7fd30ee3087d52cd57d9",
+    "title": "Sam Altman returns as CEO, OpenAI has a new initial board",
+    "link": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board",
+    "summary": "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor.",
+    "published": "Wed, 29 Nov 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:837d"
+    ]
   }
 ]

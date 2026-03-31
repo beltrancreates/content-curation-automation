@@ -17182,5 +17182,73 @@
     ],
     "domain": "openai.com",
     "status": "fetched"
+  },
+  {
+    "id": "138dd62b7fe5ddbe26fa4b37f684ae84357d946afe76a615afd37ee5e2dee1da",
+    "title": "There are more AI health tools than ever—but how well do they work?",
+    "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+    "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&#8230;",
+    "published": "Mon, 30 Mar 2026 16:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "23dfa541bf75ea4aace687f9cbce6166a82786359dd224a3624631628c0e3a62",
+    "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+    "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long&#8230;",
+    "published": "Mon, 30 Mar 2026 15:42:50 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "5b897a3829074bbe464f9a9ba477d7426882eb96cadbbc48695c9f357ac8c0c8",
+    "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+    "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones&#160; After&#160;operating&#160;in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create&#160;nonsentient&#160;monkey “organ sacks”&#8230;",
+    "published": "Mon, 30 Mar 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "571911fd5f9769511c097be49e900a74d36234cda8ffdc19f1d8bbdc864fc6dc",
+    "title": "Inside the stealthy startup that pitched brainless human clones",
+    "link": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+    "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three investors: billionaire Tim Draper, the Singapore-based fund Immortal&#8230;",
+    "published": "Mon, 30 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

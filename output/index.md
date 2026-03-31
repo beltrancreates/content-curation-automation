@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-30 08:19 UTC_
+_Actualizado: 2026-03-31 08:05 UTC_
 
 ## Selección priorizada
 
-### 1. Response to NIST Executive Order on AI
+### 1. Sam Altman returns as CEO, OpenAI has a new initial board
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 Nov 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:837d
+- **Enlace:** https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board
+
+Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor.
+
+---
+
+### 2. Three lessons for creating a sustainable AI advantage
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/intercom
+
+Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.
+
+---
+
+### 3. Introducing ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 Nov 2022 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1201d
+- **Enlace:** https://openai.com/index/chatgpt
+
+We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
+
+---
+
+### 4. DALL·E: Introducing outpainting
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 31 Aug 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1292d
+- **Enlace:** https://openai.com/index/dall-e-introducing-outpainting
+
+Extend creativity and tell a bigger story with DALL·E images of any size.
+
+---
+
+### 5. Improving mathematical reasoning with process supervision
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 31 May 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1019d
+- **Enlace:** https://openai.com/index/improving-mathematical-reasoning-with-process-supervision
+
+We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.
+
+---
+
+### 6. Helping disaster response teams turn AI into action across Asia
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 29 Mar 2026 22:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/helping-disaster-response-teams-asia
+
+AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation
+
+---
+
+### 7. Update on the OpenAI Foundation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Mar 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/update-on-the-openai-foundation
+
+The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.
+
+---
+
+### 8. Creating with Sora Safely
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/creating-with-sora-safely
+
+To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.
+
+---
+
+### 9. OpenAI to acquire Astral
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 19 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-to-acquire-astral
+
+Accelerates Codex growth to power the next generation of Python developer tools
+
+---
+
+### 10. Why Codex Security Doesn’t Include a SAST Report
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Mar 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/why-codex-security-doesnt-include-sast
+
+A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.
+
+---
+
+### 11. Response to NIST Executive Order on AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ The National Institute of Standards and Technology (NIST) request for informatio
 
 ---
 
-### 2. Making AI work for everyone, everywhere: our approach to localization
+### 12. Making AI work for everyone, everywhere: our approach to localization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI shares its approach to AI localization, showing how globally shared front
 
 ---
 
-### 3. How Descript enables multilingual video dubbing at scale
+### 13. How Descript enables multilingual video dubbing at scale
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Descript uses OpenAI models to scale multilingual video dubbing, optimizing tran
 
 ---
 
-### 4. Expanding on how Voice Engine works and our safety research
+### 14. Expanding on how Voice Engine works and our safety research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Exploring the technology behind our text-to-speech model.
 
 ---
 
-### 5. Understanding prompt injections: a frontier security challenge
+### 15. Understanding prompt injections: a frontier security challenge
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Prompt injections are a frontier security challenge for AI systems. Learn how th
 
 ---
 
-### 6. OpenAI announces new members to board of directors
+### 16. OpenAI announces new members to board of directors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins b
 
 ---
 
-### 7. Working with US CAISI and UK AISI to build more secure AI systems
+### 17. Working with US CAISI and UK AISI to build more secure AI systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI shares progress on the partnership with the US CAISI and UK AISI to stren
 
 ---
 
-### 8. Beyond rate limits: scaling access to Codex and Sora
+### 18. Beyond rate limits: scaling access to Codex and Sora
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ How OpenAI built a real-time access system combining rate limits, usage tracking
 
 ---
 
-### 9. Introducing Lockdown Mode and Elevated Risk labels in ChatGPT
+### 19. Introducing Lockdown Mode and Elevated Risk labels in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizati
 
 ---
 
-### 10. GPT-5.2 derives a new result in theoretical physics
+### 20. GPT-5.2 derives a new result in theoretical physics
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizati
 - **Enlace:** https://openai.com/index/new-result-theoretical-physics
 
 A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.
-
----
-
-### 11. OpenAI Fellows Fall 2018: Final projects
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 17 May 2019 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:2494d
-- **Enlace:** https://openai.com/index/openai-fellows-fall-2018
-
-Our second class of OpenAI Fellows has wrapped up, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship. We are currently reviewing applications on a rolling basis for our next round of OpenAI Fellows Summer 2019.
-
----
-
-### 12. The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 19 Apr 2024 19:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:694d
-- **Enlace:** https://openai.com/index/the-instruction-hierarchy
-
-Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks that allow adversaries to overwrite a model's original instructions with their own malicious prompts.
-
----
-
-### 13. Moving AI governance forward
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 21 Jul 2023 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:968d
-- **Enlace:** https://openai.com/index/moving-ai-governance-forward
-
-OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments.
-
----
-
-### 14. Early methods for studying affective use and emotional well-being on ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 21 Mar 2025 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:359d
-- **Enlace:** https://openai.com/index/affective-use-study
-
-An OpenAI and MIT Media Lab Research collaboration.
-
----
-
-### 15. Accelerating life sciences research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 22 Aug 2025 08:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:205d
-- **Enlace:** https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences
-
-Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.
-
----
-
-### 16. The power of continuous learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Dec 2022 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:1178d
-- **Enlace:** https://openai.com/index/the-power-of-continuous-learning
-
-Lilian Weng works on Applied AI Research at OpenAI.
-
----
-
-### 17. Attacking machine learning with adversarial examples
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 24 Feb 2017 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3306d
-- **Enlace:** https://openai.com/index/attacking-machine-learning-with-adversarial-examples
-
-Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post we’ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.
-
----
-
-### 18. Scaling AI for everyone
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 27 Feb 2026 05:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:16d
-- **Enlace:** https://openai.com/index/scaling-ai-for-everyone
-
-Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
-
----
-
-### 19. OpenAI and Amazon announce strategic partnership
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 27 Feb 2026 05:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:16d
-- **Enlace:** https://openai.com/index/amazon-partnership
-
-OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.
-
----
-
-### 20. Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 27 Feb 2026 05:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:16d
-- **Enlace:** https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
-
-Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.
 
 ---
