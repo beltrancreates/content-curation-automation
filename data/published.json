@@ -4998,5 +4998,255 @@
       "authority:9",
       "old:837d"
     ]
+  },
+  {
+    "id": "8f45e3da2b932ebf1809065ebd6755fb6687f9fe560076fe31eb0ad13623d657",
+    "title": "Accelerating the next phase of AI",
+    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+    "published": "Tue, 31 Mar 2026 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "2f4b50f383d31572dac12c7406cc9786b007fa677e4757ce534e945099402a19",
+    "title": "Automating customer support agents",
+    "link": "https://openai.com/index/mavenagi",
+    "summary": "MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.",
+    "published": "Wed, 29 May 2024 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:655d"
+    ]
+  },
+  {
+    "id": "0498c6a13653a75f88ca5b71b62ed3d5ffd048fad8879413a339476aee9e75fb",
+    "title": "The Newsroom AI Catalyst: a global program with WAN-IFRA",
+    "link": "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra",
+    "summary": "We’re collaborating with WAN-IFRA, the World Association of News Publishers, to launch a global accelerator program that will assist over 100 news publishers to explore and integrate AI in their newsroom.",
+    "published": "Wed, 29 May 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:655d"
+    ]
+  },
+  {
+    "id": "84c7822db8eb146af202853ef0ab8d7cd081a69b1d974dee9b958cdcd02ee57d",
+    "title": "Enhancing news in ChatGPT with The Atlantic",
+    "link": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic",
+    "summary": "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable within OpenAI’s products, including ChatGPT, and as a partner, The Atlantic will help to shape how news is surfaced and presented in future real-time discovery products.",
+    "published": "Wed, 29 May 2024 07:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:655d"
+    ]
+  },
+  {
+    "id": "af2000c62507c4691c71e61549a34bab8a0bdbdd2114e6c7092ae9a2cbf4bf34",
+    "title": "A Content and Product Partnership with Vox Media",
+    "link": "https://openai.com/index/a-content-and-product-partnership-with-vox-media",
+    "summary": "In a multi-faceted agreement, Vox Media’s content will enhance the output of OpenAI’s ChatGPT, and the company will build on OpenAI’s technology to develop products to better serve its audiences and advertisers.",
+    "published": "Wed, 29 May 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:655d"
+    ]
+  },
+  {
+    "id": "f90e179e45ff3518f30b71e40674a8e70af0ab19b27685e9c9acdd4b70e0560c",
+    "title": "Introducing OpenAI London",
+    "link": "https://openai.com/index/introducing-openai-london",
+    "summary": "We are excited to announce OpenAI’s first international expansion with a new office in London, United Kingdom.",
+    "published": "Wed, 28 Jun 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:991d"
+    ]
+  },
+  {
+    "id": "3334a8e7870a50742a2c971f346889d73c840f1ac4275375267280cef99ea0b9",
+    "title": "Faster physics in Python",
+    "link": "https://openai.com/index/faster-physics-in-python",
+    "summary": "We’re open-sourcing a high-performance Python library for robotic simulation using the MuJoCo engine, developed over our past year of robotics research.",
+    "published": "Wed, 28 Jun 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:3182d"
+    ]
+  },
+  {
+    "id": "8a376cec76b5e4d0b3b41093657ec6aea2be3f0051921157111a5d6f0578753e",
+    "title": "Introducing Triton: Open-source GPU programming for neural networks",
+    "link": "https://openai.com/index/triton",
+    "summary": "We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what an expert would be able to produce.",
+    "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1691d"
+    ]
+  },
+  {
+    "id": "92ce58d187a17ee3eead0bdd25afd100ed6d5e0286b2cc31c7d3b8cc5b008282",
+    "title": "The next chapter for AI in the EU",
+    "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+    "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:46d"
+    ]
+  },
+  {
+    "id": "443337d9f1fab6df4befd0a93ef554eef2853bdea5ef95708a4e82a56d3b2864",
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "link": "https://openai.com/index/ai-agent-link-safety",
+    "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+    "published": "Wed, 28 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:46d"
+    ]
   }
 ]

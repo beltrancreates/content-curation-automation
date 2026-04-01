@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-03-31 08:05 UTC_
+_Actualizado: 2026-04-01 08:13 UTC_
 
 ## Selección priorizada
 
-### 1. Sam Altman returns as CEO, OpenAI has a new initial board
+### 1. Keeping your data safe when an AI agent clicks a link
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:46d
+- **Enlace:** https://openai.com/index/ai-agent-link-safety
+
+Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.
+
+---
+
+### 2. The next chapter for AI in the EU
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Jan 2026 01:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:46d
+- **Enlace:** https://openai.com/index/the-next-chapter-for-ai-in-the-eu
+
+OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.
+
+---
+
+### 3. Introducing Triton: Open-source GPU programming for neural networks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Jul 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:1691d
+- **Enlace:** https://openai.com/index/triton
+
+We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what an expert would be able to produce.
+
+---
+
+### 4. Faster physics in Python
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Jun 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:3182d
+- **Enlace:** https://openai.com/index/faster-physics-in-python
+
+We’re open-sourcing a high-performance Python library for robotic simulation using the MuJoCo engine, developed over our past year of robotics research.
+
+---
+
+### 5. Introducing OpenAI London
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Jun 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:991d
+- **Enlace:** https://openai.com/index/introducing-openai-london
+
+We are excited to announce OpenAI’s first international expansion with a new office in London, United Kingdom.
+
+---
+
+### 6. A Content and Product Partnership with Vox Media
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 May 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:655d
+- **Enlace:** https://openai.com/index/a-content-and-product-partnership-with-vox-media
+
+In a multi-faceted agreement, Vox Media’s content will enhance the output of OpenAI’s ChatGPT, and the company will build on OpenAI’s technology to develop products to better serve its audiences and advertisers.
+
+---
+
+### 7. Enhancing news in ChatGPT with The Atlantic
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 May 2024 07:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:655d
+- **Enlace:** https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic
+
+The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable within OpenAI’s products, including ChatGPT, and as a partner, The Atlantic will help to shape how news is surfaced and presented in future real-time discovery products.
+
+---
+
+### 8. The Newsroom AI Catalyst: a global program with WAN-IFRA
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 May 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:655d
+- **Enlace:** https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra
+
+We’re collaborating with WAN-IFRA, the World Association of News Publishers, to launch a global accelerator program that will assist over 100 news publishers to explore and integrate AI in their newsroom.
+
+---
+
+### 9. Automating customer support agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 29 May 2024 09:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:655d
+- **Enlace:** https://openai.com/index/mavenagi
+
+MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.
+
+---
+
+### 10. Accelerating the next phase of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 31 Mar 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/accelerating-the-next-phase-ai
+
+OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
+
+---
+
+### 11. Sam Altman returns as CEO, OpenAI has a new initial board
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO S
 
 ---
 
-### 2. Three lessons for creating a sustainable AI advantage
+### 12. Three lessons for creating a sustainable AI advantage
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Discover how Intercom built a scalable AI platform with 3 key lessons—from eva
 
 ---
 
-### 3. Introducing ChatGPT
+### 13. Introducing ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’ve trained a model called ChatGPT which interacts in a conversational way. 
 
 ---
 
-### 4. DALL·E: Introducing outpainting
+### 14. DALL·E: Introducing outpainting
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Extend creativity and tell a bigger story with DALL·E images of any size.
 
 ---
 
-### 5. Improving mathematical reasoning with process supervision
+### 15. Improving mathematical reasoning with process supervision
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We've trained a model to achieve a new state-of-the-art in mathematical problem 
 
 ---
 
-### 6. Helping disaster response teams turn AI into action across Asia
+### 16. Helping disaster response teams turn AI into action across Asia
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation
 
 ---
 
-### 7. Update on the OpenAI Foundation
+### 17. Update on the OpenAI Foundation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ The OpenAI Foundation announces plans to invest at least $1 billion in curing di
 
 ---
 
-### 8. Creating with Sora Safely
+### 18. Creating with Sora Safely
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ To address the novel safety challenges posed by a state-of-the-art video model a
 
 ---
 
-### 9. OpenAI to acquire Astral
+### 19. OpenAI to acquire Astral
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Accelerates Codex growth to power the next generation of Python developer tools
 
 ---
 
-### 10. Why Codex Security Doesn’t Include a SAST Report
+### 20. Why Codex Security Doesn’t Include a SAST Report
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Accelerates Codex growth to power the next generation of Python developer tools
 - **Enlace:** https://openai.com/index/why-codex-security-doesnt-include-sast
 
 A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.
-
----
-
-### 11. Response to NIST Executive Order on AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 02 Feb 2024 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, old:772d
-- **Enlace:** https://openai.com/global-affairs/response-to-nist-executive-order-on-ai
-
-The National Institute of Standards and Technology (NIST) request for information related to its assignments under sections 4.1, 4.5, and 11 of the Executive Order Concerning Artificial Intelligence
-
----
-
-### 12. Making AI work for everyone, everywhere: our approach to localization
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 06 Feb 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:37d
-- **Enlace:** https://openai.com/index/our-approach-to-localization
-
-OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.
-
----
-
-### 13. How Descript enables multilingual video dubbing at scale
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 06 Mar 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:9d
-- **Enlace:** https://openai.com/index/descript
-
-Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.
-
----
-
-### 14. Expanding on how Voice Engine works and our safety research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Jun 2024 17:45:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research,safety, preferred_domain, authority:9, old:645d
-- **Enlace:** https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research
-
-Exploring the technology behind our text-to-speech model.
-
----
-
-### 15. Understanding prompt injections: a frontier security challenge
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Nov 2025 11:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:128d
-- **Enlace:** https://openai.com/index/prompt-injections
-
-Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.
-
----
-
-### 16. OpenAI announces new members to board of directors
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 08 Mar 2024 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, old:737d
-- **Enlace:** https://openai.com/index/openai-announces-new-members-to-board-of-directors
-
-Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board
-
----
-
-### 17. Working with US CAISI and UK AISI to build more secure AI systems
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 12 Sep 2025 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:184d
-- **Enlace:** https://openai.com/index/us-caisi-uk-aisi-ai-update
-
-OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.
-
----
-
-### 18. Beyond rate limits: scaling access to Codex and Sora
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Feb 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:30d
-- **Enlace:** https://openai.com/index/beyond-rate-limits
-
-How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.
-
----
-
-### 19. Introducing Lockdown Mode and Elevated Risk labels in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Feb 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:30d
-- **Enlace:** https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt
-
-Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.
-
----
-
-### 20. GPT-5.2 derives a new result in theoretical physics
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Feb 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:30d
-- **Enlace:** https://openai.com/index/new-result-theoretical-physics
-
-A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.
 
 ---
