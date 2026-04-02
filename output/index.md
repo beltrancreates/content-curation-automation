@@ -1,10 +1,142 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-01 08:13 UTC_
+_Actualizado: 2026-04-02 08:02 UTC_
 
 ## Selección priorizada
 
-### 1. Keeping your data safe when an AI agent clicks a link
+### 1. SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Sep 2025 04:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:172d
+- **Enlace:** https://openai.com/global-affairs/openai-for-germany
+
+SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.
+
+---
+
+### 2. Transforming the manufacturing industry with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Sep 2025 17:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:172d
+- **Enlace:** https://openai.com/index/eneos-materials
+
+By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements, strengthening competitiveness in manufacturing.
+
+---
+
+### 3. Team update
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 25 May 2016 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3581d
+- **Enlace:** https://openai.com/index/team-update
+
+We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+
+---
+
+### 4. Adversarial training methods for semi-supervised text classification
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 25 May 2016 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3581d
+- **Enlace:** https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
+
+
+
+---
+
+### 5. Security on the path to AGI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Mar 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:354d
+- **Enlace:** https://openai.com/index/security-on-the-path-to-agi
+
+At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models.
+
+---
+
+### 6. Mixpanel security incident: what OpenAI users need to know
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Nov 2025 19:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:108d
+- **Enlace:** https://openai.com/index/mixpanel-incident
+
+OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.
+
+---
+
+### 7. OpenAI Gym Beta
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 Apr 2016 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3609d
+- **Enlace:** https://openai.com/index/openai-gym-beta
+
+We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to Atari games), and a site for comparing and reproducing results.
+
+---
+
+### 8. Collective alignment: public input on our Model Spec
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 Aug 2025 13:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:200d
+- **Enlace:** https://openai.com/index/collective-alignment-aug-2025-updates
+
+OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.
+
+---
+
+### 9. OpenAI’s comment to the NTIA on open model weights
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 Mar 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:718d
+- **Enlace:** https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights
+
+OpenAI’s comment to the NTIA on open model weights
+
+This comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Available Weights.
+
+---
+
+### 10. Gradient Labs gives every bank customer an AI account manager
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Apr 2026 02:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gradient-labs
+
+Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.
+
+---
+
+### 11. Keeping your data safe when an AI agent clicks a link
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +149,7 @@ Learn how OpenAI protects user data when AI agents open links, preventing URL-ba
 
 ---
 
-### 2. The next chapter for AI in the EU
+### 12. The next chapter for AI in the EU
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +162,7 @@ OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and i
 
 ---
 
-### 3. Introducing Triton: Open-source GPU programming for neural networks
+### 13. Introducing Triton: Open-source GPU programming for neural networks
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +175,7 @@ We’re releasing Triton 1.0, an open-source Python-like programming language wh
 
 ---
 
-### 4. Faster physics in Python
+### 14. Faster physics in Python
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +188,7 @@ We’re open-sourcing a high-performance Python library for robotic simulation u
 
 ---
 
-### 5. Introducing OpenAI London
+### 15. Introducing OpenAI London
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +201,7 @@ We are excited to announce OpenAI’s first international expansion with a new o
 
 ---
 
-### 6. A Content and Product Partnership with Vox Media
+### 16. A Content and Product Partnership with Vox Media
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +214,7 @@ In a multi-faceted agreement, Vox Media’s content will enhance the output of O
 
 ---
 
-### 7. Enhancing news in ChatGPT with The Atlantic
+### 17. Enhancing news in ChatGPT with The Atlantic
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +227,7 @@ The Atlantic is announcing a strategic content and product partnership with Open
 
 ---
 
-### 8. The Newsroom AI Catalyst: a global program with WAN-IFRA
+### 18. The Newsroom AI Catalyst: a global program with WAN-IFRA
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +240,7 @@ We’re collaborating with WAN-IFRA, the World Association of News Publishers, t
 
 ---
 
-### 9. Automating customer support agents
+### 19. Automating customer support agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +253,7 @@ MavenAGI is a new software company for the AI era. They recently launched an AI 
 
 ---
 
-### 10. Accelerating the next phase of AI
+### 20. Accelerating the next phase of AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +263,5 @@ MavenAGI is a new software company for the AI era. They recently launched an AI 
 - **Enlace:** https://openai.com/index/accelerating-the-next-phase-ai
 
 OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
-
----
-
-### 11. Sam Altman returns as CEO, OpenAI has a new initial board
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Nov 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:837d
-- **Enlace:** https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board
-
-Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor.
-
----
-
-### 12. Three lessons for creating a sustainable AI advantage
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 Jul 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/intercom
-
-Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.
-
----
-
-### 13. Introducing ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 Nov 2022 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1201d
-- **Enlace:** https://openai.com/index/chatgpt
-
-We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
-
----
-
-### 14. DALL·E: Introducing outpainting
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 31 Aug 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1292d
-- **Enlace:** https://openai.com/index/dall-e-introducing-outpainting
-
-Extend creativity and tell a bigger story with DALL·E images of any size.
-
----
-
-### 15. Improving mathematical reasoning with process supervision
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 31 May 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1019d
-- **Enlace:** https://openai.com/index/improving-mathematical-reasoning-with-process-supervision
-
-We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.
-
----
-
-### 16. Helping disaster response teams turn AI into action across Asia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 29 Mar 2026 22:15:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/helping-disaster-response-teams-asia
-
-AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation
-
----
-
-### 17. Update on the OpenAI Foundation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 24 Mar 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/update-on-the-openai-foundation
-
-The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.
-
----
-
-### 18. Creating with Sora Safely
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 23 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/creating-with-sora-safely
-
-To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.
-
----
-
-### 19. OpenAI to acquire Astral
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-to-acquire-astral
-
-Accelerates Codex growth to power the next generation of Python developer tools
-
----
-
-### 20. Why Codex Security Doesn’t Include a SAST Report
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Mar 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/why-codex-security-doesnt-include-sast
-
-A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.
 
 ---

@@ -5248,5 +5248,255 @@
       "authority:9",
       "old:46d"
     ]
+  },
+  {
+    "id": "02915c53f793fa0ad8e715b3747ce6a5aedbee8c85e1da3c4dac134cca9469a8",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "link": "https://openai.com/index/gradient-labs",
+    "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+    "published": "Wed, 01 Apr 2026 02:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "249586cd2933116ae07b7d49304d099d0a937fd57cea0ed8ec9bd7310fe3c8f5",
+    "title": "OpenAI’s comment to the NTIA on open model weights",
+    "link": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights",
+    "summary": "OpenAI’s comment to the NTIA on open model weights\n\nThis comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Available Weights.",
+    "published": "Wed, 27 Mar 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:718d"
+    ]
+  },
+  {
+    "id": "05874f56a3c8b649e9bd400a4c4081e29a9ca1dbaf2d1058dd72a0f04cd23cd5",
+    "title": "Collective alignment: public input on our Model Spec",
+    "link": "https://openai.com/index/collective-alignment-aug-2025-updates",
+    "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+    "published": "Wed, 27 Aug 2025 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:200d"
+    ]
+  },
+  {
+    "id": "94044eb7991cb746d62c65053c4b4f1788e4e68ea6d29f2378bd62156604aadd",
+    "title": "OpenAI Gym Beta",
+    "link": "https://openai.com/index/openai-gym-beta",
+    "summary": "We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to Atari games), and a site for comparing and reproducing results.",
+    "published": "Wed, 27 Apr 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3609d"
+    ]
+  },
+  {
+    "id": "5c9be425a4a7e8da14310d5ef972173d8bf9d09b492f1f956530281a18ed6467",
+    "title": "Mixpanel security incident: what OpenAI users need to know",
+    "link": "https://openai.com/index/mixpanel-incident",
+    "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+    "published": "Wed, 26 Nov 2025 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:108d"
+    ]
+  },
+  {
+    "id": "858a557c4ed1f3a6fddeb04eaa814ecc1d45e1165024620cf51f8778bcc0b21f",
+    "title": "Security on the path to AGI",
+    "link": "https://openai.com/index/security-on-the-path-to-agi",
+    "summary": "At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models.",
+    "published": "Wed, 26 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:354d"
+    ]
+  },
+  {
+    "id": "b31032415aa08a8590eefbb1be48f29fbb27c0566b0a0b850eb2f265c3bd6aad",
+    "title": "Adversarial training methods for semi-supervised text classification",
+    "link": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+    "summary": "",
+    "published": "Wed, 25 May 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3581d"
+    ]
+  },
+  {
+    "id": "f40f6a8e09cb0a52a9b1e53d246e27ff39f9304f9a8747f293e977e9088fac2b",
+    "title": "Team update",
+    "link": "https://openai.com/index/team-update",
+    "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+    "published": "Wed, 25 May 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3581d"
+    ]
+  },
+  {
+    "id": "99aa27f838890541723de33d9c8fe373b95a05060bf70522c49111745b65edec",
+    "title": "Transforming the manufacturing industry with ChatGPT",
+    "link": "https://openai.com/index/eneos-materials",
+    "summary": "By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements, strengthening competitiveness in manufacturing.",
+    "published": "Wed, 24 Sep 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:172d"
+    ]
+  },
+  {
+    "id": "a28a682d70d3a45e735082de0992a6fffdbc7534d4b4ef905f8fce00bdeec303",
+    "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+    "link": "https://openai.com/global-affairs/openai-for-germany",
+    "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
+    "published": "Wed, 24 Sep 2025 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:172d"
+    ]
   }
 ]
