@@ -17389,5 +17389,75 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "14d5465fb129336cdf6bc3746feb8d56566a3580abd20280a9cdbed7025c26e5",
+    "title": "OpenAI acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn",
+    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "published": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "8880f6b81eab74b228973500c0ff89d7eea5476230392b41a8c63e5b0d4a1e9e",
+    "title": "Codex now offers more flexible pricing for teams",
+    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "published": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "f314c2659e5937de263db9417bbb396764c139d00e26d8a44bb4c4195540b169",
+    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;",
+    "published": "Thu, 02 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "fd4e51186d55332ca9f90cf24799a79cfc93c92c92ecd2f58a5adfa71ecd69b5",
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the&#8230;",
+    "published": "Thu, 02 Apr 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

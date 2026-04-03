@@ -4925,6 +4925,31 @@
     ]
   },
   {
+    "id": "14d5465fb129336cdf6bc3746feb8d56566a3580abd20280a9cdbed7025c26e5",
+    "title": "OpenAI acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn",
+    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "published": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "5785036cc010e8a373a9b2ee4f594064b469bce0476a7f2d54a0d88d032ebc70",
     "title": "Improving mathematical reasoning with process supervision",
     "link": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",
@@ -17550,6 +17575,31 @@
     ]
   },
   {
+    "id": "8880f6b81eab74b228973500c0ff89d7eea5476230392b41a8c63e5b0d4a1e9e",
+    "title": "Codex now offers more flexible pricing for teams",
+    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "published": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "faa60f35b7b4c481314aff9d5c62fefcf38ce54f6ff756c6f24ccb43bef11a20",
     "title": "Shifting to AI model customization is an architectural imperative",
     "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
@@ -23980,6 +24030,52 @@
     "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
     "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8230;",
     "published": "Wed, 01 Apr 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "f314c2659e5937de263db9417bbb396764c139d00e26d8a44bb4c4195540b169",
+    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;",
+    "published": "Thu, 02 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "fd4e51186d55332ca9f90cf24799a79cfc93c92c92ecd2f58a5adfa71ecd69b5",
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the&#8230;",
+    "published": "Thu, 02 Apr 2026 10:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

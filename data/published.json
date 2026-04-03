@@ -5498,5 +5498,255 @@
       "authority:9",
       "old:172d"
     ]
+  },
+  {
+    "id": "14d5465fb129336cdf6bc3746feb8d56566a3580abd20280a9cdbed7025c26e5",
+    "title": "OpenAI acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn",
+    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "published": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "e5d8175c1b9d049b7ab981cd2490c2e36bd6b3cf97e6aadaf50808806b462325",
+    "title": "OpenAI Baselines: DQN",
+    "link": "https://openai.com/index/openai-baselines-dqn",
+    "summary": "We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We’ll release the algorithms over upcoming months; today’s release includes DQN and three of its variants.",
+    "published": "Wed, 24 May 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3217d"
+    ]
+  },
+  {
+    "id": "009db3a41fe5533b4a42c6a8e85f0a48359f2eeac6bb9844b0b1538c145b4014",
+    "title": "Improving Model Safety Behavior with Rule-Based Rewards",
+    "link": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards",
+    "summary": "We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.",
+    "published": "Wed, 24 Jul 2024 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:599d"
+    ]
+  },
+  {
+    "id": "f3e2742114d0409eaa37559ba17c42a7fb19bdc3f715e2c880ad7eb91686ee91",
+    "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+    "link": "https://openai.com/index/gpt-4-api-general-availability",
+    "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+    "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:690d"
+    ]
+  },
+  {
+    "id": "317d582586bb953e55c6f56ec456973ab7e1a7e6ec40815c12eb327c846ab14d",
+    "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+    "link": "https://openai.com/index/model-ml-chaz-englander",
+    "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+    "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:235d"
+    ]
+  },
+  {
+    "id": "cbe26a3bb478e2a49eafaf4118651154ab9ba735534742bf3c17778501cf11c5",
+    "title": "Announcing OpenAI DevDay 2025",
+    "link": "https://openai.com/index/announcing-devday-2025",
+    "summary": "OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI.",
+    "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:235d"
+    ]
+  },
+  {
+    "id": "8944d80c2476471881b9232173db9fe68e4749e6bed6fe239b2469d72656fdae",
+    "title": "Introducing our latest image generation model in the API",
+    "link": "https://openai.com/index/image-generation-api",
+    "summary": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
+    "published": "Wed, 23 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:326d"
+    ]
+  },
+  {
+    "id": "1218d924ad916ce2de604b29ac0bcbfb707c82a30d3ef705c21f70755513f49b",
+    "title": "The next chapter for UK sovereign AI",
+    "link": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+    "summary": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+    "published": "Wed, 22 Oct 2025 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:144d"
+    ]
+  },
+  {
+    "id": "bfc65d003c6c9faa5c5b19743611beef53a9e9ffc97d5f67c7b3f37ffe132589",
+    "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+    "link": "https://openai.com/index/japan-economic-blueprint",
+    "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+    "published": "Wed, 22 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:144d"
+    ]
+  },
+  {
+    "id": "d5ac0e0a585f5c219a04bb6dcde7872ec6a46a51282f8584bcb6d0adb0addbec",
+    "title": "A landmark multi-year global partnership with News Corp",
+    "link": "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership",
+    "summary": "Companies Join Forces to Enrich OpenAI’s Generative AI Products and Platforms with Premium Journalism",
+    "published": "Wed, 22 May 2024 13:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:662d"
+    ]
   }
 ]
