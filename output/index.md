@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-03 07:59 UTC_
+_Actualizado: 2026-04-04 07:45 UTC_
 
 ## Selección priorizada
 
-### 1. A landmark multi-year global partnership with News Corp
+### 1. OpenAI and Target team up on new AI-powered experiences
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Nov 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:116d
+- **Enlace:** https://openai.com/index/target-partnership
+
+OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.
+
+---
+
+### 2. How evals drive the next chapter in AI for businesses
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Nov 2025 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:116d
+- **Enlace:** https://openai.com/index/evals-drive-next-chapter-of-ai
+
+Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.
+
+---
+
+### 3. Mixi reimagines communication with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 Aug 2025 17:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:207d
+- **Enlace:** https://openai.com/index/mixi
+
+Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.
+
+---
+
+### 4. DALL·E now available in beta
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 Jul 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1334d
+- **Enlace:** https://openai.com/index/dall-e-now-available-in-beta
+
+We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation increments for $15.
+
+---
+
+### 5. Faulty reward functions in the wild
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 Dec 2016 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3371d
+- **Enlace:** https://openai.com/index/faulty-reward-functions
+
+Reinforcement learning algorithms can break in surprising, counterintuitive ways. In this post we’ll explore one failure mode, which is where you misspecify your reward function.
+
+---
+
+### 6. Introducing Edu for Countries
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 Jan 2026 01:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
+- **Enlace:** https://openai.com/index/edu-for-countries
+
+Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.
+
+---
+
+### 7. How countries can end the capability overhang
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 Jan 2026 01:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
+- **Enlace:** https://openai.com/index/how-countries-can-end-the-capability-overhang
+
+Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.
+
+---
+
+### 8. How Higgsfield turns simple ideas into cinematic social videos
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 Jan 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
+- **Enlace:** https://openai.com/index/higgsfield
+
+Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.
+
+---
+
+### 9. Introducing Whisper
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 Sep 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1271d
+- **Enlace:** https://openai.com/index/whisper
+
+We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.
+
+---
+
+### 10. Bertelsmann powers creativity and productivity with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 22 Jan 2025 17:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:417d
+- **Enlace:** https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai
+
+Bertelsmann, the global media, services, and education company headquartered in Germany, will integrate OpenAI’s technology across multiple brands around the world.
+
+---
+
+### 11. A landmark multi-year global partnership with News Corp
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Companies Join Forces to Enrich OpenAI’s Generative AI Products and Platforms 
 
 ---
 
-### 2. AI in Japan—OpenAI’s Japan Economic Blueprint
+### 12. AI in Japan—OpenAI’s Japan Economic Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost i
 
 ---
 
-### 3. The next chapter for UK sovereign AI
+### 13. The next chapter for UK sovereign AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI expands its UK partnership with a new Ministry of Justice agreement, brin
 
 ---
 
-### 4. Introducing our latest image generation model in the API
+### 14. Introducing our latest image generation model in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Our latest image generation model is now available in the API via ‘gpt-image-1
 
 ---
 
-### 5. Announcing OpenAI DevDay 2025
+### 15. Announcing OpenAI DevDay 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,
 
 ---
 
-### 6. Model ML is helping financial firms rebuild with AI from the ground up
+### 16. Model ML is helping financial firms rebuild with AI from the ground up
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ As part of our Executive Function series, Model ML CEO Chaz Englander discusses 
 
 ---
 
-### 7. GPT-4 API general availability and deprecation of older models in the Completions API
+### 17. GPT-4 API general availability and deprecation of older models in the Completions API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are
 
 ---
 
-### 8. Improving Model Safety Behavior with Rule-Based Rewards
+### 18. Improving Model Safety Behavior with Rule-Based Rewards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) th
 
 ---
 
-### 9. OpenAI Baselines: DQN
+### 19. OpenAI Baselines: DQN
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinfor
 
 ---
 
-### 10. OpenAI acquires TBPN
+### 20. OpenAI acquires TBPN
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,137 +261,5 @@ We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinfor
 - **Enlace:** https://openai.com/index/openai-acquires-tbpn
 
 OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.
-
----
-
-### 11. SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Sep 2025 04:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:172d
-- **Enlace:** https://openai.com/global-affairs/openai-for-germany
-
-SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.
-
----
-
-### 12. Transforming the manufacturing industry with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Sep 2025 17:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:172d
-- **Enlace:** https://openai.com/index/eneos-materials
-
-By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements, strengthening competitiveness in manufacturing.
-
----
-
-### 13. Team update
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 25 May 2016 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3581d
-- **Enlace:** https://openai.com/index/team-update
-
-We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-
----
-
-### 14. Adversarial training methods for semi-supervised text classification
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 25 May 2016 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3581d
-- **Enlace:** https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
-
-
-
----
-
-### 15. Security on the path to AGI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 26 Mar 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:354d
-- **Enlace:** https://openai.com/index/security-on-the-path-to-agi
-
-At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models.
-
----
-
-### 16. Mixpanel security incident: what OpenAI users need to know
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 26 Nov 2025 19:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:108d
-- **Enlace:** https://openai.com/index/mixpanel-incident
-
-OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.
-
----
-
-### 17. OpenAI Gym Beta
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 Apr 2016 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3609d
-- **Enlace:** https://openai.com/index/openai-gym-beta
-
-We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to Atari games), and a site for comparing and reproducing results.
-
----
-
-### 18. Collective alignment: public input on our Model Spec
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 Aug 2025 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:200d
-- **Enlace:** https://openai.com/index/collective-alignment-aug-2025-updates
-
-OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.
-
----
-
-### 19. OpenAI’s comment to the NTIA on open model weights
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 Mar 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:718d
-- **Enlace:** https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights
-
-OpenAI’s comment to the NTIA on open model weights
-
-This comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Available Weights.
-
----
-
-### 20. Gradient Labs gives every bank customer an AI account manager
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 01 Apr 2026 02:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/gradient-labs
-
-Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.
 
 ---

@@ -5748,5 +5748,255 @@
       "authority:9",
       "old:662d"
     ]
+  },
+  {
+    "id": "898a15a2861f2182410460ad61792d25691bfc82353f1a731e115b87945f58aa",
+    "title": "Bertelsmann powers creativity and productivity with OpenAI",
+    "link": "https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai",
+    "summary": "Bertelsmann, the global media, services, and education company headquartered in Germany, will integrate OpenAI’s technology across multiple brands around the world.",
+    "published": "Wed, 22 Jan 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:417d"
+    ]
+  },
+  {
+    "id": "3b2d5c9cef43863b2b40dc40e4e7264c7a78e2cb1401c2aa37201078ce8f8083",
+    "title": "Introducing Whisper",
+    "link": "https://openai.com/index/whisper",
+    "summary": "We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.",
+    "published": "Wed, 21 Sep 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1271d"
+    ]
+  },
+  {
+    "id": "7e790b947fa69980c51f13ceafef715d86fd088b84bc3bbf682e1c8bf44f06b3",
+    "title": "How Higgsfield turns simple ideas into cinematic social videos",
+    "link": "https://openai.com/index/higgsfield",
+    "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+    "published": "Wed, 21 Jan 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:53d"
+    ]
+  },
+  {
+    "id": "469f9a6719278f63208d6fb453e5d29ffdf7636faaa291450817ad0704221d87",
+    "title": "How countries can end the capability overhang",
+    "link": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+    "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:53d"
+    ]
+  },
+  {
+    "id": "fa2fed92141bd20c2bc5bd51ebdf8821aa7bc291f60b5caa923e28d063af0ed8",
+    "title": "Introducing Edu for Countries",
+    "link": "https://openai.com/index/edu-for-countries",
+    "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:53d"
+    ]
+  },
+  {
+    "id": "4fc8020f532c42a2eca6fea538aabd770049f43d31f928f917f6ed742c002368",
+    "title": "Faulty reward functions in the wild",
+    "link": "https://openai.com/index/faulty-reward-functions",
+    "summary": "Reinforcement learning algorithms can break in surprising, counterintuitive ways. In this post we’ll explore one failure mode, which is where you misspecify your reward function.",
+    "published": "Wed, 21 Dec 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3371d"
+    ]
+  },
+  {
+    "id": "c95d1ecc3c4dda55f474047963e9fccd7cb378c3d0130b424b3d73a5d3d9c74f",
+    "title": "DALL·E now available in beta",
+    "link": "https://openai.com/index/dall-e-now-available-in-beta",
+    "summary": "We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation increments for $15.",
+    "published": "Wed, 20 Jul 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1334d"
+    ]
+  },
+  {
+    "id": "9412da59a275a1045d442584f3604220c29319b80bf63267f01de312ce586338",
+    "title": "Mixi reimagines communication with ChatGPT",
+    "link": "https://openai.com/index/mixi",
+    "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
+    "published": "Wed, 20 Aug 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:207d"
+    ]
+  },
+  {
+    "id": "ab920640c3e8d607083de478458ac9129f91741794d5629b894d414e538f3ea0",
+    "title": "How evals drive the next chapter in AI for businesses",
+    "link": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+    "summary": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+    "published": "Wed, 19 Nov 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "f64e4a0fd851240527e6e8fd515495087547f92de93d5e5f76a95ddf2ad3f18f",
+    "title": "OpenAI and Target team up on new AI-powered experiences",
+    "link": "https://openai.com/index/target-partnership",
+    "summary": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.",
+    "published": "Wed, 19 Nov 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
   }
 ]
