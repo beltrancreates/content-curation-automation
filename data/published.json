@@ -5998,5 +5998,255 @@
       "authority:9",
       "old:116d"
     ]
+  },
+  {
+    "id": "1d49b4cbe7dd282eb64460d82db292e2c09e01788ae90378ebdd87cca9be60c2",
+    "title": "How Scania is accelerating work with AI across its global workforce",
+    "link": "https://openai.com/index/scania",
+    "summary": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+    "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "0fee7bfd08095ad7636da7529b514f13e622d74f9db0d535ab010d4b09b6e9d9",
+    "title": "Toward understanding and preventing misalignment generalization",
+    "link": "https://openai.com/index/emergent-misalignment",
+    "summary": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
+    "published": "Wed, 18 Jun 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:270d"
+    ]
+  },
+  {
+    "id": "1561a3b0218c0cf37933f1303cdac0c54c6375642f461dd7ca06e87ae3255959",
+    "title": "Preparing for future AI risks in biology",
+    "link": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+    "summary": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
+    "published": "Wed, 18 Jun 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:270d"
+    ]
+  },
+  {
+    "id": "a5c146a8e9132ba372dee8e53b1edaba52ecce03dcabf92342e0af6228ff4f4c",
+    "title": "OpenAI Five Benchmark",
+    "link": "https://openai.com/index/openai-five-benchmark",
+    "summary": "The OpenAI Five Benchmark match is now over!",
+    "published": "Wed, 18 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2797d"
+    ]
+  },
+  {
+    "id": "990f2c608d5d0ba35a8fb94be1241f837e9664b285f3144b174f0d0d8f3ed7dc",
+    "title": "Evolved Policy Gradients",
+    "link": "https://openai.com/index/evolved-policy-gradients",
+    "summary": "We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Agents trained with EPG can succeed at basic tasks at test time that were outside their training regime, like learning to navigate to an object on a different side of the room from where it was placed during training.",
+    "published": "Wed, 18 Apr 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2888d"
+    ]
+  },
+  {
+    "id": "3362f8d78f51ce28624bfe00b96e7b275b09e587a6ef9bfe11f2735e37288bbb",
+    "title": "Image GPT",
+    "link": "https://openai.com/index/image-gpt",
+    "summary": "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised setting.",
+    "published": "Wed, 17 Jun 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2097d"
+    ]
+  },
+  {
+    "id": "de0394a8bec4cdd73c15e50c040ae3d104cced8fbc85834310038668740afe20",
+    "title": "Prover-Verifier Games improve legibility of language model outputs",
+    "link": "https://openai.com/index/prover-verifier-games-improve-legibility",
+    "summary": "Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines.",
+    "published": "Wed, 17 Jul 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:606d"
+    ]
+  },
+  {
+    "id": "ce71b8fc1cff69a89c4b1b32b407a0ff70e99112dddf44dfbf3295d55c70f152",
+    "title": "Introducing OpenAI Academy for News Organizations",
+    "link": "https://openai.com/index/openai-academy-for-news-organizations",
+    "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+    "published": "Wed, 17 Dec 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:88d"
+    ]
+  },
+  {
+    "id": "90a2eabb9e26f650ef3addca35ac28a1398c16e6c23e9a90c6863e482f5117f1",
+    "title": "The state of enterprise AI",
+    "link": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+    "summary": "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities.",
+    "published": "Wed, 17 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:88d"
+    ]
+  },
+  {
+    "id": "f4479f763510ee0a7c17da8e92634294b1953efb5c5e3b326d44d0025fc6537f",
+    "title": "AI and compute",
+    "link": "https://openai.com/index/ai-and-compute",
+    "summary": "We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore’s Law had a 2-year doubling period)[^footnote-correction]. Since 2012, this metric has grown by more than 300,000x (a 2-year doubling period would yield only a 7x increase). Improvements in compute have been a key component of AI progress, so as long as this trend continues, it’s worth preparing for the implications of systems far outside today’s capabilities.",
+    "published": "Wed, 16 May 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2860d"
+    ]
   }
 ]
