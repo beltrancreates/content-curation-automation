@@ -6248,5 +6248,255 @@
       "authority:9",
       "old:2860d"
     ]
+  },
+  {
+    "id": "bf0a70931df7384f4bd7fdb021f4697693fb3849ac8ced22731ffa030207050c",
+    "title": "OpenAI acquires Global Illumination",
+    "link": "https://openai.com/index/openai-acquires-global-illumination",
+    "summary": "The entire team has joined OpenAI.",
+    "published": "Wed, 16 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:942d"
+    ]
+  },
+  {
+    "id": "3a4aa4162aea03a6d1a83995f3ffec1d9246b6b4389f96d4ecb1b79f62642f0e",
+    "title": "Introducing OpenAI o3 and o4-mini",
+    "link": "https://openai.com/index/introducing-o3-and-o4-mini",
+    "summary": "Our smartest and most capable models to date with full tool access",
+    "published": "Wed, 16 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:333d"
+    ]
+  },
+  {
+    "id": "e7a9d57a90b31d01ff7eb0f10804c44c6eecc70b56f75b0cf88ff44f64dbab23",
+    "title": "Thinking with images",
+    "link": "https://openai.com/index/thinking-with-images",
+    "summary": "OpenAI o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought.",
+    "published": "Wed, 16 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:333d"
+    ]
+  },
+  {
+    "id": "e1a8167b743a86581ef1a7d872b246f845594ea16906b1099c9d8daec5d7bbc4",
+    "title": "OpenAI o3 and o4-mini System Card",
+    "link": "https://openai.com/index/o3-o4-mini-system-card",
+    "summary": "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory.",
+    "published": "Wed, 16 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:333d"
+    ]
+  },
+  {
+    "id": "2a6ba77087a1efc5ffa58cc5fdfcaa0d100ea47269855982303895add05e2f26",
+    "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
+    "link": "https://openai.com/index/plex-coffee",
+    "summary": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+    "published": "Wed, 15 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:151d"
+    ]
+  },
+  {
+    "id": "d724cda367b31385f24b10b870da3d55d484de5e4414bb87e8f32008857fe40a",
+    "title": "Partnering with Axios expands OpenAI’s work with the news industry",
+    "link": "https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry",
+    "summary": "Publishers representing hundreds of newsrooms and content brands are using OpenAI partnerships and grant programs to adopt AI tools and strengthen the news ecosystem, while ChatGPT users gain access to information from leading, reliable publications.",
+    "published": "Wed, 15 Jan 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:424d"
+    ]
+  },
+  {
+    "id": "6adbb76139120fb491b85958652b317c4bfe714e316d6fc6672cd7812e0aa856",
+    "title": "AI powers Expedia’s marketing evolution",
+    "link": "https://openai.com/index/expedia-jochen-koedijk",
+    "summary": "A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.",
+    "published": "Wed, 14 May 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:305d"
+    ]
+  },
+  {
+    "id": "bc4865f95829632f962714937edf18111ce13d7bd1cff60ae294f77b52af887a",
+    "title": "OpenAI partners with Cerebras",
+    "link": "https://openai.com/index/cerebras-partnership",
+    "summary": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+    "published": "Wed, 14 Jan 2026 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:60d"
+    ]
+  },
+  {
+    "id": "7071c43cdf5d204f88bfb64b0267e515570a076383463ad9303e816ec16e3d68",
+    "title": "Disrupting malicious uses of AI by state-affiliated threat actors",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors",
+    "summary": "We terminated accounts associated with state-affiliated threat actors. Our findings show our models offer only limited, incremental capabilities for malicious cybersecurity tasks.",
+    "published": "Wed, 14 Feb 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:760d"
+    ]
+  },
+  {
+    "id": "77fd23a8c5158ac3b7f8f203857ece2217314b0cce8944cfdc9045b36ebaedfd",
+    "title": "Awakening Sleeping Beauties at The Met",
+    "link": "https://openai.com/index/the-met-museum",
+    "summary": "AI can enrich lives through beauty and creativity, and its artistic potential shines in \"Sleeping Beauties: Reawakening Fashion,\" a collaborative exhibit from The Met's Costume Institute.",
+    "published": "Wed, 14 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:578d"
+    ]
   }
 ]

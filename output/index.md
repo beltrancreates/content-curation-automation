@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-05 07:52 UTC_
+_Actualizado: 2026-04-06 08:20 UTC_
 
 ## Selección priorizada
 
-### 1. AI and compute
+### 1. Awakening Sleeping Beauties at The Met
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Aug 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:578d
+- **Enlace:** https://openai.com/index/the-met-museum
+
+AI can enrich lives through beauty and creativity, and its artistic potential shines in "Sleeping Beauties: Reawakening Fashion," a collaborative exhibit from The Met's Costume Institute.
+
+---
+
+### 2. Disrupting malicious uses of AI by state-affiliated threat actors
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Feb 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:760d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors
+
+We terminated accounts associated with state-affiliated threat actors. Our findings show our models offer only limited, incremental capabilities for malicious cybersecurity tasks.
+
+---
+
+### 3. OpenAI partners with Cerebras
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Jan 2026 14:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:60d
+- **Enlace:** https://openai.com/index/cerebras-partnership
+
+OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.
+
+---
+
+### 4. AI powers Expedia’s marketing evolution
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 May 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:305d
+- **Enlace:** https://openai.com/index/expedia-jochen-koedijk
+
+A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.
+
+---
+
+### 5. Partnering with Axios expands OpenAI’s work with the news industry
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Jan 2025 03:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:424d
+- **Enlace:** https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry
+
+Publishers representing hundreds of newsrooms and content brands are using OpenAI partnerships and grant programs to adopt AI tools and strengthen the news ecosystem, while ChatGPT users gain access to information from leading, reliable publications.
+
+---
+
+### 6. Plex Coffee delivers fast service and personal connections with ChatGPT Business
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:151d
+- **Enlace:** https://openai.com/index/plex-coffee
+
+Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.
+
+---
+
+### 7. OpenAI o3 and o4-mini System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Apr 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:333d
+- **Enlace:** https://openai.com/index/o3-o4-mini-system-card
+
+OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory.
+
+---
+
+### 8. Thinking with images
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Apr 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:333d
+- **Enlace:** https://openai.com/index/thinking-with-images
+
+OpenAI o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought.
+
+---
+
+### 9. Introducing OpenAI o3 and o4-mini
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Apr 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:333d
+- **Enlace:** https://openai.com/index/introducing-o3-and-o4-mini
+
+Our smartest and most capable models to date with full tool access
+
+---
+
+### 10. OpenAI acquires Global Illumination
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Aug 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:942d
+- **Enlace:** https://openai.com/index/openai-acquires-global-illumination
+
+The entire team has joined OpenAI.
+
+---
+
+### 11. AI and compute
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re releasing an analysis showing that since 2012, the amount of compute use
 
 ---
 
-### 2. The state of enterprise AI
+### 12. The state of enterprise AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A data-driven look at enterprise AI adoption, showing how organizations move fro
 
 ---
 
-### 3. Introducing OpenAI Academy for News Organizations
+### 13. Introducing OpenAI Academy for News Organizations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI is launching the OpenAI Academy for News Organizations, a new learning hu
 
 ---
 
-### 4. Prover-Verifier Games improve legibility of language model outputs
+### 14. Prover-Verifier Games improve legibility of language model outputs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how prover-verifier games improve the legibility of language model outp
 
 ---
 
-### 5. Image GPT
+### 15. Image GPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We find that, just as a large transformer model trained on language can generate
 
 ---
 
-### 6. Evolved Policy Gradients
+### 16. Evolved Policy Gradients
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’re releasing an experimental metalearning approach called Evolved Policy Gr
 
 ---
 
-### 7. OpenAI Five Benchmark
+### 17. OpenAI Five Benchmark
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ The OpenAI Five Benchmark match is now over!
 
 ---
 
-### 8. Preparing for future AI risks in biology
+### 18. Preparing for future AI risks in biology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Advanced AI can transform biology and medicine—but also raises biosecurity ris
 
 ---
 
-### 9. Toward understanding and preventing misalignment generalization
+### 19. Toward understanding and preventing misalignment generalization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We study how training on incorrect responses can cause broader misalignment in l
 
 ---
 
-### 10. How Scania is accelerating work with AI across its global workforce
+### 20. How Scania is accelerating work with AI across its global workforce
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ We study how training on incorrect responses can cause broader misalignment in l
 - **Enlace:** https://openai.com/index/scania
 
 Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.
-
----
-
-### 11. OpenAI and Target team up on new AI-powered experiences
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 19 Nov 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:116d
-- **Enlace:** https://openai.com/index/target-partnership
-
-OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.
-
----
-
-### 12. How evals drive the next chapter in AI for businesses
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 19 Nov 2025 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:116d
-- **Enlace:** https://openai.com/index/evals-drive-next-chapter-of-ai
-
-Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.
-
----
-
-### 13. Mixi reimagines communication with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 Aug 2025 17:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:207d
-- **Enlace:** https://openai.com/index/mixi
-
-Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.
-
----
-
-### 14. DALL·E now available in beta
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 Jul 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1334d
-- **Enlace:** https://openai.com/index/dall-e-now-available-in-beta
-
-We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation increments for $15.
-
----
-
-### 15. Faulty reward functions in the wild
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Dec 2016 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3371d
-- **Enlace:** https://openai.com/index/faulty-reward-functions
-
-Reinforcement learning algorithms can break in surprising, counterintuitive ways. In this post we’ll explore one failure mode, which is where you misspecify your reward function.
-
----
-
-### 16. Introducing Edu for Countries
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Jan 2026 01:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
-- **Enlace:** https://openai.com/index/edu-for-countries
-
-Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.
-
----
-
-### 17. How countries can end the capability overhang
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Jan 2026 01:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
-- **Enlace:** https://openai.com/index/how-countries-can-end-the-capability-overhang
-
-Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.
-
----
-
-### 18. How Higgsfield turns simple ideas into cinematic social videos
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Jan 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
-- **Enlace:** https://openai.com/index/higgsfield
-
-Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.
-
----
-
-### 19. Introducing Whisper
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Sep 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1271d
-- **Enlace:** https://openai.com/index/whisper
-
-We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.
-
----
-
-### 20. Bertelsmann powers creativity and productivity with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 22 Jan 2025 17:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:417d
-- **Enlace:** https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai
-
-Bertelsmann, the global media, services, and education company headquartered in Germany, will integrate OpenAI’s technology across multiple brands around the world.
 
 ---
