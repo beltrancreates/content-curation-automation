@@ -6498,5 +6498,255 @@
       "authority:9",
       "old:578d"
     ]
+  },
+  {
+    "id": "483ce518de188812ce526966440f3414a0d95f2d6a6cefccd443d235e08c2f5c",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+    "published": "Mon, 06 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "9880e01ea8a93acf3473514f79563813b378dfdfd8f6b2581af2263436ed579a",
+    "title": "Industrial policy for the Intelligence Age",
+    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "published": "Mon, 06 Apr 2026 02:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a9ae523513903e0e900b504e27dc488c652cf415c7705cbb012cd31702f00b42",
+    "title": "Introducing OpenAI Dublin",
+    "link": "https://openai.com/index/introducing-openai-dublin",
+    "summary": "We’re growing our presence in Europe with an office in Dublin, Ireland.",
+    "published": "Wed, 13 Sep 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:914d"
+    ]
+  },
+  {
+    "id": "902ca2cd6bcd69b597f62848b23db9eb777e17b77aa471d291c7124e377ad4bd",
+    "title": "Saving lives with AI health coaching",
+    "link": "https://openai.com/index/healthify",
+    "summary": "Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.",
+    "published": "Wed, 13 Mar 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:732d"
+    ]
+  },
+  {
+    "id": "ca9eab3f5a4b2324eb0eea022f5d3722405c24efb91d43456b35765dda0365ae",
+    "title": "OpenAI Scholars 2019: Meet our Scholars",
+    "link": "https://openai.com/index/openai-scholars-2019-meet-our-scholars",
+    "summary": "Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation.",
+    "published": "Wed, 13 Mar 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2559d"
+    ]
+  },
+  {
+    "id": "3c2c7078568e0222e96d883f0c864ae01c53cd9ccc4e142030c507d05f29a88c",
+    "title": "Partnership with Axel Springer to deepen beneficial use of AI in journalism",
+    "link": "https://openai.com/index/axel-springer-partnership",
+    "summary": "Axel Springer is the first publishing house globally to partner with us on a deeper integration of journalism in AI technologies.",
+    "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:823d"
+    ]
+  },
+  {
+    "id": "679f4671fd77f790e0284c225136028dc0d3c5723662dfcde057023efa2b9131",
+    "title": "Measuring Goodhart’s law",
+    "link": "https://openai.com/index/measuring-goodharts-law",
+    "summary": "Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.",
+    "published": "Wed, 13 Apr 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1432d"
+    ]
+  },
+  {
+    "id": "27bfcd1e674b5f6822d853ad42c1e11862b13dae5a7965b5227e9d125d8a7d44",
+    "title": "Neuro drives national retail wins with ChatGPT Business",
+    "link": "https://openai.com/index/neurogum",
+    "summary": "Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas into growth.",
+    "published": "Wed, 12 Nov 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:123d"
+    ]
+  },
+  {
+    "id": "223e4f35ff3bdeb105669f3bd070ec0e4d1240f0091bff6aeca481f2245cd5bc",
+    "title": "Fighting the New York Times’ invasion of user privacy",
+    "link": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
+    "summary": "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.",
+    "published": "Wed, 12 Nov 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:123d"
+    ]
+  },
+  {
+    "id": "491f68aa8bf0822614f3315e129fd270119e3ba4a03eb83c6b1ee1e79a4ee833",
+    "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+    "link": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+    "summary": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
+    "published": "Wed, 12 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:123d"
+    ]
   }
 ]

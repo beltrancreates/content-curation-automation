@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-06 08:20 UTC_
+_Actualizado: 2026-04-07 08:09 UTC_
 
 ## Selección priorizada
 
-### 1. Awakening Sleeping Beauties at The Met
+### 1. GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 12 Nov 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:123d
+- **Enlace:** https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1
+
+This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.
+
+---
+
+### 2. Fighting the New York Times’ invasion of user privacy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 12 Nov 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:123d
+- **Enlace:** https://openai.com/index/fighting-nyt-user-privacy-invasion
+
+OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.
+
+---
+
+### 3. Neuro drives national retail wins with ChatGPT Business
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 12 Nov 2025 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:123d
+- **Enlace:** https://openai.com/index/neurogum
+
+Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas into growth.
+
+---
+
+### 4. Measuring Goodhart’s law
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Apr 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1432d
+- **Enlace:** https://openai.com/index/measuring-goodharts-law
+
+Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.
+
+---
+
+### 5. Partnership with Axel Springer to deepen beneficial use of AI in journalism
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Dec 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:823d
+- **Enlace:** https://openai.com/index/axel-springer-partnership
+
+Axel Springer is the first publishing house globally to partner with us on a deeper integration of journalism in AI technologies.
+
+---
+
+### 6. OpenAI Scholars 2019: Meet our Scholars
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Mar 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2559d
+- **Enlace:** https://openai.com/index/openai-scholars-2019-meet-our-scholars
+
+Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation.
+
+---
+
+### 7. Saving lives with AI health coaching
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Mar 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:732d
+- **Enlace:** https://openai.com/index/healthify
+
+Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
+
+---
+
+### 8. Introducing OpenAI Dublin
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Sep 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:914d
+- **Enlace:** https://openai.com/index/introducing-openai-dublin
+
+We’re growing our presence in Europe with an office in Dublin, Ireland.
+
+---
+
+### 9. Industrial policy for the Intelligence Age
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Apr 2026 02:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/industrial-policy-for-the-intelligence-age
+
+Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.
+
+---
+
+### 10. Announcing the OpenAI Safety Fellowship
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Apr 2026 10:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-openai-safety-fellowship
+
+A pilot program to support independent safety and alignment research and develop the next generation of talent
+
+---
+
+### 11. Awakening Sleeping Beauties at The Met
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ AI can enrich lives through beauty and creativity, and its artistic potential sh
 
 ---
 
-### 2. Disrupting malicious uses of AI by state-affiliated threat actors
+### 12. Disrupting malicious uses of AI by state-affiliated threat actors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We terminated accounts associated with state-affiliated threat actors. Our findi
 
 ---
 
-### 3. OpenAI partners with Cerebras
+### 13. OpenAI partners with Cerebras
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing in
 
 ---
 
-### 4. AI powers Expedia’s marketing evolution
+### 14. AI powers Expedia’s marketing evolution
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.
 
 ---
 
-### 5. Partnering with Axios expands OpenAI’s work with the news industry
+### 15. Partnering with Axios expands OpenAI’s work with the news industry
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Publishers representing hundreds of newsrooms and content brands are using OpenA
 
 ---
 
-### 6. Plex Coffee delivers fast service and personal connections with ChatGPT Business
+### 16. Plex Coffee delivers fast service and personal connections with ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff
 
 ---
 
-### 7. OpenAI o3 and o4-mini System Card
+### 17. OpenAI o3 and o4-mini System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool c
 
 ---
 
-### 8. Thinking with images
+### 18. Thinking with images
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI o3 and o4-mini represent a significant breakthrough in visual perception 
 
 ---
 
-### 9. Introducing OpenAI o3 and o4-mini
+### 19. Introducing OpenAI o3 and o4-mini
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Our smartest and most capable models to date with full tool access
 
 ---
 
-### 10. OpenAI acquires Global Illumination
+### 20. OpenAI acquires Global Illumination
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Our smartest and most capable models to date with full tool access
 - **Enlace:** https://openai.com/index/openai-acquires-global-illumination
 
 The entire team has joined OpenAI.
-
----
-
-### 11. AI and compute
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 May 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2860d
-- **Enlace:** https://openai.com/index/ai-and-compute
-
-We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore’s Law had a 2-year doubling period)[^footnote-correction]. Since 2012, this metric has grown by more than 300,000x (a 2-year doubling period would yield only a 7x increase). Improvements in compute have been a key component of AI progress, so as long as this trend continues, it’s worth preparing for 
-
----
-
-### 12. The state of enterprise AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:88d
-- **Enlace:** https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report
-
-A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities.
-
----
-
-### 13. Introducing OpenAI Academy for News Organizations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Dec 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:88d
-- **Enlace:** https://openai.com/index/openai-academy-for-news-organizations
-
-OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.
-
----
-
-### 14. Prover-Verifier Games improve legibility of language model outputs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Jul 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:606d
-- **Enlace:** https://openai.com/index/prover-verifier-games-improve-legibility
-
-Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines.
-
----
-
-### 15. Image GPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Jun 2020 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2097d
-- **Enlace:** https://openai.com/index/image-gpt
-
-We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised setting.
-
----
-
-### 16. Evolved Policy Gradients
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Apr 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2888d
-- **Enlace:** https://openai.com/index/evolved-policy-gradients
-
-We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Agents trained with EPG can succeed at basic tasks at test time that were outside their training regime, like learning to navigate to an object on a different side of the room from where it was placed during training.
-
----
-
-### 17. OpenAI Five Benchmark
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Jul 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2797d
-- **Enlace:** https://openai.com/index/openai-five-benchmark
-
-The OpenAI Five Benchmark match is now over!
-
----
-
-### 18. Preparing for future AI risks in biology
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Jun 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:270d
-- **Enlace:** https://openai.com/index/preparing-for-future-ai-capabilities-in-biology
-
-Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.
-
----
-
-### 19. Toward understanding and preventing misalignment generalization
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Jun 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:270d
-- **Enlace:** https://openai.com/index/emergent-misalignment
-
-We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.
-
----
-
-### 20. How Scania is accelerating work with AI across its global workforce
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 19 Nov 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:116d
-- **Enlace:** https://openai.com/index/scania
-
-Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.
 
 ---
