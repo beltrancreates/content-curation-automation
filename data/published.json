@@ -6748,5 +6748,255 @@
       "authority:9",
       "old:123d"
     ]
+  },
+  {
+    "id": "59dbafd00b95047bb0107750503c4276c39cf5124b1b2c4d1834ba9660b9910e",
+    "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+    "link": "https://openai.com/index/gpt-5-1",
+    "summary": "We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.",
+    "published": "Wed, 12 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:123d"
+    ]
+  },
+  {
+    "id": "eb18cb02116b38963902deab9952054627ba6f9d87a2fb57d4000c644a284024",
+    "title": "Driving growth and ‘WOW’ moments with OpenAI",
+    "link": "https://openai.com/index/ly-corporation",
+    "summary": "LY Corporation: Driving growth and ‘WOW’ moments with OpenAI",
+    "published": "Wed, 12 Mar 2025 18:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:367d"
+    ]
+  },
+  {
+    "id": "0f6a1a796ed29bdc19608a2a8f36ecd6b891a2a1438c0af6c149e355319a9fe8",
+    "title": "Sharing the latest Model Spec",
+    "link": "https://openai.com/index/sharing-the-latest-model-spec",
+    "summary": "We’ve made updates to the Model Spec based on external feedback and our continued research in shaping desired model behavior.",
+    "published": "Wed, 12 Feb 2025 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:396d"
+    ]
+  },
+  {
+    "id": "41a646ce122451769b3056336484b8f13964d35c2282232312b925fe219bd92a",
+    "title": "OpenAI’s technology explained",
+    "link": "https://openai.com/global-affairs/openai-technology-explained",
+    "summary": "",
+    "published": "Wed, 11 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:886d"
+    ]
+  },
+  {
+    "id": "78eedbc8b40debb0e0161a8e892dbb7eb3867e10360bd51c86f33e2101cf1bdf",
+    "title": "Simplifying contract reviews with AI",
+    "link": "https://openai.com/index/ironclad",
+    "summary": "Ironclad uses GPT-4 to simplify the contract review process.",
+    "published": "Wed, 11 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:886d"
+    ]
+  },
+  {
+    "id": "8db9e28435742fdf1c529864ae22d573231f9b2b4af9d443231f2d05ede16b96",
+    "title": "Building AI-powered apps for business",
+    "link": "https://openai.com/index/retool",
+    "summary": "Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.",
+    "published": "Wed, 11 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:886d"
+    ]
+  },
+  {
+    "id": "7be703c1bdab5325dc40696f057f44a32a15c9999101b77e177b5e9b02c4eed1",
+    "title": "Competitive self-play",
+    "link": "https://openai.com/index/competitive-self-play",
+    "summary": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.",
+    "published": "Wed, 11 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3077d"
+    ]
+  },
+  {
+    "id": "88ad0a2a21d672311960107ce5a5efdc9d2f244eb0bc67e90981d8ef963f8420",
+    "title": "Boosting the customer retail experience with GPT-4o mini",
+    "link": "https://openai.com/index/zalando",
+    "summary": "Zalando boosts the customer experience with its Assistant, powered by GPT-4o mini",
+    "published": "Wed, 11 Dec 2024 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:459d"
+    ]
+  },
+  {
+    "id": "e49d314ce069eb2bed7aaff67b9dde89a3a18187c6a519a2f83e48ae1100561c",
+    "title": "Strengthening cyber resilience as AI capabilities advance",
+    "link": "https://openai.com/index/strengthening-cyber-resilience",
+    "summary": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+    "published": "Wed, 10 Dec 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:95d"
+    ]
+  },
+  {
+    "id": "e9907d30f73c7d01a491f37704b06151c75ad9facacd52fdabc514add5c64b63",
+    "title": "New and improved content moderation tooling",
+    "link": "https://openai.com/index/new-and-improved-content-moderation-tooling",
+    "summary": "We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers.",
+    "published": "Wed, 10 Aug 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1313d"
+    ]
   }
 ]
