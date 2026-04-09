@@ -6998,5 +6998,255 @@
       "authority:9",
       "old:1313d"
     ]
+  },
+  {
+    "id": "c11f4ee932b2b29510160277b501691255004350d07373af9455233f889258e5",
+    "title": "Introducing the Child Safety Blueprint",
+    "link": "https://openai.com/index/introducing-child-safety-blueprint",
+    "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a297dca1726fa87692900bb1594ed32fe8387e50dcf730d8ab7515ce1ee7b68a",
+    "title": "The next phase of enterprise AI",
+    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "published": "Wed, 08 Apr 2026 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "e6aba71d5856a12bcf804e65e4083948de05f8ae2fe8894031a720edbfdecb5f",
+    "title": "An update on disrupting deceptive uses of AI",
+    "link": "https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai",
+    "summary": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We are dedicated to identifying, preventing, and disrupting attempts to abuse our models for harmful ends.",
+    "published": "Wed, 09 Oct 2024 03:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:522d"
+    ]
+  },
+  {
+    "id": "94988ecf54e1262ccf27a000116590982601e0903d4323a143800c929e52d1ea",
+    "title": "Sam & Jony",
+    "link": "https://openai.com/sam-and-jony",
+    "summary": "Building a family of AI products for everyone.",
+    "published": "Wed, 09 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:249d"
+    ]
+  },
+  {
+    "id": "8da24e121e214a756cbccf3314e52e4745f3c1ae8dc8605b8ec6fe27c10f503e",
+    "title": "OpenAI Pioneers Program",
+    "link": "https://openai.com/index/openai-pioneers-program",
+    "summary": "Advancing model performance and real world evaluation in applied domains.",
+    "published": "Wed, 09 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:340d"
+    ]
+  },
+  {
+    "id": "43318874ca8df26303e82edb7dbbb107cb565f3deed4495d3473a5ed099f5c40",
+    "title": "Helen Toner joins OpenAI’s board of directors",
+    "link": "https://openai.com/index/helen-toner-joins",
+    "summary": "Today, we’re excited to announce the appointment of Helen Toner to our board of directors.",
+    "published": "Wed, 08 Sep 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1649d"
+    ]
+  },
+  {
+    "id": "a3a56762272464bee960f32fd548c0f2a78e23d51f7441b5b81183a7e1569840",
+    "title": "Growing impact and scale with ChatGPT",
+    "link": "https://openai.com/index/hibob",
+    "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+    "published": "Wed, 08 Oct 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:158d"
+    ]
+  },
+  {
+    "id": "fbc4d4479e673e5a5c066745a31adfe3b75cee4b2273d3af408f4cbd6f17436f",
+    "title": "Learning concepts with energy functions",
+    "link": "https://openai.com/index/learning-concepts-with-energy-functions",
+    "summary": "We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our model learns these concepts after only five demonstrations. We also show cross-domain transfer: we use concepts learned in a 2d particle environment to solve tasks on a 3-dimensional physics-based robot.",
+    "published": "Wed, 07 Nov 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2685d"
+    ]
+  },
+  {
+    "id": "f95c6e63dea079d7f058294114bb6dfc842cee48b816918e06f7a55f2398566d",
+    "title": "OpenAI Expands Leadership with Fidji Simo",
+    "link": "https://openai.com/index/leadership-expansion-with-fidji-simo",
+    "summary": "Read the message Sam shared with the company earlier today.",
+    "published": "Wed, 07 May 2025 21:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:311d"
+    ]
+  },
+  {
+    "id": "66d9c5b52ed5bf4616121f9b5562713e47f01d02a97584e04a3a4e7920880a65",
+    "title": "OpenAI’s response to the Department of Energy on AI infrastructure",
+    "link": "https://openai.com/global-affairs/response-to-department-of-energy",
+    "summary": "Why infrastructure is destiny and how the US can seize it.",
+    "published": "Wed, 07 May 2025 18:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:311d"
+    ]
   }
 ]

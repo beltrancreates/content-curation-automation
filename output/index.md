@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-08 08:10 UTC_
+_Actualizado: 2026-04-09 08:16 UTC_
 
 ## Selección priorizada
 
-### 1. New and improved content moderation tooling
+### 1. OpenAI’s response to the Department of Energy on AI infrastructure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 May 2025 18:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:311d
+- **Enlace:** https://openai.com/global-affairs/response-to-department-of-energy
+
+Why infrastructure is destiny and how the US can seize it.
+
+---
+
+### 2. OpenAI Expands Leadership with Fidji Simo
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 May 2025 21:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:311d
+- **Enlace:** https://openai.com/index/leadership-expansion-with-fidji-simo
+
+Read the message Sam shared with the company earlier today.
+
+---
+
+### 3. Learning concepts with energy functions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Nov 2018 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2685d
+- **Enlace:** https://openai.com/index/learning-concepts-with-energy-functions
+
+We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our model learns these concepts after only five demonstrations. We also show cross-domain transfer: we use concepts learned in a 2d particle environment to solve tasks on a 3-dimensional physics-based robot.
+
+---
+
+### 4. Growing impact and scale with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Oct 2025 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:158d
+- **Enlace:** https://openai.com/index/hibob
+
+Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.
+
+---
+
+### 5. Helen Toner joins OpenAI’s board of directors
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Sep 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1649d
+- **Enlace:** https://openai.com/index/helen-toner-joins
+
+Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
+
+---
+
+### 6. OpenAI Pioneers Program
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Apr 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:340d
+- **Enlace:** https://openai.com/index/openai-pioneers-program
+
+Advancing model performance and real world evaluation in applied domains.
+
+---
+
+### 7. Sam & Jony
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:249d
+- **Enlace:** https://openai.com/sam-and-jony
+
+Building a family of AI products for everyone.
+
+---
+
+### 8. An update on disrupting deceptive uses of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Oct 2024 03:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:522d
+- **Enlace:** https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai
+
+OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We are dedicated to identifying, preventing, and disrupting attempts to abuse our models for harmful ends.
+
+---
+
+### 9. The next phase of enterprise AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Apr 2026 14:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/next-phase-of-enterprise-ai
+
+OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.
+
+---
+
+### 10. Introducing the Child Safety Blueprint
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Apr 2026 05:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-child-safety-blueprint
+
+Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.
+
+---
+
+### 11. New and improved content moderation tooling
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We are introducing a new and improved content moderation tool. The Moderation e
 
 ---
 
-### 2. Strengthening cyber resilience as AI capabilities advance
+### 12. Strengthening cyber resilience as AI capabilities advance
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI is investing in stronger safeguards and defensive capabilities as AI mode
 
 ---
 
-### 3. Boosting the customer retail experience with GPT-4o mini
+### 13. Boosting the customer retail experience with GPT-4o mini
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Zalando boosts the customer experience with its Assistant, powered by GPT-4o min
 
 ---
 
-### 4. Competitive self-play
+### 14. Competitive self-play
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’ve found that self-play allows simulated AIs to discover physical skills li
 
 ---
 
-### 5. Building AI-powered apps for business
+### 15. Building AI-powered apps for business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps
 
 ---
 
-### 6. Simplifying contract reviews with AI
+### 16. Simplifying contract reviews with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Ironclad uses GPT-4 to simplify the contract review process.
 
 ---
 
-### 7. OpenAI’s technology explained
+### 17. OpenAI’s technology explained
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Ironclad uses GPT-4 to simplify the contract review process.
 
 ---
 
-### 8. Sharing the latest Model Spec
+### 18. Sharing the latest Model Spec
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’ve made updates to the Model Spec based on external feedback and our contin
 
 ---
 
-### 9. Driving growth and ‘WOW’ moments with OpenAI
+### 19. Driving growth and ‘WOW’ moments with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ LY Corporation: Driving growth and ‘WOW’ moments with OpenAI
 
 ---
 
-### 10. GPT-5.1: A smarter, more conversational ChatGPT
+### 20. GPT-5.1: A smarter, more conversational ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ LY Corporation: Driving growth and ‘WOW’ moments with OpenAI
 - **Enlace:** https://openai.com/index/gpt-5-1
 
 We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.
-
----
-
-### 11. GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Nov 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:123d
-- **Enlace:** https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1
-
-This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.
-
----
-
-### 12. Fighting the New York Times’ invasion of user privacy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Nov 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:123d
-- **Enlace:** https://openai.com/index/fighting-nyt-user-privacy-invasion
-
-OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.
-
----
-
-### 13. Neuro drives national retail wins with ChatGPT Business
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Nov 2025 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:123d
-- **Enlace:** https://openai.com/index/neurogum
-
-Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas into growth.
-
----
-
-### 14. Measuring Goodhart’s law
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Apr 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1432d
-- **Enlace:** https://openai.com/index/measuring-goodharts-law
-
-Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.
-
----
-
-### 15. Partnership with Axel Springer to deepen beneficial use of AI in journalism
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Dec 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:823d
-- **Enlace:** https://openai.com/index/axel-springer-partnership
-
-Axel Springer is the first publishing house globally to partner with us on a deeper integration of journalism in AI technologies.
-
----
-
-### 16. OpenAI Scholars 2019: Meet our Scholars
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Mar 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2559d
-- **Enlace:** https://openai.com/index/openai-scholars-2019-meet-our-scholars
-
-Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation.
-
----
-
-### 17. Saving lives with AI health coaching
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Mar 2024 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:732d
-- **Enlace:** https://openai.com/index/healthify
-
-Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
-
----
-
-### 18. Introducing OpenAI Dublin
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Sep 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:914d
-- **Enlace:** https://openai.com/index/introducing-openai-dublin
-
-We’re growing our presence in Europe with an office in Dublin, Ireland.
-
----
-
-### 19. Industrial policy for the Intelligence Age
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Apr 2026 02:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/industrial-policy-for-the-intelligence-age
-
-Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.
-
----
-
-### 20. Announcing the OpenAI Safety Fellowship
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Apr 2026 10:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-openai-safety-fellowship
-
-A pilot program to support independent safety and alignment research and develop the next generation of talent
 
 ---

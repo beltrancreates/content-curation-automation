@@ -17597,5 +17597,93 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "a297dca1726fa87692900bb1594ed32fe8387e50dcf730d8ab7515ce1ee7b68a",
+    "title": "The next phase of enterprise AI",
+    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "published": "Wed, 08 Apr 2026 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "c11f4ee932b2b29510160277b501691255004350d07373af9455233f889258e5",
+    "title": "Introducing the Child Safety Blueprint",
+    "link": "https://openai.com/index/introducing-child-safety-blueprint",
+    "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "731d233e2012602acd13ed957a58951506b736fe3b7e13b65873a8817da678cb",
+    "title": "How Balyasny Asset Management built an AI research engine",
+    "link": "https://openai.com/index/balyasny-asset-management",
+    "summary": "By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.",
+    "published": "Fri, 06 Mar 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "025fa3c721803279c265fe783991967ecec63037179426e9a7fce96e9273687e",
+    "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+    "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+    "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&#8230;",
+    "published": "Wed, 08 Apr 2026 14:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "b2e32ec5fafd8b09c0598d4370f36b80811142db53cfe607a7e4520bb42fe0e8",
+    "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+    "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region.&#160;&#160;President&#8230;",
+    "published": "Wed, 08 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
