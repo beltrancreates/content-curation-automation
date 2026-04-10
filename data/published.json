@@ -7248,5 +7248,255 @@
       "authority:9",
       "old:311d"
     ]
+  },
+  {
+    "id": "1d0fdfd0edd48ee2ba5c9ae0c56c6b121981bf013c7e1bffe15a069ed861cc1c",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "link": "https://openai.com/index/cyberagent",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a537278e7b8c382b6e669a259625167b28beb35b5bf30367dff3993fb6197835",
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "3b60bb4584ce5945ca80b29ad80786a5d6b954969268b8147ba8268e1e8dd979",
+    "title": "Introducing data residency in Asia",
+    "link": "https://openai.com/index/introducing-data-residency-in-asia",
+    "summary": "Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.",
+    "published": "Wed, 07 May 2025 18:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:311d"
+    ]
+  },
+  {
+    "id": "51c4ba0ed4ba7d81e0322e6107a4941323de96a4a1ac7c0d4914bcbd24bc3dbe",
+    "title": "Lowe’s puts project expertise into every hand",
+    "link": "https://openai.com/index/lowes",
+    "summary": "Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates—making complex home improvement projects easier to plan, navigate, and complete.",
+    "published": "Wed, 07 May 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:312d"
+    ]
+  },
+  {
+    "id": "2da073a230a528ee2109c7272545143d3f8feaeef80a60d29a3636cc04f1cd2b",
+    "title": "Introducing OpenAI for Countries",
+    "link": "https://openai.com/global-affairs/openai-for-countries",
+    "summary": "A new initiative to support countries around the world that want to build on democratic AI rails.",
+    "published": "Wed, 07 May 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:312d"
+    ]
+  },
+  {
+    "id": "168aa8f4bc4bf45c402260e798f12812ca4748f2aa22df772ed5d2d502f26317",
+    "title": "Evaluating large language models trained on code",
+    "link": "https://openai.com/index/evaluating-large-language-models-trained-on-code",
+    "summary": "",
+    "published": "Wed, 07 Jul 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1712d"
+    ]
+  },
+  {
+    "id": "46070815c07739262a0ccb1c6c912a207222f9ea8f3a54f1fc57de64f5fc1797",
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "link": "https://openai.com/index/tolan",
+    "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+    "published": "Wed, 07 Jan 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:67d"
+    ]
+  },
+  {
+    "id": "6f9a0886306b2a2c390ef104dd5234928d511e28a743ff5d80096c91e90de69f",
+    "title": "Pairing data with APIs to unlock customer value",
+    "link": "https://openai.com/index/rakuten-2024",
+    "summary": "Rakuten Pairs Data with AI to Unlock Customer Insights and Value",
+    "published": "Wed, 07 Aug 2024 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:585d"
+    ]
+  },
+  {
+    "id": "dd69277d57c7b84f76321b03dde183aa9971b4aa43c1bcef85c7dc0dac9ba81a",
+    "title": "Join us for OpenAI’s first developer conference on November 6 in San Francisco",
+    "link": "https://openai.com/index/announcing-openai-devday",
+    "summary": "Developer registration for in-person attendance will open in the coming weeks and developers everywhere will be able to livestream the keynote.",
+    "published": "Wed, 06 Sep 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:921d"
+    ]
+  },
+  {
+    "id": "8d29309bc691b0cd05a1fd217a5e8761799c0e87f97c23af2ffb167bde11738a",
+    "title": "Using AI to improve patient access to clinical trials",
+    "link": "https://openai.com/index/paradigm",
+    "summary": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+    "published": "Wed, 06 Mar 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:739d"
+    ]
   }
 ]

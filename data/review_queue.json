@@ -5050,6 +5050,56 @@
     ]
   },
   {
+    "id": "1d0fdfd0edd48ee2ba5c9ae0c56c6b121981bf013c7e1bffe15a069ed861cc1c",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "link": "https://openai.com/index/cyberagent",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a537278e7b8c382b6e669a259625167b28beb35b5bf30367dff3993fb6197835",
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "5785036cc010e8a373a9b2ee4f594064b469bce0476a7f2d54a0d88d032ebc70",
     "title": "Improving mathematical reasoning with process supervision",
     "link": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",
@@ -24386,6 +24436,29 @@
     "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region.&#160;&#160;President&#8230;",
     "published": "Wed, 08 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "526ff3ee6f9c88c19a8004699b2669840640157a3286af810306070200324504",
+    "title": "The Download: AstroTurf wars and exponential AI growth",
+    "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The&#8230;",
+    "published": "Thu, 09 Apr 2026 12:25:10 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

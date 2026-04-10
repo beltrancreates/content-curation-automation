@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-09 08:16 UTC_
+_Actualizado: 2026-04-10 08:19 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI’s response to the Department of Energy on AI infrastructure
+### 1. Using AI to improve patient access to clinical trials
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 06 Mar 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:739d
+- **Enlace:** https://openai.com/index/paradigm
+
+Paradigm uses OpenAI’s API to improve patient access to clinical trials.
+
+---
+
+### 2. Join us for OpenAI’s first developer conference on November 6 in San Francisco
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 06 Sep 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:921d
+- **Enlace:** https://openai.com/index/announcing-openai-devday
+
+Developer registration for in-person attendance will open in the coming weeks and developers everywhere will be able to livestream the keynote.
+
+---
+
+### 3. Pairing data with APIs to unlock customer value
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Aug 2024 16:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:585d
+- **Enlace:** https://openai.com/index/rakuten-2024
+
+Rakuten Pairs Data with AI to Unlock Customer Insights and Value
+
+---
+
+### 4. How Tolan builds voice-first AI with GPT-5.1
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Jan 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:67d
+- **Enlace:** https://openai.com/index/tolan
+
+Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.
+
+---
+
+### 5. Evaluating large language models trained on code
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Jul 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1712d
+- **Enlace:** https://openai.com/index/evaluating-large-language-models-trained-on-code
+
+
+
+---
+
+### 6. Introducing OpenAI for Countries
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 May 2025 03:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:312d
+- **Enlace:** https://openai.com/global-affairs/openai-for-countries
+
+A new initiative to support countries around the world that want to build on democratic AI rails.
+
+---
+
+### 7. Lowe’s puts project expertise into every hand
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 May 2025 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:312d
+- **Enlace:** https://openai.com/index/lowes
+
+Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates—making complex home improvement projects easier to plan, navigate, and complete.
+
+---
+
+### 8. Introducing data residency in Asia
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 May 2025 18:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:311d
+- **Enlace:** https://openai.com/index/introducing-data-residency-in-asia
+
+Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.
+
+---
+
+### 9. OpenAI Full Fan Mode Contest: Terms & Conditions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/full-fan-mode-contest-terms-conditions
+
+Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.
+
+---
+
+### 10. CyberAgent moves faster with ChatGPT Enterprise and Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/cyberagent
+
+CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.
+
+---
+
+### 11. OpenAI’s response to the Department of Energy on AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Why infrastructure is destiny and how the US can seize it.
 
 ---
 
-### 2. OpenAI Expands Leadership with Fidji Simo
+### 12. OpenAI Expands Leadership with Fidji Simo
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Read the message Sam shared with the company earlier today.
 
 ---
 
-### 3. Learning concepts with energy functions
+### 13. Learning concepts with energy functions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’ve developed an energy-based model that can quickly learn to identify and
 
 ---
 
-### 4. Growing impact and scale with ChatGPT
+### 14. Growing impact and scale with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption,
 
 ---
 
-### 5. Helen Toner joins OpenAI’s board of directors
+### 15. Helen Toner joins OpenAI’s board of directors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Today, we’re excited to announce the appointment of Helen Toner to our board o
 
 ---
 
-### 6. OpenAI Pioneers Program
+### 16. OpenAI Pioneers Program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Advancing model performance and real world evaluation in applied domains.
 
 ---
 
-### 7. Sam & Jony
+### 17. Sam & Jony
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Building a family of AI products for everyone.
 
 ---
 
-### 8. An update on disrupting deceptive uses of AI
+### 18. An update on disrupting deceptive uses of AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI’s mission is to ensure that artificial general intelligence benefits al
 
 ---
 
-### 9. The next phase of enterprise AI
+### 19. The next phase of enterprise AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI outlines the next phase of enterprise AI, as adoption accelerates across 
 
 ---
 
-### 10. Introducing the Child Safety Blueprint
+### 20. Introducing the Child Safety Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI outlines the next phase of enterprise AI, as adoption accelerates across 
 - **Enlace:** https://openai.com/index/introducing-child-safety-blueprint
 
 Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.
-
----
-
-### 11. New and improved content moderation tooling
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Aug 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1313d
-- **Enlace:** https://openai.com/index/new-and-improved-content-moderation-tooling
-
-We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers.
-
----
-
-### 12. Strengthening cyber resilience as AI capabilities advance
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Dec 2025 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:95d
-- **Enlace:** https://openai.com/index/strengthening-cyber-resilience
-
-OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.
-
----
-
-### 13. Boosting the customer retail experience with GPT-4o mini
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Dec 2024 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:459d
-- **Enlace:** https://openai.com/index/zalando
-
-Zalando boosts the customer experience with its Assistant, powered by GPT-4o mini
-
----
-
-### 14. Competitive self-play
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3077d
-- **Enlace:** https://openai.com/index/competitive-self-play
-
-We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.
-
----
-
-### 15. Building AI-powered apps for business
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:886d
-- **Enlace:** https://openai.com/index/retool
-
-Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
-
----
-
-### 16. Simplifying contract reviews with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:886d
-- **Enlace:** https://openai.com/index/ironclad
-
-Ironclad uses GPT-4 to simplify the contract review process.
-
----
-
-### 17. OpenAI’s technology explained
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:886d
-- **Enlace:** https://openai.com/global-affairs/openai-technology-explained
-
-
-
----
-
-### 18. Sharing the latest Model Spec
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Feb 2025 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:396d
-- **Enlace:** https://openai.com/index/sharing-the-latest-model-spec
-
-We’ve made updates to the Model Spec based on external feedback and our continued research in shaping desired model behavior.
-
----
-
-### 19. Driving growth and ‘WOW’ moments with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Mar 2025 18:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:367d
-- **Enlace:** https://openai.com/index/ly-corporation
-
-LY Corporation: Driving growth and ‘WOW’ moments with OpenAI
-
----
-
-### 20. GPT-5.1: A smarter, more conversational ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Nov 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:123d
-- **Enlace:** https://openai.com/index/gpt-5-1
-
-We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.
 
 ---
