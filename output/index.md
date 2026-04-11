@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-10 08:19 UTC_
+_Actualizado: 2026-04-11 07:46 UTC_
 
 ## Selección priorizada
 
-### 1. Using AI to improve patient access to clinical trials
+### 1. ChatGPT for sales teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/sales
+
+Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.
+
+---
+
+### 2. Getting started with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/getting-started
+
+Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.
+
+---
+
+### 3. Personalizing ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/personalization
+
+Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.
+
+---
+
+### 4. ChatGPT for research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/research
+
+Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.
+
+---
+
+### 5. Financial services
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/financial-services
+
+Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.
+
+---
+
+### 6. Research with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/search-and-deep-research
+
+Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.
+
+---
+
+### 7. Applications of AI at OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/applications-of-ai
+
+Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.
+
+---
+
+### 8. Using custom GPTs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/custom-gpts
+
+Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.
+
+---
+
+### 9. AI fundamentals
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/what-is-ai
+
+Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.
+
+---
+
+### 10. Responsible and safe use of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/responsible-and-safe-use
+
+Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.
+
+---
+
+### 11. Using AI to improve patient access to clinical trials
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Paradigm uses OpenAI’s API to improve patient access to clinical trials.
 
 ---
 
-### 2. Join us for OpenAI’s first developer conference on November 6 in San Francisco
+### 12. Join us for OpenAI’s first developer conference on November 6 in San Francisco
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Developer registration for in-person attendance will open in the coming weeks an
 
 ---
 
-### 3. Pairing data with APIs to unlock customer value
+### 13. Pairing data with APIs to unlock customer value
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Rakuten Pairs Data with AI to Unlock Customer Insights and Value
 
 ---
 
-### 4. How Tolan builds voice-first AI with GPT-5.1
+### 14. How Tolan builds voice-first AI with GPT-5.1
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Tolan built a voice-first AI companion with GPT-5.1, combining low-latency respo
 
 ---
 
-### 5. Evaluating large language models trained on code
+### 15. Evaluating large language models trained on code
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Tolan built a voice-first AI companion with GPT-5.1, combining low-latency respo
 
 ---
 
-### 6. Introducing OpenAI for Countries
+### 16. Introducing OpenAI for Countries
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ A new initiative to support countries around the world that want to build on dem
 
 ---
 
-### 7. Lowe’s puts project expertise into every hand
+### 17. Lowe’s puts project expertise into every hand
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered to
 
 ---
 
-### 8. Introducing data residency in Asia
+### 18. Introducing data residency in Asia
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Data residency builds on OpenAI’s enterprise-grade data privacy, security, and
 
 ---
 
-### 9. OpenAI Full Fan Mode Contest: Terms & Conditions
+### 19. OpenAI Full Fan Mode Contest: Terms & Conditions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, 
 
 ---
 
-### 10. CyberAgent moves faster with ChatGPT Enterprise and Codex
+### 20. CyberAgent moves faster with ChatGPT Enterprise and Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, 
 - **Enlace:** https://openai.com/index/cyberagent
 
 CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.
-
----
-
-### 11. OpenAI’s response to the Department of Energy on AI infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 07 May 2025 18:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:311d
-- **Enlace:** https://openai.com/global-affairs/response-to-department-of-energy
-
-Why infrastructure is destiny and how the US can seize it.
-
----
-
-### 12. OpenAI Expands Leadership with Fidji Simo
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 07 May 2025 21:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:311d
-- **Enlace:** https://openai.com/index/leadership-expansion-with-fidji-simo
-
-Read the message Sam shared with the company earlier today.
-
----
-
-### 13. Learning concepts with energy functions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 07 Nov 2018 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2685d
-- **Enlace:** https://openai.com/index/learning-concepts-with-energy-functions
-
-We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our model learns these concepts after only five demonstrations. We also show cross-domain transfer: we use concepts learned in a 2d particle environment to solve tasks on a 3-dimensional physics-based robot.
-
----
-
-### 14. Growing impact and scale with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Oct 2025 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:158d
-- **Enlace:** https://openai.com/index/hibob
-
-Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.
-
----
-
-### 15. Helen Toner joins OpenAI’s board of directors
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Sep 2021 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1649d
-- **Enlace:** https://openai.com/index/helen-toner-joins
-
-Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
-
----
-
-### 16. OpenAI Pioneers Program
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Apr 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:340d
-- **Enlace:** https://openai.com/index/openai-pioneers-program
-
-Advancing model performance and real world evaluation in applied domains.
-
----
-
-### 17. Sam & Jony
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Jul 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:249d
-- **Enlace:** https://openai.com/sam-and-jony
-
-Building a family of AI products for everyone.
-
----
-
-### 18. An update on disrupting deceptive uses of AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Oct 2024 03:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:522d
-- **Enlace:** https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai
-
-OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We are dedicated to identifying, preventing, and disrupting attempts to abuse our models for harmful ends.
-
----
-
-### 19. The next phase of enterprise AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Apr 2026 14:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/next-phase-of-enterprise-ai
-
-OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.
-
----
-
-### 20. Introducing the Child Safety Blueprint
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Apr 2026 05:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-child-safety-blueprint
-
-Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.
 
 ---
