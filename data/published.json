@@ -7998,5 +7998,255 @@
       "authority:9",
       "old:2475d"
     ]
+  },
+  {
+    "id": "17c3afa5105ed7e92e57eba21099d4517a456f13d84ce2e467bb34007ce7269b",
+    "title": "Introducing data residency in Europe",
+    "link": "https://openai.com/index/introducing-data-residency-in-europe",
+    "summary": "Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.",
+    "published": "Wed, 05 Feb 2025 22:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:402d"
+    ]
+  },
+  {
+    "id": "fa2a5d4785fb6ceae351b6b3d23676cf012de3dcfcab52bd2697c334d051dfaf",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "published": "Wed, 04 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:11d"
+    ]
+  },
+  {
+    "id": "23c4d3b62e3b7789bb1475c506ca2f0eca7d2509871ce5864f986432d5cf4e49",
+    "title": "Learning Montezuma’s Revenge from a single demonstration",
+    "link": "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration",
+    "summary": "We’ve trained an agent to achieve a high score of 74,500 on Montezuma’s Revenge from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent plays a sequence of games starting from carefully chosen states from the demonstration, and learns from them by optimizing the game score using PPO, the same reinforcement learning algorithm that underpins OpenAI Five.",
+    "published": "Wed, 04 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2811d"
+    ]
+  },
+  {
+    "id": "471445da2bcf30bc89a405bfa5743555b8496dbf277b4f4d3cf3bef2d32d054b",
+    "title": "OpenAI and Future partner on specialist content",
+    "link": "https://openai.com/index/openai-and-future-partner-on-specialist-content",
+    "summary": "OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future’s 200 plus media brands to OpenAI’s users.",
+    "published": "Wed, 04 Dec 2024 23:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:465d"
+    ]
+  },
+  {
+    "id": "f688dc3f0d7db43269e127d2cb9e44db0d6cb85180bf6b6b2519bc24961f6ea5",
+    "title": "Shaping the future of financial services",
+    "link": "https://openai.com/index/morgan-stanley",
+    "summary": "Morgan Stanley uses AI evals to shape the future of financial services",
+    "published": "Wed, 04 Dec 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:466d"
+    ]
+  },
+  {
+    "id": "cfa1454995588cf5abe9cd40521412e12ae30561f6d02a6e4ff43583e04098bd",
+    "title": "Announcing the initial People-First AI Fund grantees",
+    "link": "https://openai.com/index/people-first-ai-fund-grantees",
+    "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+    "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:102d"
+    ]
+  },
+  {
+    "id": "8f889a944cd60bb238c49b24df00ad04c451edb3fc9622c6e3a10bfdb1578fa0",
+    "title": "New funding to scale the benefits of AI",
+    "link": "https://openai.com/index/scale-the-benefits-of-ai",
+    "summary": "We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity.",
+    "published": "Wed, 02 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:529d"
+    ]
+  },
+  {
+    "id": "f8a0de8fd53182023a8bac3ea9300ec3167430541476f939ace25cad33b69f01",
+    "title": "Solving (some) formal math olympiad problems",
+    "link": "https://openai.com/index/formal-math",
+    "summary": "We built a neural theorem prover for Lean that learned to solve a variety of challenging high-school olympiad problems, including problems from the AMC12 and AIME competitions, as well as two problems adapted from the IMO.",
+    "published": "Wed, 02 Feb 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1502d"
+    ]
+  },
+  {
+    "id": "e5d732267a9198dae09b19686c93f4202d2f89709c4b9ea9ffa378628268c429",
+    "title": "New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit",
+    "link": "https://openai.com/index/nonprofit-commission-guidance",
+    "summary": "Already a nonprofit, and already using AI to help people solve hard problems, OpenAI aims to build the best-equipped nonprofit the world has ever seen—combining potentially historic financial resources with something even more powerful: technology that can scale human ingenuity itself.",
+    "published": "Wed, 02 Apr 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:347d"
+    ]
+  },
+  {
+    "id": "7d41d29dc2ff240f5b77f782419fd865ba9388d2c2301a0c505f11e40835453c",
+    "title": "Our response to the UK’s copyright consultation",
+    "link": "https://openai.com/global-affairs/response-to-uk-copyright-consultation",
+    "summary": "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe.",
+    "published": "Wed, 02 Apr 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:347d"
+    ]
   }
 ]
