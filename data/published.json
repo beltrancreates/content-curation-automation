@@ -8248,5 +8248,255 @@
       "authority:9",
       "old:347d"
     ]
+  },
+  {
+    "id": "fef1838f7b75cf761a19daeaf210d2903105da92706d30954f7a0ff9c9c2c60a",
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "published": "Mon, 13 Apr 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "048d37cd6355070e3ee7088d8d2062a84242b3bf23bb3dbb0d870573c6859e43",
+    "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+    "link": "https://openai.com/index/samsung-and-sk-join-stargate",
+    "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+    "published": "Wed, 01 Oct 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:165d"
+    ]
+  },
+  {
+    "id": "07eb79e3027db0044b0b77d4b3c8a90ad6f8e817c139de0e14d760505bd3658e",
+    "title": "Introducing ChatGPT Plus",
+    "link": "https://openai.com/index/chatgpt-plus",
+    "summary": "We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.",
+    "published": "Wed, 01 Feb 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1138d"
+    ]
+  },
+  {
+    "id": "04cfb1395cb63062cbdea4c0ab33ae1f0206f04f0dd8d642ab2b92a7d2b969c2",
+    "title": "New AI classifier for indicating AI-written text",
+    "link": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text",
+    "summary": "We’re launching a classifier trained to distinguish between AI-written and human-written text.",
+    "published": "Tue, 31 Jan 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1139d"
+    ]
+  },
+  {
+    "id": "f18f6719a2cfc3780b53a4b247b6a5f65d600c34e4264741f4cd38b5d4490e4d",
+    "title": "Launching Sora responsibly",
+    "link": "https://openai.com/index/launching-sora-responsibly",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+    "published": "Tue, 30 Sep 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:166d"
+    ]
+  },
+  {
+    "id": "6bb7518dc8572c1f7fca875329607d232edd4fd01b4589f6778e7cfb32497c56",
+    "title": "OpenAI Residency",
+    "link": "https://openai.com/index/openai-residency",
+    "summary": "As part of our effort to support and develop AI talent, we’re excited to announce the OpenAI Residency.",
+    "published": "Tue, 30 Nov 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1566d"
+    ]
+  },
+  {
+    "id": "7f59124dbe13b0aca097f58e80c6a963c3f4473f11f217c495000a11a04d95ca",
+    "title": "A Primer on the EU AI Act: What It Means for AI Providers and Deployers",
+    "link": "https://openai.com/global-affairs/a-primer-on-the-eu-ai-act",
+    "summary": "We’re sharing a preliminary overview of the EU AI Act including upcoming deadlines and requirements, with a particular focus on prohibited and high-risk use cases",
+    "published": "Tue, 30 Jul 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:593d"
+    ]
+  },
+  {
+    "id": "859fb97fb2b7b8812a8f39af9e042b3dc5439fe3f000bce94fb8a07a0cf4efcc",
+    "title": "Delivering high-performance customer support",
+    "link": "https://openai.com/index/decagon",
+    "summary": "Decagon and OpenAI deliver high-performance, fully automated customer support at scale",
+    "published": "Tue, 29 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:502d"
+    ]
+  },
+  {
+    "id": "7abe7e63aa04494f8b45ff831cc4a2a5a3c3ab68d20d512294bb0a373b3e190d",
+    "title": "Organizational update from OpenAI",
+    "link": "https://openai.com/index/organizational-update",
+    "summary": "It’s been a year of dramatic change and growth at OpenAI.",
+    "published": "Tue, 29 Dec 2020 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1902d"
+    ]
+  },
+  {
+    "id": "e391e801e03105dbea348af9b7545fc9630efcfc87113221461f7ec581888217",
+    "title": "Doppel’s AI defense system stops attacks before they spread",
+    "link": "https://openai.com/index/doppel",
+    "summary": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
+    "published": "Tue, 28 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:138d"
+    ]
   }
 ]
