@@ -8498,5 +8498,255 @@
       "authority:9",
       "old:138d"
     ]
+  },
+  {
+    "id": "c3ab8e641604212b4e03693abaeec37e413d228593e99a81e620c0d576889013",
+    "title": "Trusted access for the next era of cyber defense",
+    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "published": "Tue, 14 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "cf46362dde770e763e6b174928583ef6f6c778d210bd19d3f060f7e1844013ea",
+    "title": "The next chapter of the Microsoft–OpenAI partnership",
+    "link": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
+    "summary": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+    "published": "Tue, 28 Oct 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:138d"
+    ]
+  },
+  {
+    "id": "08005df88e766a57581a789d06607299ead622ce3c430c7d380f1d6a5ca7a589",
+    "title": "Built to benefit everyone",
+    "link": "https://openai.com/index/built-to-benefit-everyone",
+    "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+    "published": "Tue, 28 Oct 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:138d"
+    ]
+  },
+  {
+    "id": "394478fc72b83d4681975397d8dc42f1be6c6ac94f80d5487f9eeecc1aca8a83",
+    "title": "DALL·E 2 pre-training mitigations",
+    "link": "https://openai.com/index/dall-e-2-pre-training-mitigations",
+    "summary": "In order to share the magic of DALL·E 2 with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various guardrails in place to prevent generated images from violating our content policy.",
+    "published": "Tue, 28 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1356d"
+    ]
+  },
+  {
+    "id": "9d3c5210dee86d5bf37cf66e3b70b29a061ae00a60ebe474285ec8290f98f731",
+    "title": "Introducing ChatGPT Gov",
+    "link": "https://openai.com/global-affairs/introducing-chatgpt-gov",
+    "summary": "ChatGPT Gov is designed to streamline government agencies’ access to OpenAI’s frontier models.",
+    "published": "Tue, 28 Jan 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:411d"
+    ]
+  },
+  {
+    "id": "3d62d157a9fb33c0defcd3e4819b11141f54df10c540fbf5026f9e85414ab3b8",
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "link": "https://openai.com/index/pvh-future-of-fashion",
+    "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+    "published": "Tue, 27 Jan 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:47d"
+    ]
+  },
+  {
+    "id": "2b9a95ae28f5d889b3465d29a57e947cd17a824149181177efdf13d43dbce6c5",
+    "title": "Introducing Prism",
+    "link": "https://openai.com/index/introducing-prism",
+    "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+    "published": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:47d"
+    ]
+  },
+  {
+    "id": "c6bbb381c4c62cfe75f9973d8f0793cdc729f3825c18e03fe1bbebe56f264964",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "link": "https://openai.com/index/trustbank",
+    "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+    "published": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:47d"
+    ]
+  },
+  {
+    "id": "449d8fad1320c06134f2fa1cc40ba15644e67ffe38142a0e9d68fb36c2657f04",
+    "title": "OpenAI Five Finals",
+    "link": "https://openai.com/index/openai-five-finals",
+    "summary": "We’ll be holding our final live event for OpenAI Five at 11:30am PT on April 13.",
+    "published": "Tue, 26 Mar 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2546d"
+    ]
+  },
+  {
+    "id": "416ba065ac4781ccdc89b6ef927ac826d02653be8d2dca4069433ef50fb3baae",
+    "title": "Spinning Up in Deep RL: Workshop review",
+    "link": "https://openai.com/index/spinning-up-in-deep-rl-workshop-review",
+    "summary": "On February 2, we held our first Spinning Up Workshop as part of our new education initiative at OpenAI.",
+    "published": "Tue, 26 Feb 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2574d"
+    ]
   }
 ]

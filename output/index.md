@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-14 08:23 UTC_
+_Actualizado: 2026-04-15 08:25 UTC_
 
 ## Selección priorizada
 
-### 1. Doppel’s AI defense system stops attacks before they spread
+### 1. Spinning Up in Deep RL: Workshop review
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 26 Feb 2019 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2574d
+- **Enlace:** https://openai.com/index/spinning-up-in-deep-rl-workshop-review
+
+On February 2, we held our first Spinning Up Workshop as part of our new education initiative at OpenAI.
+
+---
+
+### 2. OpenAI Five Finals
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 26 Mar 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2546d
+- **Enlace:** https://openai.com/index/openai-five-finals
+
+We’ll be holding our final live event for OpenAI Five at 11:30am PT on April 13.
+
+---
+
+### 3. Powering tax donations with AI powered personalized recommendations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:47d
+- **Enlace:** https://openai.com/index/trustbank
+
+TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.
+
+---
+
+### 4. Introducing Prism
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:47d
+- **Enlace:** https://openai.com/index/introducing-prism
+
+Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.
+
+---
+
+### 5. PVH reimagines the future of fashion with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Jan 2026 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:47d
+- **Enlace:** https://openai.com/index/pvh-future-of-fashion
+
+PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.
+
+---
+
+### 6. Introducing ChatGPT Gov
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Jan 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:411d
+- **Enlace:** https://openai.com/global-affairs/introducing-chatgpt-gov
+
+ChatGPT Gov is designed to streamline government agencies’ access to OpenAI’s frontier models.
+
+---
+
+### 7. DALL·E 2 pre-training mitigations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Jun 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1356d
+- **Enlace:** https://openai.com/index/dall-e-2-pre-training-mitigations
+
+In order to share the magic of DALL·E 2 with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various guardrails in place to prevent generated images from violating our content policy.
+
+---
+
+### 8. Built to benefit everyone
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Oct 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:138d
+- **Enlace:** https://openai.com/index/built-to-benefit-everyone
+
+OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.
+
+---
+
+### 9. The next chapter of the Microsoft–OpenAI partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Oct 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:138d
+- **Enlace:** https://openai.com/index/next-chapter-of-microsoft-openai-partnership
+
+Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.
+
+---
+
+### 10. Trusted access for the next era of cyber defense
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/scaling-trusted-access-for-cyber-defense
+
+OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.
+
+---
+
+### 11. Doppel’s AI defense system stops attacks before they spread
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to
 
 ---
 
-### 2. Organizational update from OpenAI
+### 12. Organizational update from OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ It’s been a year of dramatic change and growth at OpenAI.
 
 ---
 
-### 3. Delivering high-performance customer support
+### 13. Delivering high-performance customer support
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Decagon and OpenAI deliver high-performance, fully automated customer support at
 
 ---
 
-### 4. A Primer on the EU AI Act: What It Means for AI Providers and Deployers
+### 14. A Primer on the EU AI Act: What It Means for AI Providers and Deployers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’re sharing a preliminary overview of the EU AI Act including upcoming deadl
 
 ---
 
-### 5. OpenAI Residency
+### 15. OpenAI Residency
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ As part of our effort to support and develop AI talent, we’re excited to annou
 
 ---
 
-### 6. Launching Sora responsibly
+### 16. Launching Sora responsibly
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ To address the novel safety challenges posed by a state-of-the-art video model a
 
 ---
 
-### 7. New AI classifier for indicating AI-written text
+### 17. New AI classifier for indicating AI-written text
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We’re launching a classifier trained to distinguish between AI-written and hum
 
 ---
 
-### 8. Introducing ChatGPT Plus
+### 18. Introducing ChatGPT Plus
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’re launching a pilot subscription plan for ChatGPT, a conversational AI tha
 
 ---
 
-### 9. Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure
+### 19. Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastru
 
 ---
 
-### 10. Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI
+### 20. Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastru
 - **Enlace:** https://openai.com/index/cloudflare-openai-agent-cloud
 
 Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.
-
----
-
-### 11. Our response to the UK’s copyright consultation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Apr 2025 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:347d
-- **Enlace:** https://openai.com/global-affairs/response-to-uk-copyright-consultation
-
-Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe.
-
----
-
-### 12. New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Apr 2025 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:347d
-- **Enlace:** https://openai.com/index/nonprofit-commission-guidance
-
-Already a nonprofit, and already using AI to help people solve hard problems, OpenAI aims to build the best-equipped nonprofit the world has ever seen—combining potentially historic financial resources with something even more powerful: technology that can scale human ingenuity itself.
-
----
-
-### 13. Solving (some) formal math olympiad problems
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Feb 2022 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1502d
-- **Enlace:** https://openai.com/index/formal-math
-
-We built a neural theorem prover for Lean that learned to solve a variety of challenging high-school olympiad problems, including problems from the AMC12 and AIME competitions, as well as two problems adapted from the IMO.
-
----
-
-### 14. New funding to scale the benefits of AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Oct 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:529d
-- **Enlace:** https://openai.com/index/scale-the-benefits-of-ai
-
-We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity.
-
----
-
-### 15. Announcing the initial People-First AI Fund grantees
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Dec 2025 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:102d
-- **Enlace:** https://openai.com/index/people-first-ai-fund-grantees
-
-The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.
-
----
-
-### 16. Shaping the future of financial services
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Dec 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:466d
-- **Enlace:** https://openai.com/index/morgan-stanley
-
-Morgan Stanley uses AI evals to shape the future of financial services
-
----
-
-### 17. OpenAI and Future partner on specialist content
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Dec 2024 23:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:465d
-- **Enlace:** https://openai.com/index/openai-and-future-partner-on-specialist-content
-
-OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future’s 200 plus media brands to OpenAI’s users.
-
----
-
-### 18. Learning Montezuma’s Revenge from a single demonstration
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Jul 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2811d
-- **Enlace:** https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration
-
-We’ve trained an agent to achieve a high score of 74,500 on Montezuma’s Revenge from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent plays a sequence of games starting from carefully chosen states from the demonstration, and learns from them by optimizing the game score using PPO, the same reinforcement learning algorithm that underpins OpenAI Five.
-
----
-
-### 19. Extending single-minus amplitudes to gravitons
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Mar 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:11d
-- **Enlace:** https://openai.com/index/extending-single-minus-amplitudes-to-gravitons
-
-A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.
-
----
-
-### 20. Introducing data residency in Europe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 05 Feb 2025 22:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:402d
-- **Enlace:** https://openai.com/index/introducing-data-residency-in-europe
-
-Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.
 
 ---
