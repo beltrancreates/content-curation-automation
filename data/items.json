@@ -18496,5 +18496,74 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "f09923c722e1f94fa2532a14834c770ddafab30edaefbc433e299a7bbfe7a19f",
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "ce85575ae5fc1b347b0400e6e3910ccf78b6fbe309d04858cf68e9257d701aaa",
+    "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+    "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&#160; Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel&#8230;",
+    "published": "Wed, 15 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "62abbfc5ff15a0b6c40a432e68b93cdaa9f12ed375967fa41bf42c7c4d964e64",
+    "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+    "link": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+    "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “liveness” check. The&#8230;",
+    "published": "Wed, 15 Apr 2026 11:26:12 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "57bbf61373d68841d0b84a1f1a32946e48fbbc7b5503e87d900a59ccbf9cfc71",
+    "title": "No one’s sure if synthetic mirror life will kill us all",
+    "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+    "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,&#8230;",
+    "published": "Wed, 15 Apr 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

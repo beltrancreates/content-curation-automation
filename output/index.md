@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-15 08:25 UTC_
+_Actualizado: 2026-04-16 08:24 UTC_
 
 ## Selección priorizada
 
-### 1. Spinning Up in Deep RL: Workshop review
+### 1. New ways to manage your data in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Apr 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1055d
+- **Enlace:** https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt
+
+ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.
+
+---
+
+### 2. Estonia and OpenAI to bring ChatGPT to schools nationwide
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Feb 2025 04:15:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:383d
+- **Enlace:** https://openai.com/index/estonia-schools-and-chatgpt
+
+Estonia and OpenAI to bring ChatGPT to schools nationwide. OpenAI will work with the Estonian Government to provide students and teachers in the secondary school system with access to ChatGPT Edu.
+
+---
+
+### 3. Introducing text and code embeddings
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Jan 2022 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1510d
+- **Enlace:** https://openai.com/index/introducing-text-and-code-embeddings
+
+We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification.
+
+---
+
+### 4. Scaling the OpenAI Academy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Mar 2025 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:355d
+- **Enlace:** https://openai.com/global-affairs/scaling-the-openai-academy
+
+Online resource hub will support AI literacy and help people from all backgrounds access tools, best practices, and peer insights to use AI.
+
+---
+
+### 5. Introducing 4o Image Generation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Mar 2025 11:05:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:355d
+- **Enlace:** https://openai.com/index/introducing-4o-image-generation
+
+At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.
+
+---
+
+### 6. Inside JetBrains—the company reshaping how the world writes code
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Nov 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:110d
+- **Enlace:** https://openai.com/index/jetbrains-2025
+
+JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.
+
+---
+
+### 7. Our approach to mental health-related litigation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Nov 2025 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:110d
+- **Enlace:** https://openai.com/index/mental-health-litigation-approach
+
+We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.
+
+---
+
+### 8. Expanding data residency access to business customers worldwide
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Nov 2025 22:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:109d
+- **Enlace:** https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide
+
+OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.
+
+---
+
+### 9. Helping people when they need it most
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 26 Aug 2025 04:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:201d
+- **Enlace:** https://openai.com/index/helping-people-when-they-need-it-most
+
+How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.
+
+---
+
+### 10. The next evolution of the Agents SDK
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Apr 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-next-evolution-of-the-agents-sdk
+
+OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.
+
+---
+
+### 11. Spinning Up in Deep RL: Workshop review
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ On February 2, we held our first Spinning Up Workshop as part of our new educati
 
 ---
 
-### 2. OpenAI Five Finals
+### 12. OpenAI Five Finals
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’ll be holding our final live event for OpenAI Five at 11:30am PT on April 1
 
 ---
 
-### 3. Powering tax donations with AI powered personalized recommendations
+### 13. Powering tax donations with AI powered personalized recommendations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, deliv
 
 ---
 
-### 4. Introducing Prism
+### 14. Introducing Prism
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researcher
 
 ---
 
-### 5. PVH reimagines the future of fashion with OpenAI
+### 15. PVH reimagines the future of fashion with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGP
 
 ---
 
-### 6. Introducing ChatGPT Gov
+### 16. Introducing ChatGPT Gov
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ ChatGPT Gov is designed to streamline government agencies’ access to OpenAI’
 
 ---
 
-### 7. DALL·E 2 pre-training mitigations
+### 17. DALL·E 2 pre-training mitigations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ In order to share the magic of DALL·E 2 with a broad audience, we needed to r
 
 ---
 
-### 8. Built to benefit everyone
+### 18. Built to benefit everyone
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI’s recapitalization strengthens mission-focused governance, expanding re
 
 ---
 
-### 9. The next chapter of the Microsoft–OpenAI partnership
+### 19. The next chapter of the Microsoft–OpenAI partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Microsoft and OpenAI sign a new agreement that strengthens its long-term partner
 
 ---
 
-### 10. Trusted access for the next era of cyber defense
+### 20. Trusted access for the next era of cyber defense
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Microsoft and OpenAI sign a new agreement that strengthens its long-term partner
 - **Enlace:** https://openai.com/index/scaling-trusted-access-for-cyber-defense
 
 OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.
-
----
-
-### 11. Doppel’s AI defense system stops attacks before they spread
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 28 Oct 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:138d
-- **Enlace:** https://openai.com/index/doppel
-
-Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.
-
----
-
-### 12. Organizational update from OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 29 Dec 2020 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1902d
-- **Enlace:** https://openai.com/index/organizational-update
-
-It’s been a year of dramatic change and growth at OpenAI.
-
----
-
-### 13. Delivering high-performance customer support
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 29 Oct 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:502d
-- **Enlace:** https://openai.com/index/decagon
-
-Decagon and OpenAI deliver high-performance, fully automated customer support at scale
-
----
-
-### 14. A Primer on the EU AI Act: What It Means for AI Providers and Deployers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 30 Jul 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:593d
-- **Enlace:** https://openai.com/global-affairs/a-primer-on-the-eu-ai-act
-
-We’re sharing a preliminary overview of the EU AI Act including upcoming deadlines and requirements, with a particular focus on prohibited and high-risk use cases
-
----
-
-### 15. OpenAI Residency
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 30 Nov 2021 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1566d
-- **Enlace:** https://openai.com/index/openai-residency
-
-As part of our effort to support and develop AI talent, we’re excited to announce the OpenAI Residency.
-
----
-
-### 16. Launching Sora responsibly
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 30 Sep 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:166d
-- **Enlace:** https://openai.com/index/launching-sora-responsibly
-
-To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.
-
----
-
-### 17. New AI classifier for indicating AI-written text
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 31 Jan 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1139d
-- **Enlace:** https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text
-
-We’re launching a classifier trained to distinguish between AI-written and human-written text.
-
----
-
-### 18. Introducing ChatGPT Plus
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 01 Feb 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1138d
-- **Enlace:** https://openai.com/index/chatgpt-plus
-
-We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.
-
----
-
-### 19. Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 01 Oct 2025 03:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:165d
-- **Enlace:** https://openai.com/index/samsung-and-sk-join-stargate
-
-Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.
-
----
-
-### 20. Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 Apr 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/cloudflare-openai-agent-cloud
-
-Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.
 
 ---

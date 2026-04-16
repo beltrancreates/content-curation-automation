@@ -8748,5 +8748,255 @@
       "authority:9",
       "old:2574d"
     ]
+  },
+  {
+    "id": "f09923c722e1f94fa2532a14834c770ddafab30edaefbc433e299a7bbfe7a19f",
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b0ec97c523fd369dc6174c89f48820cd71c8279354da4cd8cd0517dea4c9e968",
+    "title": "Helping people when they need it most",
+    "link": "https://openai.com/index/helping-people-when-they-need-it-most",
+    "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.",
+    "published": "Tue, 26 Aug 2025 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:201d"
+    ]
+  },
+  {
+    "id": "0f4884b28eff17e736b0c5e35dcdec5581d14b59f044744393d20f42cd4b7a22",
+    "title": "Expanding data residency access to business customers worldwide",
+    "link": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+    "summary": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+    "published": "Tue, 25 Nov 2025 22:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:109d"
+    ]
+  },
+  {
+    "id": "bfeb304e91e90fb7ad5efa3fcb70785494913c73e1df7d577923338d56243b1c",
+    "title": "Our approach to mental health-related litigation",
+    "link": "https://openai.com/index/mental-health-litigation-approach",
+    "summary": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
+    "published": "Tue, 25 Nov 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:110d"
+    ]
+  },
+  {
+    "id": "2eade4d0b879949f85a51f95c3a69a0e77e21e131a0c70d60b5b37ab957d337c",
+    "title": "Inside JetBrains—the company reshaping how the world writes code",
+    "link": "https://openai.com/index/jetbrains-2025",
+    "summary": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+    "published": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:110d"
+    ]
+  },
+  {
+    "id": "f1cfbcd841c43b36c1019371d5c5da445956b60390db1590ed8ef54ca58adab4",
+    "title": "Introducing 4o Image Generation",
+    "link": "https://openai.com/index/introducing-4o-image-generation",
+    "summary": "At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.",
+    "published": "Tue, 25 Mar 2025 11:05:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:355d"
+    ]
+  },
+  {
+    "id": "39f95636d0776ba3254b7f6a9339fb2c1e85cf01b1e87b27b74a2ebc6108dbb7",
+    "title": "Scaling the OpenAI Academy",
+    "link": "https://openai.com/global-affairs/scaling-the-openai-academy",
+    "summary": "Online resource hub will support AI literacy and help people from all backgrounds access tools, best practices, and peer insights to use AI.",
+    "published": "Tue, 25 Mar 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:355d"
+    ]
+  },
+  {
+    "id": "56cfa2379f8ab598bd23c72641fdaf11051ca24c5e19732c8c236cbd49447ca7",
+    "title": "Introducing text and code embeddings",
+    "link": "https://openai.com/index/introducing-text-and-code-embeddings",
+    "summary": "We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification.",
+    "published": "Tue, 25 Jan 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1510d"
+    ]
+  },
+  {
+    "id": "41f21e9d20fdc277b4a419057d58cfd116143d59fe0ded64be7134e9826469e3",
+    "title": "Estonia and OpenAI to bring ChatGPT to schools nationwide",
+    "link": "https://openai.com/index/estonia-schools-and-chatgpt",
+    "summary": "Estonia and OpenAI to bring ChatGPT to schools nationwide. OpenAI will work with the Estonian Government to provide students and teachers in the secondary school system with access to ChatGPT Edu.",
+    "published": "Tue, 25 Feb 2025 04:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:383d"
+    ]
+  },
+  {
+    "id": "419b234004a741849064e4651c07169aea4344e9420f159a13d07cb891c1111a",
+    "title": "New ways to manage your data in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt",
+    "summary": "ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.",
+    "published": "Tue, 25 Apr 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1055d"
+    ]
   }
 ]
