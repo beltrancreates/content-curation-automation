@@ -8998,5 +8998,255 @@
       "authority:9",
       "old:1055d"
     ]
+  },
+  {
+    "id": "1b6f6f51240357d2fcd45499b04e3dbd80cff27ec816fde934580de3123e987b",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "published": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "90c5a75d52e8db6a5248ffd01534be00be6c57b543a664906645ad31e794211f",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "b159cae7f3e4157eda2099af5f515bf7aea54007096b5c4bd2e51d3d2bb90109",
+    "title": "Introducing Verdi, an AI dev platform powered by GPT-4o",
+    "link": "https://openai.com/index/mercado-libre",
+    "summary": "Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o",
+    "published": "Tue, 24 Sep 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:537d"
+    ]
+  },
+  {
+    "id": "1b060ec64a6762b4d8f793a7be8380da3690ef82c84d1cfca6cdc7ffa8ec78dd",
+    "title": "Powering next generation applications with OpenAI Codex",
+    "link": "https://openai.com/index/codex-apps",
+    "summary": "Codex is now powering 70 different applications across a variety of use cases through the OpenAI API.",
+    "published": "Tue, 24 May 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1391d"
+    ]
+  },
+  {
+    "id": "6d1d74e9a11a59381b0c062b21e0866ae6d6c7bf887b44fea9442bddfeb97326",
+    "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+    "link": "https://openai.com/index/five-new-stargate-sites",
+    "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
+    "published": "Tue, 23 Sep 2025 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:173d"
+    ]
+  },
+  {
+    "id": "49cd7226cefbbd79fe3e88960270b6af5e5c0881c2bd956b45792c48385f8e50",
+    "title": "OpenAI licenses GPT-3 technology to Microsoft",
+    "link": "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft",
+    "summary": "OpenAI has agreed to license GPT-3 to Microsoft for their own products and services.",
+    "published": "Tue, 22 Sep 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2000d"
+    ]
+  },
+  {
+    "id": "f2251fc65214547ce01310bf33e184d4dc89f3d2451cca0cac8579c1161ce95d",
+    "title": "OpenAI appoints Scott Schools as Chief Compliance Officer",
+    "link": "https://openai.com/global-affairs/openai-chief-compliance-officer-announcement",
+    "summary": "OpenAI appoints Scott Schools as Chief Compliance Officer",
+    "published": "Tue, 22 Oct 2024 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:509d"
+    ]
+  },
+  {
+    "id": "ab02bd05142051e1f4811bd5420864b63a5d8c35ceca82bb13522d1292bd7830",
+    "title": "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist",
+    "link": "https://openai.com/global-affairs/openai-chief-economist-announcement",
+    "summary": "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist",
+    "published": "Tue, 22 Oct 2024 10:05:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:509d"
+    ]
+  },
+  {
+    "id": "d59c1f945d53b732b58730200c9ce92561af4a2b1bd9cce983f0feb9880803fb",
+    "title": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+    "link": "https://openai.com/index/lenfest-institute",
+    "summary": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+    "published": "Tue, 22 Oct 2024 06:05:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:509d"
+    ]
+  },
+  {
+    "id": "bb832541b50adbc5fd051702858b24c07ea2f061cabd20eaafad8ff4e68f3230",
+    "title": "Pioneering an AI clinical copilot with Penda Health",
+    "link": "https://openai.com/index/ai-clinical-copilot-penda-health",
+    "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
+    "published": "Tue, 22 Jul 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:236d"
+    ]
   }
 ]
