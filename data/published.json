@@ -9248,5 +9248,255 @@
       "authority:9",
       "old:236d"
     ]
+  },
+  {
+    "id": "484f01d554915b7d1cdb8a089a62b2446486c32a6d888e450cbbaaf7e3742347",
+    "title": "Stargate advances with 4.5 GW partnership with Oracle",
+    "link": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+    "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI’s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
+    "published": "Tue, 22 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:236d"
+    ]
+  },
+  {
+    "id": "4ae07dd3a0b6b9325ebfd845c0a8c94b71a1b1afe16188a994ae2da2ce37841c",
+    "title": "Speak is personalizing language learning with AI",
+    "link": "https://openai.com/index/speak-connor-zwick",
+    "summary": "A conversation with Connor Zwick, CEO & Co-founder of Speak.",
+    "published": "Tue, 22 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:327d"
+    ]
+  },
+  {
+    "id": "d63985d0a5dbefe4666fbe229de840ab217c91e56d4e497410c1aa51cdadda00",
+    "title": "The Washington Post partners with OpenAI on search content",
+    "link": "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
+    "summary": "The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting.",
+    "published": "Tue, 22 Apr 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:327d"
+    ]
+  },
+  {
+    "id": "66bde0a5e3d58d8d587ddaccae843446974a9e29214da9f3e5ba950896152179",
+    "title": "Continue your ChatGPT experience beyond WhatsApp",
+    "link": "https://openai.com/index/chatgpt-whatsapp-transition",
+    "summary": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
+    "published": "Tue, 21 Oct 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:145d"
+    ]
+  },
+  {
+    "id": "59e7828f060b7b6c2e12dc57e2ab3fa74b30adde9625dfcac9706fc44da2b282",
+    "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+    "link": "https://openai.com/index/introducing-chatgpt-atlas",
+    "summary": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+    "published": "Tue, 21 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:145d"
+    ]
+  },
+  {
+    "id": "f938ff8fbc9abc072130e790716c575ed83ca02b58c7ffe41eddddc5f7676b2c",
+    "title": "Stargate Infrastructure",
+    "link": "https://openai.com/form/stargate-infrastructure",
+    "summary": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
+    "published": "Tue, 21 Jan 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:418d"
+    ]
+  },
+  {
+    "id": "ed986a99514cf2882f8a5505de5a475f457216dfa29154b58e345a32bc9b37bd",
+    "title": "Horizon 1000: Advancing AI for primary healthcare",
+    "link": "https://openai.com/index/horizon-1000",
+    "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+    "published": "Tue, 20 Jan 2026 21:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:53d"
+    ]
+  },
+  {
+    "id": "20b1e4b4fbc6fb96354c66d14cd2678cc5a95f174bd8a9e506d79564a4aa1ba9",
+    "title": "Stargate Community",
+    "link": "https://openai.com/index/stargate-community",
+    "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+    "published": "Tue, 20 Jan 2026 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:53d"
+    ]
+  },
+  {
+    "id": "3aa5db1070347228caa5443a22709e218676bede40246095150e15516ce08fd4",
+    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+    "link": "https://openai.com/index/cisco",
+    "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+    "published": "Tue, 20 Jan 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:54d"
+    ]
+  },
+  {
+    "id": "442feff591ff1abe3034f21bb14deb20d5e56a5af28c9446e74c241d42566ec1",
+    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+    "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+    "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+    "published": "Tue, 20 Jan 2026 05:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:54d"
+    ]
   }
 ]

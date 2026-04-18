@@ -18738,5 +18738,73 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "c35980c2697ea89e7b12020c9063a47747803250a1bcb657d02ffb1276b2b198",
+    "title": "Pie Day 2026",
+    "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+    "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+    "published": "Fri, 17 Apr 2026 14:07:41 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "5ef531737d834466fe00eed2281ae2d31033ed6ff0db80317e511f741089bb21",
+    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+    "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving&#8230;",
+    "published": "Fri, 17 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "b164b387b6ec87961dca4e51e83751b5ff0ae6b7649c10ed6bdcfdc1d624cf5a",
+    "title": "The case for fixing everything",
+    "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+    "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us&#8230;",
+    "published": "Fri, 17 Apr 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "b9c0ebbf79b2aad32819dab7bf1416e01037fed079d33da8579925bc0bfb1081",
+    "title": "How robots learn: A brief, contemporary history",
+    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;",
+    "published": "Fri, 17 Apr 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
