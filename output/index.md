@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-18 07:56 UTC_
+_Actualizado: 2026-04-19 08:03 UTC_
 
 ## Selección priorizada
 
-### 1. ServiceNow powers actionable enterprise AI with OpenAI
+### 1. Introducing the SWE-Lancer benchmark
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Feb 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,llm, preferred_domain, authority:9, old:390d
+- **Enlace:** https://openai.com/index/swe-lancer
+
+Can frontier LLMs earn $1 million from real-world freelance software engineering?
+
+---
+
+### 2. Surging developer productivity with custom GPTs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Jun 2024 08:45:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:635d
+- **Enlace:** https://openai.com/index/paf
+
+Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning busin
+
+---
+
+### 3. EliseAI improves housing and healthcare efficiency with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Mar 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:362d
+- **Enlace:** https://openai.com/index/eliseai-minna-song
+
+A conversation with Minna Song, CEO & Co-founder of EliseAI.
+
+---
+
+### 4. Intuit and OpenAI join forces on new AI-powered experiences
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Nov 2025 05:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:117d
+- **Enlace:** https://openai.com/index/intuit-partnership
+
+OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.
+
+---
+
+### 5. Semi-supervised knowledge transfer for deep learning from private training data
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Oct 2016 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3435d
+- **Enlace:** https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data
+
+
+
+---
+
+### 6. Putting AI to work at Upwork
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Aug 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
+- **Enlace:** https://openai.com/index/upwork
+
+Upwork puts AI to work, uniting team members, operations and product development
+
+---
+
+### 7. Fine-tuning now available for GPT-4o
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Aug 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
+- **Enlace:** https://openai.com/index/gpt-4o-fine-tuning
+
+Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications
+
+---
+
+### 8. OpenAI partners with Condé Nast
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Aug 2024 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
+- **Enlace:** https://openai.com/index/conde-nast
+
+Condé Nast
+
+---
+
+### 9. Preparing for malicious uses of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Feb 2018 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2945d
+- **Enlace:** https://openai.com/index/preparing-for-malicious-uses-of-ai
+
+We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of sustained work with our colleagues at the Future of Humanity Institute, the Centre for the Study of Existential Risk, the Center for a New American Security, the Electronic Frontier Foundation, and others.
+
+---
+
+### 10. OpenAI supporters
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Feb 2018 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2945d
+- **Enlace:** https://openai.com/index/openai-supporters
+
+We’re excited to welcome new donors to OpenAI.
+
+---
+
+### 11. ServiceNow powers actionable enterprise AI with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ ServiceNow expands access to OpenAI frontier models to power AI-driven enterpris
 
 ---
 
-### 2. Cisco and OpenAI redefine enterprise engineering with AI agents
+### 12. Cisco and OpenAI redefine enterprise engineering with AI agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agen
 
 ---
 
-### 3. Stargate Community
+### 13. Stargate Community
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Stargate Community plans detail a community-first approach to AI infrastructure,
 
 ---
 
-### 4. Horizon 1000: Advancing AI for primary healthcare
+### 14. Horizon 1000: Advancing AI for primary healthcare
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI c
 
 ---
 
-### 5. Stargate Infrastructure
+### 15. Stargate Infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI, and our strategic partners, are thrilled about our shared vision for the
 
 ---
 
-### 6. Introducing ChatGPT Atlas, the browser with ChatGPT built in
+### 16. Introducing ChatGPT Atlas, the browser with ChatGPT built in
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries
 
 ---
 
-### 7. Continue your ChatGPT experience beyond WhatsApp
+### 17. Continue your ChatGPT experience beyond WhatsApp
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn ho
 
 ---
 
-### 8. The Washington Post partners with OpenAI on search content
+### 18. The Washington Post partners with OpenAI on search content
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ The Washington Post is partnering with with OpenAI to integrate news into ChatGP
 
 ---
 
-### 9. Speak is personalizing language learning with AI
+### 19. Speak is personalizing language learning with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ A conversation with Connor Zwick, CEO & Co-founder of Speak.
 
 ---
 
-### 10. Stargate advances with 4.5 GW partnership with Oracle
+### 20. Stargate advances with 4.5 GW partnership with Oracle
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ A conversation with Connor Zwick, CEO & Co-founder of Speak.
 - **Enlace:** https://openai.com/index/stargate-advances-with-partnership-with-oracle
 
 Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI’s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.
-
----
-
-### 11. Pioneering an AI clinical copilot with Penda Health
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Jul 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:236d
-- **Enlace:** https://openai.com/index/ai-clinical-copilot-penda-health
-
-OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.
-
----
-
-### 12. OpenAI and the Lenfest Institute AI Collaborative and Fellowship program
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Oct 2024 06:05:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:509d
-- **Enlace:** https://openai.com/index/lenfest-institute
-
-OpenAI and the Lenfest Institute AI Collaborative and Fellowship program
-
----
-
-### 13. Dr. Ronnie Chatterji named OpenAI’s first Chief Economist
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Oct 2024 10:05:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:509d
-- **Enlace:** https://openai.com/global-affairs/openai-chief-economist-announcement
-
-Dr. Ronnie Chatterji named OpenAI’s first Chief Economist
-
----
-
-### 14. OpenAI appoints Scott Schools as Chief Compliance Officer
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Oct 2024 10:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:509d
-- **Enlace:** https://openai.com/global-affairs/openai-chief-compliance-officer-announcement
-
-OpenAI appoints Scott Schools as Chief Compliance Officer
-
----
-
-### 15. OpenAI licenses GPT-3 technology to Microsoft
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Sep 2020 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2000d
-- **Enlace:** https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft
-
-OpenAI has agreed to license GPT-3 to Microsoft for their own products and services.
-
----
-
-### 16. OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 23 Sep 2025 14:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:173d
-- **Enlace:** https://openai.com/index/five-new-stargate-sites
-
-OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.
-
----
-
-### 17. Powering next generation applications with OpenAI Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 24 May 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1391d
-- **Enlace:** https://openai.com/index/codex-apps
-
-Codex is now powering 70 different applications across a variety of use cases through the OpenAI API.
-
----
-
-### 18. Introducing Verdi, an AI dev platform powered by GPT-4o
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 24 Sep 2024 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:537d
-- **Enlace:** https://openai.com/index/mercado-libre
-
-Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o
-
----
-
-### 19. Accelerating the cyber defense ecosystem that protects us all
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Apr 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/accelerating-cyber-defense-ecosystem
-
-Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.
-
----
-
-### 20. Introducing GPT-Rosalind for life sciences research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Apr 2026 01:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-gpt-rosalind
-
-OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.
 
 ---

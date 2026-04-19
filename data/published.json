@@ -9498,5 +9498,255 @@
       "authority:9",
       "old:54d"
     ]
+  },
+  {
+    "id": "e7482ba6262c98537b4e9699651c2b7803ae5d9a376ea704849955663bd6c160",
+    "title": "OpenAI supporters",
+    "link": "https://openai.com/index/openai-supporters",
+    "summary": "We’re excited to welcome new donors to OpenAI.",
+    "published": "Tue, 20 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2945d"
+    ]
+  },
+  {
+    "id": "6b56d30e329e814fb34d7a803941599fc604dbdc7b6cdaba69a01f36855d733f",
+    "title": "Preparing for malicious uses of AI",
+    "link": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+    "summary": "We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of sustained work with our colleagues at the Future of Humanity Institute, the Centre for the Study of Existential Risk, the Center for a New American Security, the Electronic Frontier Foundation, and others.",
+    "published": "Tue, 20 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2945d"
+    ]
+  },
+  {
+    "id": "5eefde745ce53ba67054ef5596447f9deec170039053468733e53c9057d937fe",
+    "title": "OpenAI partners with Condé Nast",
+    "link": "https://openai.com/index/conde-nast",
+    "summary": "Condé Nast",
+    "published": "Tue, 20 Aug 2024 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:572d"
+    ]
+  },
+  {
+    "id": "4dd11b0f3c252cbe6e5c263899791857a351a5079d285473c5114080912953c4",
+    "title": "Fine-tuning now available for GPT-4o",
+    "link": "https://openai.com/index/gpt-4o-fine-tuning",
+    "summary": "Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications",
+    "published": "Tue, 20 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:572d"
+    ]
+  },
+  {
+    "id": "18be91c73e6932d2e8f4c553956272e84b3c25b7b9e251bb298cc74c11ca3d0d",
+    "title": "Putting AI to work at Upwork",
+    "link": "https://openai.com/index/upwork",
+    "summary": "Upwork puts AI to work, uniting team members, operations and product development",
+    "published": "Tue, 20 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:572d"
+    ]
+  },
+  {
+    "id": "2448b93c22b93a9c0025545c2d848aa90c6b4b55fe69e86b7f79a51f6e32c828",
+    "title": "Semi-supervised knowledge transfer for deep learning from private training data",
+    "link": "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data",
+    "summary": "",
+    "published": "Tue, 18 Oct 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3435d"
+    ]
+  },
+  {
+    "id": "0698dd4a8b2dabd4851a4c42d88978670c92202ea19857e19be4517fcf3f9fbe",
+    "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+    "link": "https://openai.com/index/intuit-partnership",
+    "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+    "published": "Tue, 18 Nov 2025 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:117d"
+    ]
+  },
+  {
+    "id": "465ea65e3d393a6138dc7421747de9ef0416a6cb125103ee24c121f8035730d9",
+    "title": "EliseAI improves housing and healthcare efficiency with AI",
+    "link": "https://openai.com/index/eliseai-minna-song",
+    "summary": "A conversation with Minna Song, CEO & Co-founder of EliseAI.",
+    "published": "Tue, 18 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:362d"
+    ]
+  },
+  {
+    "id": "560d5dcdf67a421dc0026a1ea2b5c8c28bb6ffe514b48bd893ae550d1fac702b",
+    "title": "Surging developer productivity with custom GPTs",
+    "link": "https://openai.com/index/paf",
+    "summary": "Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning business teams like finance, HR, marketing, and customer support.",
+    "published": "Tue, 18 Jun 2024 08:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:635d"
+    ]
+  },
+  {
+    "id": "3119b1f6cedfd9e5b79728a2108687475983617aedd2d5dcd0642be7fb296461",
+    "title": "Introducing the SWE-Lancer benchmark",
+    "link": "https://openai.com/index/swe-lancer",
+    "summary": "Can frontier LLMs earn $1 million from real-world freelance software engineering?",
+    "published": "Tue, 18 Feb 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:390d"
+    ]
   }
 ]
