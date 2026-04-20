@@ -9748,5 +9748,255 @@
       "authority:9",
       "old:390d"
     ]
+  },
+  {
+    "id": "a68846ce21d1fbce081fd5f8b4e0bdb989e6c081925e6fb047e54e93c59bb85c",
+    "title": "Emergent tool use from multi-agent interaction",
+    "link": "https://openai.com/index/emergent-tool-use",
+    "summary": "We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.",
+    "published": "Tue, 17 Sep 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2371d"
+    ]
+  },
+  {
+    "id": "84e221ee53ae8c779ff34096afcd0a2c1ffb609754ee7eb3182ce317020569c6",
+    "title": "Domain randomization and generative models for robotic grasping",
+    "link": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping",
+    "summary": "",
+    "published": "Tue, 17 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3071d"
+    ]
+  },
+  {
+    "id": "06c14c7dfd5889b192b32daaf4d9493f15795633808320ab20b87d6ca0180c60",
+    "title": "OpenAI o1 and new tools for developers",
+    "link": "https://openai.com/index/o1-and-new-tools-for-developers",
+    "summary": "Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.",
+    "published": "Tue, 17 Dec 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:453d"
+    ]
+  },
+  {
+    "id": "47cac6e5e04d7b3413d24e2cc203dda4a9333a3fdbcda0b55f9cf75b2d3f6167",
+    "title": "Introducing Stargate UK",
+    "link": "https://openai.com/index/introducing-stargate-uk",
+    "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.",
+    "published": "Tue, 16 Sep 2025 14:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:180d"
+    ]
+  },
+  {
+    "id": "2ece5af576734d42e097a3c256fbdeeeeeebde3e2a9e4af18f3f7eb9db153029",
+    "title": "Building towards age prediction",
+    "link": "https://openai.com/index/building-towards-age-prediction",
+    "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
+    "published": "Tue, 16 Sep 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:180d"
+    ]
+  },
+  {
+    "id": "f3516acbb9c1e5efa627f8de4fae99dcb76ecda9b2cfdce5279bd374ddef59ca",
+    "title": "Robots that learn",
+    "link": "https://openai.com/index/robots-that-learn",
+    "summary": "We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.",
+    "published": "Tue, 16 May 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3225d"
+    ]
+  },
+  {
+    "id": "162b80b8231a2d2f18af0d58f0a2cebbe169d7997f61497797e462556f5c9f04",
+    "title": "The new ChatGPT Images is here",
+    "link": "https://openai.com/index/new-chatgpt-images-is-here",
+    "summary": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.",
+    "published": "Tue, 16 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:89d"
+    ]
+  },
+  {
+    "id": "7835d627f9e6eb01ea3ad9ce538091e66c59c0e4b030820eb26415ecfbdcd616",
+    "title": "Solving Rubik’s Cube with a robot hand",
+    "link": "https://openai.com/index/solving-rubiks-cube",
+    "summary": "We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as OpenAI Five paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a stuffed giraffe. This shows that reinforcement learning isn’t just a tool for virtual tasks, but can solve physical-world problems requiring unprecedented dexterity.",
+    "published": "Tue, 15 Oct 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2343d"
+    ]
+  },
+  {
+    "id": "d65c93b0300ce293120838f537a19367d55c4a9a3404a612d62f8d232849171a",
+    "title": "OpenAI and Microsoft",
+    "link": "https://openai.com/index/openai-and-microsoft",
+    "summary": "We’re working with Microsoft to start running most of our large-scale experiments on Azure.",
+    "published": "Tue, 15 Nov 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3407d"
+    ]
+  },
+  {
+    "id": "c92ff09d1d5e66ecbd1062e57e73cd728c3034aed1dc7bd35118a20dab591adc",
+    "title": "OpenAI announces nonprofit commission advisors",
+    "link": "https://openai.com/index/nonprofit-commission-advisors",
+    "summary": "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts.",
+    "published": "Tue, 15 Apr 2025 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:334d"
+    ]
   }
 ]

@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-19 08:03 UTC_
+_Actualizado: 2026-04-20 09:04 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing the SWE-Lancer benchmark
+### 1. OpenAI announces nonprofit commission advisors
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 15 Apr 2025 13:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:334d
+- **Enlace:** https://openai.com/index/nonprofit-commission-advisors
+
+OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts.
+
+---
+
+### 2. OpenAI and Microsoft
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 15 Nov 2016 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3407d
+- **Enlace:** https://openai.com/index/openai-and-microsoft
+
+We’re working with Microsoft to start running most of our large-scale experiments on Azure.
+
+---
+
+### 3. Solving Rubik’s Cube with a robot hand
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 15 Oct 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2343d
+- **Enlace:** https://openai.com/index/solving-rubiks-cube
+
+We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as OpenAI Five paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a stuffed giraffe. This shows that reinforcement learning isn’t just a tool for virtual tasks, but can solve physical-world probl
+
+---
+
+### 4. The new ChatGPT Images is here
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:89d
+- **Enlace:** https://openai.com/index/new-chatgpt-images-is-here
+
+The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.
+
+---
+
+### 5. Robots that learn
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 May 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3225d
+- **Enlace:** https://openai.com/index/robots-that-learn
+
+We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.
+
+---
+
+### 6. Building towards age prediction
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Sep 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:180d
+- **Enlace:** https://openai.com/index/building-towards-age-prediction
+
+Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.
+
+---
+
+### 7. Introducing Stargate UK
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Sep 2025 14:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:180d
+- **Enlace:** https://openai.com/index/introducing-stargate-uk
+
+OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.
+
+---
+
+### 8. OpenAI o1 and new tools for developers
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:453d
+- **Enlace:** https://openai.com/index/o1-and-new-tools-for-developers
+
+Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.
+
+---
+
+### 9. Domain randomization and generative models for robotic grasping
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Oct 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3071d
+- **Enlace:** https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping
+
+
+
+---
+
+### 10. Emergent tool use from multi-agent interaction
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Sep 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2371d
+- **Enlace:** https://openai.com/index/emergent-tool-use
+
+We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.
+
+---
+
+### 11. Introducing the SWE-Lancer benchmark
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Can frontier LLMs earn $1 million from real-world freelance software engineering
 
 ---
 
-### 2. Surging developer productivity with custom GPTs
+### 12. Surging developer productivity with custom GPTs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Paf adopted ChatGPT Enterprise across its entire company, with engineers using c
 
 ---
 
-### 3. EliseAI improves housing and healthcare efficiency with AI
+### 13. EliseAI improves housing and healthcare efficiency with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ A conversation with Minna Song, CEO & Co-founder of EliseAI.
 
 ---
 
-### 4. Intuit and OpenAI join forces on new AI-powered experiences
+### 14. Intuit and OpenAI join forces on new AI-powered experiences
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit 
 
 ---
 
-### 5. Semi-supervised knowledge transfer for deep learning from private training data
+### 15. Semi-supervised knowledge transfer for deep learning from private training data
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit 
 
 ---
 
-### 6. Putting AI to work at Upwork
+### 16. Putting AI to work at Upwork
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Upwork puts AI to work, uniting team members, operations and product development
 
 ---
 
-### 7. Fine-tuning now available for GPT-4o
+### 17. Fine-tuning now available for GPT-4o
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Fine-tune custom versions of GPT-4o to increase performance and accuracy for you
 
 ---
 
-### 8. OpenAI partners with Condé Nast
+### 18. OpenAI partners with Condé Nast
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Condé Nast
 
 ---
 
-### 9. Preparing for malicious uses of AI
+### 19. Preparing for malicious uses of AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We’ve co-authored a paper that forecasts how malicious actors could misuse AI 
 
 ---
 
-### 10. OpenAI supporters
+### 20. OpenAI supporters
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ We’ve co-authored a paper that forecasts how malicious actors could misuse AI 
 - **Enlace:** https://openai.com/index/openai-supporters
 
 We’re excited to welcome new donors to OpenAI.
-
----
-
-### 11. ServiceNow powers actionable enterprise AI with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Jan 2026 05:45:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:54d
-- **Enlace:** https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai
-
-ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.
-
----
-
-### 12. Cisco and OpenAI redefine enterprise engineering with AI agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Jan 2026 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:54d
-- **Enlace:** https://openai.com/index/cisco
-
-Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.
-
----
-
-### 13. Stargate Community
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Jan 2026 19:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
-- **Enlace:** https://openai.com/index/stargate-community
-
-Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.
-
----
-
-### 14. Horizon 1000: Advancing AI for primary healthcare
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Jan 2026 21:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:53d
-- **Enlace:** https://openai.com/index/horizon-1000
-
-OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.
-
----
-
-### 15. Stargate Infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 21 Jan 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:418d
-- **Enlace:** https://openai.com/form/stargate-infrastructure
-
-OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.
-
----
-
-### 16. Introducing ChatGPT Atlas, the browser with ChatGPT built in
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 21 Oct 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:145d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-atlas
-
-ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.
-
----
-
-### 17. Continue your ChatGPT experience beyond WhatsApp
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 21 Oct 2025 17:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:145d
-- **Enlace:** https://openai.com/index/chatgpt-whatsapp-transition
-
-ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.
-
----
-
-### 18. The Washington Post partners with OpenAI on search content
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Apr 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:327d
-- **Enlace:** https://openai.com/global-affairs/the-washington-post-partners-with-openai
-
-The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting.
-
----
-
-### 19. Speak is personalizing language learning with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Apr 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:327d
-- **Enlace:** https://openai.com/index/speak-connor-zwick
-
-A conversation with Connor Zwick, CEO & Co-founder of Speak.
-
----
-
-### 20. Stargate advances with 4.5 GW partnership with Oracle
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Jul 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:236d
-- **Enlace:** https://openai.com/index/stargate-advances-with-partnership-with-oracle
-
-Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI’s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.
 
 ---
