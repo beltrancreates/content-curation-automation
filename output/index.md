@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-20 09:04 UTC_
+_Actualizado: 2026-04-21 08:50 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI announces nonprofit commission advisors
+### 1. Announcing OpenAI’s Bug Bounty Program
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 11 Apr 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1069d
+- **Enlace:** https://openai.com/index/bug-bounty-program
+
+This initiative is essential to our commitment to develop safe and advanced AI. As we create technology and services that are secure, reliable, and trustworthy, we need your help.
+
+---
+
+### 2. Scaling accounting capacity with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 Aug 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:215d
+- **Enlace:** https://openai.com/index/basis
+
+Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.
+
+---
+
+### 3. Introducing SWE-bench Verified
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 13 Aug 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:579d
+- **Enlace:** https://openai.com/index/introducing-swe-bench-verified
+
+We’re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models’ ability to solve real-world software issues.
+
+---
+
+### 4. Zenken boosts a lean sales team with ChatGPT Enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 13 Jan 2026 16:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:61d
+- **Enlace:** https://openai.com/index/zenken
+
+By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.
+
+---
+
+### 5. Adebayo Ogunlesi joins OpenAI’s Board of Directors
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Jan 2025 09:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:425d
+- **Enlace:** https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors
+
+Adebayo Ogunlesi Joins OpenAI’s Board of Directors
+
+---
+
+### 6. GPT-4
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1097d
+- **Enlace:** https://openai.com/index/gpt-4-research
+
+We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.
+
+---
+
+### 7. Streamlining financial solutions for safety and growth
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:1097d
+- **Enlace:** https://openai.com/index/stripe
+
+Stripe leverages GPT-4 to streamline user experience and combat fraud.
+
+---
+
+### 8. Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 May 2024 18:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
+- **Enlace:** https://openai.com/index/jakub-pachocki-announced-as-chief-scientist
+
+
+
+---
+
+### 9. Our updated Preparedness Framework
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 15 Apr 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:334d
+- **Enlace:** https://openai.com/index/updating-our-preparedness-framework
+
+Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities.
+
+---
+
+### 10. OpenAI helps Hyatt advance AI among colleagues
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 20 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
+
+Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.
+
+---
+
+### 11. OpenAI announces nonprofit commission advisors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic e
 
 ---
 
-### 2. OpenAI and Microsoft
+### 12. OpenAI and Microsoft
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’re working with Microsoft to start running most of our large-scale experime
 
 ---
 
-### 3. Solving Rubik’s Cube with a robot hand
+### 13. Solving Rubik’s Cube with a robot hand
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’ve trained a pair of neural networks to solve the Rubik’s Cube with a hum
 
 ---
 
-### 4. The new ChatGPT Images is here
+### 14. The new ChatGPT Images is here
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ The new ChatGPT Images is powered by our flagship image generation model, delive
 
 ---
 
-### 5. Robots that learn
+### 15. Robots that learn
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’ve created a robotics system, trained entirely in simulation and deployed o
 
 ---
 
-### 6. Building towards age prediction
+### 16. Building towards age prediction
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how OpenAI is building age prediction and parental controls in ChatGPT to 
 
 ---
 
-### 7. Introducing Stargate UK
+### 17. Introducing Stargate UK
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure par
 
 ---
 
-### 8. OpenAI o1 and new tools for developers
+### 18. OpenAI o1 and new tools for developers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and m
 
 ---
 
-### 9. Domain randomization and generative models for robotic grasping
+### 19. Domain randomization and generative models for robotic grasping
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and m
 
 ---
 
-### 10. Emergent tool use from multi-agent interaction
+### 20. Emergent tool use from multi-agent interaction
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and m
 - **Enlace:** https://openai.com/index/emergent-tool-use
 
 We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.
-
----
-
-### 11. Introducing the SWE-Lancer benchmark
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Feb 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,llm, preferred_domain, authority:9, old:390d
-- **Enlace:** https://openai.com/index/swe-lancer
-
-Can frontier LLMs earn $1 million from real-world freelance software engineering?
-
----
-
-### 12. Surging developer productivity with custom GPTs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Jun 2024 08:45:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:635d
-- **Enlace:** https://openai.com/index/paf
-
-Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning busin
-
----
-
-### 13. EliseAI improves housing and healthcare efficiency with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Mar 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:362d
-- **Enlace:** https://openai.com/index/eliseai-minna-song
-
-A conversation with Minna Song, CEO & Co-founder of EliseAI.
-
----
-
-### 14. Intuit and OpenAI join forces on new AI-powered experiences
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Nov 2025 05:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:117d
-- **Enlace:** https://openai.com/index/intuit-partnership
-
-OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.
-
----
-
-### 15. Semi-supervised knowledge transfer for deep learning from private training data
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Oct 2016 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3435d
-- **Enlace:** https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data
-
-
-
----
-
-### 16. Putting AI to work at Upwork
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Aug 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
-- **Enlace:** https://openai.com/index/upwork
-
-Upwork puts AI to work, uniting team members, operations and product development
-
----
-
-### 17. Fine-tuning now available for GPT-4o
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Aug 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
-- **Enlace:** https://openai.com/index/gpt-4o-fine-tuning
-
-Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications
-
----
-
-### 18. OpenAI partners with Condé Nast
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Aug 2024 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:572d
-- **Enlace:** https://openai.com/index/conde-nast
-
-Condé Nast
-
----
-
-### 19. Preparing for malicious uses of AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Feb 2018 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2945d
-- **Enlace:** https://openai.com/index/preparing-for-malicious-uses-of-ai
-
-We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of sustained work with our colleagues at the Future of Humanity Institute, the Centre for the Study of Existential Risk, the Center for a New American Security, the Electronic Frontier Foundation, and others.
-
----
-
-### 20. OpenAI supporters
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Feb 2018 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2945d
-- **Enlace:** https://openai.com/index/openai-supporters
-
-We’re excited to welcome new donors to OpenAI.
 
 ---

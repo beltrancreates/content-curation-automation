@@ -9998,5 +9998,255 @@
       "authority:9",
       "old:334d"
     ]
+  },
+  {
+    "id": "82922292e36d028b3b07d2c7f29fdbf25fc2b63010ddd2537d4ccd582a82916f",
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "published": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "c9ee07df2c2426435a076b7e4b04ec2faba5a5878e30ff3d2865527ef515a096",
+    "title": "Our updated Preparedness Framework",
+    "link": "https://openai.com/index/updating-our-preparedness-framework",
+    "summary": "Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities.",
+    "published": "Tue, 15 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:334d"
+    ]
+  },
+  {
+    "id": "217fb0aeca02be1c7dc9e9676898b2a23b51a7009386e7f9e93c17ce0c6440ff",
+    "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
+    "link": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
+    "summary": "",
+    "published": "Tue, 14 May 2024 18:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "161107ca95149562fe7553e507cf0df44ea7383b0ec7cfa2cc7770e81dac9bb4",
+    "title": "Streamlining financial solutions for safety and growth",
+    "link": "https://openai.com/index/stripe",
+    "summary": "Stripe leverages GPT-4 to streamline user experience and combat fraud.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
+  },
+  {
+    "id": "e10e5ccb10775c6d99ce2749f79e7ee99c8441d9d79c29602ea843703ce4d41f",
+    "title": "GPT-4",
+    "link": "https://openai.com/index/gpt-4-research",
+    "summary": "We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
+  },
+  {
+    "id": "b41f03f07c8882ed6dec95da0647a206ade30da88b42832afb9124b53397d98d",
+    "title": "Adebayo Ogunlesi joins OpenAI’s Board of Directors",
+    "link": "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors",
+    "summary": "Adebayo Ogunlesi Joins OpenAI’s Board of Directors",
+    "published": "Tue, 14 Jan 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:425d"
+    ]
+  },
+  {
+    "id": "f62a15009c6e49fd452ca66f3972f0f2137ab5da96464d296e612af2f9d41173",
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "link": "https://openai.com/index/zenken",
+    "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+    "published": "Tue, 13 Jan 2026 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:61d"
+    ]
+  },
+  {
+    "id": "e8870b450ee8fc41ebe025a7e80b8459aa6d4e718776bd26a78b4e72b88f5d3d",
+    "title": "Introducing SWE-bench Verified",
+    "link": "https://openai.com/index/introducing-swe-bench-verified",
+    "summary": "We’re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models’ ability to solve real-world software issues.",
+    "published": "Tue, 13 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:579d"
+    ]
+  },
+  {
+    "id": "c82fefe2364fb43db15ac754058b39273f3bf8cef163a88e71ea864c88cd1a70",
+    "title": "Scaling accounting capacity with OpenAI",
+    "link": "https://openai.com/index/basis",
+    "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
+    "published": "Tue, 12 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:215d"
+    ]
+  },
+  {
+    "id": "96dc34e02991475b0986d469d63fa8ec3b2c3886c02576f5719ba2e3eb0dda2b",
+    "title": "Announcing OpenAI’s Bug Bounty Program",
+    "link": "https://openai.com/index/bug-bounty-program",
+    "summary": "This initiative is essential to our commitment to develop safe and advanced AI. As we create technology and services that are secure, reliable, and trustworthy, we need your help.",
+    "published": "Tue, 11 Apr 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1069d"
+    ]
   }
 ]
