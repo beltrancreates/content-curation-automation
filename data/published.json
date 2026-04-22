@@ -10248,5 +10248,255 @@
       "authority:9",
       "old:1069d"
     ]
+  },
+  {
+    "id": "8d6c9ff1da56f53da9e71ff3cf6bbf5af715bccb0fc4ba3c9bef25da7de52dba",
+    "title": "Scaling Codex to enterprises worldwide",
+    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "41c38573fa62a7af7fc380a8f085c75e7d7b26aad04589a4461a3465aa2cd31c",
+    "title": "Put AI to work: Lessons from hundreds of successful deployments",
+    "link": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+    "summary": "Put AI to Work: Lessons from Hundreds of Successful Deployments",
+    "published": "Tue, 10 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:551d"
+    ]
+  },
+  {
+    "id": "3bdd8607a4ee7f70491555c70d208cfbc23b1559ad000bdd0c7c9d99bde267ab",
+    "title": "New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "published": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:5d"
+    ]
+  },
+  {
+    "id": "1c52cafa0b6740d28f6e03fa37fd4e2f0c66041709adb0e41263d3d50b116b1c",
+    "title": "OpenAI Codex",
+    "link": "https://openai.com/index/openai-codex",
+    "summary": "We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.",
+    "published": "Tue, 10 Aug 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1678d"
+    ]
+  },
+  {
+    "id": "82d512fb36872b0b38d75c63261c7b819d30c3ae4daea574d16269b10e0a34e9",
+    "title": "OpenAI Fellows Winter 2019 & Interns Summer 2019",
+    "link": "https://openai.com/index/openai-fellows-interns-2019",
+    "summary": "We are now accepting applications for OpenAI Fellows and Interns for 2019.",
+    "published": "Tue, 09 Oct 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2714d"
+    ]
+  },
+  {
+    "id": "6b0e2b7ef3238e469b77e9a135de224943ad89a9bd2e7b0e05fbb885879c278a",
+    "title": "Language models can explain neurons in language models",
+    "link": "https://openai.com/index/language-models-can-explain-neurons-in-language-models",
+    "summary": "We use GPT-4 to automatically write explanations for the behavior of neurons in large language models and to score those explanations. We release a dataset of these (imperfect) explanations and scores for every neuron in GPT-2.",
+    "published": "Tue, 09 May 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1041d"
+    ]
+  },
+  {
+    "id": "4ef4a269a0095325eb6b5c659b38306fc90f0ef939ac9dc1906bf233e02fa1c1",
+    "title": "How Scout24 is building the next generation of real-estate search with AI",
+    "link": "https://openai.com/index/scout24",
+    "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+    "published": "Tue, 09 Dec 2025 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
+  },
+  {
+    "id": "5fb3b3c684288c019a261c6531f14f5e784c3ab3327e70de94a691b5dff9374d",
+    "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+    "link": "https://openai.com/index/agentic-ai-foundation",
+    "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+    "published": "Tue, 09 Dec 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
+  },
+  {
+    "id": "2fe7e3ce5499a844e78f1396fb1126f83003ae16e362e43493e3f39fa2cbbd6b",
+    "title": "Launching our first OpenAI Certifications courses",
+    "link": "https://openai.com/index/openai-certificate-courses",
+    "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+    "published": "Tue, 09 Dec 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
+  },
+  {
+    "id": "e306d45775a63c9945bb377647719f86c15fca8d505e44606147d2faf5a5454b",
+    "title": "Building AI fluency at scale with ChatGPT Enterprise",
+    "link": "https://openai.com/index/commonwealth-bank-of-australia",
+    "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "published": "Tue, 09 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
   }
 ]

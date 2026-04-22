@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-21 08:50 UTC_
+_Actualizado: 2026-04-22 08:27 UTC_
 
 ## Selección priorizada
 
-### 1. Announcing OpenAI’s Bug Bounty Program
+### 1. Building AI fluency at scale with ChatGPT Enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
+- **Enlace:** https://openai.com/index/commonwealth-bank-of-australia
+
+Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.
+
+---
+
+### 2. Launching our first OpenAI Certifications courses
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Dec 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
+- **Enlace:** https://openai.com/index/openai-certificate-courses
+
+Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.
+
+---
+
+### 3. OpenAI co-founds Agentic AI Foundation, donates AGENTS.md
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Dec 2025 09:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
+- **Enlace:** https://openai.com/index/agentic-ai-foundation
+
+OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.
+
+---
+
+### 4. How Scout24 is building the next generation of real-estate search with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Dec 2025 16:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
+- **Enlace:** https://openai.com/index/scout24
+
+Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.
+
+---
+
+### 5. Language models can explain neurons in language models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 May 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1041d
+- **Enlace:** https://openai.com/index/language-models-can-explain-neurons-in-language-models
+
+We use GPT-4 to automatically write explanations for the behavior of neurons in large language models and to score those explanations. We release a dataset of these (imperfect) explanations and scores for every neuron in GPT-2.
+
+---
+
+### 6. OpenAI Fellows Winter 2019 & Interns Summer 2019
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Oct 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2714d
+- **Enlace:** https://openai.com/index/openai-fellows-interns-2019
+
+We are now accepting applications for OpenAI Fellows and Interns for 2019.
+
+---
+
+### 7. OpenAI Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Aug 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1678d
+- **Enlace:** https://openai.com/index/openai-codex
+
+We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.
+
+---
+
+### 8. New ways to learn math and science in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Mar 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:5d
+- **Enlace:** https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt
+
+ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.
+
+---
+
+### 9. Put AI to work: Lessons from hundreds of successful deployments
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:551d
+- **Enlace:** https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments
+
+Put AI to Work: Lessons from Hundreds of Successful Deployments
+
+---
+
+### 10. Scaling Codex to enterprises worldwide
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 21 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/scaling-codex-to-enterprises-worldwide
+
+OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.
+
+---
+
+### 11. Announcing OpenAI’s Bug Bounty Program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ This initiative is essential to our commitment to develop safe and advanced AI. 
 
 ---
 
-### 2. Scaling accounting capacity with OpenAI
+### 12. Scaling accounting capacity with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accoun
 
 ---
 
-### 3. Introducing SWE-bench Verified
+### 13. Introducing SWE-bench Verified
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’re releasing a human-validated subset of SWE-bench that more reliably evalu
 
 ---
 
-### 4. Zenken boosts a lean sales team with ChatGPT Enterprise
+### 14. Zenken boosts a lean sales team with ChatGPT Enterprise
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales perform
 
 ---
 
-### 5. Adebayo Ogunlesi joins OpenAI’s Board of Directors
+### 15. Adebayo Ogunlesi joins OpenAI’s Board of Directors
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Adebayo Ogunlesi Joins OpenAI’s Board of Directors
 
 ---
 
-### 6. GPT-4
+### 16. GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up d
 
 ---
 
-### 7. Streamlining financial solutions for safety and growth
+### 17. Streamlining financial solutions for safety and growth
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Stripe leverages GPT-4 to streamline user experience and combat fraud.
 
 ---
 
-### 8. Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist
+### 18. Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Stripe leverages GPT-4 to streamline user experience and combat fraud.
 
 ---
 
-### 9. Our updated Preparedness Framework
+### 19. Our updated Preparedness Framework
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Sharing our updated framework for measuring and protecting against severe harm f
 
 ---
 
-### 10. OpenAI helps Hyatt advance AI among colleagues
+### 20. OpenAI helps Hyatt advance AI among colleagues
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Sharing our updated framework for measuring and protecting against severe harm f
 - **Enlace:** https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
 
 Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.
-
----
-
-### 11. OpenAI announces nonprofit commission advisors
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Apr 2025 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:334d
-- **Enlace:** https://openai.com/index/nonprofit-commission-advisors
-
-OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts.
-
----
-
-### 12. OpenAI and Microsoft
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Nov 2016 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3407d
-- **Enlace:** https://openai.com/index/openai-and-microsoft
-
-We’re working with Microsoft to start running most of our large-scale experiments on Azure.
-
----
-
-### 13. Solving Rubik’s Cube with a robot hand
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Oct 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2343d
-- **Enlace:** https://openai.com/index/solving-rubiks-cube
-
-We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as OpenAI Five paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a stuffed giraffe. This shows that reinforcement learning isn’t just a tool for virtual tasks, but can solve physical-world probl
-
----
-
-### 14. The new ChatGPT Images is here
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:89d
-- **Enlace:** https://openai.com/index/new-chatgpt-images-is-here
-
-The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.
-
----
-
-### 15. Robots that learn
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 May 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3225d
-- **Enlace:** https://openai.com/index/robots-that-learn
-
-We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.
-
----
-
-### 16. Building towards age prediction
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Sep 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:180d
-- **Enlace:** https://openai.com/index/building-towards-age-prediction
-
-Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.
-
----
-
-### 17. Introducing Stargate UK
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Sep 2025 14:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:180d
-- **Enlace:** https://openai.com/index/introducing-stargate-uk
-
-OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic growth.
-
----
-
-### 18. OpenAI o1 and new tools for developers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Dec 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:453d
-- **Enlace:** https://openai.com/index/o1-and-new-tools-for-developers
-
-Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.
-
----
-
-### 19. Domain randomization and generative models for robotic grasping
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Oct 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3071d
-- **Enlace:** https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping
-
-
-
----
-
-### 20. Emergent tool use from multi-agent interaction
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Sep 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2371d
-- **Enlace:** https://openai.com/index/emergent-tool-use
-
-We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.
 
 ---
