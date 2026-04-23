@@ -10498,5 +10498,255 @@
       "authority:9",
       "old:96d"
     ]
+  },
+  {
+    "id": "2603cae5d4579696b9202bd8dd3709b4d1f58308ebce94f6f40210ebcf372a45",
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "published": "Wed, 22 Apr 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "a7fd1d947e88cc7ac2f7677784f637fd7d1cd99019cb48504290a6eb968eb5e8",
+    "title": "Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "published": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "8d9c5de0560ba52661272760839fa996a3f74f4938930900584c272391fd56c9",
+    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+    "link": "https://openai.com/index/openai-appoints-denise-dresser",
+    "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+    "published": "Tue, 09 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
+  },
+  {
+    "id": "88f090d8d5040800ad773b3291f3e9f38b5cd31fb003e029e3421ec0fd6cc1d0",
+    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+    "link": "https://openai.com/index/deutsche-telekom-collaboration",
+    "summary": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+    "published": "Tue, 09 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:96d"
+    ]
+  },
+  {
+    "id": "c413cb5fb2776f7a76b07e2fec4728d0fb99b80f415d808ecf9da8df09f8d761",
+    "title": "OpenAI and Hearst Content Partnership",
+    "link": "https://openai.com/index/hearst",
+    "summary": "Hearst’s iconic brands bring curated lifestyle and local news content to OpenAI’s products.",
+    "published": "Tue, 08 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:523d"
+    ]
+  },
+  {
+    "id": "6a2119bfee17b50f163f1f7cb2911de6cd0bcaca855532037af1160cc76ad5f4",
+    "title": "Working with 400,000 teachers to shape the future of AI in schools",
+    "link": "https://openai.com/global-affairs/aft",
+    "summary": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
+    "published": "Tue, 08 Jul 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:250d"
+    ]
+  },
+  {
+    "id": "5d5f486c529e2c61dc311562185d4b27520e9b4efc9f166626f3de59a7dcf603",
+    "title": "Disrupting malicious uses of AI: October 2025",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+    "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+    "published": "Tue, 07 Oct 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:159d"
+    ]
+  },
+  {
+    "id": "fab3b2d17ffcf4f75232fa46ca9186bce62c63266bf11f6c7496cc21915e5b52",
+    "title": "Understanding the source of what we see and hear online",
+    "link": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
+    "summary": "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote industry standards.",
+    "published": "Tue, 07 May 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:677d"
+    ]
+  },
+  {
+    "id": "dbe283ebebcdb56e39934e17696312bdf24755db65ee7247e09df819aa2c4609",
+    "title": "Our approach to data and AI",
+    "link": "https://openai.com/index/approach-to-data-and-ai",
+    "summary": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager for creators and content owners, and where we’re headed.",
+    "published": "Tue, 07 May 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:677d"
+    ]
+  },
+  {
+    "id": "3c116008921f8dfbc315aa62ad98795d5c0674df5d84ff7bd66c6267f1e400e0",
+    "title": "Introducing AI stories: daily benefits shine a light on bigger opportunities",
+    "link": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities",
+    "summary": "Sam Altman has written that we are entering the Intelligence Age, a time when AI will help people become dramatically more capable. The biggest problems of today—across science, medicine, education, national defense—will no longer seem intractable, but will in fact be solvable. New horizons of possibility and prosperity will open up.",
+    "published": "Tue, 06 May 2025 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:313d"
+    ]
   }
 ]
