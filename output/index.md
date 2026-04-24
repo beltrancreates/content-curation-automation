@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-23 08:50 UTC_
+_Actualizado: 2026-04-24 08:57 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing AI stories: daily benefits shine a light on bigger opportunities
+### 1. gpt-oss-120b & gpt-oss-20b Model Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 Aug 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:222d
+- **Enlace:** https://openai.com/index/gpt-oss-model-card
+
+We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.
+
+---
+
+### 2. DALL·E: Creating images from text
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 Jan 2021 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1895d
+- **Enlace:** https://openai.com/index/dall-e
+
+We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
+
+---
+
+### 3. OpenAI and Elon Musk
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 Mar 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:740d
+- **Enlace:** https://openai.com/index/openai-elon-musk
+
+We are dedicated to the OpenAI mission and have pursued it every step of the way.
+
+---
+
+### 4. AI and efficiency
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 May 2020 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2140d
+- **Enlace:** https://openai.com/index/ai-and-efficiency
+
+We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielde
+
+---
+
+### 5. GPT-2: 1.5B release
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 Nov 2019 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2322d
+- **Enlace:** https://openai.com/index/gpt-2-1-5b-release
+
+As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models. While there have been larger language models released since August, we’ve continued with our original staged release plan in order to provide the community with a test case of a full staged release process. We hope that this test case will be useful to developers of future powerful models, and we
+
+---
+
+### 6. OpenAI Scholars
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 Mar 2018 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2931d
+- **Enlace:** https://openai.com/index/openai-scholars
+
+We’re providing 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning full-time for 3 months and open-source a project.
+
+---
+
+### 7. AI helps John Deere transform agriculture
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 May 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:313d
+- **Enlace:** https://openai.com/index/john-deere-justin-rose
+
+John Deere’s Justin Rose talks about transforming agriculture with AI and shares how the company is scaling innovation to help farmers work smarter, more efficiently, and sustainably.
+
+---
+
+### 8. Codex settings
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/codex-settings
+
+Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.
+
+---
+
+### 9. Introducing GPT-5.5
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-gpt-5-5
+
+Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+
+---
+
+### 10. GPT-5.5 Bio Bug Bounty
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gpt-5-5-bio-bug-bounty
+
+Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.
+
+---
+
+### 11. Introducing AI stories: daily benefits shine a light on bigger opportunities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Sam Altman has written that we are entering the Intelligence Age, a time when AI
 
 ---
 
-### 2. Our approach to data and AI
+### 12. Our approach to data and AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Just over a year after launching ChatGPT, AI is changing how we live, work and l
 
 ---
 
-### 3. Understanding the source of what we see and hear online
+### 13. Understanding the source of what we see and hear online
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Today we’re introducing new technology to help researchers identify content cr
 
 ---
 
-### 4. Disrupting malicious uses of AI: October 2025
+### 14. Disrupting malicious uses of AI: October 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how OpenAI is detecting and disrupting malicious uses of AI in our Octo
 
 ---
 
-### 5. Working with 400,000 teachers to shape the future of AI in schools
+### 15. Working with 400,000 teachers to shape the future of AI in schools
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI partners with the American Federation of Teachers to launch a 5-year init
 
 ---
 
-### 6. OpenAI and Hearst Content Partnership
+### 16. OpenAI and Hearst Content Partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Hearst’s iconic brands bring curated lifestyle and local news content to OpenA
 
 ---
 
-### 7. Bringing powerful AI to millions across Europe with Deutsche Telekom
+### 17. Bringing powerful AI to millions across Europe with Deutsche Telekom
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI
 
 ---
 
-### 8. OpenAI appoints Denise Dresser as Chief Revenue Officer
+### 18. OpenAI appoints Denise Dresser as Chief Revenue Officer
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global
 
 ---
 
-### 9. Introducing OpenAI Privacy Filter
+### 19. Introducing OpenAI Privacy Filter
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI Privacy Filter is an open-weight model for detecting and redacting person
 
 ---
 
-### 10. Making ChatGPT better for clinicians
+### 20. Making ChatGPT better for clinicians
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI Privacy Filter is an open-weight model for detecting and redacting person
 - **Enlace:** https://openai.com/index/making-chatgpt-better-for-clinicians
 
 OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.
-
----
-
-### 11. Building AI fluency at scale with ChatGPT Enterprise
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
-- **Enlace:** https://openai.com/index/commonwealth-bank-of-australia
-
-Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.
-
----
-
-### 12. Launching our first OpenAI Certifications courses
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Dec 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
-- **Enlace:** https://openai.com/index/openai-certificate-courses
-
-Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.
-
----
-
-### 13. OpenAI co-founds Agentic AI Foundation, donates AGENTS.md
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Dec 2025 09:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
-- **Enlace:** https://openai.com/index/agentic-ai-foundation
-
-OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.
-
----
-
-### 14. How Scout24 is building the next generation of real-estate search with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Dec 2025 16:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:96d
-- **Enlace:** https://openai.com/index/scout24
-
-Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.
-
----
-
-### 15. Language models can explain neurons in language models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 May 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1041d
-- **Enlace:** https://openai.com/index/language-models-can-explain-neurons-in-language-models
-
-We use GPT-4 to automatically write explanations for the behavior of neurons in large language models and to score those explanations. We release a dataset of these (imperfect) explanations and scores for every neuron in GPT-2.
-
----
-
-### 16. OpenAI Fellows Winter 2019 & Interns Summer 2019
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Oct 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2714d
-- **Enlace:** https://openai.com/index/openai-fellows-interns-2019
-
-We are now accepting applications for OpenAI Fellows and Interns for 2019.
-
----
-
-### 17. OpenAI Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Aug 2021 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1678d
-- **Enlace:** https://openai.com/index/openai-codex
-
-We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.
-
----
-
-### 18. New ways to learn math and science in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Mar 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:5d
-- **Enlace:** https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt
-
-ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.
-
----
-
-### 19. Put AI to work: Lessons from hundreds of successful deployments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:551d
-- **Enlace:** https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments
-
-Put AI to Work: Lessons from Hundreds of Successful Deployments
-
----
-
-### 20. Scaling Codex to enterprises worldwide
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 21 Apr 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/scaling-codex-to-enterprises-worldwide
-
-OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.
 
 ---
