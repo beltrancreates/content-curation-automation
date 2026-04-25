@@ -19046,6 +19046,29 @@
     ]
   },
   {
+    "id": "edae97e8f88c215050695f762925165aa66f1bdf99123c95777c04fbdc1a3a9b",
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
+    "published": "Fri, 24 Apr 2026 21:40:58 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,model,open source",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "6e29bcfe290e6fa6e408bb70bd5ff440dabe1cd59eaa49113919aea0a0f8ea64",
     "title": "Reinforcement learning with prediction-based rewards",
     "link": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
@@ -26560,6 +26583,52 @@
     "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160; From microplastics in rainforest wildlife to artificial light&#8230;",
     "published": "Thu, 23 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7bdbf5e12aa6f4f21dfda0276c353b0e6d9fe43359337ab9f7064c067ba6d6d4",
+    "title": "The Download: supercharged scams and studying AI healthcare",
+    "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&#8230;",
+    "published": "Fri, 24 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7170330c4a32fd8c25f4bb162969310ff417044b6100f8b201e7a99af55739d0",
+    "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+    "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;",
+    "published": "Fri, 24 Apr 2026 09:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

@@ -10998,5 +10998,255 @@
       "authority:9",
       "old:222d"
     ]
+  },
+  {
+    "id": "c9a75a09daedc7b8e952b3978b9657c2449fce36e5d3192a98575d9e5d06bb80",
+    "title": "Open Weights and AI for All",
+    "link": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what drives us. Today’s release of our most capable  open-weights models is a major step forward that makes advanced AI more open, flexible, and accessible worldwide.",
+    "published": "Tue, 05 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:222d"
+    ]
+  },
+  {
+    "id": "918c302a62ceff00b78239885f69be35d7dde64a78a885668fa139714e9e028c",
+    "title": "Introducing gpt-oss",
+    "link": "https://openai.com/index/introducing-gpt-oss",
+    "summary": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+    "published": "Tue, 05 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:222d"
+    ]
+  },
+  {
+    "id": "cee20c5bb9284867b08ec1b2a4e9b070293c6f0ae3e5e603c4f824269636c358",
+    "title": "Brazil’s AI moment is here",
+    "link": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
+    "summary": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
+    "published": "Tue, 04 Nov 2025 15:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:131d"
+    ]
+  },
+  {
+    "id": "fbc91672822e56a5dac790a60878bfed2e65278dc80cf6cbfdeae3267c4af0f9",
+    "title": "LaunchDarkly's approach to AI-powered product management",
+    "link": "https://openai.com/index/launchdarkly-claire-vo",
+    "summary": "A conversation with Claire Vo, Chief Product Officer of LaunchDarkly, about the changing role of product managers, her anti-to-do list, and building AI-native teams.",
+    "published": "Tue, 04 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:376d"
+    ]
+  },
+  {
+    "id": "b1a29889d459b810d2c5aa34c696ecf0258a2b1dfbb7effd09e47d42bd3626c5",
+    "title": "Introducing NextGenAI",
+    "link": "https://openai.com/index/introducing-nextgenai",
+    "summary": "OpenAI commits $50M in funding and tools to leading institutions.",
+    "published": "Tue, 04 Mar 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:376d"
+    ]
+  },
+  {
+    "id": "ae820b1ca274f7638f45d9ea2bd523303490014a7e2b188b1c7b035366df18b3",
+    "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
+    "link": "https://openai.com/index/openai-and-the-csu-system",
+    "summary": "The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce.",
+    "published": "Tue, 04 Feb 2025 11:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:404d"
+    ]
+  },
+  {
+    "id": "bef62dc04edb858ac084d120ed56e71e50b2a07860d5f569a5001542e9f62320",
+    "title": "Creating nail art with ChatGPT",
+    "link": "https://openai.com/index/ten-tiny-canvases",
+    "summary": "Using ChatGPT to find inspiration for nail art",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:404d"
+    ]
+  },
+  {
+    "id": "f604bfe043a222e5d6c47db72feb42258f5650910e6a81454bac7c6dc8eb11e1",
+    "title": "GPT-5.3 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "summary": "",
+    "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:12d"
+    ]
+  },
+  {
+    "id": "3de9676d112ae84438d359ee90210b6a29cb68768246b52ed6d4219487b1d960",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "link": "https://openai.com/index/gpt-5-3-instant",
+    "summary": "",
+    "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:12d"
+    ]
+  },
+  {
+    "id": "26e2757a88ef178e0caf83f83fb090b31eb9695ccc77ad07154710461d428fa0",
+    "title": "The Sora feed philosophy",
+    "link": "https://openai.com/index/sora-feed-philosophy",
+    "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+    "published": "Tue, 03 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:40d"
+    ]
   }
 ]
