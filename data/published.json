@@ -11248,5 +11248,255 @@
       "authority:9",
       "old:40d"
     ]
+  },
+  {
+    "id": "28d8216861f1a872acfe67e16649e5e81dc025c0560dc50d01b06e32bbb63253",
+    "title": "Customizing models for legal professionals",
+    "link": "https://openai.com/index/harvey",
+    "summary": "Harvey partners with OpenAI to build a custom-trained model for legal professionals.",
+    "published": "Tue, 02 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:712d"
+    ]
+  },
+  {
+    "id": "407e5c81fc7c20efaeddb2e7c78c47b2101c34aac394d32ba27c5c87b2c779f3",
+    "title": "Model Distillation in the API",
+    "link": "https://openai.com/index/api-model-distillation",
+    "summary": "Fine-tune a cost-efficient model with the outputs of a large frontier model–all on the OpenAI platform",
+    "published": "Tue, 01 Oct 2024 10:02:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:530d"
+    ]
+  },
+  {
+    "id": "9864445b9ed1eb8e580f34ef175d0ba4555d2388ea02d9919fdbf19dc4ad95d5",
+    "title": "No-code personal agents, powered by GPT-4.1 and Realtime API",
+    "link": "https://openai.com/index/genspark",
+    "summary": "Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.",
+    "published": "Tue, 01 Jul 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:257d"
+    ]
+  },
+  {
+    "id": "1e7cfe7569002f3bcbe31f9744f75aba93c347a26255426b51e27edefc9cf48f",
+    "title": "Confidence-Building Measures for Artificial Intelligence: Workshop proceedings",
+    "link": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+    "summary": "",
+    "published": "Tue, 01 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:artificial intelligence,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:957d"
+    ]
+  },
+  {
+    "id": "a3fa5edc8c2d6e764c897f7829e91dbc07258350a7084e24d020a03edbb9bd8d",
+    "title": "Put AI to work for marketing teams",
+    "link": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+    "summary": "Put AI to Work for Marketing Teams",
+    "published": "Thu, 31 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:500d"
+    ]
+  },
+  {
+    "id": "baf06322f48b7ef5a05a787726ee1f4c26cc5b7c358686cff8af834a68e8d063",
+    "title": "Introducing Stargate Norway",
+    "link": "https://openai.com/index/introducing-stargate-norway",
+    "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical part of our long-term vision to deliver the benefits of AI to everyone.",
+    "published": "Thu, 31 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:227d"
+    ]
+  },
+  {
+    "id": "4053b61f79c6e91456369f707cb61a5bd8a540d63640395bfce4e8f713d9b373",
+    "title": "Teaching with AI",
+    "link": "https://openai.com/index/teaching-with-ai",
+    "summary": "We’re releasing a guide for teachers using ChatGPT in their classroom—including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias.",
+    "published": "Thu, 31 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:927d"
+    ]
+  },
+  {
+    "id": "11927a7d7c73bc7e9ae33f6c76d5c4e7cf11870c1442b41dfe56489a9dc725a0",
+    "title": "Expanding Stargate to Michigan",
+    "link": "https://openai.com/index/expanding-stargate-to-michigan",
+    "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
+    "published": "Thu, 30 Oct 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:136d"
+    ]
+  },
+  {
+    "id": "025e04c01ad932d296d73d8b354871083dc726911592d307b4a8a4c1fec348cd",
+    "title": "Disrupting deceptive uses of AI by covert influence operations",
+    "link": "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations",
+    "summary": "We’ve terminated accounts linked to covert influence operations; no significant audience increase due to our services.",
+    "published": "Thu, 30 May 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:654d"
+    ]
+  },
+  {
+    "id": "8ac7e4ad9e44a21621f165eed2f2b925caf82b79d29e7f0c0d99beb1f3b46422",
+    "title": "Introducing OpenAI for Nonprofits",
+    "link": "https://openai.com/index/introducing-openai-for-nonprofits",
+    "summary": "We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise.",
+    "published": "Thu, 30 May 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:654d"
+    ]
   }
 ]
