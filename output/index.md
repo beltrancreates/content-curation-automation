@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-26 08:13 UTC_
+_Actualizado: 2026-04-27 09:14 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing OpenAI for Nonprofits
+### 1. Finding GPT-4’s mistakes with GPT-4
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 27 Jun 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:626d
+- **Enlace:** https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4
+
+CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF
+
+---
+
+### 2. Moving from intent-based bots to proactive AI agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 27 Mar 2025 09:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:353d
+- **Enlace:** https://openai.com/index/zendesk
+
+Moving from intent-based bots to proactive AI agents.
+
+---
+
+### 3. Efficient training of language models to fill in the middle
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 28 Jul 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1326d
+- **Enlace:** https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle
+
+
+
+---
+
+### 4. Taisei Corporation shapes the next generation of talent with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
+- **Enlace:** https://openai.com/index/taisei
+
+Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.
+
+---
+
+### 5. Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
+- **Enlace:** https://openai.com/index/retiring-gpt-4o-and-older-models
+
+On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
+
+---
+
+### 6. Inside OpenAI’s in-house data agent
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Jan 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
+- **Enlace:** https://openai.com/index/inside-our-in-house-data-agent
+
+How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.
+
+---
+
+### 7. Creating websites in minutes with AI Website Builder
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 May 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:290d
+- **Enlace:** https://openai.com/index/wix
+
+Wix’s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes—just by describing their idea in a conversation.
+
+---
+
+### 8. OpenAI standardizes on PyTorch
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 Jan 2020 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2236d
+- **Enlace:** https://openai.com/index/openai-pytorch
+
+We are standardizing OpenAI’s deep learning framework on PyTorch.
+
+---
+
+### 9. Strengthening America’s AI leadership with the U.S. National Laboratories
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 Jan 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:409d
+- **Enlace:** https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories
+
+OpenAI’s latest line of reasoning models will be used by nation’s leading scientists to drive scientific breakthroughs.
+
+---
+
+### 10. OpenAI for Education
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 May 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:654d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-edu
+
+An affordable offering for universities to responsibly bring AI to campus.
+
+---
+
+### 11. Introducing OpenAI for Nonprofits
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re launching a new initiative to enhance the accessibility of our tools for
 
 ---
 
-### 2. Disrupting deceptive uses of AI by covert influence operations
+### 12. Disrupting deceptive uses of AI by covert influence operations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’ve terminated accounts linked to covert influence operations; no significan
 
 ---
 
-### 3. Expanding Stargate to Michigan
+### 13. Expanding Stargate to Michigan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that str
 
 ---
 
-### 4. Teaching with AI
+### 14. Teaching with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’re releasing a guide for teachers using ChatGPT in their classroom—includ
 
 ---
 
-### 5. Introducing Stargate Norway
+### 15. Introducing Stargate Norway
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’re launching Stargate Norway—OpenAI’s first AI data center initiative i
 
 ---
 
-### 6. Put AI to work for marketing teams
+### 16. Put AI to work for marketing teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Put AI to Work for Marketing Teams
 
 ---
 
-### 7. Confidence-Building Measures for Artificial Intelligence: Workshop proceedings
+### 17. Confidence-Building Measures for Artificial Intelligence: Workshop proceedings
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Put AI to Work for Marketing Teams
 
 ---
 
-### 8. No-code personal agents, powered by GPT-4.1 and Realtime API
+### 18. No-code personal agents, powered by GPT-4.1 and Realtime API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents 
 
 ---
 
-### 9. Model Distillation in the API
+### 19. Model Distillation in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Fine-tune a cost-efficient model with the outputs of a large frontier model–al
 
 ---
 
-### 10. Customizing models for legal professionals
+### 20. Customizing models for legal professionals
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Fine-tune a cost-efficient model with the outputs of a large frontier model–al
 - **Enlace:** https://openai.com/index/harvey
 
 Harvey partners with OpenAI to build a custom-trained model for legal professionals.
-
----
-
-### 11. The Sora feed philosophy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:40d
-- **Enlace:** https://openai.com/index/sora-feed-philosophy
-
-Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.
-
----
-
-### 12. GPT-5.3 Instant: Smoother, more useful everyday conversations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Mar 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:12d
-- **Enlace:** https://openai.com/index/gpt-5-3-instant
-
-
-
----
-
-### 13. GPT-5.3 Instant System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Mar 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:12d
-- **Enlace:** https://openai.com/index/gpt-5-3-instant-system-card
-
-
-
----
-
-### 14. Creating nail art with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 04 Feb 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:404d
-- **Enlace:** https://openai.com/index/ten-tiny-canvases
-
-Using ChatGPT to find inspiration for nail art
-
----
-
-### 15. OpenAI and the CSU system bring AI to 500,000 students & faculty
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 04 Feb 2025 11:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:404d
-- **Enlace:** https://openai.com/index/openai-and-the-csu-system
-
-The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce.
-
----
-
-### 16. Introducing NextGenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 04 Mar 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:376d
-- **Enlace:** https://openai.com/index/introducing-nextgenai
-
-OpenAI commits $50M in funding and tools to leading institutions.
-
----
-
-### 17. LaunchDarkly's approach to AI-powered product management
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 04 Mar 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:376d
-- **Enlace:** https://openai.com/index/launchdarkly-claire-vo
-
-A conversation with Claire Vo, Chief Product Officer of LaunchDarkly, about the changing role of product managers, her anti-to-do list, and building AI-native teams.
-
----
-
-### 18. Brazil’s AI moment is here
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 04 Nov 2025 15:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:131d
-- **Enlace:** https://openai.com/global-affairs/brazil-ai-moment-is-here
-
-Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.
-
----
-
-### 19. Introducing gpt-oss
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:222d
-- **Enlace:** https://openai.com/index/introducing-gpt-oss
-
-We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.
-
----
-
-### 20. Open Weights and AI for All
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:222d
-- **Enlace:** https://openai.com/global-affairs/open-weights-and-ai-for-all
-
-AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what drives us. Today’s release of our most capable  open-weights models is a major step forward that makes advanced AI more open, flexible, and accessible worldwide.
 
 ---

@@ -11498,5 +11498,255 @@
       "authority:9",
       "old:654d"
     ]
+  },
+  {
+    "id": "8701e0aa17cc771076d3a68351b84066471ac20c089edefd17d348b26bb71402",
+    "title": "OpenAI for Education",
+    "link": "https://openai.com/index/introducing-chatgpt-edu",
+    "summary": "An affordable offering for universities to responsibly bring AI to campus.",
+    "published": "Thu, 30 May 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:654d"
+    ]
+  },
+  {
+    "id": "aebd8491395368f1562f68846e7ac6a5275fb5faf80acf4f8485d5d9d203ad29",
+    "title": "Strengthening America’s AI leadership with the U.S. National Laboratories",
+    "link": "https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories",
+    "summary": "OpenAI’s latest line of reasoning models will be used by nation’s leading scientists to drive scientific breakthroughs.",
+    "published": "Thu, 30 Jan 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:409d"
+    ]
+  },
+  {
+    "id": "0252684e3a46dc2c16d3a1adcc2883b0760835c23c31d271819139e75e86e474",
+    "title": "OpenAI standardizes on PyTorch",
+    "link": "https://openai.com/index/openai-pytorch",
+    "summary": "We are standardizing OpenAI’s deep learning framework on PyTorch.",
+    "published": "Thu, 30 Jan 2020 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2236d"
+    ]
+  },
+  {
+    "id": "2650ac53d30429c78aa9a2eef0296cea6f6eb5139b8bdf3f930494c491f14465",
+    "title": "Creating websites in minutes with AI Website Builder",
+    "link": "https://openai.com/index/wix",
+    "summary": "Wix’s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes—just by describing their idea in a conversation.",
+    "published": "Thu, 29 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:290d"
+    ]
+  },
+  {
+    "id": "a6861025e0f1a141e51823bbf328930fd6ef899b0c6d72f04784f014a44bcc1b",
+    "title": "Inside OpenAI’s in-house data agent",
+    "link": "https://openai.com/index/inside-our-in-house-data-agent",
+    "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+    "published": "Thu, 29 Jan 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:45d"
+    ]
+  },
+  {
+    "id": "8af76a98aaedba17b707e031f99b743e497e9e259f7ae8df2e16a2e6868f00c9",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+    "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+    "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:45d"
+    ]
+  },
+  {
+    "id": "cacb53a143831134f06e1f3a62f6fe44cfb3907f91d4556315762c480d50110c",
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "link": "https://openai.com/index/taisei",
+    "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+    "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:45d"
+    ]
+  },
+  {
+    "id": "6fbc4b3e2136def343df00112200103bc06881f8e90c1f946799655c4cd0b6da",
+    "title": "Efficient training of language models to fill in the middle",
+    "link": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
+    "summary": "",
+    "published": "Thu, 28 Jul 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1326d"
+    ]
+  },
+  {
+    "id": "a1f91296410c55ac7429626645beb74fb1ce5e6c39ae56315805f6f1275cd402",
+    "title": "Moving from intent-based bots to proactive AI agents",
+    "link": "https://openai.com/index/zendesk",
+    "summary": "Moving from intent-based bots to proactive AI agents.",
+    "published": "Thu, 27 Mar 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:353d"
+    ]
+  },
+  {
+    "id": "61f3cd2967195c5d0e00c63504db0d02009b5f1a1794b62a3c364d8d5434de13",
+    "title": "Finding GPT-4’s mistakes with GPT-4",
+    "link": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
+    "summary": "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF",
+    "published": "Thu, 27 Jun 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:626d"
+    ]
   }
 ]
