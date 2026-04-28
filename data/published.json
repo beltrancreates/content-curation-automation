@@ -11748,5 +11748,255 @@
       "authority:9",
       "old:626d"
     ]
+  },
+  {
+    "id": "8c26d79bae463825ab9f24641f2e5554059c79513bf748caf3c999e88cd4fa45",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "published": "Mon, 27 Apr 2026 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ac85612ab50fe246590e6f04b0fd2e0a38ecc223711c9c9f06c1cc844cdecac0",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "published": "Mon, 27 Apr 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "cdb6715d14e91c03bba41525a0518efa0c535637f1b2198f45ca87b0a937f338",
+    "title": "Choco automates food distribution with AI agents",
+    "link": "https://openai.com/index/choco",
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a8074253aaa54bb89f1e49261c308814ff18d474d09a8e9c9afa0f0ebe787208",
+    "title": "Supporting sellers with enhanced product listings",
+    "link": "https://openai.com/index/mercari",
+    "summary": "Mercari leverages GPT-4o mini and GPT-4 to streamline selling, enhance product listings, and boost sales, transforming the online marketplace with features like AI Listing Support and Mercari AI Assistant.",
+    "published": "Thu, 27 Feb 2025 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:381d"
+    ]
+  },
+  {
+    "id": "f38a70cc149b5a4603f9579bfb0f9f9023ef63e29a02dad201252faa1e314571",
+    "title": "Building an autonomous financial analyst with o1 and o3-mini",
+    "link": "https://openai.com/index/endex",
+    "summary": "Endex builds the future of financial analysis, powered by OpenAI’s reasoning models.",
+    "published": "Thu, 27 Feb 2025 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:381d"
+    ]
+  },
+  {
+    "id": "6fe747715d38f90c95059c3f048cc48245fb23a9f545abef559f6d097f21aba1",
+    "title": "OpenAI and GEDI partner for Italian news content",
+    "link": "https://openai.com/index/gedi",
+    "summary": "OpenAI and GEDI announce strategic partnership to bring Italian-language news content to ChatGPT.",
+    "published": "Thu, 26 Sep 2024 04:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:535d"
+    ]
+  },
+  {
+    "id": "7f578bf44e4fbaa41af95ef4084195c36fc29ece301dabd11c092c10aa8a1a34",
+    "title": "Customizable, no-code voice agent automation with GPT-4o",
+    "link": "https://openai.com/index/retell-ai",
+    "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.",
+    "published": "Thu, 26 Jun 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:262d"
+    ]
+  },
+  {
+    "id": "c719622ba4d283d666f0a7ce5148243a0d66d84e18e8f1af8cacca720a7c2d6e",
+    "title": "Measuring the performance of our models on real-world tasks",
+    "link": "https://openai.com/index/gdpval",
+    "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
+    "published": "Thu, 25 Sep 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:171d"
+    ]
+  },
+  {
+    "id": "a63102768c9822603c10eb78d7d0a4faf2b598847c1a148194a871c6301ecdc5",
+    "title": "Introducing ChatGPT Pulse",
+    "link": "https://openai.com/index/introducing-chatgpt-pulse",
+    "summary": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
+    "published": "Thu, 25 Sep 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:171d"
+    ]
+  },
+  {
+    "id": "878e2f54145b39e130db2c3142235ab2920ebad5d23316250a5f2ad078ba7c5c",
+    "title": "Democratic inputs to AI",
+    "link": "https://openai.com/index/democratic-inputs-to-ai",
+    "summary": "Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow, within the bounds defined by the law.",
+    "published": "Thu, 25 May 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1025d"
+    ]
   }
 ]
