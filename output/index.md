@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-04-28 09:15 UTC_
+_Actualizado: 2026-04-29 09:06 UTC_
 
 ## Selección priorizada
 
-### 1. Democratic inputs to AI
+### 1. Summarizing books with human feedback
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Sep 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1634d
+- **Enlace:** https://openai.com/index/summarizing-books
+
+Scaling human oversight of AI systems for tasks that are difficult to evaluate.
+
+---
+
+### 2. OpenAI partners with Scale to provide support for enterprises fine-tuning models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 24 Aug 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:934d
+- **Enlace:** https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models
+
+OpenAI’s customers can leverage Scale’s AI expertise to customize our most advanced models.
+
+---
+
+### 3. Resolving digital threats 100x faster with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 24 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:234d
+- **Enlace:** https://openai.com/index/outtake
+
+Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.
+
+---
+
+### 4. OpenAI’s approach to AI and national security
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 24 Oct 2024 14:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:507d
+- **Enlace:** https://openai.com/global-affairs/openais-approach-to-ai-and-national-security
+
+OpenAI’s approach to AI and national security
+
+---
+
+### 5. MuseNet
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Apr 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2516d
+- **Enlace:** https://openai.com/index/musenet
+
+We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was not explicitly programmed with our understanding of music, but instead discovered patterns of harmony, rhythm, and style by learning to predict the next token in hundreds of thousands of MIDI files. MuseNet uses the same general-purpose unsupervised technology as GPT-2, a large-scale transformer model
+
+---
+
+### 6. Weight normalization: A simple reparameterization to accelerate training of deep neural networks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Feb 2016 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3671d
+- **Enlace:** https://openai.com/index/weight-normalization
+
+
+
+---
+
+### 7. SearchGPT is a prototype of new AI search features
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Jul 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:598d
+- **Enlace:** https://openai.com/index/searchgpt-prototype
+
+We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources.
+
+---
+
+### 8. GPT-3 powers the next generation of apps
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Mar 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1816d
+- **Enlace:** https://openai.com/index/gpt-3-apps
+
+Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API.
+
+---
+
+### 9. OpenAI models, Codex, and Managed Agents come to AWS
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Apr 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-on-aws
+
+OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.
+
+---
+
+### 10. Our commitment to community safety
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Apr 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/our-commitment-to-community-safety
+
+Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.
+
+---
+
+### 11. Democratic inputs to AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $1
 
 ---
 
-### 2. Introducing ChatGPT Pulse
+### 12. Introducing ChatGPT Pulse
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse i
 
 ---
 
-### 3. Measuring the performance of our models on real-world tasks
+### 13. Measuring the performance of our models on real-world tasks
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI introduces GDPval, a new evaluation that measures model performance on re
 
 ---
 
-### 4. Customizable, no-code voice agent automation with GPT-4o
+### 14. Customizable, no-code voice agent automation with GPT-4o
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Retell AI is transforming the call center with AI voice automation powered by GP
 
 ---
 
-### 5. OpenAI and GEDI partner for Italian news content
+### 15. OpenAI and GEDI partner for Italian news content
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI and GEDI announce strategic partnership to bring Italian-language news co
 
 ---
 
-### 6. Building an autonomous financial analyst with o1 and o3-mini
+### 16. Building an autonomous financial analyst with o1 and o3-mini
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Endex builds the future of financial analysis, powered by OpenAI’s reasoning m
 
 ---
 
-### 7. Supporting sellers with enhanced product listings
+### 17. Supporting sellers with enhanced product listings
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Mercari leverages GPT-4o mini and GPT-4 to streamline selling, enhance product l
 
 ---
 
-### 8. Choco automates food distribution with AI agents
+### 18. Choco automates food distribution with AI agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ How Choco used OpenAI APIs to streamline food distribution, boost productivity, 
 
 ---
 
-### 9. The next phase of the Microsoft OpenAI partnership
+### 19. The next phase of the Microsoft OpenAI partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI and Microsoft announce an amended agreement that simplifies the partnersh
 
 ---
 
-### 10. OpenAI available at FedRAMP Moderate
+### 20. OpenAI available at FedRAMP Moderate
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI and Microsoft announce an amended agreement that simplifies the partnersh
 - **Enlace:** https://openai.com/index/openai-available-at-fedramp-moderate
 
 OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.
-
----
-
-### 11. Finding GPT-4’s mistakes with GPT-4
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Jun 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:626d
-- **Enlace:** https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4
-
-CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF
-
----
-
-### 12. Moving from intent-based bots to proactive AI agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Mar 2025 09:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:353d
-- **Enlace:** https://openai.com/index/zendesk
-
-Moving from intent-based bots to proactive AI agents.
-
----
-
-### 13. Efficient training of language models to fill in the middle
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 Jul 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1326d
-- **Enlace:** https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle
-
-
-
----
-
-### 14. Taisei Corporation shapes the next generation of talent with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
-- **Enlace:** https://openai.com/index/taisei
-
-Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.
-
----
-
-### 15. Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
-- **Enlace:** https://openai.com/index/retiring-gpt-4o-and-older-models
-
-On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
-
----
-
-### 16. Inside OpenAI’s in-house data agent
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Jan 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:45d
-- **Enlace:** https://openai.com/index/inside-our-in-house-data-agent
-
-How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.
-
----
-
-### 17. Creating websites in minutes with AI Website Builder
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 May 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:290d
-- **Enlace:** https://openai.com/index/wix
-
-Wix’s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes—just by describing their idea in a conversation.
-
----
-
-### 18. OpenAI standardizes on PyTorch
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Jan 2020 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2236d
-- **Enlace:** https://openai.com/index/openai-pytorch
-
-We are standardizing OpenAI’s deep learning framework on PyTorch.
-
----
-
-### 19. Strengthening America’s AI leadership with the U.S. National Laboratories
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Jan 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:409d
-- **Enlace:** https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories
-
-OpenAI’s latest line of reasoning models will be used by nation’s leading scientists to drive scientific breakthroughs.
-
----
-
-### 20. OpenAI for Education
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 May 2024 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:654d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-edu
-
-An affordable offering for universities to responsibly bring AI to campus.
 
 ---

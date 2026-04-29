@@ -11998,5 +11998,255 @@
       "authority:9",
       "old:1025d"
     ]
+  },
+  {
+    "id": "9d6571b38ece041543051d4d219e8e8818bb3b675647a9678a7705b191817733",
+    "title": "Our commitment to community safety",
+    "link": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "2a18082bb7d923345c81671f2909ef5d3a925fcb44b5cbce6da6edf49c94055c",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "link": "https://openai.com/index/openai-on-aws",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "77874ecc40bc883506906dcf838535ef75d0fb54dc19a06fbd99a551ea6ea780",
+    "title": "GPT-3 powers the next generation of apps",
+    "link": "https://openai.com/index/gpt-3-apps",
+    "summary": "Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API.",
+    "published": "Thu, 25 Mar 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1816d"
+    ]
+  },
+  {
+    "id": "298eedc7c4aa686973d5deeff421fd6b7da74c0bbd3fb9fdcc2517f08f2e300d",
+    "title": "SearchGPT is a prototype of new AI search features",
+    "link": "https://openai.com/index/searchgpt-prototype",
+    "summary": "We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources.",
+    "published": "Thu, 25 Jul 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:598d"
+    ]
+  },
+  {
+    "id": "aea2added9f8123364e7e1c846f9e3739b5117a0d612590781bf73b25c1dc7d0",
+    "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
+    "link": "https://openai.com/index/weight-normalization",
+    "summary": "",
+    "published": "Thu, 25 Feb 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3671d"
+    ]
+  },
+  {
+    "id": "7771a32d399d053930b88f31604e190aeedfa4a0b81a97f529725f75f0291a12",
+    "title": "MuseNet",
+    "link": "https://openai.com/index/musenet",
+    "summary": "We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was not explicitly programmed with our understanding of music, but instead discovered patterns of harmony, rhythm, and style by learning to predict the next token in hundreds of thousands of MIDI files. MuseNet uses the same general-purpose unsupervised technology as GPT-2, a large-scale transformer model trained to predict the next token in a sequence, whether audio or text.",
+    "published": "Thu, 25 Apr 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2516d"
+    ]
+  },
+  {
+    "id": "9dd91b2a19c531bbc848ce5e0a3237c5c97fb77bb2bfc1773a94a9bc7b340456",
+    "title": "OpenAI’s approach to AI and national security",
+    "link": "https://openai.com/global-affairs/openais-approach-to-ai-and-national-security",
+    "summary": "OpenAI’s approach to AI and national security",
+    "published": "Thu, 24 Oct 2024 14:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:507d"
+    ]
+  },
+  {
+    "id": "854c0f501a6eb883cf3ba94380f8b7902bf6076d37de54fa19bda4b43e501334",
+    "title": "Resolving digital threats 100x faster with OpenAI",
+    "link": "https://openai.com/index/outtake",
+    "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+    "published": "Thu, 24 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:234d"
+    ]
+  },
+  {
+    "id": "eab17854f76e0c59b6ea1524a477a60c5411c49136c365b4e55205ebb4610e81",
+    "title": "OpenAI partners with Scale to provide support for enterprises fine-tuning models",
+    "link": "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models",
+    "summary": "OpenAI’s customers can leverage Scale’s AI expertise to customize our most advanced models.",
+    "published": "Thu, 24 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:934d"
+    ]
+  },
+  {
+    "id": "d707a94099008c3ad284789973f3a7bb5c1f35940ca4c7c71656d1ee72e5907d",
+    "title": "Summarizing books with human feedback",
+    "link": "https://openai.com/index/summarizing-books",
+    "summary": "Scaling human oversight of AI systems for tasks that are difficult to evaluate.",
+    "published": "Thu, 23 Sep 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1634d"
+    ]
   }
 ]
