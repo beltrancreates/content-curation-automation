@@ -12248,5 +12248,255 @@
       "authority:9",
       "old:1634d"
     ]
+  },
+  {
+    "id": "64528b3eed6827ce7425b222a8d54cc2ed333e19d98bf68b68cfff79f0cd5ad0",
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "published": "Wed, 29 Apr 2026 20:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "a506bbd7a7b4c29bb588f9d9456cf0f190ff46af0fda58d905c2ce91c49db207",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "published": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c04db312c883408a05f9c32393128de042c325075eaecf654ab9794d0d6e4b8d",
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "b481843df46625282b56c23509f7b9c42338b125da5ce9a39761d9cc04538d69",
+    "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+    "link": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+    "summary": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
+    "published": "Thu, 23 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:143d"
+    ]
+  },
+  {
+    "id": "a7437ef461b0d6ac7f708ccd814b6967ea1a1340828bf7ad6767cbd301eb2213",
+    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/index/south-korea-economic-blueprint",
+    "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+    "published": "Thu, 23 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:143d"
+    ]
+  },
+  {
+    "id": "3493e68dd38447964b7731942cac84c3b710a5e56d5ff01a5ac8694fda9c59b3",
+    "title": "Work smarter with your company knowledge in ChatGPT",
+    "link": "https://openai.com/index/introducing-company-knowledge",
+    "summary": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
+    "published": "Thu, 23 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:143d"
+    ]
+  },
+  {
+    "id": "f9361c2aeaecf550b67ef30bc600a38300937235189a84700f00516209fd874a",
+    "title": "OpenAI Scholars 2019: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2019-final-projects",
+    "summary": "Our second class of OpenAI Scholars has concluded, with all eight scholars producing an exciting final project showcased at Scholars Demo Day at OpenAI.",
+    "published": "Thu, 23 May 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2488d"
+    ]
+  },
+  {
+    "id": "0430a506c2367033fc35f69123835155aa1356c877c9d6d6882cddd191d2bb67",
+    "title": "ChatGPT plugins",
+    "link": "https://openai.com/index/chatgpt-plugins",
+    "summary": "We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.",
+    "published": "Thu, 23 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1088d"
+    ]
+  },
+  {
+    "id": "4b824cb57ba744a1f7274ad18454147037217ac09a18e904685ac6228f16394c",
+    "title": "Learning to play Minecraft with Video PreTraining",
+    "link": "https://openai.com/index/vpt",
+    "summary": "We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our model can learn to craft diamond tools, a task that usually takes proficient humans over 20 minutes (24,000 actions). Our model uses the native human interface of keypresses and mouse movements, making it quite general, and represents a step towards general computer-using agents.",
+    "published": "Thu, 23 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1361d"
+    ]
+  },
+  {
+    "id": "3fac2106afb3cf051f937d1a6e7e365458a2f6165b5a8ace3b61dbfea974f116",
+    "title": "Computer-Using Agent",
+    "link": "https://openai.com/index/computer-using-agent",
+    "summary": "A universal interface for AI to interact with the digital world.",
+    "published": "Thu, 23 Jan 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:416d"
+    ]
   }
 ]

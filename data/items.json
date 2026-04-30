@@ -19784,5 +19784,76 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "64528b3eed6827ce7425b222a8d54cc2ed333e19d98bf68b68cfff79f0cd5ad0",
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "published": "Wed, 29 Apr 2026 20:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "a506bbd7a7b4c29bb588f9d9456cf0f190ff46af0fda58d905c2ce91c49db207",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "published": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "c04db312c883408a05f9c32393128de042c325075eaecf654ab9794d0d6e4b8d",
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "9a973ed007de3ef770e5933a6594f03b26dc1698a8cf6581d8a467b205335fe0",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;",
+    "published": "Wed, 29 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
