@@ -12498,5 +12498,253 @@
       "authority:9",
       "old:416d"
     ]
+  },
+  {
+    "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
+    "published": "Thu, 30 Apr 2026 15:59:41 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 12.4,
+    "reasons": [
+      "keyword_hits:ai,model,research,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8783e974f612d68e830cc80f3f156be021b727dff01a0a697940f5cadff9718d",
+    "title": "The International 2018: Results",
+    "link": "https://openai.com/index/the-international-2018-results",
+    "summary": "OpenAI Five lost two games against top Dota 2 players at The International in Vancouver this week, maintaining a good chance of winning for the first 20–35 minutes of both games.",
+    "published": "Thu, 23 Aug 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2761d"
+    ]
+  },
+  {
+    "id": "41dec3b83656e3e96de91b1d558bc7b5e28eb06e0b865f8af2104923b32a2839",
+    "title": "OpenAI Deutschland",
+    "link": "https://openai.com/index/openai-deutschland",
+    "summary": "OpenAI announces the opening of its first office in Germany, based in Munich.",
+    "published": "Thu, 22 May 2025 23:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:296d"
+    ]
+  },
+  {
+    "id": "8d5a8f42c8eb5b570906bf3fa2f39a1663fd0c5471cb7614b4c03ed78d2f964e",
+    "title": "Shipping code faster with o3, o4-mini, and GPT-4.1",
+    "link": "https://openai.com/index/coderabbit",
+    "summary": "CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI.",
+    "published": "Thu, 22 May 2025 10:25:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:297d"
+    ]
+  },
+  {
+    "id": "d9277da3c5c740db79a3210eb3e1b4f299ba0f600e229a3fe570637fce4216b1",
+    "title": "Introducing Stargate UAE",
+    "link": "https://openai.com/index/introducing-stargate-uae",
+    "summary": "We’re launching Stargate UAE – the first international deployment of Stargate, OpenAI’s AI infrastructure platform.",
+    "published": "Thu, 22 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:297d"
+    ]
+  },
+  {
+    "id": "c92c8cb8435f16b03c1f84684ef0b0d0b50c91b3f8bbf775cd89773d0bd250dd",
+    "title": "Testimony before the U.S. Senate",
+    "link": "https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate",
+    "summary": "The following is the written testimony of Sam Altman, Chief Executive Officer of OpenAI, before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).",
+    "published": "Thu, 22 Jun 2023 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:997d"
+    ]
+  },
+  {
+    "id": "b518ddec0acdec8d95cbe426436fa11a60f63117376d8267b1cf9433a907370a",
+    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+    "link": "https://openai.com/index/scaling-postgresql",
+    "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+    "published": "Thu, 22 Jan 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:52d"
+    ]
+  },
+  {
+    "id": "06b92625ece2ea5c154d8cd7f25428932db5ef0cd43a4bf1642ff2e42081f3b9",
+    "title": "Inside Praktika's conversational approach to language learning",
+    "link": "https://openai.com/index/praktika",
+    "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+    "published": "Thu, 22 Jan 2026 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:52d"
+    ]
+  },
+  {
+    "id": "51f698ecb8840e49201d0a361345e2f1a8e710deea283bed7e97e98341eaba91",
+    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+    "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+    "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+    "published": "Thu, 22 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:52d"
+    ]
+  },
+  {
+    "id": "ebd2899c6e29faee626c4a8ef8444f9adb8c537d321b7e1b8d23c042de44dba0",
+    "title": "OpenAI hackathon",
+    "link": "https://openai.com/index/openai-hackathon",
+    "summary": "Come to OpenAI’s office in San Francisco’s Mission District for talks and a hackathon on Saturday, March 3rd.",
+    "published": "Thu, 22 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2943d"
+    ]
   }
 ]
