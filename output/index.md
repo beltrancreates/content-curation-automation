@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-01 08:56 UTC_
+_Actualizado: 2026-05-02 08:19 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI hackathon
+### 1. Fine-tuning GPT-2 from human preferences
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 19 Sep 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:2369d
+- **Enlace:** https://openai.com/index/fine-tuning-gpt-2
+
+We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required
+
+---
+
+### 2. Genmab launches “AI Everywhere”
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 19 Sep 2024 04:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:542d
+- **Enlace:** https://openai.com/index/genmab
+
+Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to security and privacy
+
+---
+
+### 3. Uber enables outstanding on-demand experiences with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Feb 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:388d
+- **Enlace:** https://openai.com/index/uber-enables-outstanding-experiences
+
+A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber.
+
+---
+
+### 4. Proximal Policy Optimization
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jul 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3160d
+- **Enlace:** https://openai.com/index/openai-baselines-ppo
+
+We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune. PPO has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.
+
+---
+
+### 5. Improved Techniques for Training Consistency Models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jun 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:633d
+- **Enlace:** https://openai.com/index/improved-techniques-for-training-consistency-models
+
+Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.
+
+---
+
+### 6. Helping 1,000 small businesses build with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Nov 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:115d
+- **Enlace:** https://openai.com/index/small-business-ai-jam
+
+OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.
+
+---
+
+### 7. OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Nov 2025 14:50:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:115d
+- **Enlace:** https://openai.com/index/openai-and-foxconn-collaborate
+
+OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.
+
+---
+
+### 8. Embedding AI into developer software
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Mar 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:724d
+- **Enlace:** https://openai.com/index/jetbrains
+
+JetBrains uses OpenAI’s API to build its fastest-growing product ever.
+
+---
+
+### 9. Advancing red teaming with people and AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Nov 2024 10:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:479d
+- **Enlace:** https://openai.com/index/advancing-red-teaming-with-people-and-ai
+
+Advancing red teaming with people and AI
+
+---
+
+### 10. Testing robustness against unforeseen adversaries
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 22 Aug 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2397d
+- **Enlace:** https://openai.com/index/testing-robustness
+
+We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance across a more diverse range of unforeseen attacks.
+
+---
+
+### 11. OpenAI hackathon
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Come to OpenAI’s office in San Francisco’s Mission District for talks and a 
 
 ---
 
-### 2. Inside GPT-5 for Work: How Businesses Use GPT-5
+### 12. Inside GPT-5 for Work: How Businesses Use GPT-5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A data-driven report on how workers across industries use ChatGPT—covering ado
 
 ---
 
-### 3. Inside Praktika's conversational approach to language learning
+### 13. Inside Praktika's conversational approach to language learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personali
 
 ---
 
-### 4. Scaling PostgreSQL to power 800 million ChatGPT users
+### 14. Scaling PostgreSQL to power 800 million ChatGPT users
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ An inside look at how OpenAI scaled PostgreSQL to millions of queries per second
 
 ---
 
-### 5. Testimony before the U.S. Senate
+### 15. Testimony before the U.S. Senate
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ The following is the written testimony of Sam Altman, Chief Executive Officer of
 
 ---
 
-### 6. Introducing Stargate UAE
+### 16. Introducing Stargate UAE
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’re launching Stargate UAE – the first international deployment of Stargat
 
 ---
 
-### 7. Shipping code faster with o3, o4-mini, and GPT-4.1
+### 17. Shipping code faster with o3, o4-mini, and GPT-4.1
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy,
 
 ---
 
-### 8. OpenAI Deutschland
+### 18. OpenAI Deutschland
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI announces the opening of its first office in Germany, based in Munich.
 
 ---
 
-### 9. The International 2018: Results
+### 19. The International 2018: Results
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI Five lost two games against top Dota 2 players at The International in Va
 
 ---
 
-### 10. This startup’s new mechanistic interpretability tool lets you debug LLMs
+### 20. This startup’s new mechanistic interpretability tool lets you debug LLMs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ OpenAI Five lost two games against top Dota 2 players at The International in Va
 - **Enlace:** https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
 
 The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;
-
----
-
-### 11. Computer-Using Agent
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Jan 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:416d
-- **Enlace:** https://openai.com/index/computer-using-agent
-
-A universal interface for AI to interact with the digital world.
-
----
-
-### 12. Learning to play Minecraft with Video PreTraining
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Jun 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1361d
-- **Enlace:** https://openai.com/index/vpt
-
-We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our model can learn to craft diamond tools, a task that usually takes proficient humans over 20 minutes (24,000 actions). Our model uses the native human interface of keypresses and mouse movements, making it quite general, and represents a step towards general computer-using agents.
-
----
-
-### 13. ChatGPT plugins
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Mar 2023 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:1088d
-- **Enlace:** https://openai.com/index/chatgpt-plugins
-
-We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
-
----
-
-### 14. OpenAI Scholars 2019: Final projects
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 May 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2488d
-- **Enlace:** https://openai.com/index/openai-scholars-2019-final-projects
-
-Our second class of OpenAI Scholars has concluded, with all eight scholars producing an exciting final project showcased at Scholars Demo Day at OpenAI.
-
----
-
-### 15. Work smarter with your company knowledge in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Oct 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:143d
-- **Enlace:** https://openai.com/index/introducing-company-knowledge
-
-Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.
-
----
-
-### 16. AI in South Korea—OpenAI’s Economic Blueprint
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Oct 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:143d
-- **Enlace:** https://openai.com/index/south-korea-economic-blueprint
-
-OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.
-
----
-
-### 17. OpenAI acquires Software Applications Incorporated, maker of Sky
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Oct 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:143d
-- **Enlace:** https://openai.com/index/openai-acquires-software-applications-incorporated
-
-OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.
-
----
-
-### 18. Cybersecurity in the Intelligence Age
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Apr 2026 04:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/cybersecurity-in-the-intelligence-age
-
-OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.
-
----
-
-### 19. Building the compute infrastructure for the Intelligence Age
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Apr 2026 15:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age
-
-OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.
-
----
-
-### 20. Where the goblins came from
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 29 Apr 2026 20:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/where-the-goblins-came-from
-
-How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
 
 ---

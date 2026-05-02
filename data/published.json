@@ -12746,5 +12746,255 @@
       "authority:9",
       "old:2943d"
     ]
+  },
+  {
+    "id": "66014d5a9d8562476749a9b5acbd4fbc32760e9af37f0bbbd0c31d72105e0845",
+    "title": "Testing robustness against unforeseen adversaries",
+    "link": "https://openai.com/index/testing-robustness",
+    "summary": "We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance across a more diverse range of unforeseen attacks.",
+    "published": "Thu, 22 Aug 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2397d"
+    ]
+  },
+  {
+    "id": "c1f3a38a89c08da8f4e1c3fb76e06cc0a9e7a9e61e41bf01d00679dfb8e15ad6",
+    "title": "Advancing red teaming with people and AI",
+    "link": "https://openai.com/index/advancing-red-teaming-with-people-and-ai",
+    "summary": "Advancing red teaming with people and AI",
+    "published": "Thu, 21 Nov 2024 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:479d"
+    ]
+  },
+  {
+    "id": "70b003de15b92e9d7c91c8a0b67f2496d7fd6559386cd3c2fbe4d676c3729cdc",
+    "title": "Embedding AI into developer software",
+    "link": "https://openai.com/index/jetbrains",
+    "summary": "JetBrains uses OpenAI’s API to build its fastest-growing product ever.",
+    "published": "Thu, 21 Mar 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:724d"
+    ]
+  },
+  {
+    "id": "4cdfabc84f841c647e8c456b416e5772a171191850f85a2d1bd0625508425948",
+    "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+    "link": "https://openai.com/index/openai-and-foxconn-collaborate",
+    "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
+    "published": "Thu, 20 Nov 2025 14:50:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:115d"
+    ]
+  },
+  {
+    "id": "f5549bb1192100b94880fbfb8d762429be92acaa7ef6889e7f38a424c894fd82",
+    "title": "Helping 1,000 small businesses build with AI",
+    "link": "https://openai.com/index/small-business-ai-jam",
+    "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
+    "published": "Thu, 20 Nov 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:115d"
+    ]
+  },
+  {
+    "id": "776bae94de04ab1cb23b84e75b329a133c24a4c6053fc667da3b7be5f9713631",
+    "title": "Improved Techniques for Training Consistency Models",
+    "link": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+    "summary": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
+    "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:633d"
+    ]
+  },
+  {
+    "id": "1d07844a80d066c93a96806de6e9eed9f6afc2d5de4d547b75b95d71991a4f4b",
+    "title": "Proximal Policy Optimization",
+    "link": "https://openai.com/index/openai-baselines-ppo",
+    "summary": "We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune. PPO has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.",
+    "published": "Thu, 20 Jul 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3160d"
+    ]
+  },
+  {
+    "id": "310070318641cb1803843947acb380880720a319b573a746a2eb49ab92fcc413",
+    "title": "Uber enables outstanding on-demand experiences with AI",
+    "link": "https://openai.com/index/uber-enables-outstanding-experiences",
+    "summary": "A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber.",
+    "published": "Thu, 20 Feb 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:388d"
+    ]
+  },
+  {
+    "id": "7d2cf1834e4987d5f3846bbe833bf6cd5c8b4485a647169f8ab1b69fafd00e22",
+    "title": "Genmab launches “AI Everywhere”",
+    "link": "https://openai.com/index/genmab",
+    "summary": "Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to security and privacy",
+    "published": "Thu, 19 Sep 2024 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:542d"
+    ]
+  },
+  {
+    "id": "68bcf9d4f58968178632d402a359fc1792dcde064f2351bb12567458cc086832",
+    "title": "Fine-tuning GPT-2 from human preferences",
+    "link": "https://openai.com/index/fine-tuning-gpt-2",
+    "summary": "We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of “machines talking to humans,” which we believe is key to extracting information about human values.",
+    "published": "Thu, 19 Sep 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:2369d"
+    ]
   }
 ]
