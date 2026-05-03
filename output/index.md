@@ -1,10 +1,141 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-02 08:19 UTC_
+_Actualizado: 2026-05-03 08:44 UTC_
 
 ## Selección priorizada
 
-### 1. Fine-tuning GPT-2 from human preferences
+### 1. Creating an AI-powered Magic Studio
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 May 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:668d
+- **Enlace:** https://openai.com/index/canva
+
+Canva is a visual communication platform, enjoyed by more than 175 million people monthly to make presentations, videos, documents, websites, social media graphics and more. A majority of the world’s knowledge workers lack design training, but Canva’s combination of an easy-to-use interface, vast libraries, and time-saving tools allows anyone to create visually compelling content.
+
+---
+
+### 2. OpenAI and Reddit Partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 May 2024 13:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:668d
+- **Enlace:** https://openai.com/index/openai-and-reddit-partnership
+
+OpenAI and Reddit Partnership 
+We’re bringing Reddit’s unique content to ChatGPT and our products.
+
+---
+
+### 3. OpenAI nonprofit jam
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:241d
+- **Enlace:** https://openai.com/global-affairs/openai-nonprofit-jam
+
+At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.
+
+---
+
+### 4. Statement from the OpenAI Board of Directors on the Nonprofit Commission Report
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:241d
+- **Enlace:** https://openai.com/index/nonprofit-commission-report
+
+The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.
+
+---
+
+### 5. Invideo AI uses OpenAI models to create videos 10x faster
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:241d
+- **Enlace:** https://openai.com/index/invideo-ai
+
+Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.
+
+---
+
+### 6. Introducing ChatGPT agent
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 17 Jul 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:241d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-agent
+
+Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.
+
+---
+
+### 7. Introducing GPT-5.2-Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/gpt-5-2-codex
+
+GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.
+
+---
+
+### 8. AI literacy resources for teens and parents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/ai-literacy-resources-for-teens-and-parents
+
+OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.
+
+---
+
+### 9. Evaluating chain-of-thought monitorability
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:87d
+- **Enlace:** https://openai.com/index/evaluating-chain-of-thought-monitorability
+
+OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.
+
+---
+
+### 10. Generalizing from simulation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 19 Oct 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3069d
+- **Enlace:** https://openai.com/index/generalizing-from-simulation
+
+Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. That is, we’ve used these techniques to build closed-loop systems rather than open-loop ones as before.
+
+---
+
+### 11. Fine-tuning GPT-2 from human preferences
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +148,7 @@ We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback 
 
 ---
 
-### 2. Genmab launches “AI Everywhere”
+### 12. Genmab launches “AI Everywhere”
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +161,7 @@ Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to securi
 
 ---
 
-### 3. Uber enables outstanding on-demand experiences with AI
+### 13. Uber enables outstanding on-demand experiences with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +174,7 @@ A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at U
 
 ---
 
-### 4. Proximal Policy Optimization
+### 14. Proximal Policy Optimization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +187,7 @@ We’re releasing a new class of reinforcement learning algorithms, Proximal Pol
 
 ---
 
-### 5. Improved Techniques for Training Consistency Models
+### 15. Improved Techniques for Training Consistency Models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +200,7 @@ Consistency models are a nascent family of generative models that can sample hig
 
 ---
 
-### 6. Helping 1,000 small businesses build with AI
+### 16. Helping 1,000 small businesses build with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +213,7 @@ OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000
 
 ---
 
-### 7. OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain
+### 17. OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +226,7 @@ OpenAI and Foxconn are collaborating to design and manufacture next-generation A
 
 ---
 
-### 8. Embedding AI into developer software
+### 18. Embedding AI into developer software
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +239,7 @@ JetBrains uses OpenAI’s API to build its fastest-growing product ever.
 
 ---
 
-### 9. Advancing red teaming with people and AI
+### 19. Advancing red teaming with people and AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +252,7 @@ Advancing red teaming with people and AI
 
 ---
 
-### 10. Testing robustness against unforeseen adversaries
+### 20. Testing robustness against unforeseen adversaries
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +262,5 @@ Advancing red teaming with people and AI
 - **Enlace:** https://openai.com/index/testing-robustness
 
 We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance across a more diverse range of unforeseen attacks.
-
----
-
-### 11. OpenAI hackathon
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Feb 2018 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2943d
-- **Enlace:** https://openai.com/index/openai-hackathon
-
-Come to OpenAI’s office in San Francisco’s Mission District for talks and a hackathon on Saturday, March 3rd.
-
----
-
-### 12. Inside GPT-5 for Work: How Businesses Use GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:52d
-- **Enlace:** https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work
-
-A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.
-
----
-
-### 13. Inside Praktika's conversational approach to language learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jan 2026 05:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:52d
-- **Enlace:** https://openai.com/index/praktika
-
-How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency
-
----
-
-### 14. Scaling PostgreSQL to power 800 million ChatGPT users
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jan 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:52d
-- **Enlace:** https://openai.com/index/scaling-postgresql
-
-An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.
-
----
-
-### 15. Testimony before the U.S. Senate
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jun 2023 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:997d
-- **Enlace:** https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate
-
-The following is the written testimony of Sam Altman, Chief Executive Officer of OpenAI, before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).
-
----
-
-### 16. Introducing Stargate UAE
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 May 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:297d
-- **Enlace:** https://openai.com/index/introducing-stargate-uae
-
-We’re launching Stargate UAE – the first international deployment of Stargate, OpenAI’s AI infrastructure platform.
-
----
-
-### 17. Shipping code faster with o3, o4-mini, and GPT-4.1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 May 2025 10:25:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:297d
-- **Enlace:** https://openai.com/index/coderabbit
-
-CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI.
-
----
-
-### 18. OpenAI Deutschland
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 May 2025 23:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:296d
-- **Enlace:** https://openai.com/index/openai-deutschland
-
-OpenAI announces the opening of its first office in Germany, based in Munich.
-
----
-
-### 19. The International 2018: Results
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Aug 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2761d
-- **Enlace:** https://openai.com/index/the-international-2018-results
-
-OpenAI Five lost two games against top Dota 2 players at The International in Vancouver this week, maintaining a good chance of winning for the first 20–35 minutes of both games.
-
----
-
-### 20. This startup’s new mechanistic interpretability tool lets you debug LLMs
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 30 Apr 2026 15:59:41 +0000
-- **Score:** 12.4
-- **Razones:** keyword_hits:ai,model,research,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
-
-The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;
 
 ---

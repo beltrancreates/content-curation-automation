@@ -12996,5 +12996,255 @@
       "authority:9",
       "old:2369d"
     ]
+  },
+  {
+    "id": "4934aaaa252f4554cead88216851f478ea4cfba879b18294d98def513052e9a6",
+    "title": "Generalizing from simulation",
+    "link": "https://openai.com/index/generalizing-from-simulation",
+    "summary": "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. That is, we’ve used these techniques to build closed-loop systems rather than open-loop ones as before.",
+    "published": "Thu, 19 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3069d"
+    ]
+  },
+  {
+    "id": "577144c55e06855cab82b8fa955cb4e08cd65e448b5f222ad36f19baed9d3950",
+    "title": "Evaluating chain-of-thought monitorability",
+    "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+    "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+    "published": "Thu, 18 Dec 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:87d"
+    ]
+  },
+  {
+    "id": "8ee843b1314345c42b2e95453cc90f2bf58fdb881bbb80f934097fa68784f452",
+    "title": "AI literacy resources for teens and parents",
+    "link": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+    "published": "Thu, 18 Dec 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:87d"
+    ]
+  },
+  {
+    "id": "3653fc052ab943da141716b8e1217ba51724fc5be7c64dc1872aa3783daa5eec",
+    "title": "Introducing GPT-5.2-Codex",
+    "link": "https://openai.com/index/gpt-5-2-codex",
+    "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+    "published": "Thu, 18 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:87d"
+    ]
+  },
+  {
+    "id": "1d39147f38b6fe594fc72ade29152614be2824807ee7a5eaf3b4dc060b974f81",
+    "title": "Introducing ChatGPT agent",
+    "link": "https://openai.com/index/introducing-chatgpt-agent",
+    "summary": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.",
+    "published": "Thu, 17 Jul 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "fb3178fecca3b822243dfa1c2f6a9ec3c0ed33e611ccc70eae4d50d1e2abe4dc",
+    "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+    "link": "https://openai.com/index/invideo-ai",
+    "summary": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
+    "published": "Thu, 17 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "db75a7c7e6cd8133268f239f67ced8f950d81be846bad852cc9cab6923009724",
+    "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
+    "link": "https://openai.com/index/nonprofit-commission-report",
+    "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
+    "published": "Thu, 17 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "aec67376a59e0eb5527c46963f524099f10e87aebbdf675775f071c46671fec6",
+    "title": "OpenAI nonprofit jam",
+    "link": "https://openai.com/global-affairs/openai-nonprofit-jam",
+    "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
+    "published": "Thu, 17 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:241d"
+    ]
+  },
+  {
+    "id": "b6ed20308c7188e14ce59ea435f393d1e96acba7f34618f1b16c6bf20d443e0c",
+    "title": "OpenAI and Reddit Partnership",
+    "link": "https://openai.com/index/openai-and-reddit-partnership",
+    "summary": "OpenAI and Reddit Partnership \nWe’re bringing Reddit’s unique content to ChatGPT and our products.",
+    "published": "Thu, 16 May 2024 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:668d"
+    ]
+  },
+  {
+    "id": "1c723bede5b661ea2a2cec8b9751f5aecf86daa5206aa00f24c0ce4a33ce5a96",
+    "title": "Creating an AI-powered Magic Studio",
+    "link": "https://openai.com/index/canva",
+    "summary": "Canva is a visual communication platform, enjoyed by more than 175 million people monthly to make presentations, videos, documents, websites, social media graphics and more. A majority of the world’s knowledge workers lack design training, but Canva’s combination of an easy-to-use interface, vast libraries, and time-saving tools allows anyone to create visually compelling content.",
+    "published": "Thu, 16 May 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:668d"
+    ]
   }
 ]
