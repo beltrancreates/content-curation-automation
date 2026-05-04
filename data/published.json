@@ -13246,5 +13246,255 @@
       "authority:9",
       "old:668d"
     ]
+  },
+  {
+    "id": "242b2dab48c8a78962f2a7c105e9f1e28d8602ae4f32bf7ad2fb9c59b18d889b",
+    "title": "Generative models",
+    "link": "https://openai.com/index/generative-models",
+    "summary": "This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our work, this post will tell you a bit more about generative models: what they are, why they are important, and where they might be going.",
+    "published": "Thu, 16 Jun 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3559d"
+    ]
+  },
+  {
+    "id": "524f3403e520d19b0d9de9478c4de0e86aeec157ff3ac6f292bf8e15a29e2500",
+    "title": "How should AI systems behave, and who should decide?",
+    "link": "https://openai.com/index/how-should-ai-systems-behave",
+    "summary": "We’re clarifying how ChatGPT’s behavior is shaped and our plans for improving that behavior, allowing more user customization, and getting more public input into our decision-making in these areas.",
+    "published": "Thu, 16 Feb 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1123d"
+    ]
+  },
+  {
+    "id": "83d6431dbf44a67720151e49e8a31d209c002f1af1d689c08635df8011173c58",
+    "title": "Improving verifiability in AI development",
+    "link": "https://openai.com/index/improving-verifiability",
+    "summary": "We’ve contributed to a multi-stakeholder report by 58 co-authors at 30 organizations, including the Centre for the Future of Intelligence, Mila, Schwartz Reisman Institute for Technology and Society, Center for Advanced Study in the Behavioral Sciences, and Center for Security and Emerging Technologies. This report describes 10 mechanisms to improve the verifiability of claims made about AI systems. Developers can use these tools to provide evidence that AI systems are safe, secure, fair, or privacy-preserving. Users, policymakers, and civil society can use these tools to evaluate AI development processes.",
+    "published": "Thu, 16 Apr 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2159d"
+    ]
+  },
+  {
+    "id": "78cfd6ab6164089037f2e33b27c633c5336efabfbb263b0cf27e05e34ce2567e",
+    "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+    "link": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+    "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+    "published": "Thu, 15 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:59d"
+    ]
+  },
+  {
+    "id": "d0b347dc21b4fec92eda84ffa733574775c908e271b9ce069951b6160d31c54e",
+    "title": "Video generation models as world simulators",
+    "link": "https://openai.com/index/video-generation-models-as-world-simulators",
+    "summary": "We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ratios. We leverage a transformer architecture that operates on spacetime patches of video and image latent codes. Our largest model, Sora, is capable of generating a minute of high fidelity video. Our results suggest that scaling video generation models is a promising path towards building general purpose simulators of the physical world.",
+    "published": "Thu, 15 Feb 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:759d"
+    ]
+  },
+  {
+    "id": "0aaeed29e8ed788b07289460dab6fc7747daeda2bfe58560ba9078c81ed1ab40",
+    "title": "Delivering contextual job matching for millions with OpenAI",
+    "link": "https://openai.com/index/indeed",
+    "summary": "Indeed, whose mission is to help people get jobs, is the world’s #1 job site. Over 350 million unique visitors come to Indeed every month to connect with more than 3.5 million employers and over 32 million jobs. But what’s more is that every three seconds someone gets hired on Indeed.",
+    "published": "Thu, 15 Aug 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:577d"
+    ]
+  },
+  {
+    "id": "0514d6dda6bee9c304b58097c1a0e63ca091280cb04e78e42c44ae83f1aff556",
+    "title": "DALL·E 2: Extending creativity",
+    "link": "https://openai.com/index/dall-e-2-extending-creativity",
+    "summary": "As part of our DALL·E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL·E into their creative workflows. The artists in our early access group have helped us discover new uses for DALL·E and have served as key voices as we’ve made decisions about DALL·E’s features.",
+    "published": "Thu, 14 Jul 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1340d"
+    ]
+  },
+  {
+    "id": "4f032637a79b0ab54cfe5fbee6439a4c3a2e9afcd7af6b1ab74f5e09df8f5100",
+    "title": "Better language models and their implications",
+    "link": "https://openai.com/index/better-language-models",
+    "summary": "We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization—all without task-specific training.",
+    "published": "Thu, 14 Feb 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2586d"
+    ]
+  },
+  {
+    "id": "546ec9807540847b05d26f4474ad9550810067b1b6e052d64a46b076f24729d5",
+    "title": "Increasing accuracy of pediatric visit notes",
+    "link": "https://openai.com/index/summer-health",
+    "summary": "Summer Health reimagines pediatric doctor’s visits with OpenAI.",
+    "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:822d"
+    ]
+  },
+  {
+    "id": "740a23f46b97dd470e5074c5b5805140ed1bee8ac9478bdc8d6de2563c34fbc9",
+    "title": "Practices for Governing Agentic AI Systems",
+    "link": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+    "summary": "",
+    "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:822d"
+    ]
   }
 ]
