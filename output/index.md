@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-05 09:04 UTC_
+_Actualizado: 2026-05-06 09:19 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing OpenAI o1
+### 1. Introducing GPT-5.3-Codex-Spark
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Feb 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:31d
+- **Enlace:** https://openai.com/index/introducing-gpt-5-3-codex-spark
+
+Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.
+
+---
+
+### 2. Bringing the magic of AI to Mattel’s iconic brands
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Jun 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:276d
+- **Enlace:** https://openai.com/index/mattels-iconic-brands
+
+OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage.
+
+---
+
+### 3. Decoding genetics with OpenAI o1
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/o1-genetics
+
+Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges.
+
+---
+
+### 4. Coding with OpenAI o1
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/o1-coding
+
+Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.
+
+---
+
+### 5. Answering quantum physics questions with OpenAI o1
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/o1-quantum-physics
+
+Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
+
+---
+
+### 6. Economics and reasoning with OpenAI o1
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/o1-economics
+
+Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
+
+---
+
+### 7. OpenAI o1 Contributions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/openai-o1-contributions
+
+OpenAI o1 Contributions
+
+---
+
+### 8. OpenAI o1 System Card External Testers Acknowledgements
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements
+
+OpenAI o1 system card external testers acknowledgements
+
+---
+
+### 9. OpenAI o1-mini
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Sep 2024 10:01:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
+- **Enlace:** https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning
+
+Advancing cost-efficient reasoning
+
+---
+
+### 10. New ways to buy ChatGPT ads
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/new-ways-to-buy-chatgpt-ads
+
+OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.
+
+---
+
+### 11. Introducing OpenAI o1
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Introducing OpenAI o1
 
 ---
 
-### 2. Wayfair is shaping the future of retail with AI
+### 12. Wayfair is shaping the future of retail with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A conversation with Fiona Tan, Chief Technology Officer of Wayfair.
 
 ---
 
-### 3. OpenAI’s proposals for the U.S. AI Action Plan
+### 13. OpenAI’s proposals for the U.S. AI Action Plan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Recommendations build on OpenAI’s Economic Blueprint to strengthen America’s
 
 ---
 
-### 4. How Philips is scaling AI literacy across 70,000 employees
+### 14. How Philips is scaling AI literacy across 70,000 employees
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employee
 
 ---
 
-### 5. Introducing GPT-5.1 for developers
+### 15. Introducing GPT-5.1 for developers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extende
 
 ---
 
-### 6. Introducing group chats in ChatGPT
+### 16. Introducing group chats in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’re piloting group chats in ChatGPT to make collaboration simple. Bring othe
 
 ---
 
-### 7. Understanding neural networks through sparse circuits
+### 17. Understanding neural networks through sparse circuits
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI is exploring mechanistic interpretability to understand how neural networ
 
 ---
 
-### 8. Weak-to-strong generalization
+### 18. Weak-to-strong generalization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We present a new research direction for superalignment, together with promising 
 
 ---
 
-### 9. How OpenAI delivers low-latency voice AI at scale
+### 19. How OpenAI delivers low-latency voice AI at scale
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 ---
 
-### 10. OpenAI and PwC collaborate to reimagine the office of the CFO
+### 20. OpenAI and PwC collaborate to reimagine the office of the CFO
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 - **Enlace:** https://openai.com/index/openai-pwc-finance-collaboration
 
 OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.
-
----
-
-### 11. Practices for Governing Agentic AI Systems
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 Dec 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
-- **Enlace:** https://openai.com/index/practices-for-governing-agentic-ai-systems
-
-
-
----
-
-### 12. Increasing accuracy of pediatric visit notes
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 Dec 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
-- **Enlace:** https://openai.com/index/summer-health
-
-Summer Health reimagines pediatric doctor’s visits with OpenAI.
-
----
-
-### 13. Better language models and their implications
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 Feb 2019 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2586d
-- **Enlace:** https://openai.com/index/better-language-models
-
-We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization—all without task-specific training.
-
----
-
-### 14. DALL·E 2: Extending creativity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 Jul 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:1340d
-- **Enlace:** https://openai.com/index/dall-e-2-extending-creativity
-
-As part of our DALL·E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL·E into their creative workflows. The artists in our early access group have helped us discover new uses for DALL·E and have served as key voices as we’ve made decisions about DALL·E’s features.
-
----
-
-### 15. Delivering contextual job matching for millions with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Aug 2024 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:577d
-- **Enlace:** https://openai.com/index/indeed
-
-Indeed, whose mission is to help people get jobs, is the world’s #1 job site. Over 350 million unique visitors come to Indeed every month to connect with more than 3.5 million employers and over 32 million jobs. But what’s more is that every three seconds someone gets hired on Indeed.
-
----
-
-### 16. Video generation models as world simulators
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Feb 2024 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:759d
-- **Enlace:** https://openai.com/index/video-generation-models-as-world-simulators
-
-We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ratios. We leverage a transformer architecture that operates on spacetime patches of video and image latent codes. Our largest model, Sora, is capable of generating a minute of high fidelity video. Our results suggest that scaling video generation models is a promising path towards building general 
-
----
-
-### 17. Strengthening the U.S. AI supply chain through domestic manufacturing
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:59d
-- **Enlace:** https://openai.com/index/strengthening-the-us-ai-supply-chain
-
-OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.
-
----
-
-### 18. Improving verifiability in AI development
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Apr 2020 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2159d
-- **Enlace:** https://openai.com/index/improving-verifiability
-
-We’ve contributed to a multi-stakeholder report by 58 co-authors at 30 organizations, including the Centre for the Future of Intelligence, Mila, Schwartz Reisman Institute for Technology and Society, Center for Advanced Study in the Behavioral Sciences, and Center for Security and Emerging Technologies. This report describes 10 mechanisms to improve the verifiability of claims made about AI systems. Developers can use these tools to provide evidence that AI systems are safe, secure, fair, or pri
-
----
-
-### 19. How should AI systems behave, and who should decide?
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Feb 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1123d
-- **Enlace:** https://openai.com/index/how-should-ai-systems-behave
-
-We’re clarifying how ChatGPT’s behavior is shaped and our plans for improving that behavior, allowing more user customization, and getting more public input into our decision-making in these areas.
-
----
-
-### 20. Generative models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Jun 2016 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:machine learning,modelo,model, preferred_domain, authority:9, old:3559d
-- **Enlace:** https://openai.com/index/generative-models
-
-This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our work, this post will tell you a bit more about generative models: what they are, why they are important, and where they might be going.
 
 ---

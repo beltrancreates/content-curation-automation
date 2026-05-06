@@ -20113,5 +20113,93 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "35113db94d6bdf0d16b68971c3a3e2b49712b21b998aa451bdb9d6164b4a7b24",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "published": "Tue, 05 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "a2193a9b5f3c48091b0d1f40d50ad9a6067fe7b99d370dbaf6d6628eeadf9440",
+    "title": "GPT-5.5 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "summary": "",
+    "published": "Tue, 05 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "14bc07a2803efb7ff3d4c760870631dd58c6eaaa151a5979ec18260c1587b585",
+    "title": "New ways to buy ChatGPT ads",
+    "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "published": "Tue, 05 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "55f0365a9c96730ca6e8e7a5bca017fef2fc02cda8ee9049307af19dd4a6bdda",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of&#8230;",
+    "published": "Tue, 05 May 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "8ac67719811569975b92e21de3004e7cf02bb8146e4e747308f2696e43605cb4",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+    "published": "Tue, 05 May 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

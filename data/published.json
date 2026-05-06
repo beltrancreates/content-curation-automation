@@ -13746,5 +13746,255 @@
       "authority:9",
       "old:549d"
     ]
+  },
+  {
+    "id": "14bc07a2803efb7ff3d4c760870631dd58c6eaaa151a5979ec18260c1587b585",
+    "title": "New ways to buy ChatGPT ads",
+    "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "published": "Tue, 05 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "e9f92973a3290611f9f5fb4445a7437a874acfb82aed9493f846cf0e55485e63",
+    "title": "OpenAI o1-mini",
+    "link": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning",
+    "summary": "Advancing cost-efficient reasoning",
+    "published": "Thu, 12 Sep 2024 10:01:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "d5bfcd3376cb18a25ecfe0db60e61dee209436f569c6af6a0b0ed11e048f4c53",
+    "title": "OpenAI o1 System Card External Testers Acknowledgements",
+    "link": "https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements",
+    "summary": "OpenAI o1 system card external testers acknowledgements",
+    "published": "Thu, 12 Sep 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "c993273fbe169b51665f1530ec50316138da33f3ab8873ef7ffc22288f7b3d6b",
+    "title": "OpenAI o1 Contributions",
+    "link": "https://openai.com/openai-o1-contributions",
+    "summary": "OpenAI o1 Contributions",
+    "published": "Thu, 12 Sep 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "c2bc8d785ff402aaeb7813798218a7f4bfad3e642e6d71b58c7631c90cda0620",
+    "title": "Economics and reasoning with OpenAI o1",
+    "link": "https://openai.com/index/o1-economics",
+    "summary": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.",
+    "published": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "f927ec391135eb5fe309a8da917c55b893fd58801c9260990a8e187fd3d1cde0",
+    "title": "Answering quantum physics questions with OpenAI o1",
+    "link": "https://openai.com/index/o1-quantum-physics",
+    "summary": "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.",
+    "published": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "41c189da03c8b93cced3271e13acaf0d8bd6dbd76aa3127053cd6c786e1a23dc",
+    "title": "Coding with OpenAI o1",
+    "link": "https://openai.com/index/o1-coding",
+    "summary": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
+    "published": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "b572cf4e97fbcca6dd925713f59648a668c2aff06fa340c8639326eb6312bee9",
+    "title": "Decoding genetics with OpenAI o1",
+    "link": "https://openai.com/index/o1-genetics",
+    "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges.",
+    "published": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:549d"
+    ]
+  },
+  {
+    "id": "8377562e2f1998e31eef1c4ac6f0330f38232c37239c5ff2aaf26686fa3aee17",
+    "title": "Bringing the magic of AI to Mattel’s iconic brands",
+    "link": "https://openai.com/index/mattels-iconic-brands",
+    "summary": "OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage.",
+    "published": "Thu, 12 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:276d"
+    ]
+  },
+  {
+    "id": "e090493a0ff267ce3453dce99bb372a5ff9176e623c7a7a909d081a2614246e8",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "published": "Thu, 12 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:31d"
+    ]
   }
 ]
