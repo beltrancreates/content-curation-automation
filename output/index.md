@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-07 09:27 UTC_
+_Actualizado: 2026-05-08 08:18 UTC_
 
 ## Selección priorizada
 
-### 1. The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora
+### 1. Discovering the minutiae of backend systems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 08 Dec 2022 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1193d
+- **Enlace:** https://openai.com/index/discovering-the-minutiae-of-backend-systems
+
+Christian Gibson is an engineer on the Supercomputing team at OpenAI.
+
+---
+
+### 2. OpenAI for Healthcare
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 08 Jan 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:66d
+- **Enlace:** https://openai.com/index/openai-for-healthcare
+
+OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.
+
+---
+
+### 3. Netomi’s lessons for scaling agentic systems into the enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 08 Jan 2026 13:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:66d
+- **Enlace:** https://openai.com/index/netomi
+
+How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.
+
+---
+
+### 4. OpenAI Data Partnerships
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Nov 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:857d
+- **Enlace:** https://openai.com/index/data-partnerships
+
+Working together to create open-source and private datasets for AI training.
+
+---
+
+### 5. Introducing GPT-5.2
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 11 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:94d
+- **Enlace:** https://openai.com/index/introducing-gpt-5-2
+
+GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.
+
+---
+
+### 6. Simplex rethinks software development with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 07 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/simplex
+
+Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.
+
+---
+
+### 7. Introducing Trusted Contact in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 07 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-trusted-contact-in-chatgpt
+
+Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.
+
+---
+
+### 8. Advancing voice intelligence with new models in the API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 07 May 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
+
+Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.
+
+---
+
+### 9. Parloa builds service agents customers want to talk to
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 07 May 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/parloa
+
+Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.
+
+---
+
+### 10. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 07 May 2026 13:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
+
+OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.
+
+---
+
+### 11. The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marve
 
 ---
 
-### 2. Increasing revenue 300% by bringing AI to SMBs
+### 12. Increasing revenue 300% by bringing AI to SMBs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate d
 
 ---
 
-### 3. OpenAI API
+### 13. OpenAI API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’re releasing an API for accessing new AI models developed by OpenAI.
 
 ---
 
-### 4. OpenAI Scholars 2019: Applications open
+### 14. OpenAI Scholars 2019: Applications open
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We are now accepting applications for our second cohort of OpenAI Scholars, a pr
 
 ---
 
-### 5. Statement on OpenAI’s Nonprofit and PBC
+### 15. Statement on OpenAI’s Nonprofit and PBC
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI reaffirms its nonprofit leadership with a new structure granting equity i
 
 ---
 
-### 6. Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)
+### 16. Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer netwo
 
 ---
 
-### 7. Singular Bank helps bankers move fast with ChatGPT and Codex
+### 17. Singular Bank helps bankers move fast with ChatGPT and Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Singular Bank built Singularity, an internal assistant using ChatGPT and Codex t
 
 ---
 
-### 8. Uber uses OpenAI to help people earn smarter and book faster
+### 18. Uber uses OpenAI to help people earn smarter and book faster
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Uber uses OpenAI to power AI assistants and voice features that help drivers ear
 
 ---
 
-### 9. How frontier enterprises are building an AI advantage
+### 19. How frontier enterprises are building an AI advantage
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoptio
 
 ---
 
-### 10. Introducing ChatGPT Futures: Class of 2026
+### 20. Introducing ChatGPT Futures: Class of 2026
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoptio
 - **Enlace:** https://openai.com/index/introducing-chatgpt-futures-class-of-2026
 
 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.
-
----
-
-### 11. Introducing GPT-5.3-Codex-Spark
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Feb 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:31d
-- **Enlace:** https://openai.com/index/introducing-gpt-5-3-codex-spark
-
-Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.
-
----
-
-### 12. Bringing the magic of AI to Mattel’s iconic brands
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Jun 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:276d
-- **Enlace:** https://openai.com/index/mattels-iconic-brands
-
-OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage.
-
----
-
-### 13. Decoding genetics with OpenAI o1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/o1-genetics
-
-Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges.
-
----
-
-### 14. Coding with OpenAI o1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/o1-coding
-
-Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.
-
----
-
-### 15. Answering quantum physics questions with OpenAI o1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/o1-quantum-physics
-
-Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
-
----
-
-### 16. Economics and reasoning with OpenAI o1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/o1-economics
-
-Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
-
----
-
-### 17. OpenAI o1 Contributions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/openai-o1-contributions
-
-OpenAI o1 Contributions
-
----
-
-### 18. OpenAI o1 System Card External Testers Acknowledgements
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements
-
-OpenAI o1 system card external testers acknowledgements
-
----
-
-### 19. OpenAI o1-mini
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Sep 2024 10:01:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:549d
-- **Enlace:** https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning
-
-Advancing cost-efficient reasoning
-
----
-
-### 20. New ways to buy ChatGPT ads
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/new-ways-to-buy-chatgpt-ads
-
-OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.
 
 ---
