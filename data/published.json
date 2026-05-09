@@ -14496,5 +14496,255 @@
       "authority:9",
       "old:1193d"
     ]
+  },
+  {
+    "id": "00285128e8cbdaf6bd9d257f9acedfa755e9e9f6436a9ea0771ceb67944038b7",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "link": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+    "published": "Tue, 05 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:4d"
+    ]
+  },
+  {
+    "id": "221d3dff79e50095fdb13242cad19aee22386a1f09181b43c33fdd22f47dfac6",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "published": "Wed, 06 May 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:3d"
+    ]
+  },
+  {
+    "id": "a134b7a7d64d8aa017e3ef46ca2e58c2d0682ec4081f48b449ce0bb9fa3aa5bb",
+    "title": "Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "published": "Fri, 08 May 2026 12:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "668bb81857706636fdd21423a1a62005f62260949adc211e96d29e6d51e6e614",
+    "title": "GPT-4o System Card",
+    "link": "https://openai.com/index/gpt-4o-system-card",
+    "summary": "This report outlines the safety work carried out prior to releasing GPT-4o including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.",
+    "published": "Thu, 08 Aug 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:584d"
+    ]
+  },
+  {
+    "id": "207d840560586ebfaf4209c14f1d562c768bab2e91f360ae727af65eccc1ceaa",
+    "title": "GPT-5 and the new era of work",
+    "link": "https://openai.com/index/gpt-5-new-era-of-work",
+    "summary": "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.",
+    "published": "Thu, 07 Aug 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "5463a2788bafb0b64f58522e461be1454ddbb89e1207a484f71aae69b66023a7",
+    "title": "Medical research with GPT-5",
+    "link": "https://openai.com/index/gpt-5-medical-research",
+    "summary": "Learn how GPT-5 is used for medical research.",
+    "published": "Thu, 07 Aug 2025 00:01:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "ae25c837e4bfa5f906de8e8b95195e9a9c880f1f25ebcf6a37202b76613f9c23",
+    "title": "Introducing GPT-5",
+    "link": "https://openai.com/index/introducing-gpt-5",
+    "summary": "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "46aac29b4b4ad044c95ec0cc04033af1871e992f08cb3de92066993d29b5a4ba",
+    "title": "GPT-5 System Card",
+    "link": "https://openai.com/index/gpt-5-system-card",
+    "summary": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "343678a9cca41e108ea797bdbdfb4d85e8c52ae94ab0faed44b084f1211deceb",
+    "title": "From Pilot to Practice: How BBVA Is Scaling AI Across the Organization",
+    "link": "https://openai.com/index/bbva-2025",
+    "summary": "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 80% efficiency gains.",
+    "published": "Thu, 06 Nov 2025 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:129d"
+    ]
+  },
+  {
+    "id": "6f754fcc536c399927a2173a781adb2ed426bddc4e4940426a38c72c3f57a409",
+    "title": "Accelerating engineering cycles 20% with OpenAI",
+    "link": "https://openai.com/index/factory",
+    "summary": "Accelerating engineering cycles 20% with OpenAI.",
+    "published": "Thu, 06 Mar 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:374d"
+    ]
   }
 ]
