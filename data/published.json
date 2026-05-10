@@ -14746,5 +14746,255 @@
       "authority:9",
       "old:374d"
     ]
+  },
+  {
+    "id": "d0eed2c49560dc253413109aa6ba71e30237850b28b7507cd5e9adb821d44897",
+    "title": "Quantifying generalization in reinforcement learning",
+    "link": "https://openai.com/index/quantifying-generalization-in-reinforcement-learning",
+    "summary": "We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a longstanding puzzle in reinforcement learning. CoinRun strikes a desirable balance in complexity: the environment is simpler than traditional platformer games like Sonic the Hedgehog but still poses a worthy generalization challenge for state of the art algorithms.",
+    "published": "Thu, 06 Dec 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2656d"
+    ]
+  },
+  {
+    "id": "54e0eb99ebc10e285ed0610636a1e00737a6f739bca6a1069efec7af83e10a3c",
+    "title": "Unsupervised sentiment neuron",
+    "link": "https://openai.com/index/unsupervised-sentiment-neuron",
+    "summary": "We’ve developed an unsupervised system which learns an excellent representation of sentiment, despite being trained only to predict the next character in the text of Amazon reviews.",
+    "published": "Thu, 06 Apr 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3265d"
+    ]
+  },
+  {
+    "id": "0e5b5757a9a2637df2c5525f75464db11cc83f7464538532e2cc35ea1db8b6a2",
+    "title": "OpenAI leadership team update",
+    "link": "https://openai.com/index/leadership-team-update",
+    "summary": "We’re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones.",
+    "published": "Thu, 05 May 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1410d"
+    ]
+  },
+  {
+    "id": "b5ac6063bbec8383ec0418ed2281c3d4f8e7e166f215fd0031656c91dd85b00b",
+    "title": "GPT-5.4 Thinking System Card",
+    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "",
+    "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:10d"
+    ]
+  },
+  {
+    "id": "6b2d0e9cfb4f50f9bc660ec838798d509e17a9e51f282fd9a101cdf17bc7e35e",
+    "title": "How we’re responding to The New York Times’ data demands in order to protect user privacy",
+    "link": "https://openai.com/index/response-to-nyt-data-demands",
+    "summary": "OpenAI is fighting a court order at the demands of The New York Times and plaintiffs, which involves retention of consumer ChatGPT and API user data indefinitely. Learn how we’re working to uphold user privacy, address legal requirements, and stay true to our data protection commitments.",
+    "published": "Thu, 05 Jun 2025 16:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:283d"
+    ]
+  },
+  {
+    "id": "c82ec79fbf9f9804d42cebfed6edf38fb1d541d31b9fdc3665d15ecdc3f94764",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "published": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "4e829743aa85afb808115702a5274315db070b9fcd8fe3e735495d010d9a9e0b",
+    "title": "Introducing Trusted Access for Cyber",
+    "link": "https://openai.com/index/trusted-access-for-cyber",
+    "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "published": "Thu, 05 Feb 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "ae167fa7c076bdf8fd08a9204c20bcd7b47691107205b85ab704d9670d8e9074",
+    "title": "Introducing OpenAI Frontier",
+    "link": "https://openai.com/index/introducing-openai-frontier",
+    "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "published": "Thu, 05 Feb 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "7bd3c882dcf7e77a9f283ce4323072128187101ca6761e4776d77dd4397dbc04",
+    "title": "Introducing GPT-5.3-Codex",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+    "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "8a5b9585f16741e6a7931eb5a1c2250f8a50f9f54006587f527e58f8fd9db1ad",
+    "title": "Introducing ChatGPT Pro",
+    "link": "https://openai.com/index/introducing-chatgpt-pro",
+    "summary": "Broadening usage of frontier AI",
+    "published": "Thu, 05 Dec 2024 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:465d"
+    ]
   }
 ]
