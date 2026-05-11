@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-10 08:49 UTC_
+_Actualizado: 2026-05-11 10:32 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing ChatGPT Pro
+### 1. Gathering human feedback
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Aug 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3146d
+- **Enlace:** https://openai.com/index/gathering-human-feedback
+
+RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towards safe AI systems, but also applies to reinforcement learning problems with rewards that are hard to specify.
+
+---
+
+### 2. A research agenda for assessing the economic impacts of code generation models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Mar 2022 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:1473d
+- **Enlace:** https://openai.com/index/economic-impacts-research
+
+
+
+---
+
+### 3. DALL·E API now available in public beta
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Nov 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1228d
+- **Enlace:** https://openai.com/index/dall-e-api-now-available-in-public-beta
+
+Starting today, developers can begin building apps with the DALL·E API.
+
+---
+
+### 4. Introducing improvements to the fine-tuning API and expanding our custom models program
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Apr 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:710d
+- **Enlace:** https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program
+
+We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI.
+
+---
+
+### 5. Introducing OpenAI for Australia
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Dec 2025 19:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:100d
+- **Enlace:** https://openai.com/global-affairs/openai-for-australia
+
+OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.
+
+---
+
+### 6. Delivering LLM-powered health solutions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Jan 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,llm, preferred_domain, authority:9, old:801d
+- **Enlace:** https://openai.com/index/whoop
+
+WHOOP delivers personalized fitness and health coaching with GPT-4.
+
+---
+
+### 7. Multimodal neurons in artificial neural networks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Mar 2021 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1837d
+- **Enlace:** https://openai.com/index/multimodal-neurons
+
+We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.
+
+---
+
+### 8. Expanding economic opportunity with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Sep 2025 11:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:192d
+- **Enlace:** https://openai.com/index/expanding-economic-opportunity-with-ai
+
+OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.
+
+---
+
+### 9. How enterprises are scaling AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 11 May 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
+
+How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.
+
+---
+
+### 10. OpenAI Campus Network: Student club interest form
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 11 May 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/openai-campus-network-student-club-interest-form
+
+Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
+
+---
+
+### 11. Introducing ChatGPT Pro
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Broadening usage of frontier AI
 
 ---
 
-### 2. Introducing GPT-5.3-Codex
+### 12. Introducing GPT-5.3-Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance wit
 
 ---
 
-### 3. Introducing OpenAI Frontier
+### 13. Introducing OpenAI Frontier
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI Frontier is an enterprise platform for building, deploying, and managing 
 
 ---
 
-### 4. Introducing Trusted Access for Cyber
+### 14. Introducing Trusted Access for Cyber
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands
 
 ---
 
-### 5. GPT-5 lowers the cost of cell-free protein synthesis
+### 15. GPT-5 lowers the cost of cell-free protein synthesis
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud autom
 
 ---
 
-### 6. How we’re responding to The New York Times’ data demands in order to protect user privacy
+### 16. How we’re responding to The New York Times’ data demands in order to protect user privacy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI is fighting a court order at the demands of The New York Times and plaint
 
 ---
 
-### 7. GPT-5.4 Thinking System Card
+### 17. GPT-5.4 Thinking System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI is fighting a court order at the demands of The New York Times and plaint
 
 ---
 
-### 8. OpenAI leadership team update
+### 18. OpenAI leadership team update
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’re happy to announce several executive role changes that reflect our recent
 
 ---
 
-### 9. Unsupervised sentiment neuron
+### 19. Unsupervised sentiment neuron
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We’ve developed an unsupervised system which learns an excellent representatio
 
 ---
 
-### 10. Quantifying generalization in reinforcement learning
+### 20. Quantifying generalization in reinforcement learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ We’ve developed an unsupervised system which learns an excellent representatio
 - **Enlace:** https://openai.com/index/quantifying-generalization-in-reinforcement-learning
 
 We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a longstanding puzzle in reinforcement learning. CoinRun strikes a desirable balance in complexity: the environment is simpler than traditional platformer games like Sonic the Hedgehog but still poses a worthy generalization challenge for state of the art algorithms.
-
----
-
-### 11. Accelerating engineering cycles 20% with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Mar 2025 09:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:374d
-- **Enlace:** https://openai.com/index/factory
-
-Accelerating engineering cycles 20% with OpenAI.
-
----
-
-### 12. From Pilot to Practice: How BBVA Is Scaling AI Across the Organization
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Nov 2025 09:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:129d
-- **Enlace:** https://openai.com/index/bbva-2025
-
-BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 80% efficiency gains.
-
----
-
-### 13. GPT-5 System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-system-card
-
-This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.
-
----
-
-### 14. Introducing GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/introducing-gpt-5
-
-We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.
-
----
-
-### 15. Medical research with GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:01:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-medical-research
-
-Learn how GPT-5 is used for medical research.
-
----
-
-### 16. GPT-5 and the new era of work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-new-era-of-work
-
-GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.
-
----
-
-### 17. GPT-4o System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 Aug 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:584d
-- **Enlace:** https://openai.com/index/gpt-4o-system-card
-
-This report outlines the safety work carried out prior to releasing GPT-4o including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.
-
----
-
-### 18. Running Codex safely at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 08 May 2026 12:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/running-codex-safely
-
-How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.
-
----
-
-### 19. How ChatGPT learns about the world while protecting privacy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 06 May 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:3d
-- **Enlace:** https://openai.com/index/how-chatgpt-protects-privacy
-
-Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.
-
----
-
-### 20. Advancing youth safety and wellbeing in EMEA
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 May 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:4d
-- **Enlace:** https://openai.com/index/advancing-youth-safety-in-emea
-
-Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.
 
 ---

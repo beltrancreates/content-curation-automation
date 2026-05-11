@@ -14996,5 +14996,255 @@
       "authority:9",
       "old:465d"
     ]
+  },
+  {
+    "id": "3e3416fc1c2bf90cdc933206dfd62c60acceaf64e8aa052b087b393da0c15d8f",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "published": "Mon, 11 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "132ebe16e3343855d556575fe2749203d50e67df07207a97693d99f1d6b25222",
+    "title": "How enterprises are scaling AI",
+    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "published": "Mon, 11 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "a82437c26a3d946552e28436f6a42dc9101704e46add124a3cfd747280cbecb9",
+    "title": "Expanding economic opportunity with AI",
+    "link": "https://openai.com/index/expanding-economic-opportunity-with-ai",
+    "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
+    "published": "Thu, 04 Sep 2025 11:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:192d"
+    ]
+  },
+  {
+    "id": "5384b8e888648f3ac92cd152716ee2631d15daf733341592cee7c0e8363bff07",
+    "title": "Multimodal neurons in artificial neural networks",
+    "link": "https://openai.com/index/multimodal-neurons",
+    "summary": "We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.",
+    "published": "Thu, 04 Mar 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1837d"
+    ]
+  },
+  {
+    "id": "457fae267f8fa48a79ae248730f00d88de097a629d780c7ac2ace16eb111dc0f",
+    "title": "Delivering LLM-powered health solutions",
+    "link": "https://openai.com/index/whoop",
+    "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+    "published": "Thu, 04 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "old:801d"
+    ]
+  },
+  {
+    "id": "a2288971c4cff5e65eeb090529711071ce02caa0bf40784ba5e3dd02443aea8f",
+    "title": "Introducing OpenAI for Australia",
+    "link": "https://openai.com/global-affairs/openai-for-australia",
+    "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+    "published": "Thu, 04 Dec 2025 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:100d"
+    ]
+  },
+  {
+    "id": "ee777699f1304a4fec5bd231058a7de91efb25c1d05ca0b7951b220e64efd6b9",
+    "title": "Introducing improvements to the fine-tuning API and expanding our custom models program",
+    "link": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+    "summary": "We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI.",
+    "published": "Thu, 04 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:710d"
+    ]
+  },
+  {
+    "id": "cbe1f1dd308bd9c7c4afece7a8e2ef1e5f89b92e840bfb32c1fc840c1f839bdd",
+    "title": "DALL·E API now available in public beta",
+    "link": "https://openai.com/index/dall-e-api-now-available-in-public-beta",
+    "summary": "Starting today, developers can begin building apps with the DALL·E API.",
+    "published": "Thu, 03 Nov 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1228d"
+    ]
+  },
+  {
+    "id": "07f5fdbdba1488267c66045a908bf6ac2acd74b46007996b96f696cddda5027d",
+    "title": "A research agenda for assessing the economic impacts of code generation models",
+    "link": "https://openai.com/index/economic-impacts-research",
+    "summary": "",
+    "published": "Thu, 03 Mar 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1473d"
+    ]
+  },
+  {
+    "id": "1481e9d5a9fef45b3344b715ca9be662b46bf0479bb10f07ec5809b7dff9181b",
+    "title": "Gathering human feedback",
+    "link": "https://openai.com/index/gathering-human-feedback",
+    "summary": "RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towards safe AI systems, but also applies to reinforcement learning problems with rewards that are hard to specify.",
+    "published": "Thu, 03 Aug 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3146d"
+    ]
   }
 ]
