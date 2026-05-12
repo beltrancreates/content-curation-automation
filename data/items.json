@@ -20625,5 +20625,126 @@
     ],
     "domain": "openai.com",
     "status": "fetched"
+  },
+  {
+    "id": "f7d297d5fd8e32899788ecf5b32d1ca13e0bb0bfc1608f745ef7923de8bd5313",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "link": "https://openai.com/signals/research/2026q1-update",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "published": "Mon, 11 May 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "c5a46fc663bc1f91aa9c95962b5398ef1c9e93ae3cc5e2f559e5d6a07ca8df4a",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "link": "https://openai.com/index/openai-launches-the-deployment-company",
+    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "published": "Mon, 11 May 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "32cebfb062429ec333c0942fa741500f629e24e7e70741986e10bac472db33af",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
+    "published": "Mon, 11 May 2026 17:35:12 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "fe119d3b237d6153c792e26f7431f20547a78ebf6185b53ab4c4096062b90a4e",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
+    "published": "Mon, 11 May 2026 13:33:06 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "31ac4c24bd12ea59acbd7e3178b442df1e3e485ba3de7c13da7d6526c9abdf05",
+    "title": "Innovation abounds in device charging",
+    "link": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+    "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These&#8230;",
+    "published": "Mon, 11 May 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "4d1c8b05b6fcb4e2bfac898791eff856741307a7db26a25201f96cc49bf6079f",
+    "title": "Implementing advanced AI technologies in finance",
+    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
+    "published": "Mon, 11 May 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "3617d9a7c0c0ae2687030eb85b7fa913693516057adfe994fa0ddf3160cf7ffd",
+    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+    "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have&#8230;",
+    "published": "Mon, 11 May 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

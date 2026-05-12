@@ -15246,5 +15246,255 @@
       "authority:9",
       "old:3146d"
     ]
+  },
+  {
+    "id": "f7d297d5fd8e32899788ecf5b32d1ca13e0bb0bfc1608f745ef7923de8bd5313",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "link": "https://openai.com/signals/research/2026q1-update",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "published": "Mon, 11 May 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c5a46fc663bc1f91aa9c95962b5398ef1c9e93ae3cc5e2f559e5d6a07ca8df4a",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "link": "https://openai.com/index/openai-launches-the-deployment-company",
+    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "published": "Mon, 11 May 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "ac153d76747f4c8896d063fdbc4b481cebe38477298b831548d9bbafd358adc5",
+    "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+    "link": "https://openai.com/index/wrtn",
+    "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
+    "published": "Thu, 02 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:164d"
+    ]
+  },
+  {
+    "id": "1bdea9fd3f776894c3b0aa80176ffe23cd8503bfda1f3e35116dfab8d0ca513b",
+    "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+    "link": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+    "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+    "published": "Thu, 02 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:164d"
+    ]
+  },
+  {
+    "id": "628ea72fc2c402f621c29149931f8ea10df7da579d094deaee1f89d60c873e92",
+    "title": "Best practices for deploying language models",
+    "link": "https://openai.com/index/best-practices-for-deploying-language-models",
+    "summary": "Cohere, OpenAI, and AI21 Labs have developed a preliminary set of best practices applicable to any organization developing or deploying large language models.",
+    "published": "Thu, 02 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1382d"
+    ]
+  },
+  {
+    "id": "49f21a46111ff564e98de537a3742bce1904fce623eebcbdb913cac658cf18db",
+    "title": "OpenAI Cybersecurity Grant Program",
+    "link": "https://openai.com/index/openai-cybersecurity-grant-program",
+    "summary": "Our goal is to facilitate the development of AI-powered cybersecurity capabilities for defenders through grants and other support.",
+    "published": "Thu, 01 Jun 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1018d"
+    ]
+  },
+  {
+    "id": "65131daeecc11acf692ef598bc4a5c789458677015f92965323e8d66e0b6a388",
+    "title": "Learning Day",
+    "link": "https://openai.com/index/learning-day",
+    "summary": "At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren’t being learned from daily work.",
+    "published": "Thu, 01 Aug 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2418d"
+    ]
+  },
+  {
+    "id": "51c5a31f417dc5b88a226c0dbdd375ca1c333e48b3dc829e6dfd9a248651e422",
+    "title": "AI for self empowerment",
+    "link": "https://openai.com/index/ai-for-self-empowerment",
+    "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+    "published": "Sun, 18 Jan 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:56d"
+    ]
+  },
+  {
+    "id": "485b8320093f4c05a59793b219887d72eb39135903ae863dafc5fee7c45904f0",
+    "title": "A business that scales with the value of intelligence",
+    "link": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+    "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+    "published": "Sun, 18 Jan 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:56d"
+    ]
+  },
+  {
+    "id": "50472f98d5caca0e0e97e850d5a70aac0e6e171c80a9f2304c606518628a5d97",
+    "title": "Introducing OpenAI Japan",
+    "link": "https://openai.com/index/introducing-openai-japan",
+    "summary": "We are excited to announce our first office in Asia and we’re releasing a GPT-4 custom model optimized for the Japanese language.",
+    "published": "Sun, 14 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:700d"
+    ]
   }
 ]
