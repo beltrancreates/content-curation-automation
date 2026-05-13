@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-12 09:31 UTC_
+_Actualizado: 2026-05-13 09:39 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing OpenAI Japan
+### 1. Building OpenAI with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
+- **Enlace:** https://openai.com/index/building-openai-with-openai
+
+At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.
+
+---
+
+### 2. Learning dexterity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 30 Jul 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2785d
+- **Enlace:** https://openai.com/index/learning-dexterity
+
+We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.
+
+---
+
+### 3. Put AI to work: Automate and scale financial operations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 30 Sep 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:531d
+- **Enlace:** https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations
+
+Put AI to work: Automate and Scale Financial Operations
+
+---
+
+### 4. Spam detection in the physical world
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Apr 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3270d
+- **Enlace:** https://openai.com/index/spam-detection-in-the-physical-world
+
+We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot.
+
+---
+
+### 5. Procgen and MineRL Competitions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 20 Jun 2020 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2094d
+- **Enlace:** https://openai.com/index/procgen-minerl-competitions
+
+We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL.
+
+---
+
+### 6. Teaching models to express their uncertainty in words
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 28 May 2022 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1387d
+- **Enlace:** https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words
+
+
+
+---
+
+### 7. Creating next-gen characters
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Jan 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1169d
+- **Enlace:** https://openai.com/index/inworld-ai-DO-NOT-PUBLISH
+
+Using GPT-3 to create the next generation of AI-powered characters.
+
+---
+
+### 8. AutoScout24 scales engineering with AI-powered workflows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/autoscout24
+
+Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.
+
+---
+
+### 9. How NVIDIA engineers and researchers build with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/nvidia
+
+Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.
+
+---
+
+### 10. What Parameter Golf taught us about AI-assisted research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/what-parameter-golf-taught-us
+
+Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
+
+---
+
+### 11. Introducing OpenAI Japan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We are excited to announce our first office in Asia and we’re releasing a GPT-
 
 ---
 
-### 2. A business that scales with the value of intelligence
+### 12. A business that scales with the value of intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI’s business model scales with intelligence—spanning subscriptions, API
 
 ---
 
-### 3. AI for self empowerment
+### 13. AI for self empowerment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ How AI can expand human agency by closing the capability overhang—helping peop
 
 ---
 
-### 4. Learning Day
+### 14. Learning Day
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ At OpenAI, each Thursday is Learning Day: a day where employees have the option 
 
 ---
 
-### 5. OpenAI Cybersecurity Grant Program
+### 15. OpenAI Cybersecurity Grant Program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Our goal is to facilitate the development of AI-powered cybersecurity capabiliti
 
 ---
 
-### 6. Best practices for deploying language models
+### 16. Best practices for deploying language models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Cohere, OpenAI, and AI21 Labs have developed a preliminary set of best practices
 
 ---
 
-### 7. OpenAI announces strategic collaboration with Japan’s Digital Agency
+### 17. OpenAI announces strategic collaboration with Japan’s Digital Agency
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI and Japan’s Digital Agency partner to advance generative AI in public s
 
 ---
 
-### 8. With GPT-5, Wrtn builds lifestyle AI for millions in Korea
+### 18. With GPT-5, Wrtn builds lifestyle AI for millions in Korea
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI�
 
 ---
 
-### 9. OpenAI launches DeployCo to help businesses build around intelligence
+### 19. OpenAI launches DeployCo to help businesses build around intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI launches DeployCo, a new enterprise deployment company built to help orga
 
 ---
 
-### 10. How ChatGPT adoption broadened in early 2026
+### 20. How ChatGPT adoption broadened in early 2026
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI launches DeployCo, a new enterprise deployment company built to help orga
 - **Enlace:** https://openai.com/signals/research/2026q1-update
 
 ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.
-
----
-
-### 11. Gathering human feedback
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Aug 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3146d
-- **Enlace:** https://openai.com/index/gathering-human-feedback
-
-RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towards safe AI systems, but also applies to reinforcement learning problems with rewards that are hard to specify.
-
----
-
-### 12. A research agenda for assessing the economic impacts of code generation models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Mar 2022 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:1473d
-- **Enlace:** https://openai.com/index/economic-impacts-research
-
-
-
----
-
-### 13. DALL·E API now available in public beta
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Nov 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1228d
-- **Enlace:** https://openai.com/index/dall-e-api-now-available-in-public-beta
-
-Starting today, developers can begin building apps with the DALL·E API.
-
----
-
-### 14. Introducing improvements to the fine-tuning API and expanding our custom models program
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Apr 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:710d
-- **Enlace:** https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program
-
-We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI.
-
----
-
-### 15. Introducing OpenAI for Australia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Dec 2025 19:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:100d
-- **Enlace:** https://openai.com/global-affairs/openai-for-australia
-
-OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.
-
----
-
-### 16. Delivering LLM-powered health solutions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Jan 2024 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,llm, preferred_domain, authority:9, old:801d
-- **Enlace:** https://openai.com/index/whoop
-
-WHOOP delivers personalized fitness and health coaching with GPT-4.
-
----
-
-### 17. Multimodal neurons in artificial neural networks
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Mar 2021 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1837d
-- **Enlace:** https://openai.com/index/multimodal-neurons
-
-We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.
-
----
-
-### 18. Expanding economic opportunity with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Sep 2025 11:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:192d
-- **Enlace:** https://openai.com/index/expanding-economic-opportunity-with-ai
-
-OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.
-
----
-
-### 19. How enterprises are scaling AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 11 May 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
-
-How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.
-
----
-
-### 20. OpenAI Campus Network: Student club interest form
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 11 May 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/openai-campus-network-student-club-interest-form
-
-Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
 
 ---

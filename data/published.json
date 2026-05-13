@@ -15496,5 +15496,255 @@
       "authority:9",
       "old:700d"
     ]
+  },
+  {
+    "id": "855de4f2b1cd0be299de974c8ba5184389cce323a0c2105997bdb07caa4f5991",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "published": "Tue, 12 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "7a1cb4959cfaf4e7788c5c5bbf16961693a2b3237f9515438f4214d4aeb5ad50",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "link": "https://openai.com/index/nvidia",
+    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "published": "Tue, 12 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "b1085925da4f2eedd5e5c598dbfe98cf3e7181c633d0a83e862762bd4e08a55b",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "link": "https://openai.com/index/autoscout24",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "published": "Tue, 12 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "a8a5af3336f83f15a7af312d3bcb31460c7c3456513f8226ec4ebe4f7c86198c",
+    "title": "Creating next-gen characters",
+    "link": "https://openai.com/index/inworld-ai-DO-NOT-PUBLISH",
+    "summary": "Using GPT-3 to create the next generation of AI-powered characters.",
+    "published": "Sun, 01 Jan 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1169d"
+    ]
+  },
+  {
+    "id": "febe2c79221d7db12603012b42d4a2ab25b1d35ac1329ded41dde31513b6f68d",
+    "title": "Teaching models to express their uncertainty in words",
+    "link": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words",
+    "summary": "",
+    "published": "Sat, 28 May 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1387d"
+    ]
+  },
+  {
+    "id": "733defce0e6016698f7b24378c3138648010d499c0a458d384b44c82fed0065b",
+    "title": "Procgen and MineRL Competitions",
+    "link": "https://openai.com/index/procgen-minerl-competitions",
+    "summary": "We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL.",
+    "published": "Sat, 20 Jun 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2094d"
+    ]
+  },
+  {
+    "id": "e8225e3ef76b3fc8ba6f1f2b92d6df7e82bbd13a99751eed405459432fcee925",
+    "title": "Spam detection in the physical world",
+    "link": "https://openai.com/index/spam-detection-in-the-physical-world",
+    "summary": "We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot.",
+    "published": "Sat, 01 Apr 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3270d"
+    ]
+  },
+  {
+    "id": "42caad4f07b75188df335e0ff79856f33aa8eadc0ef55cfcc0470c53e7453ce8",
+    "title": "Put AI to work: Automate and scale financial operations",
+    "link": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+    "summary": "Put AI to work: Automate and Scale Financial Operations",
+    "published": "Mon, 30 Sep 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:531d"
+    ]
+  },
+  {
+    "id": "5ce60d570621cdc8782f9a5c2afc3fb3689c01091ef341046880ca8426c77fb1",
+    "title": "Learning dexterity",
+    "link": "https://openai.com/index/learning-dexterity",
+    "summary": "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.",
+    "published": "Mon, 30 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2785d"
+    ]
+  },
+  {
+    "id": "89b225e0800ffa3ae42ed75b0cb88495194ae6942ad6790a635c9c6cefc2651c",
+    "title": "Building OpenAI with OpenAI",
+    "link": "https://openai.com/index/building-openai-with-openai",
+    "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
   }
 ]
