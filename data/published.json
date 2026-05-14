@@ -15746,5 +15746,255 @@
       "authority:9",
       "old:167d"
     ]
+  },
+  {
+    "id": "5baec3c7d060464b6cba1ad4b86202684952376ffb46c597691d5e962bdbcde6",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "link": "https://openai.com/index/building-codex-windows-sandbox",
+    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "published": "Wed, 13 May 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "49e65c40a06cc2b6bbbfbe41691953196416091458d44e129ef64f4abfec768e",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "published": "Wed, 13 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "eb8117509b24524042636a9dcfd11552f68e09c19c2a60c9ede0d9dc0416aea2",
+    "title": "Driving sales productivity and customer success at OpenAI",
+    "link": "https://openai.com/index/openai-gtm-assistant",
+    "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "ce9481c3acead484cfea6a1ad9bbe811cac1936291bcd834992234a3813fc1d6",
+    "title": "Improving support with every interaction at OpenAI",
+    "link": "https://openai.com/index/openai-support-model",
+    "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "2a485574af348ceed387200af1a05dc032817c87afbda302aac3dd8e57cb9fe7",
+    "title": "Turning contracts into searchable data at OpenAI",
+    "link": "https://openai.com/index/openai-contract-data-agent",
+    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "eb341cb96a22aca2cb99c6ab79472e2442cb7d017b8f70ba78c1ee55dfae4564",
+    "title": "Converting inbound leads into customers at OpenAI",
+    "link": "https://openai.com/index/openai-inbound-sales-assistant",
+    "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "51c9c4e62e3ae8b3d9a4382b1ebc86b7ea0afa85dc0c890fd40a8c35583dfdfe",
+    "title": "Combating online child sexual exploitation & abuse",
+    "link": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
+    "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
+    "published": "Mon, 29 Sep 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "fc29df09df9a369bf40ad4f956679dc798ea2fbb8b6b5082f16c020eed1871a5",
+    "title": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+    "link": "https://openai.com/index/buy-it-in-chatgpt",
+    "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
+    "published": "Mon, 29 Sep 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "61a99e29801e553d1837f6bd462c98a4c170fc5204cbcca220ec534d6e8da6e1",
+    "title": "We’re bringing the Financial Times’ world-class journalism to ChatGPT",
+    "link": "https://openai.com/index/content-partnership-with-financial-times",
+    "summary": "We will also collaborate on new AI experiences for FT readers.",
+    "published": "Mon, 29 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:685d"
+    ]
+  },
+  {
+    "id": "a8af6ab7d122ffedda36e663a52764510cb9c65bd30cd072799d1559419110b7",
+    "title": "Seizing the AI opportunity",
+    "link": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+    "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+    "published": "Mon, 27 Oct 2025 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:139d"
+    ]
   }
 ]
