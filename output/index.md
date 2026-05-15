@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-14 09:29 UTC_
+_Actualizado: 2026-05-15 09:42 UTC_
 
 ## Selección priorizada
 
-### 1. Seizing the AI opportunity
+### 1. OpenAI Five
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Jun 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2820d
+- **Enlace:** https://openai.com/index/openai-five
+
+Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.
+
+---
+
+### 2. Sora first impressions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Mar 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:720d
+- **Enlace:** https://openai.com/index/sora-first-impressions
+
+Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process.
+
+---
+
+### 3. Personalizing education with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Aug 2024 04:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:566d
+- **Enlace:** https://openai.com/index/asu
+
+Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future
+
+---
+
+### 4. Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Feb 2018 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:2939d
+- **Enlace:** https://openai.com/index/multi-goal-reinforcement-learning
+
+
+
+---
+
+### 5. How Indeed uses AI to help evolve the job search
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Jan 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:48d
+- **Enlace:** https://openai.com/index/indeed-maggie-hulce
+
+Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.
+
+---
+
+### 6. A law and tax firm redefines efficiency with ChatGPT Business
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 27 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:139d
+- **Enlace:** https://openai.com/index/steuerrecht
+
+Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.
+
+---
+
+### 7. Addendum to GPT-5 System Card: Sensitive conversations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 27 Oct 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d
+- **Enlace:** https://openai.com/index/gpt-5-system-card-sensitive-conversations
+
+This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.
+
+---
+
+### 8. Strengthening ChatGPT’s responses in sensitive conversations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 27 Oct 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d
+- **Enlace:** https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations
+
+OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.
+
+---
+
+### 9. Helping ChatGPT better recognize context in sensitive conversations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 14 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations
+
+Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.
+
+---
+
+### 10. Sea's View on the Future of Agentic Software Development with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 14 May 2026 20:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/sea-david-chen
+
+Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
+
+---
+
+### 11. Seizing the AI opportunity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Meeting the demands of the Intelligence Age will require strategic investment in
 
 ---
 
-### 2. We’re bringing the Financial Times’ world-class journalism to ChatGPT
+### 12. We’re bringing the Financial Times’ world-class journalism to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We will also collaborate on new AI experiences for FT readers.
 
 ---
 
-### 3. Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol
+### 13. Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’re taking first steps toward agentic commerce in ChatGPT with new ways for 
 
 ---
 
-### 4. Combating online child sexual exploitation & abuse
+### 14. Combating online child sexual exploitation & abuse
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how OpenAI combats online child sexual exploitation and abuse with stri
 
 ---
 
-### 5. Converting inbound leads into customers at OpenAI
+### 15. Converting inbound leads into customers at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Learn how OpenAI used AI to deliver personalized answers at scale, converting in
 
 ---
 
-### 6. Turning contracts into searchable data at OpenAI
+### 16. Turning contracts into searchable data at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI built a system to extract contract data quickly, cutting turnaround times
 
 ---
 
-### 7. Improving support with every interaction at OpenAI
+### 17. Improving support with every interaction at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Learn how OpenAI uses AI to enhance support, cutting response times, improving q
 
 ---
 
-### 8. Driving sales productivity and customer success at OpenAI
+### 18. Driving sales productivity and customer success at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Learn how OpenAI boosts sales productivity by automating prep, centralizing know
 
 ---
 
-### 9. Our response to the TanStack npm supply chain attack
+### 19. Our response to the TanStack npm supply chain attack
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain a
 
 ---
 
-### 10. Building a safe, effective sandbox to enable Codex on Windows
+### 20. Building a safe, effective sandbox to enable Codex on Windows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain a
 - **Enlace:** https://openai.com/index/building-codex-windows-sandbox
 
 Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.
-
----
-
-### 11. Building OpenAI with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/building-openai-with-openai
-
-At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.
-
----
-
-### 12. Learning dexterity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 30 Jul 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2785d
-- **Enlace:** https://openai.com/index/learning-dexterity
-
-We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.
-
----
-
-### 13. Put AI to work: Automate and scale financial operations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 30 Sep 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:531d
-- **Enlace:** https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations
-
-Put AI to work: Automate and Scale Financial Operations
-
----
-
-### 14. Spam detection in the physical world
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 01 Apr 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3270d
-- **Enlace:** https://openai.com/index/spam-detection-in-the-physical-world
-
-We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot.
-
----
-
-### 15. Procgen and MineRL Competitions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 20 Jun 2020 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2094d
-- **Enlace:** https://openai.com/index/procgen-minerl-competitions
-
-We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL.
-
----
-
-### 16. Teaching models to express their uncertainty in words
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 28 May 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1387d
-- **Enlace:** https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words
-
-
-
----
-
-### 17. Creating next-gen characters
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Jan 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1169d
-- **Enlace:** https://openai.com/index/inworld-ai-DO-NOT-PUBLISH
-
-Using GPT-3 to create the next generation of AI-powered characters.
-
----
-
-### 18. AutoScout24 scales engineering with AI-powered workflows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/autoscout24
-
-Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.
-
----
-
-### 19. How NVIDIA engineers and researchers build with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/nvidia
-
-Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.
-
----
-
-### 20. What Parameter Golf taught us about AI-assisted research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 May 2026 00:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,machine learning,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/what-parameter-golf-taught-us
-
-Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
 
 ---

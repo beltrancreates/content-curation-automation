@@ -15996,5 +15996,255 @@
       "authority:9",
       "old:139d"
     ]
+  },
+  {
+    "id": "ba4053179d983e3b880a81166fd92e8975003506b022c5ad93198bc53927756d",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "link": "https://openai.com/index/sea-david-chen",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "published": "Thu, 14 May 2026 20:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8593b058e127e9295cd35e4ab8f7bdfe1fff9e24ef7943ba428a6a66d742fe41",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "published": "Thu, 14 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "3d6a1338d003a4c9119e9e1c51230fc4c32b70159d4fd86668191152a15b4222",
+    "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+    "link": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+    "summary": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+    "published": "Mon, 27 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:139d"
+    ]
+  },
+  {
+    "id": "0869afb826e84a99652a040e0817f850afd47ecb69fd96d6c17521b7a6645e98",
+    "title": "Addendum to GPT-5 System Card: Sensitive conversations",
+    "link": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
+    "summary": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
+    "published": "Mon, 27 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:139d"
+    ]
+  },
+  {
+    "id": "3687273dd44808a9ed9489afa1d6722cbf67349aee622880a1b2d75c5249a0a9",
+    "title": "A law and tax firm redefines efficiency with ChatGPT Business",
+    "link": "https://openai.com/index/steuerrecht",
+    "summary": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.",
+    "published": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:139d"
+    ]
+  },
+  {
+    "id": "113ca482302d82d2c1bc351fd883f70ef3035f0e3070b7b6fa2a3b83623bd42e",
+    "title": "How Indeed uses AI to help evolve the job search",
+    "link": "https://openai.com/index/indeed-maggie-hulce",
+    "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+    "published": "Mon, 26 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:48d"
+    ]
+  },
+  {
+    "id": "2ba76fe23a600afeb2f9fd422cc87117dfe4c2064cba8b0f7ba6129b3a0f3c9b",
+    "title": "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research",
+    "link": "https://openai.com/index/multi-goal-reinforcement-learning",
+    "summary": "",
+    "published": "Mon, 26 Feb 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2939d"
+    ]
+  },
+  {
+    "id": "5054481c6e37815f8811bddc7cad5168a63407351e3dde6c653af9ee92340805",
+    "title": "Personalizing education with ChatGPT",
+    "link": "https://openai.com/index/asu",
+    "summary": "Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future",
+    "published": "Mon, 26 Aug 2024 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:566d"
+    ]
+  },
+  {
+    "id": "ecb6a494972f0a40910b7193b3c00c2cf8d9bb1710cfae3cc5e690ebc016e6df",
+    "title": "Sora first impressions",
+    "link": "https://openai.com/index/sora-first-impressions",
+    "summary": "Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process.",
+    "published": "Mon, 25 Mar 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:720d"
+    ]
+  },
+  {
+    "id": "259493100c1f76e7e2191bf4799481ad5fed16a3471ead594bb3c02c5e591402",
+    "title": "OpenAI Five",
+    "link": "https://openai.com/index/openai-five",
+    "summary": "Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.",
+    "published": "Mon, 25 Jun 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2820d"
+    ]
   }
 ]

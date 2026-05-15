@@ -20956,5 +20956,161 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "ba4053179d983e3b880a81166fd92e8975003506b022c5ad93198bc53927756d",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "link": "https://openai.com/index/sea-david-chen",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "published": "Thu, 14 May 2026 20:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "defbb194ca17f52da25b06033935ee033467324d78295bdd6767e447ed151972",
+    "title": "Work with Codex from anywhere",
+    "link": "https://openai.com/index/work-with-codex-from-anywhere",
+    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "published": "Thu, 14 May 2026 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "8593b058e127e9295cd35e4ab8f7bdfe1fff9e24ef7943ba428a6a66d742fe41",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "published": "Thu, 14 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "48e5c6226ecc5ff8636c1db5815ee6aecc603e6b3272dcda0c939e7dfcf1b4f1",
+    "title": "The world is on track to miss its health targets",
+    "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+    "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While&#8230;",
+    "published": "Fri, 15 May 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "c1d0573b8f88e34808c8cad833dd606f4e7ebb3cec18c669e21d11e6e23df19e",
+    "title": "How Chinese short dramas became AI content machines",
+    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;",
+    "published": "Fri, 15 May 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "91034307a5cf02d5c8749bacbc494f4e71063be3086570dc7d4710e085508da7",
+    "title": "Data readiness for agentic AI in financial services",
+    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+    "published": "Thu, 14 May 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "afc9917e6298f839e26ff03e898836c0d988bf607634e2c438f7d52d2b183371",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+    "published": "Thu, 14 May 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "4c8f97945af68f30438c8945aa696d4550da055b6fca59b5eda45eb708aafefc",
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted&#8230;",
+    "published": "Thu, 14 May 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "7c36c3e375ff12e14f9eca44b5ae29814a958700c2203bb2b7745c0b916d1577",
+    "title": "The Tesla Semi could be a big deal for electric trucking",
+    "link": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+    "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official prices, and big news about&#8230;",
+    "published": "Thu, 14 May 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
