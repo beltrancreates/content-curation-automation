@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-15 09:42 UTC_
+_Actualizado: 2026-05-16 08:45 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI Five
+### 1. OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 08:45:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:174d
+- **Enlace:** https://openai.com/index/openai-nvidia-systems-partnership
+
+OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.
+
+---
+
+### 2. Creating a safe, observable AI infrastructure for 1 million classrooms
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:174d
+- **Enlace:** https://openai.com/index/schoolai
+
+Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.
+
+---
+
+### 3. CNA is transforming its newsroom with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 17:17:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:174d
+- **Enlace:** https://openai.com/index/cna-walter-fernandez
+
+In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.
+
+---
+
+### 4. OpenAI and Microsoft extend partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Jan 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1147d
+- **Enlace:** https://openai.com/index/openai-and-microsoft-extend-partnership
+
+We’re happy to announce that OpenAI and Microsoft are extending our partnership.
+
+---
+
+### 5. Introducing the OpenAI Academy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Sep 2024 03:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:538d
+- **Enlace:** https://openai.com/global-affairs/openai-academy
+
+New initiative will fuel innovation by investing in developers and organizations leveraging AI, starting in low- and middle-income countries.
+
+---
+
+### 6. Text and code embeddings by contrastive pre-training
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 24 Jan 2022 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1511d
+- **Enlace:** https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training
+
+
+
+---
+
+### 7. GPT-5 and the future of mathematical discovery
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 24 Nov 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:111d
+- **Enlace:** https://openai.com/index/gpt-5-mathematical-discovery
+
+UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.
+
+---
+
+### 8. Introducing shopping research in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 24 Nov 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:111d
+- **Enlace:** https://openai.com/index/chatgpt-shopping-research
+
+Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making
+
+---
+
+### 9. Scaling Kubernetes to 7,500 nodes
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Jan 2021 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:1875d
+- **Enlace:** https://openai.com/index/scaling-kubernetes-to-7500-nodes
+
+We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Language Models.
+
+---
+
+### 10. A new personal finance experience in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/personal-finance-chatgpt
+
+Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.
+
+---
+
+### 11. OpenAI Five
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Our team of five neural networks, OpenAI Five, has started to defeat amateur hum
 
 ---
 
-### 2. Sora first impressions
+### 12. Sora first impressions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Since we introduced Sora to the world last month, we’ve been working with arti
 
 ---
 
-### 3. Personalizing education with ChatGPT
+### 13. Personalizing education with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Arizona State University embraces ChatGPT campus-wide to personalize learning, a
 
 ---
 
-### 4. Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research
+### 14. Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Arizona State University embraces ChatGPT campus-wide to personalize learning, a
 
 ---
 
-### 5. How Indeed uses AI to help evolve the job search
+### 15. How Indeed uses AI to help evolve the job search
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting
 
 ---
 
-### 6. A law and tax firm redefines efficiency with ChatGPT Business
+### 16. A law and tax firm redefines efficiency with ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, a
 
 ---
 
-### 7. Addendum to GPT-5 System Card: Sensitive conversations
+### 17. Addendum to GPT-5 System Card: Sensitive conversations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ This system card details GPT-5’s improvements in handling sensitive conversati
 
 ---
 
-### 8. Strengthening ChatGPT’s responses in sensitive conversations
+### 18. Strengthening ChatGPT’s responses in sensitive conversations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s abili
 
 ---
 
-### 9. Helping ChatGPT better recognize context in sensitive conversations
+### 19. Helping ChatGPT better recognize context in sensitive conversations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Learn how new ChatGPT safety updates improve context awareness in sensitive conv
 
 ---
 
-### 10. Sea's View on the Future of Agentic Software Development with Codex
+### 20. Sea's View on the Future of Agentic Software Development with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Learn how new ChatGPT safety updates improve context awareness in sensitive conv
 - **Enlace:** https://openai.com/index/sea-david-chen
 
 Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
-
----
-
-### 11. Seizing the AI opportunity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 27 Oct 2025 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d
-- **Enlace:** https://openai.com/global-affairs/seizing-the-ai-opportunity
-
-Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.
-
----
-
-### 12. We’re bringing the Financial Times’ world-class journalism to ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Apr 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:685d
-- **Enlace:** https://openai.com/index/content-partnership-with-financial-times
-
-We will also collaborate on new AI experiences for FT readers.
-
----
-
-### 13. Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/buy-it-in-chatgpt
-
-We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.
-
----
-
-### 14. Combating online child sexual exploitation & abuse
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 03:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/combating-online-child-sexual-exploitation-abuse
-
-Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.
-
----
-
-### 15. Converting inbound leads into customers at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/openai-inbound-sales-assistant
-
-Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.
-
----
-
-### 16. Turning contracts into searchable data at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/openai-contract-data-agent
-
-OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.
-
----
-
-### 17. Improving support with every interaction at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/openai-support-model
-
-Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.
-
----
-
-### 18. Driving sales productivity and customer success at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Sep 2025 13:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:167d
-- **Enlace:** https://openai.com/index/openai-gtm-assistant
-
-Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.
-
----
-
-### 19. Our response to the TanStack npm supply chain attack
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack
-
-OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.
-
----
-
-### 20. Building a safe, effective sandbox to enable Codex on Windows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 May 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/building-codex-windows-sandbox
-
-Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.
 
 ---

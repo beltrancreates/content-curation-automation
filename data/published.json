@@ -16246,5 +16246,255 @@
       "authority:9",
       "old:2820d"
     ]
+  },
+  {
+    "id": "63bd2992638a1e2ad2b0df5968a7ec8b1efca6cf9bbf10968a0aabaad83496a7",
+    "title": "A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "published": "Fri, 15 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "b1dc0d019043265143e1e09420dd4a6a0663ab8b972d853be5bfb971f8ede4c8",
+    "title": "Scaling Kubernetes to 7,500 nodes",
+    "link": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+    "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Language Models.",
+    "published": "Mon, 25 Jan 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:1875d"
+    ]
+  },
+  {
+    "id": "91662581f4e81e28f6e77c8c3d0b62fc192bcfaae58cfd77c375c697834b141a",
+    "title": "Introducing shopping research in ChatGPT",
+    "link": "https://openai.com/index/chatgpt-shopping-research",
+    "summary": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "published": "Mon, 24 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:111d"
+    ]
+  },
+  {
+    "id": "3e327cec4bf499191ddaaead9456fec54c682cbf4e5bf8791028678744ded300",
+    "title": "GPT-5 and the future of mathematical discovery",
+    "link": "https://openai.com/index/gpt-5-mathematical-discovery",
+    "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+    "published": "Mon, 24 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:111d"
+    ]
+  },
+  {
+    "id": "ddfce25e23268b9b981dd183504c64d3dc77e2d4838ffd3cb3b58692a3cd385d",
+    "title": "Text and code embeddings by contrastive pre-training",
+    "link": "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training",
+    "summary": "",
+    "published": "Mon, 24 Jan 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1511d"
+    ]
+  },
+  {
+    "id": "20cada7031fee062bb4e0ca0aa514105acca80af8e105f0b57f515903606128a",
+    "title": "Introducing the OpenAI Academy",
+    "link": "https://openai.com/global-affairs/openai-academy",
+    "summary": "New initiative will fuel innovation by investing in developers and organizations leveraging AI, starting in low- and middle-income countries.",
+    "published": "Mon, 23 Sep 2024 03:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:538d"
+    ]
+  },
+  {
+    "id": "8c45155663c5697fde38f1bc8597e77fb1db7aead456c6dc0703e04ff55d1738",
+    "title": "OpenAI and Microsoft extend partnership",
+    "link": "https://openai.com/index/openai-and-microsoft-extend-partnership",
+    "summary": "We’re happy to announce that OpenAI and Microsoft are extending our partnership.",
+    "published": "Mon, 23 Jan 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1147d"
+    ]
+  },
+  {
+    "id": "c9221f144541fdf04b7b8e877ab9d3b1f53168ca24cf388458c80abc181f0119",
+    "title": "CNA is transforming its newsroom with AI",
+    "link": "https://openai.com/index/cna-walter-fernandez",
+    "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
+    "published": "Mon, 22 Sep 2025 17:17:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:174d"
+    ]
+  },
+  {
+    "id": "0e5b8c0aa99c45a07e9aad17b472c569f1e10fe8dee8d0cdcbe1b89adf70e49f",
+    "title": "Creating a safe, observable AI infrastructure for 1 million classrooms",
+    "link": "https://openai.com/index/schoolai",
+    "summary": "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.",
+    "published": "Mon, 22 Sep 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:174d"
+    ]
+  },
+  {
+    "id": "d9f20927b276fcaeb54ffc06356ec2eda0d1ec8582b4e6f0098f6ed51e44a180",
+    "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+    "link": "https://openai.com/index/openai-nvidia-systems-partnership",
+    "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+    "published": "Mon, 22 Sep 2025 08:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:174d"
+    ]
   }
 ]
