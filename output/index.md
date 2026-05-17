@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-16 08:45 UTC_
+_Actualizado: 2026-05-17 09:00 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems
+### 1. Reimagining the email experience with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 18 Mar 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:727d
+- **Enlace:** https://openai.com/index/superhuman
+
+Superhuman introduces a new era of email with OpenAI.
+
+---
+
+### 2. Building a data-driven, efficient culture with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 18 Mar 2024 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:727d
+- **Enlace:** https://openai.com/index/holiday-extras
+
+Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly.
+
+---
+
+### 3. OpenAI technical goals
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 20 Jun 2016 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3555d
+- **Enlace:** https://openai.com/index/openai-technical-goals
+
+OpenAI’s mission is to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible.
+
+---
+
+### 4. AI as the greatest source of empowerment for all
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Jul 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:237d
+- **Enlace:** https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all
+
+I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more opportunities for more people than any other technology in history. If we get this right, AI can give everyone more power than ever.
+
+---
+
+### 5. OpenAI and UK Government announce strategic partnership to deliver AI-driven growth
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Jul 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:237d
+- **Enlace:** https://openai.com/global-affairs/openai-and-uk-government-partnership
+
+OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.
+
+---
+
+### 6. Continuously hardening ChatGPT Atlas against prompt injection
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:83d
+- **Enlace:** https://openai.com/index/hardening-atlas-against-prompt-injection
+
+OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.
+
+---
+
+### 7. One in a million: celebrating the customers shaping AI’s future
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:83d
+- **Enlace:** https://openai.com/index/one-in-a-million-customers
+
+More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.
+
+---
+
+### 8. Microsoft invests in and partners with OpenAI to support us building beneficial AGI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Jul 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2428d
+- **Enlace:** https://openai.com/index/microsoft-invests-in-and-partners-with-openai
+
+Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with widely distributed economic benefits. We’re partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems.
+
+---
+
+### 9. Governance of superintelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 May 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1028d
+- **Enlace:** https://openai.com/index/governance-of-superintelligence
+
+Now is a good time to start thinking about the governance of superintelligence—future AI systems dramatically more capable than even AGI.
+
+---
+
+### 10. OpenAI and Malta partner to bring ChatGPT Plus to all citizens
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 16 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/malta-chatgpt-plus-partnership
+
+OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
+
+---
+
+### 11. OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI 
 
 ---
 
-### 2. Creating a safe, observable AI infrastructure for 1 million classrooms
+### 12. Creating a safe, observable AI infrastructure for 1 million classrooms
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, p
 
 ---
 
-### 3. CNA is transforming its newsroom with AI
+### 13. CNA is transforming its newsroom with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ In this Executive Function series from OpenAI, discover how CNA is transforming 
 
 ---
 
-### 4. OpenAI and Microsoft extend partnership
+### 14. OpenAI and Microsoft extend partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’re happy to announce that OpenAI and Microsoft are extending our partner
 
 ---
 
-### 5. Introducing the OpenAI Academy
+### 15. Introducing the OpenAI Academy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ New initiative will fuel innovation by investing in developers and organizations
 
 ---
 
-### 6. Text and code embeddings by contrastive pre-training
+### 16. Text and code embeddings by contrastive pre-training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ New initiative will fuel innovation by investing in developers and organizations
 
 ---
 
-### 7. GPT-5 and the future of mathematical discovery
+### 17. GPT-5 and the future of mathematical discovery
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory
 
 ---
 
-### 8. Introducing shopping research in ChatGPT
+### 18. Introducing shopping research in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Shopping research in ChatGPT helps you explore, compare, and discover products w
 
 ---
 
-### 9. Scaling Kubernetes to 7,500 nodes
+### 19. Scaling Kubernetes to 7,500 nodes
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastr
 
 ---
 
-### 10. A new personal finance experience in ChatGPT
+### 20. A new personal finance experience in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastr
 - **Enlace:** https://openai.com/index/personal-finance-chatgpt
 
 Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.
-
----
-
-### 11. OpenAI Five
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 25 Jun 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2820d
-- **Enlace:** https://openai.com/index/openai-five
-
-Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.
-
----
-
-### 12. Sora first impressions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 25 Mar 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:720d
-- **Enlace:** https://openai.com/index/sora-first-impressions
-
-Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process.
-
----
-
-### 13. Personalizing education with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Aug 2024 04:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:566d
-- **Enlace:** https://openai.com/index/asu
-
-Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future
-
----
-
-### 14. Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Feb 2018 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:2939d
-- **Enlace:** https://openai.com/index/multi-goal-reinforcement-learning
-
-
-
----
-
-### 15. How Indeed uses AI to help evolve the job search
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:48d
-- **Enlace:** https://openai.com/index/indeed-maggie-hulce
-
-Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.
-
----
-
-### 16. A law and tax firm redefines efficiency with ChatGPT Business
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 27 Oct 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:139d
-- **Enlace:** https://openai.com/index/steuerrecht
-
-Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.
-
----
-
-### 17. Addendum to GPT-5 System Card: Sensitive conversations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 27 Oct 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d
-- **Enlace:** https://openai.com/index/gpt-5-system-card-sensitive-conversations
-
-This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.
-
----
-
-### 18. Strengthening ChatGPT’s responses in sensitive conversations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 27 Oct 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d
-- **Enlace:** https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations
-
-OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.
-
----
-
-### 19. Helping ChatGPT better recognize context in sensitive conversations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations
-
-Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.
-
----
-
-### 20. Sea's View on the Future of Agentic Software Development with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 May 2026 20:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/sea-david-chen
-
-Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
 
 ---
