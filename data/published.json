@@ -16746,5 +16746,255 @@
       "authority:9",
       "old:727d"
     ]
+  },
+  {
+    "id": "6955e03ffead12a5b2fe612589d66dec98f1d2e7463173b59f70141261050041",
+    "title": "Reducing bias and improving safety in DALL·E 2",
+    "link": "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2",
+    "summary": "Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population.",
+    "published": "Mon, 18 Jul 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:1336d"
+    ]
+  },
+  {
+    "id": "6d45cf47e13c08284876fb2b0f09541cb8194b87fb15437a29d30830e6ff8de3",
+    "title": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
+    "link": "https://openai.com/index/doordash-mariana-garavaglia",
+    "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
+    "published": "Mon, 18 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:209d"
+    ]
+  },
+  {
+    "id": "ea5d179646fa503dd82513897f7ab302a835fb9bbe6cbca5847575d57bdeaf82",
+    "title": "OpenAI named Emerging Leader in Generative AI",
+    "link": "https://openai.com/index/gartner-2025-emerging-leader",
+    "summary": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
+    "published": "Mon, 17 Nov 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:118d"
+    ]
+  },
+  {
+    "id": "dc2c8d7a9698f62317502e20c72c5455c7dce8c2320dcf2681cc55bed9991d2e",
+    "title": "Using GPT-4o reasoning to transform cancer care",
+    "link": "https://openai.com/index/color-health",
+    "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup plans, enabling healthcare providers to make evidence-based decisions about cancer screening and treatment.",
+    "published": "Mon, 17 Jun 2024 04:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:636d"
+    ]
+  },
+  {
+    "id": "01fe77b83f2a8cfd9133e5811aaa9076fd38a47ed928db8ac0b0d786b607a9fd",
+    "title": "Robust adversarial inputs",
+    "link": "https://openai.com/index/robust-adversarial-inputs",
+    "summary": "We’ve created images that reliably fool neural network classifiers when viewed from varied scales and perspectives. This challenges a claim from last week that self-driving cars would be hard to trick maliciously since they capture images from multiple scales, angles, perspectives, and the like.",
+    "published": "Mon, 17 Jul 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3163d"
+    ]
+  },
+  {
+    "id": "3674e43ec488b68030d24572e4a527048425afa54edce8538f78bdcf319d512e",
+    "title": "An update on our safety & security practices",
+    "link": "https://openai.com/index/update-on-safety-and-security-practices",
+    "summary": "An update on our safety & security practices",
+    "published": "Mon, 16 Sep 2024 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:545d"
+    ]
+  },
+  {
+    "id": "1266e28c82d2a85e8664c1d97dc2da5ed7652b9301ab70a73f7cad358ccb7ada",
+    "title": "Introducing OpenAI for Government",
+    "link": "https://openai.com/global-affairs/introducing-openai-for-government",
+    "summary": "We’re launching OpenAI for Government, a new initiative focused on bringing our most advanced AI tools to public servants across the United States. We're supporting the U.S. government's efforts in adopting best-in-class technology and deploying these tools in service of the public good.",
+    "published": "Mon, 16 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:272d"
+    ]
+  },
+  {
+    "id": "43a0ebd0006c1e8b8061e61384cf106604e0fa67ddf20d618ce40e67dfb75135",
+    "title": "Roboschool",
+    "link": "https://openai.com/index/roboschool",
+    "summary": "We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.",
+    "published": "Mon, 15 May 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3226d"
+    ]
+  },
+  {
+    "id": "30d23fabeb56cbc24241f36ef26e4a099b3a03887aad1cc5bd121fc09697c325",
+    "title": "How OpenAI is approaching 2024 worldwide elections",
+    "link": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections",
+    "summary": "We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information.",
+    "published": "Mon, 15 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:790d"
+    ]
+  },
+  {
+    "id": "4417c7ccbe98e214027f6113ca23974aa96d5eaecd0a93cf3c7ce8ff0de5974b",
+    "title": "OpenAI Five defeats Dota 2 world champions",
+    "link": "https://openai.com/index/openai-five-defeats-dota-2-world-champions",
+    "summary": "OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend. Both OpenAI Five and DeepMind’s AlphaStar had previously beaten good pros privately but lost their live pro matches, making this also the first time an AI has beaten esports pros on livestream.",
+    "published": "Mon, 15 Apr 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2526d"
+    ]
   }
 ]
