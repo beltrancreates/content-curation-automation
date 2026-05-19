@@ -16996,5 +16996,255 @@
       "authority:9",
       "old:2526d"
     ]
+  },
+  {
+    "id": "8d208b71ab82495434f295d3434a48cd29c6d074530985e75ed9a4b8f4e14266",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "published": "Mon, 18 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "6dda4b88af45030bb4e618458b62df6cfcf82dbc6602f7a636944d14c1b264f6",
+    "title": "Introducing GPT-4.1 in the API",
+    "link": "https://openai.com/index/gpt-4-1",
+    "summary": "Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasing our first nano model. Available to developers worldwide starting today.",
+    "published": "Mon, 14 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:335d"
+    ]
+  },
+  {
+    "id": "9433bbac11f0291cf7fce891c4a5fb1460a92416361c91c3dacb9691327fbdda",
+    "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+    "link": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+    "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+    "published": "Mon, 13 Oct 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:153d"
+    ]
+  },
+  {
+    "id": "3d856ca9433b66ad9a225327bd7aa8a3fa5ec1edacd2afbbabd976d09a91a480",
+    "title": "Spring Update",
+    "link": "https://openai.com/index/spring-update",
+    "summary": "Introducing GPT-4o and making more capabilities available for free in ChatGPT.",
+    "published": "Mon, 13 May 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:671d"
+    ]
+  },
+  {
+    "id": "1f3c75b264dadd0580c1edd649e781bc64e4e2d0eeff5646ab2e3e92c7faadbb",
+    "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+    "link": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+    "summary": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+    "published": "Mon, 13 May 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:671d"
+    ]
+  },
+  {
+    "id": "fe6cfd65923d5a5444352bb8df65d0a702a253af209007578cc3f823a3846759",
+    "title": "AI-written critiques help humans notice flaws",
+    "link": "https://openai.com/index/critiques",
+    "summary": "We trained “critique-writing” models to describe flaws in summaries. Human evaluators find flaws in summaries much more often when shown our model’s critiques. Larger models are better at self-critiquing, with scale improving critique-writing more than summary-writing. This shows promise for using AI systems to assist human supervision of AI systems on difficult tasks.",
+    "published": "Mon, 13 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1371d"
+    ]
+  },
+  {
+    "id": "a9108c3f81eb08c31bffdf8e4054a940f37c3f3f25826425d19575183181584f",
+    "title": "OpenAI’s Economic Blueprint",
+    "link": "https://openai.com/global-affairs/openais-economic-blueprint",
+    "summary": "OpenAI’s Economic Blueprint",
+    "published": "Mon, 13 Jan 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "80e7818329e447511adda83b37924a89ee392a3dc291afc3b2b526adf90f925e",
+    "title": "Comment on NTIA AI Accountability Policy",
+    "link": "https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy",
+    "summary": "The National Telecommunications and Information Administration (NTIA) request for comments on AI Accountability policy.",
+    "published": "Mon, 12 Jun 2023 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1007d"
+    ]
+  },
+  {
+    "id": "8c69e3fd4bd14a68c9291806b92c2f7406a88c25cda6f3483368595897289263",
+    "title": "OpenAI’s Raising Concerns Policy",
+    "link": "https://openai.com/index/openai-raising-concerns-policy",
+    "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.",
+    "published": "Mon, 12 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:62d"
+    ]
+  },
+  {
+    "id": "c97c11e1af2255a54db8b35f2e84ac0e9b6cfa84071eea0cf8bfcf06defab3db",
+    "title": "OpenAI LP",
+    "link": "https://openai.com/index/openai-lp",
+    "summary": "We’ve created OpenAI LP, a new “capped-profit” company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission.",
+    "published": "Mon, 11 Mar 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2561d"
+    ]
   }
 ]
