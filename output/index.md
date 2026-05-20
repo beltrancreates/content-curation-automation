@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-19 10:34 UTC_
+_Actualizado: 2026-05-20 10:21 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI LP
+### 1. Testing ads in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Feb 2026 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:34d
+- **Enlace:** https://openai.com/index/testing-ads-in-chatgpt
+
+OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.
+
+---
+
+### 2. Scaling security with responsible disclosure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Jun 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:279d
+- **Enlace:** https://openai.com/index/scaling-coordinated-vulnerability-disclosure
+
+OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it responsibly reports vulnerabilities in third-party software—emphasizing integrity, collaboration, and proactive security at scale.
+
+---
+
+### 3. OpenAI partners with Schibsted Media Group
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Feb 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:398d
+- **Enlace:** https://openai.com/index/openai-partners-with-schibsted-media-group
+
+OpenAI and Schibsted Media Group announce content partnership to bring Guardian news and archive content to  ChatGPT.
+
+---
+
+### 4. OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Jun 2024 10:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:643d
+- **Enlace:** https://openai.com/index/openai-welcomes-cfo-cpo
+
+OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
+
+---
+
+### 5. OpenAI and Apple announce partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Jun 2024 11:55:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:643d
+- **Enlace:** https://openai.com/index/openai-and-apple-announce-partnership
+
+OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.
+
+---
+
+### 6. Free ChatGPT for transitioning U.S. servicemembers and veterans
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Nov 2025 02:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:125d
+- **Enlace:** https://openai.com/index/chatgpt-for-veterans
+
+OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.
+
+---
+
+### 7. OpenAI Scholars 2018: Final projects
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Sep 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2743d
+- **Enlace:** https://openai.com/index/openai-scholars-2018-final-projects
+
+Our first cohort of OpenAI Scholars has now completed the program.
+
+---
+
+### 8. Advancing content provenance for a safer, more transparent AI ecosystem
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 19 May 2026 10:45:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/advancing-content-provenance
+
+OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
+
+---
+
+### 9. Introducing OpenAI for Singapore
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 19 May 2026 20:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-openai-for-singapore
+
+OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.
+
+---
+
+### 10. The next phase of OpenAI’s Education for Countries
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-next-phase-of-education-for-countries
+
+OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.
+
+---
+
+### 11. OpenAI LP
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’ve created OpenAI LP, a new “capped-profit” company that allows us to r
 
 ---
 
-### 2. OpenAI’s Raising Concerns Policy
+### 12. OpenAI’s Raising Concerns Policy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’re publishing our Raising Concerns Policy, which protects employees’ righ
 
 ---
 
-### 3. Comment on NTIA AI Accountability Policy
+### 13. Comment on NTIA AI Accountability Policy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ The National Telecommunications and Information Administration (NTIA) request fo
 
 ---
 
-### 4. OpenAI’s Economic Blueprint
+### 14. OpenAI’s Economic Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI’s Economic Blueprint
 
 ---
 
-### 5. AI-written critiques help humans notice flaws
+### 15. AI-written critiques help humans notice flaws
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We trained “critique-writing” models to describe flaws in summaries. Human e
 
 ---
 
-### 6. Introducing GPT-4o and more tools to ChatGPT free users
+### 16. Introducing GPT-4o and more tools to ChatGPT free users
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -83,7 +213,7 @@ We are launching our newest flagship model and making more capabilities availabl
 
 ---
 
-### 7. Spring Update
+### 17. Spring Update
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -96,7 +226,7 @@ Introducing GPT-4o and making more capabilities available for free in ChatGPT.
 
 ---
 
-### 8. OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators
+### 18. OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -109,7 +239,7 @@ OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of 
 
 ---
 
-### 9. Introducing GPT-4.1 in the API
+### 19. Introducing GPT-4.1 in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -122,7 +252,7 @@ Introducing GPT-4.1 in the API—a new family of models with across-the-board im
 
 ---
 
-### 10. OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
+### 20. OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -132,135 +262,5 @@ Introducing GPT-4.1 in the API—a new family of models with across-the-board im
 - **Enlace:** https://openai.com/index/dell-codex-enterprise-partnership
 
 OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.
-
----
-
-### 11. OpenAI Five defeats Dota 2 world champions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 15 Apr 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2526d
-- **Enlace:** https://openai.com/index/openai-five-defeats-dota-2-world-champions
-
-OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend. Both OpenAI Five and DeepMind’s AlphaStar had previously beaten good pros privately but lost their live pro matches, making this also the first time an AI has beaten esports pros on livestream.
-
----
-
-### 12. How OpenAI is approaching 2024 worldwide elections
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 15 Jan 2024 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:790d
-- **Enlace:** https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections
-
-We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information.
-
----
-
-### 13. Roboschool
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 15 May 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3226d
-- **Enlace:** https://openai.com/index/roboschool
-
-We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.
-
----
-
-### 14. Introducing OpenAI for Government
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Jun 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:272d
-- **Enlace:** https://openai.com/global-affairs/introducing-openai-for-government
-
-We’re launching OpenAI for Government, a new initiative focused on bringing our most advanced AI tools to public servants across the United States. We're supporting the U.S. government's efforts in adopting best-in-class technology and deploying these tools in service of the public good.
-
----
-
-### 15. An update on our safety & security practices
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Sep 2024 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:545d
-- **Enlace:** https://openai.com/index/update-on-safety-and-security-practices
-
-An update on our safety & security practices
-
----
-
-### 16. Robust adversarial inputs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Jul 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3163d
-- **Enlace:** https://openai.com/index/robust-adversarial-inputs
-
-We’ve created images that reliably fool neural network classifiers when viewed from varied scales and perspectives. This challenges a claim from last week that self-driving cars would be hard to trick maliciously since they capture images from multiple scales, angles, perspectives, and the like.
-
----
-
-### 17. Using GPT-4o reasoning to transform cancer care
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Jun 2024 04:15:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:636d
-- **Enlace:** https://openai.com/index/color-health
-
-Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup plans, enabling healthcare providers to make evidence-based decisions about cancer screening and treatment.
-
----
-
-### 18. OpenAI named Emerging Leader in Generative AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Nov 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:118d
-- **Enlace:** https://openai.com/index/gartner-2025-emerging-leader
-
-OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.
-
----
-
-### 19. Q&A with DoorDash’s CPO, Mariana Garavaglia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 18 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:209d
-- **Enlace:** https://openai.com/index/doordash-mariana-garavaglia
-
-Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.
-
----
-
-### 20. Reducing bias and improving safety in DALL·E 2
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 18 Jul 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:1336d
-- **Enlace:** https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2
-
-Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population.
 
 ---

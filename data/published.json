@@ -17246,5 +17246,255 @@
       "authority:9",
       "old:2561d"
     ]
+  },
+  {
+    "id": "efa1304397a1828973d975f5b1d4f258e3fc94e53eebe141cd2fd9df00e3da20",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "published": "Wed, 20 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "532c5f60460681dc2b6fef435f2c74913fd30e667dc0120876bb5ad097527ff8",
+    "title": "Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "published": "Tue, 19 May 2026 20:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ea67e7d9e0e54dde0ebfcbd6b57434d3fd92effff3d99ddf01e106c5e0026acd",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "published": "Tue, 19 May 2026 10:45:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b49067fa67b7fd4ccd153abb68c14ff6cdc310f53da91415c7e5b732f0a145b5",
+    "title": "OpenAI Scholars 2018: Final projects",
+    "link": "https://openai.com/index/openai-scholars-2018-final-projects",
+    "summary": "Our first cohort of OpenAI Scholars has now completed the program.",
+    "published": "Mon, 10 Sep 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2743d"
+    ]
+  },
+  {
+    "id": "8042f2712393e7d4a9494b639ccb20f7d9fbb735a0734178c199371463c50339",
+    "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+    "link": "https://openai.com/index/chatgpt-for-veterans",
+    "summary": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.",
+    "published": "Mon, 10 Nov 2025 02:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:125d"
+    ]
+  },
+  {
+    "id": "ffdc218c9040a9ba2e3c107f0241e400ab31b50016c6a8c4fb8999aab1c3de52",
+    "title": "OpenAI and Apple announce partnership",
+    "link": "https://openai.com/index/openai-and-apple-announce-partnership",
+    "summary": "OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.",
+    "published": "Mon, 10 Jun 2024 11:55:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:643d"
+    ]
+  },
+  {
+    "id": "718e4a51f36e13795d0bc6a1ecd7f54a1044e75fdb1e6948aa87b830de7dc57d",
+    "title": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "link": "https://openai.com/index/openai-welcomes-cfo-cpo",
+    "summary": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "published": "Mon, 10 Jun 2024 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:643d"
+    ]
+  },
+  {
+    "id": "45039f29312dd08ee7b708d9601f41a7f3e825165f4aa6e79d875bce9226b34f",
+    "title": "OpenAI partners with Schibsted Media Group",
+    "link": "https://openai.com/index/openai-partners-with-schibsted-media-group",
+    "summary": "OpenAI and Schibsted Media Group announce content partnership to bring Guardian news and archive content to  ChatGPT.",
+    "published": "Mon, 10 Feb 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:398d"
+    ]
+  },
+  {
+    "id": "37f957d38da5de3818b2bad0a51777a29475465e8b54d19558ca90d4fd8cb6db",
+    "title": "Scaling security with responsible disclosure",
+    "link": "https://openai.com/index/scaling-coordinated-vulnerability-disclosure",
+    "summary": "OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it responsibly reports vulnerabilities in third-party software—emphasizing integrity, collaboration, and proactive security at scale.",
+    "published": "Mon, 09 Jun 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:279d"
+    ]
+  },
+  {
+    "id": "4e730871994fa83c9f58fd83bab482f9b6bc38ec5a604da12fccbcd62431442e",
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "published": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:34d"
+    ]
   }
 ]
