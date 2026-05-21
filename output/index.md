@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-20 10:21 UTC_
+_Actualizado: 2026-05-21 10:35 UTC_
 
 ## Selección priorizada
 
-### 1. Testing ads in ChatGPT
+### 1. How Virgin Atlantic uses AI to enhance every step of travel
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 08 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d
+- **Enlace:** https://openai.com/index/virgin-atlantic-oliver-byers
+
+Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.
+
+---
+
+### 2. Instacart and OpenAI partner on AI shopping experiences
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 08 Dec 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d
+- **Enlace:** https://openai.com/index/instacart-partnership
+
+OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.
+
+---
+
+### 3. OpenAI and journalism
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 08 Jan 2024 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:797d
+- **Enlace:** https://openai.com/index/openai-and-journalism
+
+We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit.
+
+---
+
+### 4. A People-First AI Fund: $50M to support nonprofits
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 08 Sep 2025 14:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:188d
+- **Enlace:** https://openai.com/index/people-first-ai-fund
+
+Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.
+
+---
+
+### 5. Minne Atairu & Sora
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
+- **Enlace:** https://openai.com/index/sora-minne-atairu
+
+Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.
+
+---
+
+### 6. Sora System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
+- **Enlace:** https://openai.com/index/sora-system-card
+
+Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression.
+
+---
+
+### 7. Vallée Duhamel & Sora
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
+- **Enlace:** https://openai.com/index/sora-vallee-duhamel
+
+Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds.
+
+---
+
+### 8. Put AI to work for your product team
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
+- **Enlace:** https://openai.com/index/put-ai-to-work-for-your-product-team
+
+Put AI to work for your product team
+
+---
+
+### 9. Sora is here
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Dec 2024 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
+- **Enlace:** https://openai.com/index/sora-is-here
+
+Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can bring your own assets to extend, remix, and blend, or generate entirely new content from text.
+
+---
+
+### 10. An OpenAI model has disproved a central conjecture in discrete geometry
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/model-disproves-discrete-geometry-conjecture
+
+An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
+
+---
+
+### 11. Testing ads in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI begins testing ads in ChatGPT to support free access, with clear labeling
 
 ---
 
-### 2. Scaling security with responsible disclosure
+### 12. Scaling security with responsible disclosure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it res
 
 ---
 
-### 3. OpenAI partners with Schibsted Media Group
+### 13. OpenAI partners with Schibsted Media Group
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI and Schibsted Media Group announce content partnership to bring Guardian 
 
 ---
 
-### 4. OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
+### 14. OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
 
 ---
 
-### 5. OpenAI and Apple announce partnership
+### 15. OpenAI and Apple announce partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI and Apple announce partnership to integrate ChatGPT into Apple experience
 
 ---
 
-### 6. Free ChatGPT for transitioning U.S. servicemembers and veterans
+### 16. Free ChatGPT for transitioning U.S. servicemembers and veterans
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI is offering U.S. servicemembers and veterans within 12 months of retireme
 
 ---
 
-### 7. OpenAI Scholars 2018: Final projects
+### 17. OpenAI Scholars 2018: Final projects
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Our first cohort of OpenAI Scholars has now completed the program.
 
 ---
 
-### 8. Advancing content provenance for a safer, more transparent AI ecosystem
+### 18. Advancing content provenance for a safer, more transparent AI ecosystem
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI advances AI content provenance with Content Credentials, SynthID, and a v
 
 ---
 
-### 9. Introducing OpenAI for Singapore
+### 19. Introducing OpenAI for Singapore
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI for Singapore launches a multi-year AI partnership to expand deployment, 
 
 ---
 
-### 10. The next phase of OpenAI’s Education for Countries
+### 20. The next phase of OpenAI’s Education for Countries
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,136 +261,5 @@ OpenAI for Singapore launches a multi-year AI partnership to expand deployment, 
 - **Enlace:** https://openai.com/index/the-next-phase-of-education-for-countries
 
 OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.
-
----
-
-### 11. OpenAI LP
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 11 Mar 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2561d
-- **Enlace:** https://openai.com/index/openai-lp
-
-We’ve created OpenAI LP, a new “capped-profit” company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission.
-
----
-
-### 12. OpenAI’s Raising Concerns Policy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 12 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:62d
-- **Enlace:** https://openai.com/index/openai-raising-concerns-policy
-
-We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.
-
----
-
-### 13. Comment on NTIA AI Accountability Policy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 12 Jun 2023 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1007d
-- **Enlace:** https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy
-
-The National Telecommunications and Information Administration (NTIA) request for comments on AI Accountability policy.
-
----
-
-### 14. OpenAI’s Economic Blueprint
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 Jan 2025 03:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:426d
-- **Enlace:** https://openai.com/global-affairs/openais-economic-blueprint
-
-OpenAI’s Economic Blueprint
-
----
-
-### 15. AI-written critiques help humans notice flaws
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 Jun 2022 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1371d
-- **Enlace:** https://openai.com/index/critiques
-
-We trained “critique-writing” models to describe flaws in summaries. Human evaluators find flaws in summaries much more often when shown our model’s critiques. Larger models are better at self-critiquing, with scale improving critique-writing more than summary-writing. This shows promise for using AI systems to assist human supervision of AI systems on difficult tasks.
-
----
-
-### 16. Introducing GPT-4o and more tools to ChatGPT free users
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 May 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:671d
-- **Enlace:** https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free
-
-Introducing GPT-4o and more tools to ChatGPT free users
-We are launching our newest flagship model and making more capabilities available for free in ChatGPT.
-
----
-
-### 17. Spring Update
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 May 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:671d
-- **Enlace:** https://openai.com/index/spring-update
-
-Introducing GPT-4o and making more capabilities available for free in ChatGPT.
-
----
-
-### 18. OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 Oct 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:153d
-- **Enlace:** https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration
-
-OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.
-
----
-
-### 19. Introducing GPT-4.1 in the API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 14 Apr 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:335d
-- **Enlace:** https://openai.com/index/gpt-4-1
-
-Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasing our first nano model. Available to developers worldwide starting today.
-
----
-
-### 20. OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 18 May 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/dell-codex-enterprise-partnership
-
-OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.
 
 ---
