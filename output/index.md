@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-21 10:35 UTC_
+_Actualizado: 2026-05-22 10:20 UTC_
 
 ## Selección priorizada
 
-### 1. How Virgin Atlantic uses AI to enhance every step of travel
+### 1. Universe
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 05 Dec 2016 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3387d
+- **Enlace:** https://openai.com/index/universe
+
+We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.
+
+---
+
+### 2. Lowe’s leverages AI to power home improvement retail
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 05 May 2025 05:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:314d
+- **Enlace:** https://openai.com/index/lowes-chandhu-nair
+
+A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.
+
+---
+
+### 3. Evolving OpenAI’s structure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 05 May 2025 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:314d
+- **Enlace:** https://openai.com/index/evolving-our-structure
+
+An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact and long-term alignment with the public good.
+
+---
+
+### 4. OpenAI Five Benchmark: Results
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Aug 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2778d
+- **Enlace:** https://openai.com/index/openai-five-benchmark-results
+
+Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in front of a live audience and 100,000 concurrent livestream viewers.
+
+---
+
+### 5. Accelerating AI adoption in Europe
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
+- **Enlace:** https://openai.com/global-affairs/accelerating-ai-uptake-in-europe
+
+OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.
+
+---
+
+### 6. AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Oct 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
+- **Enlace:** https://openai.com/index/openai-amd-strategic-partnership
+
+AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.
+
+---
+
+### 7. Introducing apps in ChatGPT and the new Apps SDK
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Oct 2025 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
+- **Enlace:** https://openai.com/index/introducing-apps-in-chatgpt
+
+We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.
+
+---
+
+### 8. Codex is now generally available
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 06 Oct 2025 10:50:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
+- **Enlace:** https://openai.com/index/codex-now-generally-available
+
+OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.
+
+---
+
+### 9. Canva enables creativity with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 07 Apr 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:342d
+- **Enlace:** https://openai.com/index/canva-cam-adams
+
+A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.
+
+---
+
+### 10. AdventHealth advances whole-person care with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 May 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/adventhealth
+
+AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
+
+---
+
+### 11. How Virgin Atlantic uses AI to enhance every step of travel
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up 
 
 ---
 
-### 2. Instacart and OpenAI partner on AI shopping experiences
+### 12. Instacart and OpenAI partner on AI shopping experiences
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI and Instacart are deepening their longstanding partnership by bringing th
 
 ---
 
-### 3. OpenAI and journalism
+### 13. OpenAI and journalism
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We support journalism, partner with news organizations, and believe The New York
 
 ---
 
-### 4. A People-First AI Fund: $50M to support nonprofits
+### 14. A People-First AI Fund: $50M to support nonprofits
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative
 
 ---
 
-### 5. Minne Atairu & Sora
+### 15. Minne Atairu & Sora
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Interdisciplinary artist Minne Atairu discusses how Sora helps realize her visio
 
 ---
 
-### 6. Sora System Card
+### 16. Sora System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Sora is OpenAI’s video generation model, designed to take text, image, and vid
 
 ---
 
-### 7. Vallée Duhamel & Sora
+### 17. Vallée Duhamel & Sora
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds.
 
 ---
 
-### 8. Put AI to work for your product team
+### 18. Put AI to work for your product team
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Put AI to work for your product team
 
 ---
 
-### 9. Sora is here
+### 19. Sora is here
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Our video generation model, Sora, is now available to use at sora.com. Users can
 
 ---
 
-### 10. An OpenAI model has disproved a central conjecture in discrete geometry
+### 20. An OpenAI model has disproved a central conjecture in discrete geometry
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Our video generation model, Sora, is now available to use at sora.com. Users can
 - **Enlace:** https://openai.com/index/model-disproves-discrete-geometry-conjecture
 
 An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
-
----
-
-### 11. Testing ads in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Feb 2026 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:34d
-- **Enlace:** https://openai.com/index/testing-ads-in-chatgpt
-
-OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.
-
----
-
-### 12. Scaling security with responsible disclosure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Jun 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:279d
-- **Enlace:** https://openai.com/index/scaling-coordinated-vulnerability-disclosure
-
-OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it responsibly reports vulnerabilities in third-party software—emphasizing integrity, collaboration, and proactive security at scale.
-
----
-
-### 13. OpenAI partners with Schibsted Media Group
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Feb 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:398d
-- **Enlace:** https://openai.com/index/openai-partners-with-schibsted-media-group
-
-OpenAI and Schibsted Media Group announce content partnership to bring Guardian news and archive content to  ChatGPT.
-
----
-
-### 14. OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Jun 2024 10:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:643d
-- **Enlace:** https://openai.com/index/openai-welcomes-cfo-cpo
-
-OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
-
----
-
-### 15. OpenAI and Apple announce partnership
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Jun 2024 11:55:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:643d
-- **Enlace:** https://openai.com/index/openai-and-apple-announce-partnership
-
-OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.
-
----
-
-### 16. Free ChatGPT for transitioning U.S. servicemembers and veterans
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Nov 2025 02:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:125d
-- **Enlace:** https://openai.com/index/chatgpt-for-veterans
-
-OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.
-
----
-
-### 17. OpenAI Scholars 2018: Final projects
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Sep 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2743d
-- **Enlace:** https://openai.com/index/openai-scholars-2018-final-projects
-
-Our first cohort of OpenAI Scholars has now completed the program.
-
----
-
-### 18. Advancing content provenance for a safer, more transparent AI ecosystem
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 19 May 2026 10:45:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/advancing-content-provenance
-
-OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
-
----
-
-### 19. Introducing OpenAI for Singapore
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 19 May 2026 20:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-openai-for-singapore
-
-OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.
-
----
-
-### 20. The next phase of OpenAI’s Education for Countries
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/the-next-phase-of-education-for-countries
-
-OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.
 
 ---

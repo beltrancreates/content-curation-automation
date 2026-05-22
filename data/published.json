@@ -17746,5 +17746,255 @@
       "authority:9",
       "old:97d"
     ]
+  },
+  {
+    "id": "044b58b54995fd8205a51dc5398911496798746f6738762e97137226100a4c59",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "link": "https://openai.com/index/adventhealth",
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "published": "Thu, 21 May 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b9d622247fdad7172a88b3e1dd458b0d84cf9125472eb3e0353559738b0c90aa",
+    "title": "Canva enables creativity with AI",
+    "link": "https://openai.com/index/canva-cam-adams",
+    "summary": "A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.",
+    "published": "Mon, 07 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:342d"
+    ]
+  },
+  {
+    "id": "d7a80b92a308d2f69a607ea50049a20792f73d46bd6209e128890b28ab59c076",
+    "title": "Codex is now generally available",
+    "link": "https://openai.com/index/codex-now-generally-available",
+    "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
+    "published": "Mon, 06 Oct 2025 10:50:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:160d"
+    ]
+  },
+  {
+    "id": "64ae44a3eb89ec2244f2d70b2e22a229305b02ab4801978d65f49cdff5f6f3b5",
+    "title": "Introducing apps in ChatGPT and the new Apps SDK",
+    "link": "https://openai.com/index/introducing-apps-in-chatgpt",
+    "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
+    "published": "Mon, 06 Oct 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:160d"
+    ]
+  },
+  {
+    "id": "6812cb7ac01dd22003536913bb4df7d6027492e0ccde6b81b421acc4d9a7e07b",
+    "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+    "link": "https://openai.com/index/openai-amd-strategic-partnership",
+    "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+    "published": "Mon, 06 Oct 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:160d"
+    ]
+  },
+  {
+    "id": "958e6e76a34f2fcbe1ddc4f32296bb690645d108f69d8b650ed015ce5196f2f3",
+    "title": "Accelerating AI adoption in Europe",
+    "link": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
+    "summary": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
+    "published": "Mon, 06 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:160d"
+    ]
+  },
+  {
+    "id": "a1da5c55fba98555997b73d760a6c90b0c47f2c81a7f47846fbe217e38c36895",
+    "title": "OpenAI Five Benchmark: Results",
+    "link": "https://openai.com/index/openai-five-benchmark-results",
+    "summary": "Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in front of a live audience and 100,000 concurrent livestream viewers.",
+    "published": "Mon, 06 Aug 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2778d"
+    ]
+  },
+  {
+    "id": "eccf30d465cd6f356c690782e7a7663cadc5cab7fd6fdcd15588adef64bd589d",
+    "title": "Evolving OpenAI’s structure",
+    "link": "https://openai.com/index/evolving-our-structure",
+    "summary": "An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact and long-term alignment with the public good.",
+    "published": "Mon, 05 May 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:314d"
+    ]
+  },
+  {
+    "id": "9ff8285c83e806879f25c50edd64635a10a4b64003a91d42ffd0b188a1296de8",
+    "title": "Lowe’s leverages AI to power home improvement retail",
+    "link": "https://openai.com/index/lowes-chandhu-nair",
+    "summary": "A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.",
+    "published": "Mon, 05 May 2025 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:314d"
+    ]
+  },
+  {
+    "id": "a1523ce579d5879464bdc3ac740978b0d3cc812ec5dcedb178822df6dc0eecce",
+    "title": "Universe",
+    "link": "https://openai.com/index/universe",
+    "summary": "We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.",
+    "published": "Mon, 05 Dec 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3387d"
+    ]
   }
 ]
