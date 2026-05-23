@@ -17996,5 +17996,255 @@
       "authority:9",
       "old:3387d"
     ]
+  },
+  {
+    "id": "f2de43ed4fe3a620e51c71e87130e6176b5c994b345867beb47ce2dae3f5a918",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "published": "Fri, 22 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "892abc91edf491b0a77b55db5e0061ec14e80793df31722d2490a38a591c4efa",
+    "title": "OpenAI’s comments to the NTIA on data center growth, resilience, and security",
+    "link": "https://openai.com/global-affairs/comments-to-the-ntia-on-data-center-growth-resilience-and-security",
+    "summary": "This comment was submitted in response to a request for information from the National Telecommunications and Information Administration (NTIA).",
+    "published": "Mon, 04 Nov 2024 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:496d"
+    ]
+  },
+  {
+    "id": "36d7257b593bad6c6a134fb6c33faa494a9219a8c2f777eb1ec51952b56993b4",
+    "title": "Introducing IndQA",
+    "link": "https://openai.com/index/introducing-indqa",
+    "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+    "published": "Mon, 03 Nov 2025 22:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:131d"
+    ]
+  },
+  {
+    "id": "02433e21d73e5549ce00801694b119dfef4618332282f558f68c05e444f3a301",
+    "title": "AWS and OpenAI announce multi-year strategic partnership",
+    "link": "https://openai.com/index/aws-and-openai-partnership",
+    "summary": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
+    "published": "Mon, 03 Nov 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:132d"
+    ]
+  },
+  {
+    "id": "974dde3d72e6bf95af8c83b5f4e41ef004fbd8c3c49bede47fe37effc8b0dbff",
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "link": "https://openai.com/index/snowflake-partnership",
+    "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+    "published": "Mon, 02 Feb 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:41d"
+    ]
+  },
+  {
+    "id": "c2e00d7c926c0f280e593084e7a4abb9ac2a6319b1a08f65b9fc03ddfb498b20",
+    "title": "Introducing the Codex app",
+    "link": "https://openai.com/index/introducing-the-codex-app",
+    "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+    "published": "Mon, 02 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:41d"
+    ]
+  },
+  {
+    "id": "32263dabc6e59f37bee53db123117ec98b1050a4709fa1a9e636256426c771d6",
+    "title": "Inside Mirakl's agentic commerce vision",
+    "link": "https://openai.com/index/mirakl",
+    "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+    "published": "Mon, 01 Dec 2025 22:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:103d"
+    ]
+  },
+  {
+    "id": "7332c60462d8a0713ab4d60bc9073f8012bb36a60070915e6dd140a73716faec",
+    "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+    "link": "https://openai.com/index/norad-holiday-collaboration",
+    "summary": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+    "published": "Mon, 01 Dec 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:104d"
+    ]
+  },
+  {
+    "id": "17d6ef7cf34f78c24a02255c88d97f53edcc3c18d4471e0cb76b46e131f7cf41",
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "link": "https://openai.com/index/accenture-partnership",
+    "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "published": "Mon, 01 Dec 2025 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:104d"
+    ]
+  },
+  {
+    "id": "eb5f6a3dae138c514bdba2ad34672c831833eef4b0af4561c4db040fc67f40a2",
+    "title": "Reducing health insurance costs and improving care",
+    "link": "https://openai.com/index/oscar",
+    "summary": "Oscar brings AI to health insurance, reducing costs and improving patient care.",
+    "published": "Mon, 01 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:713d"
+    ]
   }
 ]

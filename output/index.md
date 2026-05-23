@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-22 10:20 UTC_
+_Actualizado: 2026-05-23 08:59 UTC_
 
 ## Selección priorizada
 
-### 1. Universe
+### 1. Reducing health insurance costs and improving care
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Apr 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:713d
+- **Enlace:** https://openai.com/index/oscar
+
+Oscar brings AI to health insurance, reducing costs and improving patient care.
+
+---
+
+### 2. Accenture and OpenAI accelerate enterprise AI success
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Dec 2025 05:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:104d
+- **Enlace:** https://openai.com/index/accenture-partnership
+
+Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.
+
+---
+
+### 3. OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Dec 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:104d
+- **Enlace:** https://openai.com/index/norad-holiday-collaboration
+
+OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.
+
+---
+
+### 4. Inside Mirakl's agentic commerce vision
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Dec 2025 22:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:103d
+- **Enlace:** https://openai.com/index/mirakl
+
+Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.
+
+---
+
+### 5. Introducing the Codex app
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 02 Feb 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:41d
+- **Enlace:** https://openai.com/index/introducing-the-codex-app
+
+Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.
+
+---
+
+### 6. Snowflake and OpenAI partner to bring frontier intelligence to enterprise data
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 02 Feb 2026 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:41d
+- **Enlace:** https://openai.com/index/snowflake-partnership
+
+OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.
+
+---
+
+### 7. AWS and OpenAI announce multi-year strategic partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 03 Nov 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:132d
+- **Enlace:** https://openai.com/index/aws-and-openai-partnership
+
+OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.
+
+---
+
+### 8. Introducing IndQA
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 03 Nov 2025 22:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:131d
+- **Enlace:** https://openai.com/index/introducing-indqa
+
+OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.
+
+---
+
+### 9. OpenAI’s comments to the NTIA on data center growth, resilience, and security
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 04 Nov 2024 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:496d
+- **Enlace:** https://openai.com/global-affairs/comments-to-the-ntia-on-data-center-growth-resilience-and-security
+
+This comment was submitted in response to a request for information from the National Telecommunications and Information Administration (NTIA).
+
+---
+
+### 10. OpenAI named a Leader in enterprise coding agents by Gartner
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 22 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gartner-2026-agentic-coding-leader
+
+OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.
+
+---
+
+### 11. Universe
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re releasing Universe, a software platform for measuring and training an AI
 
 ---
 
-### 2. Lowe’s leverages AI to power home improvement retail
+### 12. Lowe’s leverages AI to power home improvement retail
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovat
 
 ---
 
-### 3. Evolving OpenAI’s structure
+### 13. Evolving OpenAI’s structure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ An update from the OpenAI board on transitioning its for-profit entity to a Publ
 
 ---
 
-### 4. OpenAI Five Benchmark: Results
+### 14. OpenAI Five Benchmark: Results
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentil
 
 ---
 
-### 5. Accelerating AI adoption in Europe
+### 15. Accelerating AI adoption in Europe
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionab
 
 ---
 
-### 6. AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs
+### 16. AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of 
 
 ---
 
-### 7. Introducing apps in ChatGPT and the new Apps SDK
+### 17. Introducing apps in ChatGPT and the new Apps SDK
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We’re introducing a new generation of apps you can chat with, right inside Cha
 
 ---
 
-### 8. Codex is now generally available
+### 18. Codex is now generally available
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI Codex is now generally available with powerful new features for developer
 
 ---
 
-### 9. Canva enables creativity with AI
+### 19. Canva enables creativity with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva
 
 ---
 
-### 10. AdventHealth advances whole-person care with OpenAI
+### 20. AdventHealth advances whole-person care with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva
 - **Enlace:** https://openai.com/index/adventhealth
 
 AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
-
----
-
-### 11. How Virgin Atlantic uses AI to enhance every step of travel
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d
-- **Enlace:** https://openai.com/index/virgin-atlantic-oliver-byers
-
-Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.
-
----
-
-### 12. Instacart and OpenAI partner on AI shopping experiences
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Dec 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d
-- **Enlace:** https://openai.com/index/instacart-partnership
-
-OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.
-
----
-
-### 13. OpenAI and journalism
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Jan 2024 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:797d
-- **Enlace:** https://openai.com/index/openai-and-journalism
-
-We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit.
-
----
-
-### 14. A People-First AI Fund: $50M to support nonprofits
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Sep 2025 14:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:188d
-- **Enlace:** https://openai.com/index/people-first-ai-fund
-
-Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.
-
----
-
-### 15. Minne Atairu & Sora
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
-- **Enlace:** https://openai.com/index/sora-minne-atairu
-
-Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.
-
----
-
-### 16. Sora System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
-- **Enlace:** https://openai.com/index/sora-system-card
-
-Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression.
-
----
-
-### 17. Vallée Duhamel & Sora
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
-- **Enlace:** https://openai.com/index/sora-vallee-duhamel
-
-Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds.
-
----
-
-### 18. Put AI to work for your product team
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Dec 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
-- **Enlace:** https://openai.com/index/put-ai-to-work-for-your-product-team
-
-Put AI to work for your product team
-
----
-
-### 19. Sora is here
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Dec 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:461d
-- **Enlace:** https://openai.com/index/sora-is-here
-
-Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can bring your own assets to extend, remix, and blend, or generate entirely new content from text.
-
----
-
-### 20. An OpenAI model has disproved a central conjecture in discrete geometry
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/model-disproves-discrete-geometry-conjecture
-
-An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
 
 ---
