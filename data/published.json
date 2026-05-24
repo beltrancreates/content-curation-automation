@@ -18246,5 +18246,255 @@
       "authority:9",
       "old:713d"
     ]
+  },
+  {
+    "id": "fa1e3ec62f592419c48035d883845fc86da62f2a0aed6eaa7e93f901c60b48d9",
+    "title": "Start using ChatGPT instantly",
+    "link": "https://openai.com/index/start-using-chatgpt-instantly",
+    "summary": "We’re making it easier for people to experience the benefits of AI without needing to sign up",
+    "published": "Mon, 01 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:713d"
+    ]
+  },
+  {
+    "id": "f55d9d09067a338d1147d82d035ced64fe5d26628416c827359575093ddcf7b7",
+    "title": "OpenAI o3-mini",
+    "link": "https://openai.com/index/openai-o3-mini",
+    "summary": "Pushing the frontier of cost-effective reasoning.",
+    "published": "Fri, 31 Jan 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:408d"
+    ]
+  },
+  {
+    "id": "601593261f875ed4654fcfe72e5a1a643eac42174398b2b9f607aade555872d6",
+    "title": "Solving math word problems",
+    "link": "https://openai.com/index/solving-math-word-problems",
+    "summary": "We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 year olds scored 60% on a test from our dataset, while our system scored 55% on those same problems.",
+    "published": "Fri, 29 Oct 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1598d"
+    ]
+  },
+  {
+    "id": "cf1c1703c7b950a4a25a18042fc8db1d6184d9e404e58c7d99238a4f6191d6e4",
+    "title": "1,000 Scientist AI Jam Session",
+    "link": "https://openai.com/global-affairs/1000-scientist-ai-jam-session",
+    "summary": "OpenAI and nine national labs bring together leading scientists for first-of-its kind event.",
+    "published": "Fri, 28 Feb 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:380d"
+    ]
+  },
+  {
+    "id": "d86ff69a6949cf6fa7e8a6266a3dc146ca3280b9aefe345d9c946ae04b584c4a",
+    "title": "Why OpenAI’s structure must evolve to advance our mission",
+    "link": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission",
+    "summary": "A stronger non-profit supported by the for-profit’s success.",
+    "published": "Fri, 27 Dec 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:443d"
+    ]
+  },
+  {
+    "id": "593dbb06d742c29bf25b9c2881b1b40837980a7f6281e17ccb1093e5ece18c55",
+    "title": "Partnering with AARP to help keep older adults safe online",
+    "link": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
+    "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
+    "published": "Fri, 26 Sep 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:170d"
+    ]
+  },
+  {
+    "id": "87e89c5906d17154b5ccf7391942be2cdff58fe696b46f40b5578d20658f7531",
+    "title": "Gym Retro",
+    "link": "https://openai.com/index/gym-retro",
+    "summary": "We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to over 1,000 games across a variety of backing emulators. We’re also releasing the tool we use to add new games to the platform.",
+    "published": "Fri, 25 May 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:2851d"
+    ]
+  },
+  {
+    "id": "24eb875fb95a7ace4ba22b26631158ff98cf4abefadbe354cf5ad7b54cabaef4",
+    "title": "March 20 ChatGPT outage: Here’s what happened",
+    "link": "https://openai.com/index/march-20-chatgpt-outage",
+    "summary": "An update on our findings, the actions we’ve taken, and technical details of the bug.",
+    "published": "Fri, 24 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1087d"
+    ]
+  },
+  {
+    "id": "23db0ea4eaf640b0461b9e1cea1b34bf1b3c1691419cb96ac8fae4bf1213e500",
+    "title": "Planning for AGI and beyond",
+    "link": "https://openai.com/index/planning-for-agi-and-beyond",
+    "summary": "Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.",
+    "published": "Fri, 24 Feb 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1115d"
+    ]
+  },
+  {
+    "id": "ac7313ba655ffd02039d83de0d04e11e307cfcc7caa365c3492ab75e711e2f37",
+    "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
+    "link": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
+    "summary": "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.",
+    "published": "Fri, 23 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:296d"
+    ]
   }
 ]

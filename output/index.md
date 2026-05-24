@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-23 08:59 UTC_
+_Actualizado: 2026-05-24 09:17 UTC_
 
 ## Selección priorizada
 
-### 1. Reducing health insurance costs and improving care
+### 1. Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 23 May 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:296d
+- **Enlace:** https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3
+
+We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.
+
+---
+
+### 2. Planning for AGI and beyond
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 24 Feb 2023 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1115d
+- **Enlace:** https://openai.com/index/planning-for-agi-and-beyond
+
+Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.
+
+---
+
+### 3. March 20 ChatGPT outage: Here’s what happened
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 24 Mar 2023 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1087d
+- **Enlace:** https://openai.com/index/march-20-chatgpt-outage
+
+An update on our findings, the actions we’ve taken, and technical details of the bug.
+
+---
+
+### 4. Gym Retro
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 25 May 2018 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:2851d
+- **Enlace:** https://openai.com/index/gym-retro
+
+We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to over 1,000 games across a variety of backing emulators. We’re also releasing the tool we use to add new games to the platform.
+
+---
+
+### 5. Partnering with AARP to help keep older adults safe online
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 26 Sep 2025 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:170d
+- **Enlace:** https://openai.com/index/aarp-partnership-older-adults-online-safety
+
+OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.
+
+---
+
+### 6. Why OpenAI’s structure must evolve to advance our mission
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 27 Dec 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:443d
+- **Enlace:** https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission
+
+A stronger non-profit supported by the for-profit’s success.
+
+---
+
+### 7. 1,000 Scientist AI Jam Session
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 28 Feb 2025 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:380d
+- **Enlace:** https://openai.com/global-affairs/1000-scientist-ai-jam-session
+
+OpenAI and nine national labs bring together leading scientists for first-of-its kind event.
+
+---
+
+### 8. Solving math word problems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 Oct 2021 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:1598d
+- **Enlace:** https://openai.com/index/solving-math-word-problems
+
+We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 year olds scored 60% on a test from our dataset, while our system scored 55% on those same problems.
+
+---
+
+### 9. OpenAI o3-mini
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 31 Jan 2025 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:408d
+- **Enlace:** https://openai.com/index/openai-o3-mini
+
+Pushing the frontier of cost-effective reasoning.
+
+---
+
+### 10. Start using ChatGPT instantly
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Apr 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:713d
+- **Enlace:** https://openai.com/index/start-using-chatgpt-instantly
+
+We’re making it easier for people to experience the benefits of AI without needing to sign up
+
+---
+
+### 11. Reducing health insurance costs and improving care
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Oscar brings AI to health insurance, reducing costs and improving patient care.
 
 ---
 
-### 2. Accenture and OpenAI accelerate enterprise AI success
+### 12. Accenture and OpenAI accelerate enterprise AI success
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Accenture and OpenAI are collaborating to help enterprises bring agentic AI capa
 
 ---
 
-### 3. OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”
+### 13. OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three C
 
 ---
 
-### 4. Inside Mirakl's agentic commerce vision
+### 14. Inside Mirakl's agentic commerce vision
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achievi
 
 ---
 
-### 5. Introducing the Codex app
+### 15. Introducing the Codex app
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Introducing the Codex app for macOS—a command center for AI coding and softwar
 
 ---
 
-### 6. Snowflake and OpenAI partner to bring frontier intelligence to enterprise data
+### 16. Snowflake and OpenAI partner to bring frontier intelligence to enterprise data
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence
 
 ---
 
-### 7. AWS and OpenAI announce multi-year strategic partnership
+### 17. AWS and OpenAI announce multi-year strategic partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advan
 
 ---
 
-### 8. Introducing IndQA
+### 18. Introducing IndQA
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian lan
 
 ---
 
-### 9. OpenAI’s comments to the NTIA on data center growth, resilience, and security
+### 19. OpenAI’s comments to the NTIA on data center growth, resilience, and security
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ This comment was submitted in response to a request for information from the Nat
 
 ---
 
-### 10. OpenAI named a Leader in enterprise coding agents by Gartner
+### 20. OpenAI named a Leader in enterprise coding agents by Gartner
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ This comment was submitted in response to a request for information from the Nat
 - **Enlace:** https://openai.com/index/gartner-2026-agentic-coding-leader
 
 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.
-
----
-
-### 11. Universe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 05 Dec 2016 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3387d
-- **Enlace:** https://openai.com/index/universe
-
-We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.
-
----
-
-### 12. Lowe’s leverages AI to power home improvement retail
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 05 May 2025 05:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:314d
-- **Enlace:** https://openai.com/index/lowes-chandhu-nair
-
-A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.
-
----
-
-### 13. Evolving OpenAI’s structure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 05 May 2025 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:314d
-- **Enlace:** https://openai.com/index/evolving-our-structure
-
-An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact and long-term alignment with the public good.
-
----
-
-### 14. OpenAI Five Benchmark: Results
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Aug 2018 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2778d
-- **Enlace:** https://openai.com/index/openai-five-benchmark-results
-
-Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in front of a live audience and 100,000 concurrent livestream viewers.
-
----
-
-### 15. Accelerating AI adoption in Europe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Oct 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
-- **Enlace:** https://openai.com/global-affairs/accelerating-ai-uptake-in-europe
-
-OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.
-
----
-
-### 16. AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Oct 2025 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
-- **Enlace:** https://openai.com/index/openai-amd-strategic-partnership
-
-AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.
-
----
-
-### 17. Introducing apps in ChatGPT and the new Apps SDK
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Oct 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
-- **Enlace:** https://openai.com/index/introducing-apps-in-chatgpt
-
-We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.
-
----
-
-### 18. Codex is now generally available
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 06 Oct 2025 10:50:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:160d
-- **Enlace:** https://openai.com/index/codex-now-generally-available
-
-OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.
-
----
-
-### 19. Canva enables creativity with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 07 Apr 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:342d
-- **Enlace:** https://openai.com/index/canva-cam-adams
-
-A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.
-
----
-
-### 20. AdventHealth advances whole-person care with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 May 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/adventhealth
-
-AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
 
 ---
