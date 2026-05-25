@@ -18496,5 +18496,255 @@
       "authority:9",
       "old:296d"
     ]
+  },
+  {
+    "id": "b61d2d12af8f8b49c5756edc8e59b7359ba4a342b993804671d7d537c53db9e4",
+    "title": "Unrolling the Codex agent loop",
+    "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+    "published": "Fri, 23 Jan 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:51d"
+    ]
+  },
+  {
+    "id": "f5c8ae340b11b6ec15420e782c8a118ca5c923f35e3632dee61bba25e3b131d4",
+    "title": "OpenAI acquires Rockset",
+    "link": "https://openai.com/index/openai-acquires-rockset",
+    "summary": "OpenAI Acquires Rockset",
+    "published": "Fri, 21 Jun 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:632d"
+    ]
+  },
+  {
+    "id": "7f8d03004bab387e6f5fdb2256ed5099e440b3e05fc98907f3a7611002bd4149",
+    "title": "Disrupting malicious uses of AI",
+    "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai",
+    "summary": "Ensuring AI benefits humanity by advancing democratic AI, preventing misuse, and protecting against authoritarian threats.",
+    "published": "Fri, 21 Feb 2025 06:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:387d"
+    ]
+  },
+  {
+    "id": "aff46c3c3ea7a90791ced0692dfa78332b7c1259bb18ed08ba6e74f9c14d5083",
+    "title": "Deliberative alignment: reasoning enables safer language models",
+    "link": "https://openai.com/index/deliberative-alignment",
+    "summary": "Deliberative alignment: reasoning enables safer language models\nIntroducing our new alignment strategy for o1 models, which are directly taught safety specifications and how to reason over them.",
+    "published": "Fri, 20 Dec 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:450d"
+    ]
+  },
+  {
+    "id": "8f4c9fce69e67584a2ff30142514ae3f5c1ec8e327a5d85f3d783e53bd4c745d",
+    "title": "A $50 million fund to build with communities",
+    "link": "https://openai.com/index/50-million-fund-to-build-with-communities",
+    "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+    "published": "Fri, 18 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:240d"
+    ]
+  },
+  {
+    "id": "92ae1c22b870ce974781186b0ae50dc9da7e0d57286dd34fc0c3f53ce591e5de",
+    "title": "OpenAI Baselines: ACKTR & A2C",
+    "link": "https://openai.com/index/openai-baselines-acktr-a2c",
+    "summary": "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more sample-efficient reinforcement learning algorithm than TRPO and A2C, and requires only slightly more computation than A2C per update.",
+    "published": "Fri, 18 Aug 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3131d"
+    ]
+  },
+  {
+    "id": "3d0893da872f33fb0806322ee40eb78f0dde0b7fa3a0885630f1ec6146db1406",
+    "title": "OpenAI announces leadership transition",
+    "link": "https://openai.com/index/openai-announces-leadership-transition",
+    "summary": "",
+    "published": "Fri, 17 Nov 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:849d"
+    ]
+  },
+  {
+    "id": "3b85ed09bbec2cb312b896a950d06ba5a6dedc10e98ae437525f7b118d71b2e8",
+    "title": "The power of personalized AI",
+    "link": "https://openai.com/global-affairs/the-power-of-personalized-ai",
+    "summary": "The power of personalized AI",
+    "published": "Fri, 17 Jan 2025 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:422d"
+    ]
+  },
+  {
+    "id": "77a397a8b44753aed299be117e04fe4a12c400b3586fb3f3611d278bfb2d292c",
+    "title": "Addendum to o3 and o4-mini system card: Codex",
+    "link": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum",
+    "summary": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.",
+    "published": "Fri, 16 May 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:303d"
+    ]
+  },
+  {
+    "id": "49a146a1c9220ed80ace074edfcb9db0e7fa3e620eb3f17ac7a1c3d778546124",
+    "title": "Introducing ChatGPT Go, now available worldwide",
+    "link": "https://openai.com/index/introducing-chatgpt-go",
+    "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+    "published": "Fri, 16 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:58d"
+    ]
   }
 ]
