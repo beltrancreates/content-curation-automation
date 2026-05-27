@@ -18746,5 +18746,255 @@
       "authority:9",
       "old:58d"
     ]
+  },
+  {
+    "id": "722b22dde445f32ea6b97f13fc60e4e62674dca200d0d359e44ea552738225c9",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "published": "Mon, 25 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:2d"
+    ]
+  },
+  {
+    "id": "096a194045c724c25c7205560cde18e2905805648d98cc8323b941efca6a4912",
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+    "published": "Fri, 16 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:58d"
+    ]
+  },
+  {
+    "id": "c4ca92a624ce525bd24bb085fc6549c531f405781bc4ad87d43454552627c81b",
+    "title": "Disrupting a covert Iranian influence operation",
+    "link": "https://openai.com/index/disrupting-a-covert-iranian-influence-operation",
+    "summary": "We banned accounts linked to a covert Iranian influence operation using ChatGPT to generate website and social media content focused on multiple topics, including the U.S. presidential campaign. We have seen no indication that this content reached a meaningful audience.",
+    "published": "Fri, 16 Aug 2024 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:576d"
+    ]
+  },
+  {
+    "id": "f78f38960aa4c07e42762f630efce896ed84e4bb60bc775e7e408378261887a7",
+    "title": "OpenAI en France",
+    "link": "https://openai.com/index/openai-en-france",
+    "summary": "Our first office in continental Europe",
+    "published": "Fri, 15 Nov 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:485d"
+    ]
+  },
+  {
+    "id": "10711f0e2c099b352c0cf619f2afc59c5beb5b706f2019e8fd0b25b437cd178c",
+    "title": "Introducing OpenAI for Ireland",
+    "link": "https://openai.com/index/openai-for-ireland",
+    "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+    "published": "Fri, 14 Nov 2025 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:121d"
+    ]
+  },
+  {
+    "id": "1a7e28d80b142bb3833d436c4ee8300711b01d998e013e201a78e6882438ab32",
+    "title": "The court rejects Elon’s latest attempt to slow OpenAI down",
+    "link": "https://openai.com/index/court-rejects-elon",
+    "summary": "We welcome the court’s March 4, 2025, decision rejecting Elon Musk’s latest attempt to slow down OpenAI for his personal benefit.",
+    "published": "Fri, 14 Mar 2025 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:366d"
+    ]
+  },
+  {
+    "id": "ab56ce91a64eea64dd6eb9cd4a1f1c75ac74740027e74b912367b1f446a200d5",
+    "title": "OpenAI and Guardian Media Group launch content partnership",
+    "link": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership",
+    "summary": "OpenAI and Guardian Media Group announce content partnership to bring Guardian news content to ChatGPT.",
+    "published": "Fri, 14 Feb 2025 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:394d"
+    ]
+  },
+  {
+    "id": "22292d424d8f03cf3bc29ef9aaa36099efef6cf85e4a2943d9cbff3d562c62a6",
+    "title": "How AI training scales",
+    "link": "https://openai.com/index/how-ai-training-scales",
+    "summary": "We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have noisier gradients, increasingly large batch sizes are likely to become useful in the future, removing one potential limit to further growth of AI systems. More broadly, these results show that neural network training need not be considered a mysterious art, but can be rigorized and systematized.",
+    "published": "Fri, 14 Dec 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2648d"
+    ]
+  },
+  {
+    "id": "72d896397426a89904d189f65c72951875bec4d971630330123dfa4ce5398486",
+    "title": "Elon Musk wanted an OpenAI for-profit",
+    "link": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
+    "summary": "Elon Musk’s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves—in 2017, Elon not only wanted, but actually created, a for-profit as OpenAI’s proposed new structure.",
+    "published": "Fri, 13 Dec 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:457d"
+    ]
+  },
+  {
+    "id": "80c231b2a93a5521b655e4d15b03aed118072e7fc07ca767eba0439883ecbc81",
+    "title": "Building agricultural database for farmers",
+    "link": "https://openai.com/index/digital-green",
+    "summary": "Digital Green uses OpenAI to increase farmer income.",
+    "published": "Fri, 12 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:793d"
+    ]
   }
 ]
