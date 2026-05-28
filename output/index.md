@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-27 10:52 UTC_
+_Actualizado: 2026-05-28 10:50 UTC_
 
 ## Selección priorizada
 
-### 1. Building agricultural database for farmers
+### 1. Dota 2
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 11 Aug 2017 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3138d
+- **Enlace:** https://openai.com/index/dota-2
+
+We’ve created a bot which beats the world’s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitation learning or tree search. This is a step towards building AI systems which accomplish well-defined goals in messy, complicated situations involving real humans.
+
+---
+
+### 2. The EU Code of Practice and future of AI in Europe
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 11 Jul 2025 09:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:247d
+- **Enlace:** https://openai.com/global-affairs/eu-code-of-practice
+
+OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.
+
+---
+
+### 3. OpenAI Scholars 2020: Applications open
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 11 Oct 2019 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2347d
+- **Enlace:** https://openai.com/index/openai-scholars-2020
+
+We are now accepting applications for our third class of OpenAI Scholars.
+
+---
+
+### 4. BNY builds “AI for everyone, everywhere” with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
+- **Enlace:** https://openai.com/index/bny
+
+BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.
+
+---
+
+### 5. BBVA and OpenAI collaborate to transform global banking
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
+- **Enlace:** https://openai.com/index/bbva-collaboration-expansion
+
+BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.
+
+---
+
+### 6. How We Used Codex to Ship Sora for Android in 28 Days
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
+- **Enlace:** https://openai.com/index/shipping-sora-for-android-with-codex
+
+OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.
+
+---
+
+### 7. Election information and safeguards in 2026
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/election-safeguards-2026
+
+Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
+
+---
+
+### 8. Building self-improving tax agents with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 May 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/building-self-improving-tax-agents-with-codex
+
+See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.
+
+---
+
+### 9. Cisco and OpenAI redefine enterprise engineering with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 May 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/cisco
+
+Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.
+
+---
+
+### 10. Warp’s big bet on building open source with GPT-5.5
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 27 May 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,open source, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/warp
+
+Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
+
+---
+
+### 11. Building agricultural database for farmers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Digital Green uses OpenAI to increase farmer income.
 
 ---
 
-### 2. Elon Musk wanted an OpenAI for-profit
+### 12. Elon Musk wanted an OpenAI for-profit
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Elon Musk’s latest legal filing against OpenAI marks his fourth attempt in les
 
 ---
 
-### 3. How AI training scales
+### 13. How AI training scales
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’ve discovered that the gradient noise scale, a simple statistical metric, p
 
 ---
 
-### 4. OpenAI and Guardian Media Group launch content partnership
+### 14. OpenAI and Guardian Media Group launch content partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI and Guardian Media Group announce content partnership to bring Guardian n
 
 ---
 
-### 5. The court rejects Elon’s latest attempt to slow OpenAI down
+### 15. The court rejects Elon’s latest attempt to slow OpenAI down
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We welcome the court’s March 4, 2025, decision rejecting Elon Musk’s latest 
 
 ---
 
-### 6. Introducing OpenAI for Ireland
+### 16. Introducing OpenAI for Ireland
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpat
 
 ---
 
-### 7. OpenAI en France
+### 17. OpenAI en France
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Our first office in continental Europe
 
 ---
 
-### 8. Disrupting a covert Iranian influence operation
+### 18. Disrupting a covert Iranian influence operation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We banned accounts linked to a covert Iranian influence operation using ChatGPT 
 
 ---
 
-### 9. Our approach to advertising and expanding access to ChatGPT
+### 19. Our approach to advertising and expanding access to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers t
 
 ---
 
-### 10. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
+### 20. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,136 +261,5 @@ OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers t
 - **Enlace:** https://openai.com/index/grupo-folha-grupo-uol-partnership
 
 OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.
-
----
-
-### 11. Introducing ChatGPT Go, now available worldwide
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 Jan 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:58d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-go
-
-ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.
-
----
-
-### 12. Addendum to o3 and o4-mini system card: Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 May 2025 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:303d
-- **Enlace:** https://openai.com/index/o3-o4-mini-codex-system-card-addendum
-
-Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.
-
----
-
-### 13. The power of personalized AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 17 Jan 2025 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:422d
-- **Enlace:** https://openai.com/global-affairs/the-power-of-personalized-ai
-
-The power of personalized AI
-
----
-
-### 14. OpenAI announces leadership transition
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 17 Nov 2023 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:849d
-- **Enlace:** https://openai.com/index/openai-announces-leadership-transition
-
-
-
----
-
-### 15. OpenAI Baselines: ACKTR & A2C
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 18 Aug 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3131d
-- **Enlace:** https://openai.com/index/openai-baselines-acktr-a2c
-
-We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more sample-efficient reinforcement learning algorithm than TRPO and A2C, and requires only slightly more computation than A2C per update.
-
----
-
-### 16. A $50 million fund to build with communities
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 18 Jul 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:240d
-- **Enlace:** https://openai.com/index/50-million-fund-to-build-with-communities
-
-OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.
-
----
-
-### 17. Deliberative alignment: reasoning enables safer language models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 20 Dec 2024 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, old:450d
-- **Enlace:** https://openai.com/index/deliberative-alignment
-
-Deliberative alignment: reasoning enables safer language models
-Introducing our new alignment strategy for o1 models, which are directly taught safety specifications and how to reason over them.
-
----
-
-### 18. Disrupting malicious uses of AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 21 Feb 2025 06:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:387d
-- **Enlace:** https://openai.com/global-affairs/disrupting-malicious-uses-of-ai
-
-Ensuring AI benefits humanity by advancing democratic AI, preventing misuse, and protecting against authoritarian threats.
-
----
-
-### 19. OpenAI acquires Rockset
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 21 Jun 2024 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:632d
-- **Enlace:** https://openai.com/index/openai-acquires-rockset
-
-OpenAI Acquires Rockset
-
----
-
-### 20. Unrolling the Codex agent loop
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Jan 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:51d
-- **Enlace:** https://openai.com/index/unrolling-the-codex-agent-loop
-
-A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.
 
 ---
