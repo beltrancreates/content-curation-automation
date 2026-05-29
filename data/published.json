@@ -19246,5 +19246,255 @@
       "authority:9",
       "old:3138d"
     ]
+  },
+  {
+    "id": "10d7fdb3b4298fee2deb237f4a44f9bbb058b1d007b065ecdff81e15b724d715",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "link": "https://openai.com/index/openai-frontier-governance-framework",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "published": "Thu, 28 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 17.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,regulation,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "64685e0baf936c57f61268b75e6363876f3a4a88f7726b36cd4c25c90512c774",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "published": "Thu, 28 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "0de54ee1ef726c6406f07241554fd561d982185ab75598d0f76a1550bf9797ac",
+    "title": "HYGH powers next-gen digital ads with ChatGPT Business",
+    "link": "https://openai.com/index/hygh",
+    "summary": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+    "published": "Fri, 10 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:156d"
+    ]
+  },
+  {
+    "id": "655d5df912c7c98bc8cd232d06d97ae395109c140dedc82b5e72dbcb82cadb23",
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "link": "https://openai.com/index/stargate-sb-energy-partnership",
+    "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+    "published": "Fri, 09 Jan 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:65d"
+    ]
+  },
+  {
+    "id": "6b0b02d1db1a23ee5de9713538008565cbc1fb8f81307c6411d597c894a0c8e0",
+    "title": "Datadog uses Codex for system-level code review",
+    "link": "https://openai.com/index/datadog",
+    "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+    "published": "Fri, 09 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:65d"
+    ]
+  },
+  {
+    "id": "6c47676827d7528ea8713ac1874031bea024a1c6982286ae0b648081dbfb3622",
+    "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
+    "link": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai",
+    "summary": "New board members named and enhancements to the governance structure introduced",
+    "published": "Fri, 08 Mar 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:737d"
+    ]
+  },
+  {
+    "id": "c8b788fb8f7cc8be3e30e87111960ce8678aec2d2ece3029ee38e2ce74924183",
+    "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+    "link": "https://openai.com/index/notion",
+    "summary": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
+    "published": "Fri, 07 Nov 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:128d"
+    ]
+  },
+  {
+    "id": "2d690caec6707f2f6fa8a7aa9c587f786ef4a5807fdeee8d3e58e0167dcb0724",
+    "title": "Nubank elevates customer experiences with OpenAI",
+    "link": "https://openai.com/index/nubank",
+    "summary": "Nubank elevates customer experiences with OpenAI",
+    "published": "Fri, 07 Mar 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:373d"
+    ]
+  },
+  {
+    "id": "90a40845f0eeecdae4e59bba5b8fd7219ccf8d8e8381ffbc541360bf10fdeb43",
+    "title": "OpenAI at the Paris AI Action Summit",
+    "link": "https://openai.com/global-affairs/openai-at-the-paris-ai-action-summit",
+    "summary": "OpenAI looks forward to engaging with global leaders on AI’s role in shaping innovation and economic prosperity.",
+    "published": "Fri, 07 Feb 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:401d"
+    ]
+  },
+  {
+    "id": "549a9becd2c749484b354893e4b8b10aad6f386d602b715fe9ad924e43f54e4f",
+    "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+    "link": "https://openai.com/global-affairs/openai-for-greece",
+    "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
+    "published": "Fri, 05 Sep 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:191d"
+    ]
   }
 ]
