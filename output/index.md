@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-29 10:40 UTC_
+_Actualizado: 2026-05-30 09:11 UTC_
 
 ## Selección priorizada
 
-### 1. OpenAI and Greek Government launch ‘OpenAI for Greece’
+### 1. Powering product discovery in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Mar 2026 09:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/powering-product-discovery-in-chatgpt
+
+ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.
+
+---
+
+### 2. Introducing GPT-5.4 mini and nano
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Mar 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+
+GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.
+
+---
+
+### 3. Figma uses AI to transform digital design
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 01 Aug 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:226d
+- **Enlace:** https://openai.com/index/figma-david-kossnick
+
+Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, and build with AI—reshaping workflows for designers, developers, and non-technical creators alike.
+
+---
+
+### 4. Announcing OpenAI Grove Cohort 2
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 02 Jan 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:72d
+- **Enlace:** https://openai.com/index/openai-grove
+
+Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.
+
+---
+
+### 5. Learning to summarize with human feedback
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 04 Sep 2020 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2018d
+- **Enlace:** https://openai.com/index/learning-to-summarize-with-human-feedback
+
+We’ve applied reinforcement learning from human feedback to train language models that are better at summarization.
+
+---
+
+### 6. Klarna's AI assistant does the work of 700 full-time agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 05 Apr 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:709d
+- **Enlace:** https://openai.com/index/klarna
+
+Klarna is using AI to revolutionize personal shopping, customer service, and employee productivity.
+
+---
+
+### 7. A shared playbook for trustworthy third party evaluations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/trustworthy-third-party-evaluations-foundations
+
+OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.
+
+---
+
+### 8. Strengthening societal resilience with Rosalind Biodefense
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 May 2026 03:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+
+OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.
+
+---
+
+### 9. How Braintrust turns customer requests into code with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 May 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/braintrust
+
+How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.
+
+---
+
+### 10. Boston Children’s uses AI to unlock new diagnoses
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 May 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/boston-childrens-hospital
+
+Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.
+
+---
+
+### 11. OpenAI and Greek Government launch ‘OpenAI for Greece’
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI and the Greek Government have launched “OpenAI for Greece” to bring C
 
 ---
 
-### 2. OpenAI at the Paris AI Action Summit
+### 12. OpenAI at the Paris AI Action Summit
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI looks forward to engaging with global leaders on AI’s role in shaping i
 
 ---
 
-### 3. Nubank elevates customer experiences with OpenAI
+### 13. Nubank elevates customer experiences with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Nubank elevates customer experiences with OpenAI
 
 ---
 
-### 4. Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows
+### 14. Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous 
 
 ---
 
-### 5. Review completed & Altman, Brockman to continue to lead OpenAI
+### 15. Review completed & Altman, Brockman to continue to lead OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ New board members named and enhancements to the governance structure introduced
 
 ---
 
-### 6. Datadog uses Codex for system-level code review
+### 16. Datadog uses Codex for system-level code review
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datad
 
 ---
 
-### 7. OpenAI and SoftBank Group partner with SB Energy
+### 17. OpenAI and SoftBank Group partner with SB Energy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI da
 
 ---
 
-### 8. HYGH powers next-gen digital ads with ChatGPT Business
+### 18. HYGH powers next-gen digital ads with ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ HYGH speeds up software development and campaign delivery with ChatGPT Business,
 
 ---
 
-### 9. MUFG aims to become AI-native with OpenAI
+### 19. MUFG aims to become AI-native with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflo
 
 ---
 
-### 10. OpenAI’s Frontier Governance Framework
+### 20. OpenAI’s Frontier Governance Framework
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflo
 - **Enlace:** https://openai.com/index/openai-frontier-governance-framework
 
 Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.
-
----
-
-### 11. Dota 2
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Aug 2017 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:3138d
-- **Enlace:** https://openai.com/index/dota-2
-
-We’ve created a bot which beats the world’s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitation learning or tree search. This is a step towards building AI systems which accomplish well-defined goals in messy, complicated situations involving real humans.
-
----
-
-### 12. The EU Code of Practice and future of AI in Europe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Jul 2025 09:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:247d
-- **Enlace:** https://openai.com/global-affairs/eu-code-of-practice
-
-OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.
-
----
-
-### 13. OpenAI Scholars 2020: Applications open
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Oct 2019 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2347d
-- **Enlace:** https://openai.com/index/openai-scholars-2020
-
-We are now accepting applications for our third class of OpenAI Scholars.
-
----
-
-### 14. BNY builds “AI for everyone, everywhere” with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
-- **Enlace:** https://openai.com/index/bny
-
-BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.
-
----
-
-### 15. BBVA and OpenAI collaborate to transform global banking
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
-- **Enlace:** https://openai.com/index/bbva-collaboration-expansion
-
-BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.
-
----
-
-### 16. How We Used Codex to Ship Sora for Android in 28 Days
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 12 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:93d
-- **Enlace:** https://openai.com/index/shipping-sora-for-android-with-codex
-
-OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.
-
----
-
-### 17. Election information and safeguards in 2026
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/election-safeguards-2026
-
-Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
-
----
-
-### 18. Building self-improving tax agents with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 May 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/building-self-improving-tax-agents-with-codex
-
-See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.
-
----
-
-### 19. Cisco and OpenAI redefine enterprise engineering with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 May 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/cisco
-
-Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.
-
----
-
-### 20. Warp’s big bet on building open source with GPT-5.5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 27 May 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,open source, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/warp
-
-Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
 
 ---
