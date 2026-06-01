@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-05-31 09:45 UTC_
+_Actualizado: 2026-06-01 12:31 UTC_
 
 ## Selección priorizada
 
-### 1. ChatGPT for managers
+### 1. GPT-5.5 System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-5-system-card
+
+
+
+---
+
+### 2. Staying ahead in the age of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Dec 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:129d
+- **Enlace:** https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai
+
+Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.
+
+---
+
+### 3. Introducing ChatGPT Images 2.0
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 21 Apr 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-images-2-0
+
+ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.
+
+---
+
+### 4. Speeding up agentic workflows with WebSockets in the Responses API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/speeding-up-agentic-workflows-with-websockets
+
+A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.
+
+---
+
+### 5. Introducing workspace agents in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-workspace-agents-in-chatgpt
+
+Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.
+
+---
+
+### 6. Workspace agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/workspace-agents
+
+Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.
+
+---
+
+### 7. Codex for (almost) everything
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/codex-for-almost-everything
+
+The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
+
+---
+
+### 8. Using skills
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/skills
+
+Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.
+
+---
+
+### 9. ChatGPT for operations teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/operations
+
+Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.
+
+---
+
+### 10. Using projects in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/projects
+
+Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.
+
+---
+
+### 11. ChatGPT for managers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Learn how managers use ChatGPT to prepare for conversations, write clear feedbac
 
 ---
 
-### 2. Prompting fundamentals
+### 12. Prompting fundamentals
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Learn prompting fundamentals and how to write clear, effective prompts to get be
 
 ---
 
-### 3. Working with files in ChatGPT
+### 13. Working with files in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Learn how to upload and work with files in ChatGPT to analyze data, summarize do
 
 ---
 
-### 4. ChatGPT for finance teams
+### 14. ChatGPT for finance teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Learn how finance teams use ChatGPT to streamline reporting, analyze data, impro
 
 ---
 
-### 5. Creating images with ChatGPT
+### 15. Creating images with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Learn how to create and refine images with ChatGPT using clear prompts, iterate 
 
 ---
 
-### 6. Writing with ChatGPT
+### 16. Writing with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how to use ChatGPT for writing to draft, revise, and refine content with c
 
 ---
 
-### 7. Analyzing data with ChatGPT
+### 17. Analyzing data with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Learn how to analyze data with ChatGPT by exploring datasets, generating insight
 
 ---
 
-### 8. ChatGPT for customer success teams
+### 18. ChatGPT for customer success teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Learn how customer success teams use ChatGPT to manage accounts, improve communi
 
 ---
 
-### 9. Codex now offers more flexible pricing for teams
+### 19. Codex now offers more flexible pricing for teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, pr
 
 ---
 
-### 10. STADLER reshapes knowledge work at a 230-year-old company
+### 20. STADLER reshapes knowledge work at a 230-year-old company
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, pr
 - **Enlace:** https://openai.com/index/stadler
 
 Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.
-
----
-
-### 11. Powering product discovery in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 24 Mar 2026 09:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/powering-product-discovery-in-chatgpt
-
-ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.
-
----
-
-### 12. Introducing GPT-5.4 mini and nano
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Mar 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-gpt-5-4-mini-and-nano
-
-GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.
-
----
-
-### 13. Figma uses AI to transform digital design
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 01 Aug 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:226d
-- **Enlace:** https://openai.com/index/figma-david-kossnick
-
-Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, and build with AI—reshaping workflows for designers, developers, and non-technical creators alike.
-
----
-
-### 14. Announcing OpenAI Grove Cohort 2
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 02 Jan 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:72d
-- **Enlace:** https://openai.com/index/openai-grove
-
-Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.
-
----
-
-### 15. Learning to summarize with human feedback
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 04 Sep 2020 07:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:2018d
-- **Enlace:** https://openai.com/index/learning-to-summarize-with-human-feedback
-
-We’ve applied reinforcement learning from human feedback to train language models that are better at summarization.
-
----
-
-### 16. Klarna's AI assistant does the work of 700 full-time agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 05 Apr 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:709d
-- **Enlace:** https://openai.com/index/klarna
-
-Klarna is using AI to revolutionize personal shopping, customer service, and employee productivity.
-
----
-
-### 17. A shared playbook for trustworthy third party evaluations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/trustworthy-third-party-evaluations-foundations
-
-OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.
-
----
-
-### 18. Strengthening societal resilience with Rosalind Biodefense
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 May 2026 03:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-
-OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.
-
----
-
-### 19. How Braintrust turns customer requests into code with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 May 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/braintrust
-
-How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.
-
----
-
-### 20. Boston Children’s uses AI to unlock new diagnoses
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 May 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/boston-childrens-hospital
-
-Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.
 
 ---
