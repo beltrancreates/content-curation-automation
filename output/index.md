@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-01 12:31 UTC_
+_Actualizado: 2026-06-02 11:13 UTC_
 
 ## Selección priorizada
 
-### 1. GPT-5.5 System Card
+### 1. How to get started with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/codex-how-to-start
+
+Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.
+
+---
+
+### 2. What is Codex?
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/what-is-codex
+
+Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.
+
+---
+
+### 3. Working with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/working-with-codex
+
+Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.
+
+---
+
+### 4. Plugins and skills
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/codex-plugins-and-skills
+
+Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.
+
+---
+
+### 5. Top 10 uses for Codex at work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/top-10-use-cases-codex-for-work
+
+Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
+
+---
+
+### 6. Automations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/codex-automations
+
+Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.
+
+---
+
+### 7. OpenAI frontier models and Codex are now available on AWS
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Jun 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
+
+OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.
+
+---
+
+### 8. Building the infrastructure for the Intelligence Age in Michigan
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Jun 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/stargate-michigan-data-center
+
+OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.
+
+---
+
+### 9. Codex is becoming a productivity tool for everyone
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Jun 2026 02:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/codex-for-knowledge-work
+
+The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.
+
+---
+
+### 10. Our views on AI policy and political advocacy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Jun 2026 17:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,regulation,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/our-views-on-ai-policy-and-political-advocacy
+
+Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.
+
+---
+
+### 11. GPT-5.5 System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ _Actualizado: 2026-06-01 12:31 UTC_
 
 ---
 
-### 2. Staying ahead in the age of AI
+### 12. Staying ahead in the age of AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Discover how leaders can build AI-ready organizations using clear strategy, trai
 
 ---
 
-### 3. Introducing ChatGPT Images 2.0
+### 13. Introducing ChatGPT Images 2.0
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ ChatGPT Images 2.0 introduces a state-of-the-art image generation model with imp
 
 ---
 
-### 4. Speeding up agentic workflows with WebSockets in the Responses API
+### 14. Speeding up agentic workflows with WebSockets in the Responses API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ A deep dive into the Codex agent loop, showing how WebSockets and connection-sco
 
 ---
 
-### 5. Introducing workspace agents in ChatGPT
+### 15. Introducing workspace agents in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Workspace agents in ChatGPT are Codex-powered agents that automate complex workf
 
 ---
 
-### 6. Workspace agents
+### 16. Workspace agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how to build, use, and scale workspace agents in ChatGPT to automate repea
 
 ---
 
-### 7. Codex for (almost) everything
+### 17. Codex for (almost) everything
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ The updated Codex app for macOS and Windows adds computer use, in-app browsing, 
 
 ---
 
-### 8. Using skills
+### 18. Using skills
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Learn how to create and use ChatGPT skills to build reusable workflows, automate
 
 ---
 
-### 9. ChatGPT for operations teams
+### 19. ChatGPT for operations teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Learn how operations teams use ChatGPT to streamline workflows, improve coordina
 
 ---
 
-### 10. Using projects in ChatGPT
+### 20. Using projects in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Learn how operations teams use ChatGPT to streamline workflows, improve coordina
 - **Enlace:** https://openai.com/academy/projects
 
 Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.
-
----
-
-### 11. ChatGPT for managers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/managers
-
-Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.
-
----
-
-### 12. Prompting fundamentals
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/prompting
-
-Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.
-
----
-
-### 13. Working with files in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/working-with-files
-
-Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.
-
----
-
-### 14. ChatGPT for finance teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/finance
-
-Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.
-
----
-
-### 15. Creating images with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/image-generation
-
-Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.
-
----
-
-### 16. Writing with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/writing
-
-Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.
-
----
-
-### 17. Analyzing data with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/data-analysis
-
-Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.
-
----
-
-### 18. ChatGPT for customer success teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/customer-success
-
-Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.
-
----
-
-### 19. Codex now offers more flexible pricing for teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 02 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/codex-flexible-pricing-for-teams
-
-Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.
-
----
-
-### 20. STADLER reshapes knowledge work at a 230-year-old company
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 27 Mar 2026 22:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/stadler
-
-Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.
 
 ---
