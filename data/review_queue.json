@@ -1325,6 +1325,31 @@
     ]
   },
   {
+    "id": "c272a8b3b91941a8f98ea88c2b7e744f50b5ff71dfd6c919a02b8d26f0d1b2ea",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -7205,6 +7230,56 @@
     "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
     "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "df96e2f09f621951f3703422d05a170eac5e590d3246848de0b32080e44637f4",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "link": "https://openai.com/index/travelers",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "f54b6c68f7aac2bab21dc576a121fc43365a8599e67a6d7f8805dd27082b07f2",
+    "title": "Codex for every role, tool, and workflow",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "published": "Tue, 02 Jun 2026 09:00:00 GMT",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
     "source_type": "rss",
@@ -26983,6 +27058,29 @@
     ]
   },
   {
+    "id": "7d955ff13f057b2e7cdd2c45cbdbe87864b5b509eb7ca543016c6cade52d1c1b",
+    "title": "The Download: AI can run your admin department now",
+    "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;",
+    "published": "Tue, 02 Jun 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -30130,6 +30228,29 @@
       "keyword_hits:ai",
       "authority:8",
       "recent:0d"
+    ]
+  },
+  {
+    "id": "cdb57b66e622b035ba996decde8575aa51d007c4590eacefd952b728d6ac9079",
+    "title": "Rehumanizing global health care with agentic AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&#8230;",
+    "published": "Tue, 02 Jun 2026 11:23:34 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:1d"
     ]
   },
   {

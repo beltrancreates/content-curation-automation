@@ -20496,5 +20496,256 @@
       "authority:9",
       "recent:0d"
     ]
+  },
+  {
+    "id": "c272a8b3b91941a8f98ea88c2b7e744f50b5ff71dfd6c919a02b8d26f0d1b2ea",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "df96e2f09f621951f3703422d05a170eac5e590d3246848de0b32080e44637f4",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "link": "https://openai.com/index/travelers",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "f54b6c68f7aac2bab21dc576a121fc43365a8599e67a6d7f8805dd27082b07f2",
+    "title": "Codex for every role, tool, and workflow",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "published": "Tue, 02 Jun 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "ea7d434522a426d8f36bdf3f29e772dfa720c42d2790bae213d8d9ce9421db32",
+    "title": "Our principles",
+    "link": "https://openai.com/index/our-principles",
+    "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "published": "Sun, 26 Apr 2026 16:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "73b8236629598b001bf1510d5ccb83f3875e8026e9480107e85c63fe75a1eae2",
+    "title": "An open-source spec for orchestration: Symphony",
+    "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "e7f4ef842e27e7a01315bbf55ab98ce64af78d75be153769ca1cc1e7773f8531",
+    "title": "Introducing Advanced Account Security",
+    "link": "https://openai.com/index/advanced-account-security",
+    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "35113db94d6bdf0d16b68971c3a3e2b49712b21b998aa451bdb9d6164b4a7b24",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "published": "Tue, 05 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "a2193a9b5f3c48091b0d1f40d50ad9a6067fe7b99d370dbaf6d6628eeadf9440",
+    "title": "GPT-5.5 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "summary": "",
+    "published": "Tue, 05 May 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b0c1169e17404c64610a83b9c65409e2516f50d02ff2c937b4a97b7f6994e31e",
+    "title": "How frontier firms are pulling ahead",
+    "link": "https://openai.com/index/introducing-b2b-signals",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "published": "Wed, 06 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:2d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "ac244ed345f3120b241460a3009fb243b921cfaedde5c1a3e7529071dc5b4068",
+    "title": "How finance teams use Codex",
+    "link": "https://openai.com/academy/how-finance-teams-use-codex",
+    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "published": "Tue, 12 May 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
   }
 ]

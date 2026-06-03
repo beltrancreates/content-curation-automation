@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-02 11:13 UTC_
+_Actualizado: 2026-06-03 11:51 UTC_
 
 ## Selección priorizada
 
-### 1. How to get started with Codex
+### 1. How finance teams use Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 15:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/academy/how-finance-teams-use-codex
+
+See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.
+
+---
+
+### 2. How frontier firms are pulling ahead
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 06 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:2d, duplicate
+- **Enlace:** https://openai.com/index/introducing-b2b-signals
+
+OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.
+
+---
+
+### 3. GPT-5.5 Instant System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 May 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-5-instant-system-card
+
+
+
+---
+
+### 4. GPT-5.5 Instant: smarter, clearer, and more personalized
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 05 May 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-5-instant
+
+GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.
+
+---
+
+### 5. Introducing Advanced Account Security
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/advanced-account-security
+
+Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.
+
+---
+
+### 6. An open-source spec for orchestration: Symphony
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 27 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/open-source-codex-orchestration-symphony
+
+Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.
+
+---
+
+### 7. Our principles
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 26 Apr 2026 16:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/our-principles
+
+Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.
+
+---
+
+### 8. Codex for every role, tool, and workflow
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Jun 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/codex-for-every-role-tool-workflow
+
+Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.
+
+---
+
+### 9. Travelers deploys AI-powered claims countrywide with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Jun 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/travelers
+
+Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.
+
+---
+
+### 10. Advancing youth safety and opportunity through global leadership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Jun 2026 07:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership
+
+OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.
+
+---
+
+### 11. How to get started with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Learn how to get started with Codex by setting up projects, creating threads, an
 
 ---
 
-### 2. What is Codex?
+### 12. What is Codex?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Learn how Codex helps you go beyond chat by automating tasks, connecting tools, 
 
 ---
 
-### 3. Working with Codex
+### 13. Working with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Learn how to set up your Codex workspace, create threads and projects, manage fi
 
 ---
 
-### 4. Plugins and skills
+### 14. Plugins and skills
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Learn how to use Codex plugins and skills to connect tools, access data, and fol
 
 ---
 
-### 5. Top 10 uses for Codex at work
+### 15. Top 10 uses for Codex at work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Explore 10 practical Codex use cases to automate tasks, create deliverables, and
 
 ---
 
-### 6. Automations
+### 16. Automations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how to automate tasks in Codex using schedules and triggers to create repo
 
 ---
 
-### 7. OpenAI frontier models and Codex are now available on AWS
+### 17. OpenAI frontier models and Codex are now available on AWS
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI frontier models and Codex are now generally available on AWS, giving ente
 
 ---
 
-### 8. Building the infrastructure for the Intelligence Age in Michigan
+### 18. Building the infrastructure for the Intelligence Age in Michigan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargat
 
 ---
 
-### 9. Codex is becoming a productivity tool for everyone
+### 19. Codex is becoming a productivity tool for everyone
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ The Next Era of Knowledge Work report explores how Codex is transforming product
 
 ---
 
-### 10. Our views on AI policy and political advocacy
+### 20. Our views on AI policy and political advocacy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ The Next Era of Knowledge Work report explores how Codex is transforming product
 - **Enlace:** https://openai.com/index/our-views-on-ai-policy-and-political-advocacy
 
 Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.
-
----
-
-### 11. GPT-5.5 System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/gpt-5-5-system-card
-
-
-
----
-
-### 12. Staying ahead in the age of AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Dec 2025 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:129d
-- **Enlace:** https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai
-
-Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.
-
----
-
-### 13. Introducing ChatGPT Images 2.0
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 21 Apr 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-images-2-0
-
-ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.
-
----
-
-### 14. Speeding up agentic workflows with WebSockets in the Responses API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/speeding-up-agentic-workflows-with-websockets
-
-A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.
-
----
-
-### 15. Introducing workspace agents in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-workspace-agents-in-chatgpt
-
-Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.
-
----
-
-### 16. Workspace agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 22 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/workspace-agents
-
-Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.
-
----
-
-### 17. Codex for (almost) everything
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 16 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/codex-for-almost-everything
-
-The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
-
----
-
-### 18. Using skills
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/skills
-
-Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.
-
----
-
-### 19. ChatGPT for operations teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/operations
-
-Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.
-
----
-
-### 20. Using projects in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/projects
-
-Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.
 
 ---
