@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-03 11:51 UTC_
+_Actualizado: 2026-06-04 10:35 UTC_
 
 ## Selección priorizada
 
-### 1. How finance teams use Codex
+### 1. How Ramp engineers accelerate code review with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/ramp
+
+How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.
+
+---
+
+### 2. Databricks brings GPT-5.5 to enterprise agent workflows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/databricks
+
+Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.
+
+---
+
+### 3. How data science teams use Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+
+See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
+
+---
+
+### 4. How business operations teams use Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
+
+See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.
+
+---
+
+### 5. How sales teams use Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+
+See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
+
+---
+
+### 6. Work with Codex from anywhere
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 14 May 2026 13:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/work-with-codex-from-anywhere
+
+Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.
+
+---
+
+### 7. How Endava is redesigning software delivery around AI agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 04 Jun 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:-1d
+- **Enlace:** https://openai.com/index/endava-frontiers
+
+Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
+
+---
+
+### 8. Introducing new capabilities to GPT-Rosalind
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 03 Jun 2026 13:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
+
+GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.
+
+---
+
+### 9. A blueprint for democratic governance of frontier AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 03 Jun 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/frontier-safety-blueprint
+
+OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.
+
+---
+
+### 10. OpenAI public policy agenda
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 03 Jun 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/public-policy-agenda
+
+OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.
+
+---
+
+### 11. How finance teams use Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ See how finance teams can use Codex to build MBRs, reporting packs, variance bri
 
 ---
 
-### 2. How frontier firms are pulling ahead
+### 12. How frontier firms are pulling ahead
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoptio
 
 ---
 
-### 3. GPT-5.5 Instant System Card
+### 13. GPT-5.5 Instant System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoptio
 
 ---
 
-### 4. GPT-5.5 Instant: smarter, clearer, and more personalized
+### 14. GPT-5.5 Instant: smarter, clearer, and more personalized
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate an
 
 ---
 
-### 5. Introducing Advanced Account Security
+### 15. Introducing Advanced Account Security
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Introducing Advanced Account Security: phishing-resistant login, stronger recove
 
 ---
 
-### 6. An open-source spec for orchestration: Symphony
+### 16. An open-source spec for orchestration: Symphony
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how Symphony, an open-source spec for Codex orchestration, turns issue tra
 
 ---
 
-### 7. Our principles
+### 17. Our principles
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares fi
 
 ---
 
-### 8. Codex for every role, tool, and workflow
+### 18. Codex for every role, tool, and workflow
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Discover new Codex plugins, sites, and annotations that help analysts, marketers
 
 ---
 
-### 9. Travelers deploys AI-powered claims countrywide with OpenAI
+### 19. Travelers deploys AI-powered claims countrywide with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Travelers built an AI-powered Claim Assistant with OpenAI to guide customers thr
 
 ---
 
-### 10. Advancing youth safety and opportunity through global leadership
+### 20. Advancing youth safety and opportunity through global leadership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Travelers built an AI-powered Claim Assistant with OpenAI to guide customers thr
 - **Enlace:** https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership
 
 OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.
-
----
-
-### 11. How to get started with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/codex-how-to-start
-
-Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.
-
----
-
-### 12. What is Codex?
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/what-is-codex
-
-Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.
-
----
-
-### 13. Working with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/working-with-codex
-
-Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.
-
----
-
-### 14. Plugins and skills
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/codex-plugins-and-skills
-
-Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.
-
----
-
-### 15. Top 10 uses for Codex at work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/top-10-use-cases-codex-for-work
-
-Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
-
----
-
-### 16. Automations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/academy/codex-automations
-
-Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.
-
----
-
-### 17. OpenAI frontier models and Codex are now available on AWS
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 01 Jun 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
-
-OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.
-
----
-
-### 18. Building the infrastructure for the Intelligence Age in Michigan
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 01 Jun 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/stargate-michigan-data-center
-
-OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.
-
----
-
-### 19. Codex is becoming a productivity tool for everyone
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 02 Jun 2026 02:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/codex-for-knowledge-work
-
-The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.
-
----
-
-### 20. Our views on AI policy and political advocacy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 01 Jun 2026 17:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,regulation,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/our-views-on-ai-policy-and-political-advocacy
-
-Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.
 
 ---
