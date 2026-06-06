@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-05 10:42 UTC_
+_Actualizado: 2026-06-06 09:21 UTC_
 
 ## Selección priorizada
 
-### 1. Roundtables: Can AI Learn to Understand the World?
+### 1. Building smarter maps with GPT-4o vision fine-tuning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 20 Nov 2024 17:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:480d
+- **Enlace:** https://openai.com/index/grab
+
+Building smarter maps with GPT-4o vision fine-tuning
+
+---
+
+### 2. New tools and features in the Responses API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 21 May 2025 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:298d
+- **Enlace:** https://openai.com/index/new-tools-and-features-in-the-responses-api
+
+New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o & o-series models, plus new features for reliability and efficiency.
+
+---
+
+### 3. Trading inference-time compute for adversarial robustness
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 22 Jan 2025 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:417d
+- **Enlace:** https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness
+
+Trading Inference-Time Compute for Adversarial Robustness
+
+---
+
+### 4. Simplifying, stabilizing, and scaling continuous-time consistency models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 23 Oct 2024 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:508d
+- **Enlace:** https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models
+
+We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.
+
+---
+
+### 5. Introducing ChatGPT and Whisper APIs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Apr 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:690d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-and-whisper-apis
+
+Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.
+
+---
+
+### 6. Accelerating the development of life-saving treatments
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Apr 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:690d
+- **Enlace:** https://openai.com/index/moderna
+
+Accelerating the development of life-saving treatments.
+
+---
+
+### 7. Introducing SimpleQA
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 Oct 2024 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:501d
+- **Enlace:** https://openai.com/index/introducing-simpleqa
+
+A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.
+
+---
+
+### 8. Reinforcement learning with prediction-based rewards
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 31 Oct 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2692d
+- **Enlace:** https://openai.com/index/reinforcement-learning-with-prediction-based-rewards
+
+We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma’s Revenge.
+
+---
+
+### 9. How small businesses can leverage AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 02 Jun 2026 09:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
+
+This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;
+
+---
+
+### 10. The Download: online safety’s future and climate tech’s big pivot
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 21 May 2026 12:10:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;
+
+---
+
+### 11. Roundtables: Can AI Learn to Understand the World?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Listen to the session or watch below AI companies want to build systems that und
 
 ---
 
-### 2. Establishing AI and data sovereignty in the age of autonomous systems
+### 12. Establishing AI and data sovereignty in the age of autonomous systems
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ When generative AI first moved from research labs into real-world business appli
 
 ---
 
-### 3. Three reasons why DeepSeek’s new model matters
+### 13. Three reasons why DeepSeek’s new model matters
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited n
 
 ---
 
-### 4. AI benchmarks are broken. Here’s what we need instead.
+### 14. AI benchmarks are broken. Here’s what we need instead.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ For decades, artificial intelligence has been evaluated through the question of 
 
 ---
 
-### 5. Shifting to AI model customization is an architectural imperative
+### 15. Shifting to AI model customization is an architectural imperative
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ In the early days of large language models (LLMs), we grew accustomed to massive
 
 ---
 
-### 6. Dreaming: Better memory for a more helpful ChatGPT
+### 16. Dreaming: Better memory for a more helpful ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ ChatGPT introduces a new memory system to better remember preferences, keeping c
 
 ---
 
-### 7. How Wasmer used Codex to build a Node.js runtime for the edge
+### 17. How Wasmer used Codex to build a Node.js runtime for the edge
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, 
 
 ---
 
-### 8. How Endava builds an agentic organization with Codex
+### 18. How Endava builds an agentic organization with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Learn how Endava uses Codex to build an agentic organization, accelerating softw
 
 ---
 
-### 9. How Virgin Atlantic ships faster with Codex
+### 19. How Virgin Atlantic ships faster with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holida
 
 ---
 
-### 10. Biodefense in the Intelligence Age
+### 20. Biodefense in the Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holida
 - **Enlace:** https://openai.com/index/biodefense-in-the-intelligence-age
 
 An action plan for AI-powered biological resilience
-
----
-
-### 11. How Ramp engineers accelerate code review with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ramp
-
-How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.
-
----
-
-### 12. Databricks brings GPT-5.5 to enterprise agent workflows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/databricks
-
-Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.
-
----
-
-### 13. How data science teams use Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-
-See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
-
----
-
-### 14. How business operations teams use Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
-
-See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.
-
----
-
-### 15. How sales teams use Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-
-See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-
----
-
-### 16. Work with Codex from anywhere
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 14 May 2026 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/work-with-codex-from-anywhere
-
-Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.
-
----
-
-### 17. How Endava is redesigning software delivery around AI agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Jun 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:-1d
-- **Enlace:** https://openai.com/index/endava-frontiers
-
-Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
-
----
-
-### 18. Introducing new capabilities to GPT-Rosalind
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Jun 2026 13:15:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
-
-GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.
-
----
-
-### 19. A blueprint for democratic governance of frontier AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Jun 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/frontier-safety-blueprint
-
-OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.
-
----
-
-### 20. OpenAI public policy agenda
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Jun 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/public-policy-agenda
-
-OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.
 
 ---

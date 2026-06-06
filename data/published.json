@@ -21237,5 +21237,251 @@
       "authority:8",
       "recent:0d"
     ]
+  },
+  {
+    "id": "61e6f0108b0907b1575014cec185be86f8b08550d6a302494e8eb57e889cca39",
+    "title": "The Download: online safety’s future and climate tech’s big pivot",
+    "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;",
+    "published": "Thu, 21 May 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,research,safety",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8bd8255736566994783cea4fb6cb0b6a19fbb63221ef747b1fc94edbdff5b307",
+    "title": "How small businesses can leverage AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+    "published": "Tue, 02 Jun 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,research,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "6e29bcfe290e6fa6e408bb70bd5ff440dabe1cd59eaa49113919aea0a0f8ea64",
+    "title": "Reinforcement learning with prediction-based rewards",
+    "link": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
+    "summary": "We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma’s Revenge.",
+    "published": "Wed, 31 Oct 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2692d"
+    ]
+  },
+  {
+    "id": "c33994e4d629d33598fefb8735987e401885156d7baff917707fa9bbfc2726dd",
+    "title": "Introducing SimpleQA",
+    "link": "https://openai.com/index/introducing-simpleqa",
+    "summary": "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.",
+    "published": "Wed, 30 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:501d"
+    ]
+  },
+  {
+    "id": "b3e8088645718751948df29c77a2ac92590d82258e594b510e9776bbb7f1d406",
+    "title": "Accelerating the development of life-saving treatments",
+    "link": "https://openai.com/index/moderna",
+    "summary": "Accelerating the development of life-saving treatments.",
+    "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:690d"
+    ]
+  },
+  {
+    "id": "31b65b2bc24acf7545503adfa82a99cec7cf61e3e39692d72b5cb4cea7d537c4",
+    "title": "Introducing ChatGPT and Whisper APIs",
+    "link": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+    "summary": "Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.",
+    "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:690d"
+    ]
+  },
+  {
+    "id": "cc37c580d0821810669075b2a3bf5a14d5a04a2f203806af71f05df60032a800",
+    "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
+    "link": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models",
+    "summary": "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
+    "published": "Wed, 23 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:508d"
+    ]
+  },
+  {
+    "id": "fafb490340254644d8a4ef8468cb6e0c246624e2676ba6640356b7098f089fa8",
+    "title": "Trading inference-time compute for adversarial robustness",
+    "link": "https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness",
+    "summary": "Trading Inference-Time Compute for Adversarial Robustness",
+    "published": "Wed, 22 Jan 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:417d"
+    ]
+  },
+  {
+    "id": "ca648792e7e38abe4ddf31b135d4e74bc3914fc7287c0ddc152dcf42bebf59ba",
+    "title": "New tools and features in the Responses API",
+    "link": "https://openai.com/index/new-tools-and-features-in-the-responses-api",
+    "summary": "New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o & o-series models, plus new features for reliability and efficiency.",
+    "published": "Wed, 21 May 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:298d"
+    ]
+  },
+  {
+    "id": "d94234dc37d9b31055d22dc2772ba2db4339425d0ceb6c3337323c161d0721ce",
+    "title": "Building smarter maps with GPT-4o vision fine-tuning",
+    "link": "https://openai.com/index/grab",
+    "summary": "Building smarter maps with GPT-4o vision fine-tuning",
+    "published": "Wed, 20 Nov 2024 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:480d"
+    ]
   }
 ]
