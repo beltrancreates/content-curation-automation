@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-06 09:21 UTC_
+_Actualizado: 2026-06-07 09:56 UTC_
 
 ## Selección priorizada
 
-### 1. Building smarter maps with GPT-4o vision fine-tuning
+### 1. Data-driven beauty and creativity with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Nov 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:487d
+- **Enlace:** https://openai.com/index/estee-lauder
+
+Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT
+
+---
+
+### 2. A Student’s Guide to Writing with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Nov 2024 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:487d
+- **Enlace:** https://openai.com/chatgpt/use-cases/student-writing-guide
+
+A Student’s Guide to Writing with ChatGPT
+
+---
+
+### 3. Learning with opponent-learning awareness
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Sep 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3105d
+- **Enlace:** https://openai.com/index/learning-with-opponent-learning-awareness
+
+
+
+---
+
+### 4. Emergence of grounded compositional language in multi-agent populations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Mar 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3287d
+- **Enlace:** https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations
+
+
+
+---
+
+### 5. Developers can now submit apps to ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 17 Dec 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:88d
+- **Enlace:** https://openai.com/index/developers-can-now-submit-apps-to-chatgpt
+
+Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.
+
+---
+
+### 6. Asymmetric actor critic for image-based robot learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Oct 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3070d
+- **Enlace:** https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning
+
+
+
+---
+
+### 7. Sim-to-real transfer of robotic control with dynamics randomization
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Oct 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3070d
+- **Enlace:** https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization
+
+
+
+---
+
+### 8. Building more with GPT-5.1-Codex-Max
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Nov 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:116d
+- **Enlace:** https://openai.com/index/gpt-5-1-codex-max
+
+Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.
+
+---
+
+### 9. A free version of ChatGPT built for teachers
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Nov 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:116d
+- **Enlace:** https://openai.com/index/chatgpt-for-teachers
+
+ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.
+
+---
+
+### 10. Scaling laws for reward model overoptimization
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Oct 2022 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1243d
+- **Enlace:** https://openai.com/index/scaling-laws-for-reward-model-overoptimization
+
+
+
+---
+
+### 11. Building smarter maps with GPT-4o vision fine-tuning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Building smarter maps with GPT-4o vision fine-tuning
 
 ---
 
-### 2. New tools and features in the Responses API
+### 12. New tools and features in the Responses API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ New features in the Responses API: Remote MCP, image gen, Code Interpreter, and 
 
 ---
 
-### 3. Trading inference-time compute for adversarial robustness
+### 13. Trading inference-time compute for adversarial robustness
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Trading Inference-Time Compute for Adversarial Robustness
 
 ---
 
-### 4. Simplifying, stabilizing, and scaling continuous-time consistency models
+### 14. Simplifying, stabilizing, and scaling continuous-time consistency models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’ve simplified, stabilized, and scaled continuous-time consistency models, a
 
 ---
 
-### 5. Introducing ChatGPT and Whisper APIs
+### 15. Introducing ChatGPT and Whisper APIs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Developers can now integrate ChatGPT and Whisper models into their apps and prod
 
 ---
 
-### 6. Accelerating the development of life-saving treatments
+### 16. Accelerating the development of life-saving treatments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Accelerating the development of life-saving treatments.
 
 ---
 
-### 7. Introducing SimpleQA
+### 17. Introducing SimpleQA
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ A factuality benchmark called SimpleQA that measures the ability for language mo
 
 ---
 
-### 8. Reinforcement learning with prediction-based rewards
+### 18. Reinforcement learning with prediction-based rewards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’ve developed Random Network Distillation (RND), a prediction-based method 
 
 ---
 
-### 9. How small businesses can leverage AI
+### 19. How small businesses can leverage AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This article is from Making AI Work, MIT Technology Review’s limited-run newsl
 
 ---
 
-### 10. The Download: online safety’s future and climate tech’s big pivot
+### 20. The Download: online safety’s future and climate tech’s big pivot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This article is from Making AI Work, MIT Technology Review’s limited-run newsl
 - **Enlace:** https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;
-
----
-
-### 11. Roundtables: Can AI Learn to Understand the World?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 21 May 2026 20:41:05 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/
-
-Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;
-
----
-
-### 12. Establishing AI and data sovereignty in the age of autonomous systems
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 14 May 2026 13:00:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/
-
-When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;
-
----
-
-### 13. Three reasons why DeepSeek’s new model matters
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 24 Apr 2026 21:40:58 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,open source, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/
-
-On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;
-
----
-
-### 14. AI benchmarks are broken. Here’s what we need instead.
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 31 Mar 2026 12:01:08 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:artificial intelligence,ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/
-
-For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&#160; This framing is seductive: An AI vs. human comparison on isolated problems with clear&#8230;
-
----
-
-### 15. Shifting to AI model customization is an architectural imperative
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 31 Mar 2026 14:12:50 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
-
-In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s&#8230;
-
----
-
-### 16. Dreaming: Better memory for a more helpful ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Jun 2026 09:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatgpt-memory-dreaming
-
-ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.
-
----
-
-### 17. How Wasmer used Codex to build a Node.js runtime for the edge
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 03 Jun 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/wasmer
-
-See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
-
----
-
-### 18. How Endava builds an agentic organization with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 May 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/endava
-
-Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.
-
----
-
-### 19. How Virgin Atlantic ships faster with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 22 May 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/virgin-atlantic
-
-How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.
-
----
-
-### 20. Biodefense in the Intelligence Age
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Jun 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/biodefense-in-the-intelligence-age
-
-An action plan for AI-powered biological resilience
 
 ---

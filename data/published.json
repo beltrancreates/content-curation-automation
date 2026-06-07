@@ -21483,5 +21483,255 @@
       "authority:9",
       "old:480d"
     ]
+  },
+  {
+    "id": "1b5453c2b7f22544c290423de57bde2bd8ebdaa8a57f9bd724aff7557e4658ec",
+    "title": "Scaling laws for reward model overoptimization",
+    "link": "https://openai.com/index/scaling-laws-for-reward-model-overoptimization",
+    "summary": "",
+    "published": "Wed, 19 Oct 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1243d"
+    ]
+  },
+  {
+    "id": "ad41ee8dc216688fea96ddd0862257e2243958a384b90c50da33980e3eab0d5f",
+    "title": "A free version of ChatGPT built for teachers",
+    "link": "https://openai.com/index/chatgpt-for-teachers",
+    "summary": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
+    "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "5edafff5d085880c597f429cc3c44406914853c92a9839f714f30e56469f6e07",
+    "title": "Building more with GPT-5.1-Codex-Max",
+    "link": "https://openai.com/index/gpt-5-1-codex-max",
+    "summary": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+    "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:116d"
+    ]
+  },
+  {
+    "id": "135f9bca86de7013a43d1eb6d682a6aa925d4f570a24809eb639d9e8bd13c9c8",
+    "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+    "link": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+    "summary": "",
+    "published": "Wed, 18 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3070d"
+    ]
+  },
+  {
+    "id": "33f43d21bd6c5194a286564a63e6dd73e9f3dec0550a2164d9c9c44c089cc3dc",
+    "title": "Asymmetric actor critic for image-based robot learning",
+    "link": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+    "summary": "",
+    "published": "Wed, 18 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3070d"
+    ]
+  },
+  {
+    "id": "27d08fa19f86fdda14ccd6a7b68c87c4468aa15f082eceb308913847fb563c93",
+    "title": "Developers can now submit apps to ChatGPT",
+    "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+    "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+    "published": "Wed, 17 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:88d"
+    ]
+  },
+  {
+    "id": "13dd0291b50ba1b68b2119f58c977fc1090fcd8885f0a3481e0efe35cb9d26c2",
+    "title": "Emergence of grounded compositional language in multi-agent populations",
+    "link": "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations",
+    "summary": "",
+    "published": "Wed, 15 Mar 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3287d"
+    ]
+  },
+  {
+    "id": "dc290c3bd86a229bc5810c1493c4bbbb78fafa7e6ca4f6dee20338b3eeb4c3a0",
+    "title": "Learning with opponent-learning awareness",
+    "link": "https://openai.com/index/learning-with-opponent-learning-awareness",
+    "summary": "",
+    "published": "Wed, 13 Sep 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3105d"
+    ]
+  },
+  {
+    "id": "b28cc203f239e8800af0232bc58471af4bfddf0e30e5a652023d7f24fe891526",
+    "title": "A Student’s Guide to Writing with ChatGPT",
+    "link": "https://openai.com/chatgpt/use-cases/student-writing-guide",
+    "summary": "A Student’s Guide to Writing with ChatGPT",
+    "published": "Wed, 13 Nov 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:487d"
+    ]
+  },
+  {
+    "id": "9826efe8b360d76321576d9732c87cb0daec2a2f0012144cf482591454b67526",
+    "title": "Data-driven beauty and creativity with ChatGPT",
+    "link": "https://openai.com/index/estee-lauder",
+    "summary": "Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT",
+    "published": "Wed, 13 Nov 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:487d"
+    ]
   }
 ]
