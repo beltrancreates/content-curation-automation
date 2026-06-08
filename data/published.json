@@ -21733,5 +21733,255 @@
       "authority:9",
       "old:487d"
     ]
+  },
+  {
+    "id": "22e4dc598540a6d2f1cfb862b0a0b9af8b04d3d9b9c7ac8eeda5f33a0fa91f7f",
+    "title": "Global news partnerships: Le Monde and Prisa Media",
+    "link": "https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media",
+    "summary": "We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.",
+    "published": "Wed, 13 Mar 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:732d"
+    ]
+  },
+  {
+    "id": "349f4634e0dfb0add162470290c20ab01da7a26b9eba8cd8ee18a3b48f7206c4",
+    "title": "Hierarchical text-conditional image generation with CLIP latents",
+    "link": "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents",
+    "summary": "",
+    "published": "Wed, 13 Apr 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1432d"
+    ]
+  },
+  {
+    "id": "d5de41436164df9f387a30ac036649d682f0be82567b98a6fa2d4ddc8d436bb4",
+    "title": "Evolving online forms into dynamic data",
+    "link": "https://openai.com/index/typeform",
+    "summary": "Typeform evolves online forms into dynamic and conversational data collection experiences with GPT-3.5 and GPT-4.",
+    "published": "Wed, 11 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:886d"
+    ]
+  },
+  {
+    "id": "4c66ec29ce0142374c5cd32ab7793122d50f4b75e956589cb211d60c34d322d3",
+    "title": "Meta-learning for wrestling",
+    "link": "https://openai.com/index/meta-learning-for-wrestling",
+    "summary": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.",
+    "published": "Wed, 11 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3077d"
+    ]
+  },
+  {
+    "id": "c35812ccca3ce7be187ea4f30fd4cf68378a77c41e73c029488c46d6c5295b2e",
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering",
+    "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+    "published": "Wed, 11 Feb 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:32d"
+    ]
+  },
+  {
+    "id": "0d83ad4f3b09aad66868fd610204e096c3dec07df8fafd8ccdcd1088791c49f6",
+    "title": "Introducing ChatGPT Team",
+    "link": "https://openai.com/index/introducing-chatgpt-team",
+    "summary": "We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.",
+    "published": "Wed, 10 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:795d"
+    ]
+  },
+  {
+    "id": "a231200dbc2127486e52991f880069beb77179280f2203c5f8380af9e1adc2a9",
+    "title": "Introducing the GPT Store",
+    "link": "https://openai.com/index/introducing-the-gpt-store",
+    "summary": "We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.",
+    "published": "Wed, 10 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:795d"
+    ]
+  },
+  {
+    "id": "a9f35e6ef6410617161a5bd766e4b5d31bde4af7566857d5324eb9a246b60437",
+    "title": "RL²: Fast reinforcement learning via slow reinforcement learning",
+    "link": "https://openai.com/index/rl2",
+    "summary": "",
+    "published": "Wed, 09 Nov 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3413d"
+    ]
+  },
+  {
+    "id": "8c66b9f6f93fefcf1d45c562a4433fe6f06d9dc0574fc71880146b11e75941dc",
+    "title": "TruthfulQA: Measuring how models mimic human falsehoods",
+    "link": "https://openai.com/index/truthfulqa",
+    "summary": "",
+    "published": "Wed, 08 Sep 2021 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1649d"
+    ]
+  },
+  {
+    "id": "95d1b4516ac6b2fcb6a09529c12f6987cf4d3af4a03280c4c04889d35bdc0e09",
+    "title": "Introducing the Model Spec",
+    "link": "https://openai.com/index/introducing-the-model-spec",
+    "summary": "",
+    "published": "Wed, 08 May 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:676d"
+    ]
   }
 ]

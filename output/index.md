@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-07 09:56 UTC_
+_Actualizado: 2026-06-08 11:51 UTC_
 
 ## Selección priorizada
 
-### 1. Data-driven beauty and creativity with ChatGPT
+### 1. Introducing the Model Spec
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 May 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:676d
+- **Enlace:** https://openai.com/index/introducing-the-model-spec
+
+
+
+---
+
+### 2. TruthfulQA: Measuring how models mimic human falsehoods
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Sep 2021 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1649d
+- **Enlace:** https://openai.com/index/truthfulqa
+
+
+
+---
+
+### 3. RL²: Fast reinforcement learning via slow reinforcement learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Nov 2016 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3413d
+- **Enlace:** https://openai.com/index/rl2
+
+
+
+---
+
+### 4. Introducing the GPT Store
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 10 Jan 2024 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:795d
+- **Enlace:** https://openai.com/index/introducing-the-gpt-store
+
+We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.
+
+---
+
+### 5. Introducing ChatGPT Team
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 10 Jan 2024 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:795d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-team
+
+We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.
+
+---
+
+### 6. Harness engineering: leveraging Codex in an agent-first world
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 11 Feb 2026 09:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:32d
+- **Enlace:** https://openai.com/index/harness-engineering
+
+By Ryan Lopopolo, Member of the Technical Staff
+
+---
+
+### 7. Meta-learning for wrestling
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 11 Oct 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3077d
+- **Enlace:** https://openai.com/index/meta-learning-for-wrestling
+
+We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.
+
+---
+
+### 8. Evolving online forms into dynamic data
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 11 Oct 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:886d
+- **Enlace:** https://openai.com/index/typeform
+
+Typeform evolves online forms into dynamic and conversational data collection experiences with GPT-3.5 and GPT-4.
+
+---
+
+### 9. Hierarchical text-conditional image generation with CLIP latents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Apr 2022 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1432d
+- **Enlace:** https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents
+
+
+
+---
+
+### 10. Global news partnerships: Le Monde and Prisa Media
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 13 Mar 2024 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:732d
+- **Enlace:** https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media
+
+We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.
+
+---
+
+### 11. Data-driven beauty and creativity with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGP
 
 ---
 
-### 2. A Student’s Guide to Writing with ChatGPT
+### 12. A Student’s Guide to Writing with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A Student’s Guide to Writing with ChatGPT
 
 ---
 
-### 3. Learning with opponent-learning awareness
+### 13. Learning with opponent-learning awareness
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ A Student’s Guide to Writing with ChatGPT
 
 ---
 
-### 4. Emergence of grounded compositional language in multi-agent populations
+### 14. Emergence of grounded compositional language in multi-agent populations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ A Student’s Guide to Writing with ChatGPT
 
 ---
 
-### 5. Developers can now submit apps to ChatGPT
+### 15. Developers can now submit apps to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Developers can now submit apps for review and publication in ChatGPT, with appro
 
 ---
 
-### 6. Asymmetric actor critic for image-based robot learning
+### 16. Asymmetric actor critic for image-based robot learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Developers can now submit apps for review and publication in ChatGPT, with appro
 
 ---
 
-### 7. Sim-to-real transfer of robotic control with dynamics randomization
+### 17. Sim-to-real transfer of robotic control with dynamics randomization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Developers can now submit apps for review and publication in ChatGPT, with appro
 
 ---
 
-### 8. Building more with GPT-5.1-Codex-Max
+### 18. Building more with GPT-5.1-Codex-Max
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model f
 
 ---
 
-### 9. A free version of ChatGPT built for teachers
+### 19. A free version of ChatGPT built for teachers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ ChatGPT for Teachers is a secure workspace with education‑grade privacy and ad
 
 ---
 
-### 10. Scaling laws for reward model overoptimization
+### 20. Scaling laws for reward model overoptimization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ ChatGPT for Teachers is a secure workspace with education‑grade privacy and ad
 - **Enlace:** https://openai.com/index/scaling-laws-for-reward-model-overoptimization
 
 
-
----
-
-### 11. Building smarter maps with GPT-4o vision fine-tuning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 20 Nov 2024 17:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:480d
-- **Enlace:** https://openai.com/index/grab
-
-Building smarter maps with GPT-4o vision fine-tuning
-
----
-
-### 12. New tools and features in the Responses API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 May 2025 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:298d
-- **Enlace:** https://openai.com/index/new-tools-and-features-in-the-responses-api
-
-New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o & o-series models, plus new features for reliability and efficiency.
-
----
-
-### 13. Trading inference-time compute for adversarial robustness
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 22 Jan 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:417d
-- **Enlace:** https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness
-
-Trading Inference-Time Compute for Adversarial Robustness
-
----
-
-### 14. Simplifying, stabilizing, and scaling continuous-time consistency models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Oct 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:508d
-- **Enlace:** https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models
-
-We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.
-
----
-
-### 15. Introducing ChatGPT and Whisper APIs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Apr 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:690d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-and-whisper-apis
-
-Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.
-
----
-
-### 16. Accelerating the development of life-saving treatments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Apr 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:690d
-- **Enlace:** https://openai.com/index/moderna
-
-Accelerating the development of life-saving treatments.
-
----
-
-### 17. Introducing SimpleQA
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 Oct 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:501d
-- **Enlace:** https://openai.com/index/introducing-simpleqa
-
-A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.
-
----
-
-### 18. Reinforcement learning with prediction-based rewards
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 31 Oct 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2692d
-- **Enlace:** https://openai.com/index/reinforcement-learning-with-prediction-based-rewards
-
-We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma’s Revenge.
-
----
-
-### 19. How small businesses can leverage AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 02 Jun 2026 09:00:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
-
-This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;
-
----
-
-### 20. The Download: online safety’s future and climate tech’s big pivot
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 21 May 2026 12:10:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,research,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;
 
 ---
