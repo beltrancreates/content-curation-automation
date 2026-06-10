@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-09 10:30 UTC_
+_Actualizado: 2026-06-10 10:51 UTC_
 
 ## Selección priorizada
 
-### 1. Sparking a more productive company with ChatGPT Enterprise
+### 1. Sora 2 is here
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Sep 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:166d
+- **Enlace:** https://openai.com/index/sora-2
+
+Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.
+
+---
+
+### 2. Sora 2 System Card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Sep 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:166d
+- **Enlace:** https://openai.com/index/sora-2-system-card
+
+Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.
+
+---
+
+### 3. Extensions and limitations of the neural GPU
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 02 Nov 2016 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3420d
+- **Enlace:** https://openai.com/index/extensions-and-limitations-of-the-neural-gpu
+
+
+
+---
+
+### 4. VfL Wolfsburg turns ChatGPT into a club-wide capability
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Feb 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:39d
+- **Enlace:** https://openai.com/index/vfl-wolfsburg
+
+By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.
+
+---
+
+### 5. Unlocking the Codex harness: how we built the App Server
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Feb 2026 13:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:39d
+- **Enlace:** https://openai.com/index/unlocking-the-codex-harness
+
+Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.
+
+---
+
+### 6. Delivering nuanced insights from customer feedback
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Jan 2023 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1166d
+- **Enlace:** https://openai.com/index/yabble
+
+Using GPT-3 to deliver fast, nuanced insights from customer feedback.
+
+---
+
+### 7. Hindsight Experience Replay
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 05 Jul 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3175d
+- **Enlace:** https://openai.com/index/hindsight-experience-replay
+
+
+
+---
+
+### 8. How engineers at Nextdoor use Codex to build without limits
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Jun 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/nextdoor
+
+How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.
+
+---
+
+### 9. What Codex unlocks for Notion
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Jun 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/notion
+
+How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.
+
+---
+
+### 10. From data to decisions: how LSEG is scaling trusted AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 10 Jun 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/lseg
+
+See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.
+
+---
+
+### 11. Sparking a more productive company with ChatGPT Enterprise
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Match Group uses ChatGPT Enterprise to spark creativity and impact.
 
 ---
 
-### 2. Improving health literacy and patient well-being
+### 12. Improving health literacy and patient well-being
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.
 
 ---
 
-### 3. Discovering types for entity disambiguation
+### 13. Discovering types for entity disambiguation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’ve built a system for automatically figuring out which object is meant by a
 
 ---
 
-### 4. Introducing ChatGPT Health
+### 14. Introducing ChatGPT Health
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ ChatGPT Health is a dedicated experience that securely connects your health data
 
 ---
 
-### 5. Reptile: A scalable meta-learning algorithm
+### 15. Reptile: A scalable meta-learning algorithm
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’ve developed a simple meta-learning algorithm called Reptile which works by
 
 ---
 
-### 6. The San Antonio Spurs use ChatGPT to scale impact on and off the court
+### 16. The San Antonio Spurs use ChatGPT to scale impact on and off the court
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Discover how the San Antonio Spurs are using custom GPTs to enhance fan engageme
 
 ---
 
-### 7. Adversarial attacks on neural network policies
+### 17. Adversarial attacks on neural network policies
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Discover how the San Antonio Spurs are using custom GPTs to enhance fan engageme
 
 ---
 
-### 8. Confidential submission of draft S-1 to the SEC
+### 18. Confidential submission of draft S-1 to the SEC
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI confirms a confidential S-1 submission to the SEC and has not yet determi
 
 ---
 
-### 9. Introducing the OpenAI Economic Research Exchange
+### 19. Introducing the OpenAI Economic Research Exchange
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, p
 
 ---
 
-### 10. Built to benefit everyone: our plan
+### 20. Built to benefit everyone: our plan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, p
 - **Enlace:** https://openai.com/index/built-to-benefit-everyone-our-plan
 
 A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
-
----
-
-### 11. Introducing the Model Spec
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 May 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:676d
-- **Enlace:** https://openai.com/index/introducing-the-model-spec
-
-
-
----
-
-### 12. TruthfulQA: Measuring how models mimic human falsehoods
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Sep 2021 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1649d
-- **Enlace:** https://openai.com/index/truthfulqa
-
-
-
----
-
-### 13. RL²: Fast reinforcement learning via slow reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Nov 2016 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3413d
-- **Enlace:** https://openai.com/index/rl2
-
-
-
----
-
-### 14. Introducing the GPT Store
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Jan 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:795d
-- **Enlace:** https://openai.com/index/introducing-the-gpt-store
-
-We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.
-
----
-
-### 15. Introducing ChatGPT Team
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Jan 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:795d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-team
-
-We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.
-
----
-
-### 16. Harness engineering: leveraging Codex in an agent-first world
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Feb 2026 09:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:32d
-- **Enlace:** https://openai.com/index/harness-engineering
-
-By Ryan Lopopolo, Member of the Technical Staff
-
----
-
-### 17. Meta-learning for wrestling
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3077d
-- **Enlace:** https://openai.com/index/meta-learning-for-wrestling
-
-We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.
-
----
-
-### 18. Evolving online forms into dynamic data
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Oct 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:886d
-- **Enlace:** https://openai.com/index/typeform
-
-Typeform evolves online forms into dynamic and conversational data collection experiences with GPT-3.5 and GPT-4.
-
----
-
-### 19. Hierarchical text-conditional image generation with CLIP latents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Apr 2022 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1432d
-- **Enlace:** https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents
-
-
-
----
-
-### 20. Global news partnerships: Le Monde and Prisa Media
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 13 Mar 2024 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:732d
-- **Enlace:** https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media
-
-We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.
 
 ---
