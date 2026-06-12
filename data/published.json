@@ -22733,5 +22733,253 @@
       "authority:9",
       "old:2518d"
     ]
+  },
+  {
+    "id": "af00e8ddde974a1c60337c857e11879804dae94a0ec1116bfeabe21a89ea531a",
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "368d5dec352a4d8b82dfaceaa310ed4c984e3621a869fdfa8bc14943e7c6f4b5",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "published": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "d2bb276be84813d20310de7918a9fce591fafed1ecdd9483839ff33db67d38bb",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
+    "published": "Thu, 11 Jun 2026 11:00:45 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,research,safety",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "26b03b8d4068c976d541f10c887e0eb4496895b868b64a39bab923987b347ef0",
+    "title": "GPT-3.5 Turbo fine-tuning and API updates",
+    "link": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
+    "summary": "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.",
+    "published": "Tue, 22 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:936d"
+    ]
+  },
+  {
+    "id": "b57706c8d9050f99de87383f4f03372fa639cb2f6f30e7709d5616544ef41caa",
+    "title": "One-shot imitation learning",
+    "link": "https://openai.com/index/one-shot-imitation-learning",
+    "summary": "",
+    "published": "Tue, 21 Mar 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3281d"
+    ]
+  },
+  {
+    "id": "e9f5d3eb89fc9b7842fa3f912026b1d52fae6121be5cb4873ec501e901e1a1bd",
+    "title": "Announcing The Stargate Project",
+    "link": "https://openai.com/index/announcing-the-stargate-project",
+    "summary": "Announcing The Stargate Project",
+    "published": "Tue, 21 Jan 2025 13:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:418d"
+    ]
+  },
+  {
+    "id": "976b4dec0acabfda48a83ffc503feb99a5cd75a7f3fcefccbb55d6bf4cb51b53",
+    "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
+    "link": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
+    "summary": "",
+    "published": "Tue, 20 Mar 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2917d"
+    ]
+  },
+  {
+    "id": "d60973c20afd40e6284cbbbccadf411629388ab62d1bf2b9a7df1e830bb91aaa",
+    "title": "Our approach to age prediction",
+    "link": "https://openai.com/index/our-approach-to-age-prediction",
+    "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+    "published": "Tue, 20 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:54d"
+    ]
+  },
+  {
+    "id": "47cef96705feeda86331fa573a5a7d60642ff05fde7f00e087613a98236948c6",
+    "title": "New in ChatGPT for Business: March 2025",
+    "link": "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025",
+    "summary": "Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.",
+    "published": "Tue, 18 Mar 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:362d"
+    ]
+  },
+  {
+    "id": "65b2c589f6c8fd722cb97230a5c81a977eced4027c3e3052ab012edf0227cc48",
+    "title": "Achieving 10x growth with agentic sales prospecting",
+    "link": "https://openai.com/index/clay",
+    "summary": "",
+    "published": "Tue, 18 Jun 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:635d"
+    ]
   }
 ]

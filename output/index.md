@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-11 11:19 UTC_
+_Actualizado: 2026-06-12 10:57 UTC_
 
 ## Selección priorizada
 
-### 1. Generative modeling with sparse transformers
+### 1. Achieving 10x growth with agentic sales prospecting
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Jun 2024 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:635d
+- **Enlace:** https://openai.com/index/clay
+
+
+
+---
+
+### 2. New in ChatGPT for Business: March 2025
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Mar 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:362d
+- **Enlace:** https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025
+
+Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.
+
+---
+
+### 3. Our approach to age prediction
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Jan 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:54d
+- **Enlace:** https://openai.com/index/our-approach-to-age-prediction
+
+ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.
+
+---
+
+### 4. Variance reduction for policy gradient with action-dependent factorized baselines
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 20 Mar 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2917d
+- **Enlace:** https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines
+
+
+
+---
+
+### 5. Announcing The Stargate Project
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 21 Jan 2025 13:30:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:418d
+- **Enlace:** https://openai.com/index/announcing-the-stargate-project
+
+Announcing The Stargate Project
+
+---
+
+### 6. One-shot imitation learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 21 Mar 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3281d
+- **Enlace:** https://openai.com/index/one-shot-imitation-learning
+
+
+
+---
+
+### 7. GPT-3.5 Turbo fine-tuning and API updates
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 22 Aug 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:936d
+- **Enlace:** https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates
+
+Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.
+
+---
+
+### 8. Google DeepMind is worried about what happens when millions of agents start to interact
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 11 Jun 2026 11:00:45 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
+
+Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;
+
+---
+
+### 9. How Preply combines AI and human tutors to personalize learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 12 Jun 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/preply
+
+Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.
+
+---
+
+### 10. OpenAI to acquire Ona
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 11 Jun 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-to-acquire-ona
+
+OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
+
+---
+
+### 11. Generative modeling with sparse transformers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’ve developed the Sparse Transformer, a deep neural network which sets new r
 
 ---
 
-### 2. Introducing more enterprise-grade features for API customers
+### 12. Introducing more enterprise-grade features for API customers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Increasing enterprise support with more security features and controls, updates 
 
 ---
 
-### 3. Addendum to GPT-4o System Card: 4o image generation
+### 13. Addendum to GPT-4o System Card: 4o image generation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Increasing enterprise support with more security features and controls, updates 
 
 ---
 
-### 4. Welcome, Pieter and Shivon!
+### 14. Welcome, Pieter and Shivon!
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We have two more team updates.
 
 ---
 
-### 5. Sycophancy in GPT-4o: what happened and what we’re doing about it
+### 15. Sycophancy in GPT-4o: what happened and what we’re doing about it
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We have rolled back last week’s GPT‑4o update in ChatGPT so people are now u
 
 ---
 
-### 6. Introducing study mode in ChatGPT
+### 16. Introducing study mode in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Introducing study mode in ChatGPT, a new learning experience that helps you work
 
 ---
 
-### 7. How an astrophysicist uses Codex to help simulate black holes
+### 17. How an astrophysicist uses Codex to help simulate black holes
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulat
 
 ---
 
-### 8. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
+### 18. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI supports the EU Code of Practice on AI content transparency, advancing pr
 
 ---
 
-### 9. PRC-linked influence operations are targeting AI debates in the US
+### 19. PRC-linked influence operations are targeting AI debates in the US
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ A new report from OpenAI details PRC-linked influence operations using AI to tar
 
 ---
 
-### 10. Access OpenAI models and Codex through your Oracle cloud commitment
+### 20. Access OpenAI models and Codex through your Oracle cloud commitment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ A new report from OpenAI details PRC-linked influence operations using AI to tar
 - **Enlace:** https://openai.com/index/openai-on-oracle-cloud
 
 Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.
-
----
-
-### 11. Sora 2 is here
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 30 Sep 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:166d
-- **Enlace:** https://openai.com/index/sora-2
-
-Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.
-
----
-
-### 12. Sora 2 System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 30 Sep 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:166d
-- **Enlace:** https://openai.com/index/sora-2-system-card
-
-Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.
-
----
-
-### 13. Extensions and limitations of the neural GPU
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Nov 2016 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3420d
-- **Enlace:** https://openai.com/index/extensions-and-limitations-of-the-neural-gpu
-
-
-
----
-
-### 14. VfL Wolfsburg turns ChatGPT into a club-wide capability
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Feb 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:39d
-- **Enlace:** https://openai.com/index/vfl-wolfsburg
-
-By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.
-
----
-
-### 15. Unlocking the Codex harness: how we built the App Server
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Feb 2026 13:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:39d
-- **Enlace:** https://openai.com/index/unlocking-the-codex-harness
-
-Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.
-
----
-
-### 16. Delivering nuanced insights from customer feedback
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Jan 2023 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1166d
-- **Enlace:** https://openai.com/index/yabble
-
-Using GPT-3 to deliver fast, nuanced insights from customer feedback.
-
----
-
-### 17. Hindsight Experience Replay
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 05 Jul 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3175d
-- **Enlace:** https://openai.com/index/hindsight-experience-replay
-
-
-
----
-
-### 18. How engineers at Nextdoor use Codex to build without limits
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Jun 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/nextdoor
-
-How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.
-
----
-
-### 19. What Codex unlocks for Notion
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Jun 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/notion
-
-How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.
-
----
-
-### 20. From data to decisions: how LSEG is scaling trusted AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 10 Jun 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/lseg
-
-See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.
 
 ---
