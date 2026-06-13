@@ -23173,5 +23173,57 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "69f549fdf27ff30405526003316e41f1fbb165555df6d0b07773917f2dc3e3a3",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "08afd3c5d18af383334e5031818215a0f90a59915f7b60001dd57d4f13a0fffe",
+    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+    "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first&#8230;",
+    "published": "Fri, 12 Jun 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "41841a3cf3de85000146536e5012955a3aa5d5e6e4435d6ce3bfc462664ec4e7",
+    "title": "Inside interoception: The hidden sense of how you feel inside",
+    "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+    "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is&#8230;",
+    "published": "Fri, 12 Jun 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

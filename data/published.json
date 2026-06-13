@@ -22981,5 +22981,255 @@
       "authority:9",
       "old:635d"
     ]
+  },
+  {
+    "id": "69f549fdf27ff30405526003316e41f1fbb165555df6d0b07773917f2dc3e3a3",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "0e8f6bdd0fe1cab33ba595f02d548aac46e316c7f74898eb4655fdce413a64d3",
+    "title": "Using GPT-4 to improve teaching and learning in Brazil",
+    "link": "https://openai.com/index/arco-education",
+    "summary": "Improving teaching and learning in Brazil",
+    "published": "Tue, 17 Sep 2024 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:544d"
+    ]
+  },
+  {
+    "id": "a30c13128763e94f5bc67f0f289902dded68841e91fa3bd7c60394a664f47470",
+    "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
+    "link": "https://openai.com/index/exploration",
+    "summary": "",
+    "published": "Tue, 15 Nov 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3407d"
+    ]
+  },
+  {
+    "id": "d512eae19f101e3f991fe6aeb99cd0d6ccc4247ff7bc95654760ccb45aac0a45",
+    "title": "New GPT-3 capabilities: Edit & insert",
+    "link": "https://openai.com/index/gpt-3-edit-insert",
+    "summary": "We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.",
+    "published": "Tue, 15 Mar 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1461d"
+    ]
+  },
+  {
+    "id": "2ae33244cd51d8ba5d6058a671552326c425c321a627f9371c28f86e849751d9",
+    "title": "Intellectual freedom by design",
+    "link": "https://openai.com/global-affairs/intellectual-freedom-by-design",
+    "summary": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+    "published": "Tue, 15 Jul 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:243d"
+    ]
+  },
+  {
+    "id": "4b7b760859067183d7daa7c5b73be1f62c7a2761fa3649c7c5171c5cf8fbdda1",
+    "title": "Using GPT-4 for content moderation",
+    "link": "https://openai.com/index/using-gpt-4-for-content-moderation",
+    "summary": "We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human moderators.",
+    "published": "Tue, 15 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:943d"
+    ]
+  },
+  {
+    "id": "0202fa60dfb1112560daae61951ec1c6757a92514e08d8993f0e07955c113746",
+    "title": "Collaborating with Carlyle to Chart the Future of Private Equity",
+    "link": "https://openai.com/index/collaborating-with-carlyle-to-chart-the-future-of-private-equity",
+    "summary": "Collaborating with Carlyle to Chart the Future of Private Equity",
+    "published": "Tue, 14 May 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:670d"
+    ]
+  },
+  {
+    "id": "21410d15b27b7120b2fb46ea6613cecaf5b185395819754d18732462cc9c3255",
+    "title": "Preserving languages for the future",
+    "link": "https://openai.com/index/government-of-iceland",
+    "summary": "How Iceland is using GPT-4 to preserve its language.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
+  },
+  {
+    "id": "35414553f7869ab5b9c3dc8df8d3a82a05b55bb600112243eede8f8fb4659f6b",
+    "title": "Filling crucial language learning gaps",
+    "link": "https://openai.com/index/duolingo",
+    "summary": "GPT-4 deepens the conversation on Duolingo.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
+  },
+  {
+    "id": "4bd6ffb212e97a4a31a5b96fc355476484d89f5eb4253e4b63567b1c21dccb02",
+    "title": "Transforming visual accessibility",
+    "link": "https://openai.com/index/be-my-eyes",
+    "summary": "Be My Eyes uses GPT-4 to transform visual accessibility.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
   }
 ]
