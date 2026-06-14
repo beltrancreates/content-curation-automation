@@ -23231,5 +23231,255 @@
       "authority:9",
       "old:1097d"
     ]
+  },
+  {
+    "id": "0cc1c14ec38f2d49c82b3e8aab2ffecb64559dd9bfc2fb42cfb1d5b5b668e38c",
+    "title": "Powering virtual education for the classroom",
+    "link": "https://openai.com/index/khan-academy",
+    "summary": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+    "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1097d"
+    ]
+  },
+  {
+    "id": "185329386939c855fc65cc840bb4b1472c9944b7f75d69e3806f3285c1f3b5ee",
+    "title": "Customizing GPT-3 for your application",
+    "link": "https://openai.com/index/customizing-gpt-3",
+    "summary": "Fine-tune with a single command.",
+    "published": "Tue, 14 Dec 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1552d"
+    ]
+  },
+  {
+    "id": "98bfc4b2420187f8c007625bd137794592ec155b921571af6cd2cc8b8ac9f262",
+    "title": "Function calling and other API updates",
+    "link": "https://openai.com/index/function-calling-and-other-api-updates",
+    "summary": "We’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.",
+    "published": "Tue, 13 Jun 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1006d"
+    ]
+  },
+  {
+    "id": "d38c5fa41ca2b9b3efccb7281a3bd4a4bc58df3f5816a4c9f7b3264203b7ac3e",
+    "title": "Memory and new controls for ChatGPT",
+    "link": "https://openai.com/index/memory-and-new-controls-for-chatgpt",
+    "summary": "We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful. You’re in control of ChatGPT’s memory.",
+    "published": "Tue, 13 Feb 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:761d"
+    ]
+  },
+  {
+    "id": "e557a51fb31b3d820a0189c42ce7b85abf576aed778d33198e9b70081df10468",
+    "title": "Transfer from simulation to real world through learning deep inverse dynamics model",
+    "link": "https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model",
+    "summary": "",
+    "published": "Tue, 11 Oct 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3442d"
+    ]
+  },
+  {
+    "id": "756b2069abaaa3df22ba35d1a8479d38865c199abbbccd08af5de794e2a8ceaf",
+    "title": "New tools for building agents",
+    "link": "https://openai.com/index/new-tools-for-building-agents",
+    "summary": "We’re evolving our platform to help developers and enterprises build useful and reliable agents.",
+    "published": "Tue, 11 Mar 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:369d"
+    ]
+  },
+  {
+    "id": "59604c78b170bbf0332248e6bd0ca974e4c4b50f6be382c3bccb90af9701e6f3",
+    "title": "Gotta Learn Fast: A new benchmark for generalization in RL",
+    "link": "https://openai.com/index/gotta-learn-fast",
+    "summary": "",
+    "published": "Tue, 10 Apr 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2896d"
+    ]
+  },
+  {
+    "id": "7df68036853b26577498b20b29998d8074c90a9b292abea7d3189ef35e6ee2e3",
+    "title": "Variational lossy autoencoder",
+    "link": "https://openai.com/index/variational-lossy-autoencoder",
+    "summary": "",
+    "published": "Tue, 08 Nov 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3414d"
+    ]
+  },
+  {
+    "id": "09c8ba744bc915a926e79afb5be89bd84eb50f0f4b79fc24333325e2ff77075d",
+    "title": "Introducing Structured Outputs in the API",
+    "link": "https://openai.com/index/introducing-structured-outputs-in-the-api",
+    "summary": "We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas.",
+    "published": "Tue, 06 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:586d"
+    ]
+  },
+  {
+    "id": "9daece3657234064290c2fafd4799c651377712cbdad65853cd6c267aec71387",
+    "title": "CLIP: Connecting text and images",
+    "link": "https://openai.com/index/clip",
+    "summary": "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.",
+    "published": "Tue, 05 Jan 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1895d"
+    ]
   }
 ]
