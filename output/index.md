@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-14 10:21 UTC_
+_Actualizado: 2026-06-15 13:08 UTC_
 
 ## Selección priorizada
 
-### 1. CLIP: Connecting text and images
+### 1. Introducing the Realtime API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 01 Oct 2024 10:05:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
+- **Enlace:** https://openai.com/index/introducing-the-realtime-api
+
+Developers can now build fast speech-to-speech experiences into their applications
+
+---
+
+### 2. FFJORD: Free-form continuous dynamics for scalable reversible generative models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Oct 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2721d
+- **Enlace:** https://openai.com/index/ffjord
+
+
+
+---
+
+### 3. Building more helpful ChatGPT experiences for everyone
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Sep 2025 04:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:194d
+- **Enlace:** https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone
+
+We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.
+
+---
+
+### 4. Vijaye Raji to become CTO of Applications with acquisition of Statsig
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Sep 2025 11:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:194d
+- **Enlace:** https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig
+
+Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.
+
+---
+
+### 5. Procgen Benchmark
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Dec 2019 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2294d
+- **Enlace:** https://openai.com/index/procgen-benchmark
+
+We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.
+
+---
+
+### 6. Fine-tuning GPT-3 to scale video creation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Jan 2023 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1167d
+- **Enlace:** https://openai.com/index/waymark
+
+Fine-tuning GPT-3 to power and scale done-for-you video creation.
+
+---
+
+### 7. DALL·E 3 system card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Oct 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:894d
+- **Enlace:** https://openai.com/index/dall-e-3-system-card
+
+
+
+---
+
+### 8. Catching halibut with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 04 Feb 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:404d
+- **Enlace:** https://openai.com/index/fishing-for-first-timers
+
+Using ChatGPT to catch halibut
+
+---
+
+### 9. Building a custom math tutor powered by ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 04 Feb 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:404d
+- **Enlace:** https://openai.com/index/my-dog-the-math-tutor
+
+ChatGPT and personal tutoring
+
+---
+
+### 10. Introducing the OpenAI Partner Network
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 14 Jun 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-openai-partner-network
+
+OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
+
+---
+
+### 11. CLIP: Connecting text and images
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re introducing a neural network called CLIP which efficiently learns visual
 
 ---
 
-### 2. Introducing Structured Outputs in the API
+### 12. Introducing Structured Outputs in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We are introducing Structured Outputs in the API—model outputs now reliably ad
 
 ---
 
-### 3. Variational lossy autoencoder
+### 13. Variational lossy autoencoder
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We are introducing Structured Outputs in the API—model outputs now reliably ad
 
 ---
 
-### 4. Gotta Learn Fast: A new benchmark for generalization in RL
+### 14. Gotta Learn Fast: A new benchmark for generalization in RL
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We are introducing Structured Outputs in the API—model outputs now reliably ad
 
 ---
 
-### 5. New tools for building agents
+### 15. New tools for building agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’re evolving our platform to help developers and enterprises build useful an
 
 ---
 
-### 6. Transfer from simulation to real world through learning deep inverse dynamics model
+### 16. Transfer from simulation to real world through learning deep inverse dynamics model
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’re evolving our platform to help developers and enterprises build useful an
 
 ---
 
-### 7. Memory and new controls for ChatGPT
+### 17. Memory and new controls for ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We’re testing the ability for ChatGPT to remember things you discuss to make f
 
 ---
 
-### 8. Function calling and other API updates
+### 18. Function calling and other API updates
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ We’re announcing updates including more steerable API models, function calling
 
 ---
 
-### 9. Customizing GPT-3 for your application
+### 19. Customizing GPT-3 for your application
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Fine-tune with a single command.
 
 ---
 
-### 10. Powering virtual education for the classroom
+### 20. Powering virtual education for the classroom
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Fine-tune with a single command.
 - **Enlace:** https://openai.com/index/khan-academy
 
 Khan Academy explores the potential for GPT-4 in a limited pilot program.
-
----
-
-### 11. Transforming visual accessibility
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1097d
-- **Enlace:** https://openai.com/index/be-my-eyes
-
-Be My Eyes uses GPT-4 to transform visual accessibility.
-
----
-
-### 12. Filling crucial language learning gaps
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1097d
-- **Enlace:** https://openai.com/index/duolingo
-
-GPT-4 deepens the conversation on Duolingo.
-
----
-
-### 13. Preserving languages for the future
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1097d
-- **Enlace:** https://openai.com/index/government-of-iceland
-
-How Iceland is using GPT-4 to preserve its language.
-
----
-
-### 14. Collaborating with Carlyle to Chart the Future of Private Equity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 May 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:670d
-- **Enlace:** https://openai.com/index/collaborating-with-carlyle-to-chart-the-future-of-private-equity
-
-Collaborating with Carlyle to Chart the Future of Private Equity
-
----
-
-### 15. Using GPT-4 for content moderation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Aug 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:943d
-- **Enlace:** https://openai.com/index/using-gpt-4-for-content-moderation
-
-We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human moderators.
-
----
-
-### 16. Intellectual freedom by design
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Jul 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:243d
-- **Enlace:** https://openai.com/global-affairs/intellectual-freedom-by-design
-
-ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.
-
----
-
-### 17. New GPT-3 capabilities: Edit & insert
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Mar 2022 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1461d
-- **Enlace:** https://openai.com/index/gpt-3-edit-insert
-
-We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.
-
----
-
-### 18. #Exploration: A study of count-based exploration for deep reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 15 Nov 2016 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3407d
-- **Enlace:** https://openai.com/index/exploration
-
-
-
----
-
-### 19. Using GPT-4 to improve teaching and learning in Brazil
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Sep 2024 05:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:544d
-- **Enlace:** https://openai.com/index/arco-education
-
-Improving teaching and learning in Brazil
-
----
-
-### 20. New OpenAI Academy courses for the next era of work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 12 Jun 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/academy-courses-applying-ai-at-work
-
-OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.
 
 ---

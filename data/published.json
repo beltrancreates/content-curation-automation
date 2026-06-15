@@ -23481,5 +23481,255 @@
       "authority:9",
       "old:1895d"
     ]
+  },
+  {
+    "id": "5f4cdd1f462b5f272775a6181148ae348eb0240e4f891f06d17ff110ea1bb465",
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "5813ee49504f28098c75f15edeb316d40e7522e408e7e1dcab496a48a7ff4383",
+    "title": "Building a custom math tutor powered by ChatGPT",
+    "link": "https://openai.com/index/my-dog-the-math-tutor",
+    "summary": "ChatGPT and personal tutoring",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:404d"
+    ]
+  },
+  {
+    "id": "34568fada0dfd2a28709372bcb7efca21f83fffb8dd14a84b9128c140dbe461c",
+    "title": "Catching halibut with ChatGPT",
+    "link": "https://openai.com/index/fishing-for-first-timers",
+    "summary": "Using ChatGPT to catch halibut",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:404d"
+    ]
+  },
+  {
+    "id": "efe5b60efe24c9d6c09303e952ba8e2762f7e6d3afcc41e0484baa5502c25005",
+    "title": "DALL·E 3 system card",
+    "link": "https://openai.com/index/dall-e-3-system-card",
+    "summary": "",
+    "published": "Tue, 03 Oct 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:894d"
+    ]
+  },
+  {
+    "id": "7860f68c46031c07b5d4d70b0edc980a02511185519325e7680c8cbabfd12c73",
+    "title": "Fine-tuning GPT-3 to scale video creation",
+    "link": "https://openai.com/index/waymark",
+    "summary": "Fine-tuning GPT-3 to power and scale done-for-you video creation.",
+    "published": "Tue, 03 Jan 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1167d"
+    ]
+  },
+  {
+    "id": "0ea7fa5bc4463c7a9b6fdefd92c4331ddd8fee81479b0b57773a50ac70a037fd",
+    "title": "Procgen Benchmark",
+    "link": "https://openai.com/index/procgen-benchmark",
+    "summary": "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.",
+    "published": "Tue, 03 Dec 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2294d"
+    ]
+  },
+  {
+    "id": "981033649f2f5c3d115f920059d2e268b51ea4c518cb9b466b528efa03577005",
+    "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+    "link": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+    "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
+    "published": "Tue, 02 Sep 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:194d"
+    ]
+  },
+  {
+    "id": "87293d74c106d95870f2413fd7586507a413aaf06a8bd519070e8dd7a264d46d",
+    "title": "Building more helpful ChatGPT experiences for everyone",
+    "link": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+    "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+    "published": "Tue, 02 Sep 2025 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:194d"
+    ]
+  },
+  {
+    "id": "240dc2607621f12f91861d35ab15b562442939d28d9a7600431d67cba491d448",
+    "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+    "link": "https://openai.com/index/ffjord",
+    "summary": "",
+    "published": "Tue, 02 Oct 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2721d"
+    ]
+  },
+  {
+    "id": "40f6694d7bb4ce8b3f2031bbc655a8419922b1178986941b71a5c7997dbd0b33",
+    "title": "Introducing the Realtime API",
+    "link": "https://openai.com/index/introducing-the-realtime-api",
+    "summary": "Developers can now build fast speech-to-speech experiences into their applications",
+    "published": "Tue, 01 Oct 2024 10:05:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:530d"
+    ]
   }
 ]
