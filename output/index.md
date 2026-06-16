@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-15 13:08 UTC_
+_Actualizado: 2026-06-16 12:07 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing the Realtime API
+### 1. Language models are few-shot learners
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 28 May 2020 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2117d
+- **Enlace:** https://openai.com/index/language-models-are-few-shot-learners
+
+
+
+---
+
+### 2. Insights from global conversations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Jun 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:990d
+- **Enlace:** https://openai.com/index/insights-from-global-conversations
+
+We are sharing what we learned from our conversations across 22 countries, and how we will be incorporating those insights moving forward.
+
+---
+
+### 3. Jukebox
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 Apr 2020 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2145d
+- **Enlace:** https://openai.com/index/jukebox
+
+We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.
+
+---
+
+### 4. How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 30 Oct 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:136d
+- **Enlace:** https://openai.com/index/building-chatgpt-atlas
+
+A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.
+
+---
+
+### 5. Team++
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 31 Mar 2016 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3636d
+- **Enlace:** https://openai.com/index/team-plus-plus
+
+We've had some fantastic people join over the past few months (and we're still hiring). Welcome, everyone!
+
+---
+
+### 6. Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 31 Oct 2024 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:500d
+- **Enlace:** https://openai.com/index/promega
+
+Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
+
+---
+
+### 7. Introducing ChatGPT search
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 31 Oct 2024 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:500d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-search
+
+Get fast, timely answers with links to relevant web sources
+
+---
+
+### 8. Creating agent and human collaboration with GPT 4o
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 01 Oct 2024 09:59:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
+- **Enlace:** https://openai.com/index/altera
+
+Altera uses GPT-4o to build a new area of human collaboration
+
+---
+
+### 9. Prompt Caching in the API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 01 Oct 2024 10:03:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
+- **Enlace:** https://openai.com/index/api-prompt-caching
+
+Offering automatic discounts on inputs that the model has recently seen
+
+---
+
+### 10. Introducing vision to the fine-tuning API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 01 Oct 2024 10:04:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
+- **Enlace:** https://openai.com/index/introducing-vision-to-the-fine-tuning-api
+
+Developers can now fine-tune GPT-4o with images and text to improve vision capabilities
+
+---
+
+### 11. Introducing the Realtime API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Developers can now build fast speech-to-speech experiences into their applicatio
 
 ---
 
-### 2. FFJORD: Free-form continuous dynamics for scalable reversible generative models
+### 12. FFJORD: Free-form continuous dynamics for scalable reversible generative models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ Developers can now build fast speech-to-speech experiences into their applicatio
 
 ---
 
-### 3. Building more helpful ChatGPT experiences for everyone
+### 13. Building more helpful ChatGPT experiences for everyone
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’re partnering with experts, strengthening protections for teens with parent
 
 ---
 
-### 4. Vijaye Raji to become CTO of Applications with acquisition of Statsig
+### 14. Vijaye Raji to become CTO of Applications with acquisition of Statsig
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO o
 
 ---
 
-### 5. Procgen Benchmark
+### 15. Procgen Benchmark
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated e
 
 ---
 
-### 6. Fine-tuning GPT-3 to scale video creation
+### 16. Fine-tuning GPT-3 to scale video creation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Fine-tuning GPT-3 to power and scale done-for-you video creation.
 
 ---
 
-### 7. DALL·E 3 system card
+### 17. DALL·E 3 system card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Fine-tuning GPT-3 to power and scale done-for-you video creation.
 
 ---
 
-### 8. Catching halibut with ChatGPT
+### 18. Catching halibut with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Using ChatGPT to catch halibut
 
 ---
 
-### 9. Building a custom math tutor powered by ChatGPT
+### 19. Building a custom math tutor powered by ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ ChatGPT and personal tutoring
 
 ---
 
-### 10. Introducing the OpenAI Partner Network
+### 20. Introducing the OpenAI Partner Network
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ ChatGPT and personal tutoring
 - **Enlace:** https://openai.com/index/introducing-openai-partner-network
 
 OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
-
----
-
-### 11. CLIP: Connecting text and images
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 05 Jan 2021 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1895d
-- **Enlace:** https://openai.com/index/clip
-
-We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.
-
----
-
-### 12. Introducing Structured Outputs in the API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 06 Aug 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:586d
-- **Enlace:** https://openai.com/index/introducing-structured-outputs-in-the-api
-
-We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas.
-
----
-
-### 13. Variational lossy autoencoder
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Nov 2016 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3414d
-- **Enlace:** https://openai.com/index/variational-lossy-autoencoder
-
-
-
----
-
-### 14. Gotta Learn Fast: A new benchmark for generalization in RL
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Apr 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2896d
-- **Enlace:** https://openai.com/index/gotta-learn-fast
-
-
-
----
-
-### 15. New tools for building agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 11 Mar 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:369d
-- **Enlace:** https://openai.com/index/new-tools-for-building-agents
-
-We’re evolving our platform to help developers and enterprises build useful and reliable agents.
-
----
-
-### 16. Transfer from simulation to real world through learning deep inverse dynamics model
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 11 Oct 2016 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3442d
-- **Enlace:** https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model
-
-
-
----
-
-### 17. Memory and new controls for ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 13 Feb 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:761d
-- **Enlace:** https://openai.com/index/memory-and-new-controls-for-chatgpt
-
-We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful. You’re in control of ChatGPT’s memory.
-
----
-
-### 18. Function calling and other API updates
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 13 Jun 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1006d
-- **Enlace:** https://openai.com/index/function-calling-and-other-api-updates
-
-We’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.
-
----
-
-### 19. Customizing GPT-3 for your application
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Dec 2021 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1552d
-- **Enlace:** https://openai.com/index/customizing-gpt-3
-
-Fine-tune with a single command.
-
----
-
-### 20. Powering virtual education for the classroom
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1097d
-- **Enlace:** https://openai.com/index/khan-academy
-
-Khan Academy explores the potential for GPT-4 in a limited pilot program.
 
 ---

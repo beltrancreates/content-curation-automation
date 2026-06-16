@@ -23731,5 +23731,255 @@
       "authority:9",
       "old:530d"
     ]
+  },
+  {
+    "id": "826eb54229ab08655c549efc64600456a84be2e082b649ffb6cd6b206bd98da1",
+    "title": "Introducing vision to the fine-tuning API",
+    "link": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+    "summary": "Developers can now fine-tune GPT-4o with images and text to improve vision capabilities",
+    "published": "Tue, 01 Oct 2024 10:04:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:530d"
+    ]
+  },
+  {
+    "id": "996a4685bad9338bea3f0216a57765e3a34b627f10200f67bb62a2f85f99320d",
+    "title": "Prompt Caching in the API",
+    "link": "https://openai.com/index/api-prompt-caching",
+    "summary": "Offering automatic discounts on inputs that the model has recently seen",
+    "published": "Tue, 01 Oct 2024 10:03:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:530d"
+    ]
+  },
+  {
+    "id": "3521b5ee9ae9f67f07b80f93654952462882190b79491f2eca897807416d9b6b",
+    "title": "Creating agent and human collaboration with GPT 4o",
+    "link": "https://openai.com/index/altera",
+    "summary": "Altera uses GPT-4o to build a new area of human collaboration",
+    "published": "Tue, 01 Oct 2024 09:59:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:530d"
+    ]
+  },
+  {
+    "id": "4fb5814edacf6d9309d228defa8318dd69e6136a1fdd37d248361c9bef4ce2fd",
+    "title": "Introducing ChatGPT search",
+    "link": "https://openai.com/index/introducing-chatgpt-search",
+    "summary": "Get fast, timely answers with links to relevant web sources",
+    "published": "Thu, 31 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:500d"
+    ]
+  },
+  {
+    "id": "fe207a387d6cdcc1952cab3083de811cbafae741ced9533ab388a62bfc009a89",
+    "title": "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+    "link": "https://openai.com/index/promega",
+    "summary": "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+    "published": "Thu, 31 Oct 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:500d"
+    ]
+  },
+  {
+    "id": "0673515fd5b6b4ddcbb4ee2ef02cac70bf2d3f7f61eb88ac65b03e13c396b406",
+    "title": "Team++",
+    "link": "https://openai.com/index/team-plus-plus",
+    "summary": "We've had some fantastic people join over the past few months (and we're still hiring). Welcome, everyone!",
+    "published": "Thu, 31 Mar 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3636d"
+    ]
+  },
+  {
+    "id": "ee0011780671dfffc40571b760cab9736f9baae11f62a140e24295cd5a1fb35d",
+    "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+    "link": "https://openai.com/index/building-chatgpt-atlas",
+    "summary": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+    "published": "Thu, 30 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:136d"
+    ]
+  },
+  {
+    "id": "e691549d2ead3ecf9872e37de5a5304de1e51d3e3191a9ba13a0aa7ab580baf1",
+    "title": "Jukebox",
+    "link": "https://openai.com/index/jukebox",
+    "summary": "We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.",
+    "published": "Thu, 30 Apr 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2145d"
+    ]
+  },
+  {
+    "id": "8b3c5e1cee5f18ac78d4bfb92763a945cc89d40002a1290d37fdf451ae2f6e5e",
+    "title": "Insights from global conversations",
+    "link": "https://openai.com/index/insights-from-global-conversations",
+    "summary": "We are sharing what we learned from our conversations across 22 countries, and how we will be incorporating those insights moving forward.",
+    "published": "Thu, 29 Jun 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:990d"
+    ]
+  },
+  {
+    "id": "a0baf39b891258767106f59b5cb916c068e57e6ea5d681326c3dc8364c531653",
+    "title": "Language models are few-shot learners",
+    "link": "https://openai.com/index/language-models-are-few-shot-learners",
+    "summary": "",
+    "published": "Thu, 28 May 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2117d"
+    ]
   }
 ]
