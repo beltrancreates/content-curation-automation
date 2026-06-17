@@ -23981,5 +23981,255 @@
       "authority:9",
       "old:2117d"
     ]
+  },
+  {
+    "id": "04fa308392a76b89d347c75dc1ddb52ac615e25e8777decc48f8a58eb5bdb21b",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "published": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "367a24203a70b29fcb8504c6cfc7cef2cbc48192d0c7b768510dddf8fc13ff15",
+    "title": "Making education data accessible",
+    "link": "https://openai.com/index/zelma",
+    "summary": "Zelma uses GPT-4 to make education data accessible.",
+    "published": "Thu, 28 Mar 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:717d"
+    ]
+  },
+  {
+    "id": "f8f5863eb27071ed4afde50ec2ed2ac5f2de6984d9a537482a75ceedb6e88c8c",
+    "title": "Special projects",
+    "link": "https://openai.com/index/special-projects",
+    "summary": "Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter.",
+    "published": "Thu, 28 Jul 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3517d"
+    ]
+  },
+  {
+    "id": "4e0a61e62f1ff6014088b42e7eb8d0c57b2a53fd4fe9e4adb3ed1302dfa39e99",
+    "title": "Introducing gpt-realtime and Realtime API updates",
+    "link": "https://openai.com/index/introducing-gpt-realtime",
+    "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
+    "published": "Thu, 28 Aug 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:199d"
+    ]
+  },
+  {
+    "id": "750dc7e0e214c4a4b1168e899764d93f218df0754dd8adfdd90fe6ada89f251f",
+    "title": "Strategic Content Partnership with TIME",
+    "link": "https://openai.com/index/strategic-content-partnership-with-time",
+    "summary": "We’re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com",
+    "published": "Thu, 27 Jun 2024 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:626d"
+    ]
+  },
+  {
+    "id": "70de2520074c9a7b7a6ab6a48318c52913da49c28242f3e8e9a34a2e1685eec9",
+    "title": "Better exploration with parameter noise",
+    "link": "https://openai.com/index/better-exploration-with-parameter-noise",
+    "summary": "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it’s worth trying on any problem.",
+    "published": "Thu, 27 Jul 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3153d"
+    ]
+  },
+  {
+    "id": "66c6e6143873b535631f946cdc92abc1d53d27c30e6e5898b70d64d6742140c7",
+    "title": "Upgrading the Moderation API with our new multimodal moderation model",
+    "link": "https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model",
+    "summary": "We’re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems.",
+    "published": "Thu, 26 Sep 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:535d"
+    ]
+  },
+  {
+    "id": "0f2e4307db7d732492bcf4a6866bd2283f5efff75423f313f189d0c0ff68852a",
+    "title": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+    "link": "https://openai.com/index/state-of-minnesota",
+    "summary": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+    "published": "Thu, 26 Sep 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:535d"
+    ]
+  },
+  {
+    "id": "eb6bedc4681aae6d77fae90b589e4116c2412aa2128317d4e1be061de31ab534",
+    "title": "Learning a hierarchy",
+    "link": "https://openai.com/index/learning-a-hierarchy",
+    "summary": "We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. Our algorithm, when applied to a set of navigation problems, discovers a set of high-level actions for walking and crawling in different directions, which enables the agent to master new navigation tasks quickly.",
+    "published": "Thu, 26 Oct 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3062d"
+    ]
+  },
+  {
+    "id": "27b4242ab9f5b2bb1b3a2389202def14f57856f73347ddca15c987c36f74b179",
+    "title": "Variational option discovery algorithms",
+    "link": "https://openai.com/index/variational-option-discovery-algorithms",
+    "summary": "",
+    "published": "Thu, 26 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2789d"
+    ]
   }
 ]
