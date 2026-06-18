@@ -24231,5 +24231,255 @@
       "authority:9",
       "old:2789d"
     ]
+  },
+  {
+    "id": "7d3a27277b2eda35614450ee65ed7f732dde5ee146ee96e53317e6a010fc9576",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "c99c438d9092bb92b8ca8aaa0a931a59bed3438b718d2839855a687ed4bacc9f",
+    "title": "Introducing LifeSciBench",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "5c2db52adac19f18d8338b16cfa7cd76d8d89d4efd3610e82477c216322db70a",
+    "title": "More ways to work with your team and tools in ChatGPT",
+    "link": "https://openai.com/index/more-ways-to-work-with-your-team",
+    "summary": "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.",
+    "published": "Thu, 25 Sep 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:171d"
+    ]
+  },
+  {
+    "id": "d7ecf90780347db549117116efcb31de330fd7d2bdb1d3bca0473e3570627efb",
+    "title": "New embedding models and API updates",
+    "link": "https://openai.com/index/new-embedding-models-and-api-updates",
+    "summary": "We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo.",
+    "published": "Thu, 25 Jan 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:780d"
+    ]
+  },
+  {
+    "id": "3bdf44b7447503306bc28eeadda0cfb95815bb34de2bdafdd28d1688a2f43547",
+    "title": "New in ChatGPT for Business: April 2025",
+    "link": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
+    "summary": "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.",
+    "published": "Thu, 24 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:325d"
+    ]
+  },
+  {
+    "id": "6295933807f6d0b1faf3a11dff26ee60e3c41a29558f9c2a3732610a3b42fce1",
+    "title": "Scaling laws for neural language models",
+    "link": "https://openai.com/index/scaling-laws-for-neural-language-models",
+    "summary": "",
+    "published": "Thu, 23 Jan 2020 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2243d"
+    ]
+  },
+  {
+    "id": "c5a8550ae53986469e52a3b8ca4c76bc746d0409bc71eff157bf6c5b4b2a0d23",
+    "title": "Questions for the Record",
+    "link": "https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record",
+    "summary": "The following are the Questions for the Record following Sam Altman's testimony before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).",
+    "published": "Thu, 22 Jun 2023 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:997d"
+    ]
+  },
+  {
+    "id": "44fd4f69f0cdc57f2c0a1bd3f6a0137214cab6f373480af9123450e3d5e031f9",
+    "title": "Empowering a global org with ChatGPT",
+    "link": "https://openai.com/index/bbva",
+    "summary": "Empowering a global org with ChatGPT",
+    "published": "Thu, 21 Nov 2024 05:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:479d"
+    ]
+  },
+  {
+    "id": "82fdad9fed5c2728e03ae56052fa2455782a211dbe8a7699c7da028c9f6053b9",
+    "title": "Benchmarking safe exploration in deep reinforcement learning",
+    "link": "https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning",
+    "summary": "",
+    "published": "Thu, 21 Nov 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2306d"
+    ]
+  },
+  {
+    "id": "7a805897fcacfa8426d8f2486b40f30766cd3d44c1eadb227e2f6bc611a51f08",
+    "title": "Introducing next-generation audio models in the API",
+    "link": "https://openai.com/index/introducing-our-next-generation-audio-models",
+    "summary": "For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of customization for voice agents.",
+    "published": "Thu, 20 Mar 2025 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:360d"
+    ]
   }
 ]

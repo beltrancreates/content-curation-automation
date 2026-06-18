@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-17 11:42 UTC_
+_Actualizado: 2026-06-18 11:05 UTC_
 
 ## Selección priorizada
 
-### 1. Variational option discovery algorithms
+### 1. Introducing next-generation audio models in the API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Mar 2025 11:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:360d
+- **Enlace:** https://openai.com/index/introducing-our-next-generation-audio-models
+
+For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of customization for voice agents.
+
+---
+
+### 2. Benchmarking safe exploration in deep reinforcement learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Nov 2019 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2306d
+- **Enlace:** https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning
+
+
+
+---
+
+### 3. Empowering a global org with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Nov 2024 05:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:479d
+- **Enlace:** https://openai.com/index/bbva
+
+Empowering a global org with ChatGPT
+
+---
+
+### 4. Questions for the Record
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 22 Jun 2023 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:997d
+- **Enlace:** https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record
+
+The following are the Questions for the Record following Sam Altman's testimony before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).
+
+---
+
+### 5. Scaling laws for neural language models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Jan 2020 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2243d
+- **Enlace:** https://openai.com/index/scaling-laws-for-neural-language-models
+
+
+
+---
+
+### 6. New in ChatGPT for Business: April 2025
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 24 Apr 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:325d
+- **Enlace:** https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025
+
+Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.
+
+---
+
+### 7. New embedding models and API updates
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Jan 2024 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:780d
+- **Enlace:** https://openai.com/index/new-embedding-models-and-api-updates
+
+We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo.
+
+---
+
+### 8. More ways to work with your team and tools in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Sep 2025 11:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:171d
+- **Enlace:** https://openai.com/index/more-ways-to-work-with-your-team
+
+ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.
+
+---
+
+### 9. Introducing LifeSciBench
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 17 Jun 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-life-sci-bench
+
+Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
+
+---
+
+### 10. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 17 Jun 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/ai-chemist-improves-reaction
+
+OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
+
+---
+
+### 11. Variational option discovery algorithms
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ _Actualizado: 2026-06-17 11:42 UTC_
 
 ---
 
-### 2. Learning a hierarchy
+### 12. Learning a hierarchy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’ve developed a hierarchical reinforcement learning algorithm that learns hi
 
 ---
 
-### 3. Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
+### 13. Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
 
 ---
 
-### 4. Upgrading the Moderation API with our new multimodal moderation model
+### 14. Upgrading the Moderation API with our new multimodal moderation model
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’re introducing a new model built on GPT-4o that is more accurate at detecti
 
 ---
 
-### 5. Better exploration with parameter noise
+### 15. Better exploration with parameter noise
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ We’ve found that adding adaptive noise to the parameters of reinforcement lear
 
 ---
 
-### 6. Strategic Content Partnership with TIME
+### 16. Strategic Content Partnership with TIME
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ We’re partnering with TIME and its 101 years of archival content to enhance re
 
 ---
 
-### 7. Introducing gpt-realtime and Realtime API updates
+### 17. Introducing gpt-realtime and Realtime API updates
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We’re releasing a more advanced speech-to-speech model and new API capabilitie
 
 ---
 
-### 8. Special projects
+### 18. Special projects
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Impactful scientific work requires working on the right problems—problems whic
 
 ---
 
-### 9. Making education data accessible
+### 19. Making education data accessible
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Zelma uses GPT-4 to make education data accessible.
 
 ---
 
-### 10. Predicting model behavior before release by simulating deployment
+### 20. Predicting model behavior before release by simulating deployment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Zelma uses GPT-4 to make education data accessible.
 - **Enlace:** https://openai.com/index/deployment-simulation
 
 OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
-
----
-
-### 11. Language models are few-shot learners
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 May 2020 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2117d
-- **Enlace:** https://openai.com/index/language-models-are-few-shot-learners
-
-
-
----
-
-### 12. Insights from global conversations
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Jun 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:990d
-- **Enlace:** https://openai.com/index/insights-from-global-conversations
-
-We are sharing what we learned from our conversations across 22 countries, and how we will be incorporating those insights moving forward.
-
----
-
-### 13. Jukebox
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Apr 2020 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2145d
-- **Enlace:** https://openai.com/index/jukebox
-
-We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.
-
----
-
-### 14. How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Oct 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:136d
-- **Enlace:** https://openai.com/index/building-chatgpt-atlas
-
-A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.
-
----
-
-### 15. Team++
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 31 Mar 2016 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3636d
-- **Enlace:** https://openai.com/index/team-plus-plus
-
-We've had some fantastic people join over the past few months (and we're still hiring). Welcome, everyone!
-
----
-
-### 16. Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 31 Oct 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:500d
-- **Enlace:** https://openai.com/index/promega
-
-Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
-
----
-
-### 17. Introducing ChatGPT search
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 31 Oct 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:500d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-search
-
-Get fast, timely answers with links to relevant web sources
-
----
-
-### 18. Creating agent and human collaboration with GPT 4o
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 09:59:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
-- **Enlace:** https://openai.com/index/altera
-
-Altera uses GPT-4o to build a new area of human collaboration
-
----
-
-### 19. Prompt Caching in the API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 10:03:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
-- **Enlace:** https://openai.com/index/api-prompt-caching
-
-Offering automatic discounts on inputs that the model has recently seen
-
----
-
-### 20. Introducing vision to the fine-tuning API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 10:04:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:530d
-- **Enlace:** https://openai.com/index/introducing-vision-to-the-fine-tuning-api
-
-Developers can now fine-tune GPT-4o with images and text to improve vision capabilities
 
 ---
