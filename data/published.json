@@ -24481,5 +24481,253 @@
       "authority:9",
       "old:360d"
     ]
+  },
+  {
+    "id": "cca0eea79c5ff8fa1d4e3ee399afba59d5d58846479b852c9b2adec740c576a7",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "15d2fb2093d8691766ba0d0d076dc25b296cb0e7b9a5132cf0b6c5dbc410ea8e",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "16bf645e982555266e9f32f02f5c6f1489b068019fc3ad5351a2a97905e547a8",
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "aada659910fee434fe41c603fecf335e36075801c7da52d614ac4d97a46ce0d7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,model,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "862bf0afd8468d2ced6fd5bb49a6750bb681f6a385788be85860150520acfb3f",
+    "title": "Consistency Models",
+    "link": "https://openai.com/index/consistency-models",
+    "summary": "Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.",
+    "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:633d"
+    ]
+  },
+  {
+    "id": "3a81150a44c3648328478cd9ca27cfdf30abb114dfd640e3097196cf795a3c75",
+    "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+    "link": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
+    "summary": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
+    "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:633d"
+    ]
+  },
+  {
+    "id": "c5eb04d6632532a87ee8c0dba21dd582e2c16bc80dbcb5b84674d1d07a8faa3a",
+    "title": "Custom instructions for ChatGPT",
+    "link": "https://openai.com/index/custom-instructions-for-chatgpt",
+    "summary": "We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.",
+    "published": "Thu, 20 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:969d"
+    ]
+  },
+  {
+    "id": "ac17b8d5860c3869f3a096491b0022c7b6e3043b2f9cfaaac4c51324414f8a19",
+    "title": "College students and ChatGPT adoption in the US",
+    "link": "https://openai.com/global-affairs/college-students-and-chatgpt",
+    "summary": "A look into state-by-state adoption and how gaps might impact workforce readiness.",
+    "published": "Thu, 20 Feb 2025 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:388d"
+    ]
+  },
+  {
+    "id": "49c070da3494e1bb6abf6ee1c572758cc74ebf96f620bc6cd608cc92fd1e9592",
+    "title": "PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications",
+    "link": "https://openai.com/index/pixelcnn-plus-plus",
+    "summary": "",
+    "published": "Thu, 19 Jan 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3342d"
+    ]
+  },
+  {
+    "id": "bbf9205382d50e5b4f2a22e35964137410f3de9b73f39a4f6d6ae97168775c7f",
+    "title": "Introducing the ChatGPT app for iOS",
+    "link": "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+    "summary": "The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips.",
+    "published": "Thu, 18 May 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1032d"
+    ]
   }
 ]

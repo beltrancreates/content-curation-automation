@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-18 11:05 UTC_
+_Actualizado: 2026-06-19 11:16 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing next-generation audio models in the API
+### 1. Introducing the ChatGPT app for iOS
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 May 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1032d
+- **Enlace:** https://openai.com/index/introducing-the-chatgpt-app-for-ios
+
+The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips.
+
+---
+
+### 2. PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 19 Jan 2017 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3342d
+- **Enlace:** https://openai.com/index/pixelcnn-plus-plus
+
+
+
+---
+
+### 3. College students and ChatGPT adoption in the US
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Feb 2025 06:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:388d
+- **Enlace:** https://openai.com/global-affairs/college-students-and-chatgpt
+
+A look into state-by-state adoption and how gaps might impact workforce readiness.
+
+---
+
+### 4. Custom instructions for ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jul 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:969d
+- **Enlace:** https://openai.com/index/custom-instructions-for-chatgpt
+
+We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.
+
+---
+
+### 5. A Holistic Approach to Undesired Content Detection in the Real World
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jun 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:633d
+- **Enlace:** https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world
+
+We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.
+
+---
+
+### 6. Consistency Models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Jun 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:633d
+- **Enlace:** https://openai.com/index/consistency-models
+
+Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.
+
+---
+
+### 7. A startup claims it broke through a bottleneck that’s holding back LLMs
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 19 Jun 2026 10:40:24 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,model,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+
+Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;
+
+---
+
+### 8. Improving health intelligence in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jun 2026 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/improving-health-intelligence-in-chatgpt
+
+Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
+
+---
+
+### 9. New usage analytics and updated spend controls for enterprises
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jun 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/chatgpt-enterprise-spend-controls
+
+OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
+
+---
+
+### 10. Using AI to help physicians diagnose rare genetic diseases affecting children
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jun 2026 08:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/diagnose-rare-childhood-diseases
+
+Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
+
+---
+
+### 11. Introducing next-generation audio models in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ For the first time, developers can also instruct the text-to-speech model to spe
 
 ---
 
-### 2. Benchmarking safe exploration in deep reinforcement learning
+### 12. Benchmarking safe exploration in deep reinforcement learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ For the first time, developers can also instruct the text-to-speech model to spe
 
 ---
 
-### 3. Empowering a global org with ChatGPT
+### 13. Empowering a global org with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Empowering a global org with ChatGPT
 
 ---
 
-### 4. Questions for the Record
+### 14. Questions for the Record
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ The following are the Questions for the Record following Sam Altman's testimony 
 
 ---
 
-### 5. Scaling laws for neural language models
+### 15. Scaling laws for neural language models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ The following are the Questions for the Record following Sam Altman's testimony 
 
 ---
 
-### 6. New in ChatGPT for Business: April 2025
+### 16. New in ChatGPT for Business: April 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generatio
 
 ---
 
-### 7. New embedding models and API updates
+### 17. New embedding models and API updates
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We are launching a new generation of embedding models, new GPT-4 Turbo and moder
 
 ---
 
-### 8. More ways to work with your team and tools in ChatGPT
+### 18. More ways to work with your team and tools in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ ChatGPT business plans now support shared projects, smarter connectors, and enha
 
 ---
 
-### 9. Introducing LifeSciBench
+### 19. Introducing LifeSciBench
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for eval
 
 ---
 
-### 10. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+### 20. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for eval
 - **Enlace:** https://openai.com/index/ai-chemist-improves-reaction
 
 OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
-
----
-
-### 11. Variational option discovery algorithms
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Jul 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2789d
-- **Enlace:** https://openai.com/index/variational-option-discovery-algorithms
-
-
-
----
-
-### 12. Learning a hierarchy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Oct 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3062d
-- **Enlace:** https://openai.com/index/learning-a-hierarchy
-
-We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. Our algorithm, when applied to a set of navigation problems, discovers a set of high-level actions for walking and crawling in different directions, which enables the agent to master new navigation tasks quickly.
-
----
-
-### 13. Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Sep 2024 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:535d
-- **Enlace:** https://openai.com/index/state-of-minnesota
-
-Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
-
----
-
-### 14. Upgrading the Moderation API with our new multimodal moderation model
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 26 Sep 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:535d
-- **Enlace:** https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model
-
-We’re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems.
-
----
-
-### 15. Better exploration with parameter noise
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Jul 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3153d
-- **Enlace:** https://openai.com/index/better-exploration-with-parameter-noise
-
-We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it’s worth trying on any problem.
-
----
-
-### 16. Strategic Content Partnership with TIME
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 27 Jun 2024 06:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:626d
-- **Enlace:** https://openai.com/index/strategic-content-partnership-with-time
-
-We’re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com
-
----
-
-### 17. Introducing gpt-realtime and Realtime API updates
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 Aug 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:199d
-- **Enlace:** https://openai.com/index/introducing-gpt-realtime
-
-We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.
-
----
-
-### 18. Special projects
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 Jul 2016 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3517d
-- **Enlace:** https://openai.com/index/special-projects
-
-Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter.
-
----
-
-### 19. Making education data accessible
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 28 Mar 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:717d
-- **Enlace:** https://openai.com/index/zelma
-
-Zelma uses GPT-4 to make education data accessible.
-
----
-
-### 20. Predicting model behavior before release by simulating deployment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Jun 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/deployment-simulation
-
-OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
 
 ---

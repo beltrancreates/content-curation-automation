@@ -1525,6 +1525,31 @@
     ]
   },
   {
+    "id": "cca0eea79c5ff8fa1d4e3ee399afba59d5d58846479b852c9b2adec740c576a7",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -7780,6 +7805,31 @@
     "link": "https://openai.com/index/introducing-openai-partner-network",
     "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
     "published": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "15d2fb2093d8691766ba0d0d076dc25b296cb0e7b9a5132cf0b6c5dbc410ea8e",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published": "Thu, 18 Jun 2026 17:00:00 GMT",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
     "source_type": "rss",
@@ -21549,6 +21599,31 @@
     ]
   },
   {
+    "id": "16bf645e982555266e9f32f02f5c6f1489b068019fc3ad5351a2a97905e547a8",
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "faa60f35b7b4c481314aff9d5c62fefcf38ce54f6ff756c6f24ccb43bef11a20",
     "title": "Shifting to AI model customization is an architectural imperative",
     "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
@@ -21728,6 +21803,29 @@
     "score": 10.4,
     "reasons": [
       "keyword_hits:ai,research,safety",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "aada659910fee434fe41c603fecf335e36075801c7da52d614ac4d97a46ce0d7",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,model,llm",
       "authority:8",
       "recent:0d"
     ]
@@ -27776,6 +27874,29 @@
     ]
   },
   {
+    "id": "c168e5a11bfe5e5762502f16580bcf0ca58ecd9e703818d0ee2bc702da6748a3",
+    "title": "Brain-computer interface trials are taking off",
+    "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+    "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -31483,6 +31604,52 @@
     "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
     "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted&#8230;",
     "published": "Thu, 18 Jun 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "edd0df62049a019278226a4009cebc6efe0dd2d6b79a3928bb8844b48da8c7b3",
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+    "published": "Thu, 18 Jun 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "cf0c6aaf407545d57e56ba43ff4269704d98886fb6cd7bde1127f5bbaf33a8fb",
+    "title": "The inevitable weakness of metrics",
+    "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+    "published": "Fri, 19 Jun 2026 09:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",
