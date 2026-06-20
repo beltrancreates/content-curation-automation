@@ -1,10 +1,141 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-19 11:16 UTC_
+_Actualizado: 2026-06-20 09:58 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing the ChatGPT app for iOS
+### 1. Spinning Up in Deep RL
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 08 Nov 2018 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2684d
+- **Enlace:** https://openai.com/index/spinning-up-in-deep-rl
+
+We’re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear examples of RL code, educational exercises, documentation, and tutorials.
+
+---
+
+### 2. BrowseComp: a benchmark for browsing agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Apr 2025 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:339d
+- **Enlace:** https://openai.com/index/browsecomp
+
+BrowseComp: a benchmark for browsing agents.
+
+---
+
+### 3. Learning to model other minds
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 14 Sep 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3104d
+- **Enlace:** https://openai.com/index/learning-to-model-other-minds
+
+We’re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner’s dilemma. This algorithm, Learning with Opponent-Learning Awareness (LOLA), is a small step towards agents that model other minds.
+
+---
+
+### 4. New and improved embedding model
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Dec 2022 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1186d
+- **Enlace:** https://openai.com/index/new-and-improved-embedding-model
+
+We are excited to announce a new embedding model which is significantly more capable, cost effective, and simpler to use.
+
+---
+
+### 5. Improving GANs using optimal transport
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Mar 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2922d
+- **Enlace:** https://openai.com/index/improving-gans-using-optimal-transport
+
+
+
+---
+
+### 6. WebGPT: Improving the factual accuracy of language models through web browsing
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 Dec 2021 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1550d
+- **Enlace:** https://openai.com/index/webgpt
+
+We’ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser.
+
+---
+
+### 7. Improvements to data analysis in ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 16 May 2024 15:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:668d
+- **Enlace:** https://openai.com/index/improvements-to-data-analysis-in-chatgpt
+
+Improvements to data analysis in ChatGPT
+Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive.
+
+---
+
+### 8. Scaling Kubernetes to 2,500 nodes
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jan 2018 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2978d
+- **Enlace:** https://openai.com/index/scaling-kubernetes-to-2500-nodes
+
+
+
+---
+
+### 9. New compliance and administrative tools for ChatGPT Enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jul 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:605d
+- **Enlace:** https://openai.com/index/new-tools-for-chatgpt-enterprise
+
+Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale
+
+---
+
+### 10. GPT-4o mini: advancing cost-efficient intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Jul 2024 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:605d
+- **Enlace:** https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
+
+Introducing the most cost-efficient small model in the market
+
+---
+
+### 11. Introducing the ChatGPT app for iOS
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +148,7 @@ The ChatGPT app syncs your conversations, supports voice input, and brings our l
 
 ---
 
-### 2. PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
+### 12. PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +161,7 @@ The ChatGPT app syncs your conversations, supports voice input, and brings our l
 
 ---
 
-### 3. College students and ChatGPT adoption in the US
+### 13. College students and ChatGPT adoption in the US
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +174,7 @@ A look into state-by-state adoption and how gaps might impact workforce readines
 
 ---
 
-### 4. Custom instructions for ChatGPT
+### 14. Custom instructions for ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +187,7 @@ We’re rolling out custom instructions to give you more control over how ChatGP
 
 ---
 
-### 5. A Holistic Approach to Undesired Content Detection in the Real World
+### 15. A Holistic Approach to Undesired Content Detection in the Real World
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +200,7 @@ We present a holistic approach to building a robust and useful natural language 
 
 ---
 
-### 6. Consistency Models
+### 16. Consistency Models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +213,7 @@ Diffusion models have significantly advanced the fields of image, audio, and vid
 
 ---
 
-### 7. A startup claims it broke through a bottleneck that’s holding back LLMs
+### 17. A startup claims it broke through a bottleneck that’s holding back LLMs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +226,7 @@ Miami-based AI startup Subquadratic came out of stealth mode last month with a h
 
 ---
 
-### 8. Improving health intelligence in ChatGPT
+### 18. Improving health intelligence in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +239,7 @@ Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses wit
 
 ---
 
-### 9. New usage analytics and updated spend controls for enterprises
+### 19. New usage analytics and updated spend controls for enterprises
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +252,7 @@ OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise,
 
 ---
 
-### 10. Using AI to help physicians diagnose rare genetic diseases affecting children
+### 20. Using AI to help physicians diagnose rare genetic diseases affecting children
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +262,5 @@ OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise,
 - **Enlace:** https://openai.com/index/diagnose-rare-childhood-diseases
 
 Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
-
----
-
-### 11. Introducing next-generation audio models in the API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 20 Mar 2025 11:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:360d
-- **Enlace:** https://openai.com/index/introducing-our-next-generation-audio-models
-
-For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of customization for voice agents.
-
----
-
-### 12. Benchmarking safe exploration in deep reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Nov 2019 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2306d
-- **Enlace:** https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning
-
-
-
----
-
-### 13. Empowering a global org with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Nov 2024 05:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:479d
-- **Enlace:** https://openai.com/index/bbva
-
-Empowering a global org with ChatGPT
-
----
-
-### 14. Questions for the Record
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jun 2023 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:997d
-- **Enlace:** https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record
-
-The following are the Questions for the Record following Sam Altman's testimony before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).
-
----
-
-### 15. Scaling laws for neural language models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Jan 2020 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2243d
-- **Enlace:** https://openai.com/index/scaling-laws-for-neural-language-models
-
-
-
----
-
-### 16. New in ChatGPT for Business: April 2025
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 24 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:325d
-- **Enlace:** https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025
-
-Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.
-
----
-
-### 17. New embedding models and API updates
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 25 Jan 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:780d
-- **Enlace:** https://openai.com/index/new-embedding-models-and-api-updates
-
-We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo.
-
----
-
-### 18. More ways to work with your team and tools in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 25 Sep 2025 11:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:171d
-- **Enlace:** https://openai.com/index/more-ways-to-work-with-your-team
-
-ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.
-
----
-
-### 19. Introducing LifeSciBench
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Jun 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-life-sci-bench
-
-Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
-
----
-
-### 20. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 17 Jun 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ai-chemist-improves-reaction
-
-OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
 
 ---

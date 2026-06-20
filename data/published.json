@@ -24729,5 +24729,255 @@
       "authority:9",
       "old:1032d"
     ]
+  },
+  {
+    "id": "db6b727b89f9dc9281a79edb6305568fe21fc2dd85a60ab7c1a1dc8217e5cd9f",
+    "title": "GPT-4o mini: advancing cost-efficient intelligence",
+    "link": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+    "summary": "Introducing the most cost-efficient small model in the market",
+    "published": "Thu, 18 Jul 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:605d"
+    ]
+  },
+  {
+    "id": "cab47e0b0631e43b78d858bdaeb8ddf7c30c7810f3fa13d9a51751ff837b9848",
+    "title": "New compliance and administrative tools for ChatGPT Enterprise",
+    "link": "https://openai.com/index/new-tools-for-chatgpt-enterprise",
+    "summary": "Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale",
+    "published": "Thu, 18 Jul 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:605d"
+    ]
+  },
+  {
+    "id": "0ed156e8a45471450cc881d677ed05c14ea33f92a5165b78832e62a28a4205e2",
+    "title": "Scaling Kubernetes to 2,500 nodes",
+    "link": "https://openai.com/index/scaling-kubernetes-to-2500-nodes",
+    "summary": "",
+    "published": "Thu, 18 Jan 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2978d"
+    ]
+  },
+  {
+    "id": "f37ef45acf88ef1254774bcede25e272fafdf8a01dffecc3c19d34f80546720f",
+    "title": "Improvements to data analysis in ChatGPT",
+    "link": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt",
+    "summary": "Improvements to data analysis in ChatGPT\nInteract with tables and charts and add files directly from Google Drive and Microsoft OneDrive.",
+    "published": "Thu, 16 May 2024 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:668d"
+    ]
+  },
+  {
+    "id": "4892f9fe1feb2063fa8dfc9a67351d46863fa1eb61722fa49152aca9bd25f2bf",
+    "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+    "link": "https://openai.com/index/webgpt",
+    "summary": "We’ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser.",
+    "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1550d"
+    ]
+  },
+  {
+    "id": "d3d14722b34fb88802cc37f44292e1930caf8a1a23ae79530b370d3d59e47b24",
+    "title": "Improving GANs using optimal transport",
+    "link": "https://openai.com/index/improving-gans-using-optimal-transport",
+    "summary": "",
+    "published": "Thu, 15 Mar 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2922d"
+    ]
+  },
+  {
+    "id": "3804a4f17ef66b1ef1795d5020093d5f548aaa9531be1c57e8a4184a24ac9c65",
+    "title": "New and improved embedding model",
+    "link": "https://openai.com/index/new-and-improved-embedding-model",
+    "summary": "We are excited to announce a new embedding model which is significantly more capable, cost effective, and simpler to use.",
+    "published": "Thu, 15 Dec 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1186d"
+    ]
+  },
+  {
+    "id": "36eab13f9f86b7fda2877dedf00f5379c80caea1775b439935d1b456577383e1",
+    "title": "Learning to model other minds",
+    "link": "https://openai.com/index/learning-to-model-other-minds",
+    "summary": "We’re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner’s dilemma. This algorithm, Learning with Opponent-Learning Awareness (LOLA), is a small step towards agents that model other minds.",
+    "published": "Thu, 14 Sep 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3104d"
+    ]
+  },
+  {
+    "id": "0d5fed5ce2d4f2cdbb204e57a27e9ce56b9e905bfede483f7692e8dd307783af",
+    "title": "BrowseComp: a benchmark for browsing agents",
+    "link": "https://openai.com/index/browsecomp",
+    "summary": "BrowseComp: a benchmark for browsing agents.",
+    "published": "Thu, 10 Apr 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:339d"
+    ]
+  },
+  {
+    "id": "8a579e95adc90e2f7d43b7fe92d946758189588401b2ee6d8bec168fcd8d208f",
+    "title": "Spinning Up in Deep RL",
+    "link": "https://openai.com/index/spinning-up-in-deep-rl",
+    "summary": "We’re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear examples of RL code, educational exercises, documentation, and tutorials.",
+    "published": "Thu, 08 Nov 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2684d"
+    ]
   }
 ]
