@@ -24979,5 +24979,255 @@
       "authority:9",
       "old:2684d"
     ]
+  },
+  {
+    "id": "1a2a5e3bca0d1b715b56debfd10ae83b5371eb5cfc258b41ffd855e4b385fd46",
+    "title": "On first-order meta-learning algorithms",
+    "link": "https://openai.com/index/on-first-order-meta-learning-algorithms",
+    "summary": "",
+    "published": "Thu, 08 Mar 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2929d"
+    ]
+  },
+  {
+    "id": "6a7dfa51f70cfb828b71b0627fbcd05755b6af3465dddc32258162fb56985c86",
+    "title": "GPT-4o System Card External Testers Acknowledgements",
+    "link": "https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements",
+    "summary": "GPT-4o system card external testers acknowledgements",
+    "published": "Thu, 08 Aug 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:584d"
+    ]
+  },
+  {
+    "id": "bae6507a57cbc8c0bfeeb30cdeb3ab847166b07a16727d641464bcda77efac0e",
+    "title": "Enabling a data-driven workforce",
+    "link": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+    "summary": "In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.",
+    "published": "Thu, 08 Aug 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:584d"
+    ]
+  },
+  {
+    "id": "afafc7223947b1c33cc49b89a0f931a07f1a8656fe033f5cf1783621a147b808",
+    "title": "Introducing GPT-5 for developers",
+    "link": "https://openai.com/index/introducing-gpt-5-for-developers",
+    "summary": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.",
+    "published": "Thu, 07 Aug 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "107f4e112d1c8dc42e2e1153124e639269eb22005bd2b5e123d7c9b92fd186ec",
+    "title": "Coding and design with GPT-5",
+    "link": "https://openai.com/index/gpt-5-coding-design",
+    "summary": "Learn how GPT-5 unlocks new possibilities in coding and design.",
+    "published": "Thu, 07 Aug 2025 00:03:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "6ab1d6962d42eda0e194ee4e56eee0597aeb9a396296f0a509454745728fb08f",
+    "title": "Creative writing with GPT-5",
+    "link": "https://openai.com/index/gpt-5-creative-writing",
+    "summary": "Learn how GPT-5 assists with creative writing.",
+    "published": "Thu, 07 Aug 2025 00:02:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "e914075b3b5a1579d956273ddf394cd61b154cf315758a58be537a1eff11afc8",
+    "title": "How Cursor uses GPT-5",
+    "link": "https://openai.com/index/gpt-5-cursor",
+    "summary": "Learn how Cursor uses GPT-5.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "e7f8226155de2639e5953c3f20a21e4530c99606e335931007b2c043899cc273",
+    "title": "First look at GPT-5",
+    "link": "https://openai.com/index/gpt-5-first-look",
+    "summary": "See how a group of leading developers use GPT-5 for the first time.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "ea978b8962f2802026af0c2bfd8a07ef245c32f8d99b1060e9e820be68cdc201",
+    "title": "How Amgen uses GPT-5",
+    "link": "https://openai.com/index/gpt-5-amgen",
+    "summary": "Learn how Amgen uses GPT-5.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:220d"
+    ]
+  },
+  {
+    "id": "a57c2d30a11503bf1eb45d85302082e963a196cadda516b1ad74114120f58176",
+    "title": "Improving India’s critical care infrastructure",
+    "link": "https://openai.com/index/10bedicu",
+    "summary": "",
+    "published": "Thu, 06 Jun 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:647d"
+    ]
   }
 ]
