@@ -25229,5 +25229,255 @@
       "authority:9",
       "old:647d"
     ]
+  },
+  {
+    "id": "a5ad1f9b50b08e371fa49c539708b3bc13bd33d2f4598079db53835888bf212c",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "published": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "5be223ece6b86e123b563a154dffa27a3983078cd6d4d3b01fae5f2515d0b90b",
+    "title": "Extracting Concepts from GPT-4",
+    "link": "https://openai.com/index/extracting-concepts-from-gpt-4",
+    "summary": "Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations.",
+    "published": "Thu, 06 Jun 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:647d"
+    ]
+  },
+  {
+    "id": "eced6eaef37a585c4595ff73545d3b0149c57cb90b67bbe171dc1a11cb78ef2a",
+    "title": "Using GPT-4 to deliver a new customer service standard",
+    "link": "https://openai.com/index/ada",
+    "summary": "Ada uses GPT-4 to deliver a new customer service standard",
+    "published": "Thu, 05 Sep 2024 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:556d"
+    ]
+  },
+  {
+    "id": "b2f960344448d2d522b253679518561c9f7e8cd31698a19434afd1f6a35f4332",
+    "title": "GPT-5.3-Codex System Card",
+    "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "6b46382980c79e4a8ccdf1667cf4bc4ea9da76b84fa8fbc550cd95ceebacd320",
+    "title": "Navigating health questions with ChatGPT",
+    "link": "https://openai.com/index/navigating-health-questions",
+    "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:38d"
+    ]
+  },
+  {
+    "id": "e878a321cd7279ae7493860ed452420cb186650fbe12fe7fcddef01473e19ec1",
+    "title": "Retro Contest",
+    "link": "https://openai.com/index/retro-contest",
+    "summary": "We’re launching a transfer learning contest that measures a reinforcement learning algorithm’s ability to generalize from previous experience.",
+    "published": "Thu, 05 Apr 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2901d"
+    ]
+  },
+  {
+    "id": "60db285349ac4c580234aea0a630f7dd86007aa1937e721704ab2f51002ec325",
+    "title": "Understanding the capabilities, limitations, and societal impact of large language models",
+    "link": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models",
+    "summary": "",
+    "published": "Thu, 04 Feb 2021 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1865d"
+    ]
+  },
+  {
+    "id": "0f6588baa7e6cad6e2d9708c190e95f0691e6b857979735c89a528b4f6537f10",
+    "title": "Introducing canvas, a new way to write and code with ChatGPT.",
+    "link": "https://openai.com/index/introducing-canvas",
+    "summary": "Introducing canvas",
+    "published": "Thu, 03 Oct 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:528d"
+    ]
+  },
+  {
+    "id": "d90ccc332636a799afb2382aa79d44f93226e46ed6e1dd76d4ec177bef9b6bad",
+    "title": "New Credit Facility Enhances Financial Flexibility",
+    "link": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
+    "published": "Thu, 03 Oct 2024 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:528d"
+    ]
+  },
+  {
+    "id": "ccf33862a1d6f014f67b8104ad274317d9d5c6e5638c24e573484b13eb80ca19",
+    "title": "Interpretable and pedagogical examples",
+    "link": "https://openai.com/index/interpretable-and-pedagogical-examples",
+    "summary": "",
+    "published": "Thu, 02 Nov 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3055d"
+    ]
   }
 ]
