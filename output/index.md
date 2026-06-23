@@ -1,10 +1,141 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-22 12:44 UTC_
+_Actualizado: 2026-06-23 10:32 UTC_
 
 ## Selección priorizada
 
-### 1. Interpretable and pedagogical examples
+### 1. Teacher–student curriculum learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Jul 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3179d
+- **Enlace:** https://openai.com/index/teacher-student-curriculum-learning
+
+
+
+---
+
+### 2. GamePad: A learning environment for theorem proving
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 02 Jun 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2843d
+- **Enlace:** https://openai.com/index/gamepad
+
+
+
+---
+
+### 3. Some considerations on learning to explore via meta-reinforcement learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 03 Mar 2018 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2934d
+- **Enlace:** https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning
+
+
+
+---
+
+### 4. Prediction and control with temporal segment models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 12 Mar 2017 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3290d
+- **Enlace:** https://openai.com/index/prediction-and-control-with-temporal-segment-models
+
+
+
+---
+
+### 5. Learning policy representations in multiagent systems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 17 Jun 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2828d
+- **Enlace:** https://openai.com/index/learning-policy-representations-in-multiagent-systems
+
+
+
+---
+
+### 6. How the voices for ChatGPT were chosen
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 19 May 2024 23:30:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:664d
+- **Enlace:** https://openai.com/index/how-the-voices-for-chatgpt-were-chosen
+
+How the voices for ChatGPT were chosen
+We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.
+
+---
+
+### 7. Codex-maxxing for long-running work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Jun 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/codex-maxxing-long-running-work
+
+Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
+
+---
+
+### 8. Daybreak: Tools for securing every organization in the world
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Jun 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/daybreak-securing-the-world
+
+OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
+
+---
+
+### 9. How Omio is building the future of conversational travel
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 23 Jun 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/omio
+
+Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
+
+---
+
+### 10. Patch the Planet: a Daybreak initiative to support open source maintainers
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Jun 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,open source, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/patch-the-planet
+
+OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
+
+---
+
+### 11. Interpretable and pedagogical examples
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +148,7 @@ _Actualizado: 2026-06-22 12:44 UTC_
 
 ---
 
-### 2. New Credit Facility Enhances Financial Flexibility
+### 12. New Credit Facility Enhances Financial Flexibility
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +161,7 @@ In addition to securing $6.6 billion in new funding from leading investors, we h
 
 ---
 
-### 3. Introducing canvas, a new way to write and code with ChatGPT.
+### 13. Introducing canvas, a new way to write and code with ChatGPT.
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +174,7 @@ Introducing canvas
 
 ---
 
-### 4. Understanding the capabilities, limitations, and societal impact of large language models
+### 14. Understanding the capabilities, limitations, and societal impact of large language models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +187,7 @@ Introducing canvas
 
 ---
 
-### 5. Retro Contest
+### 15. Retro Contest
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +200,7 @@ We’re launching a transfer learning contest that measures a reinforcement lear
 
 ---
 
-### 6. Navigating health questions with ChatGPT
+### 16. Navigating health questions with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +213,7 @@ A family shares how ChatGPT helped them prepare for critical cancer treatment de
 
 ---
 
-### 7. GPT-5.3-Codex System Card
+### 17. GPT-5.3-Codex System Card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +226,7 @@ GPT‑5.3-Codex is the most capable agentic coding model to date, combining the 
 
 ---
 
-### 8. Using GPT-4 to deliver a new customer service standard
+### 18. Using GPT-4 to deliver a new customer service standard
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +239,7 @@ Ada uses GPT-4 to deliver a new customer service standard
 
 ---
 
-### 9. Extracting Concepts from GPT-4
+### 19. Extracting Concepts from GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +252,7 @@ Using new techniques for scaling sparse autoencoders, we automatically identifie
 
 ---
 
-### 10. Samsung Electronics brings ChatGPT and Codex to employees
+### 20. Samsung Electronics brings ChatGPT and Codex to employees
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +262,5 @@ Using new techniques for scaling sparse autoencoders, we automatically identifie
 - **Enlace:** https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
 
 Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
-
----
-
-### 11. Improving India’s critical care infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Jun 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:647d
-- **Enlace:** https://openai.com/index/10bedicu
-
-
-
----
-
-### 12. How Amgen uses GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-amgen
-
-Learn how Amgen uses GPT-5.
-
----
-
-### 13. First look at GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-first-look
-
-See how a group of leading developers use GPT-5 for the first time.
-
----
-
-### 14. How Cursor uses GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-cursor
-
-Learn how Cursor uses GPT-5.
-
----
-
-### 15. Creative writing with GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:02:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-creative-writing
-
-Learn how GPT-5 assists with creative writing.
-
----
-
-### 16. Coding and design with GPT-5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:03:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/gpt-5-coding-design
-
-Learn how GPT-5 unlocks new possibilities in coding and design.
-
----
-
-### 17. Introducing GPT-5 for developers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:220d
-- **Enlace:** https://openai.com/index/introducing-gpt-5-for-developers
-
-Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.
-
----
-
-### 18. Enabling a data-driven workforce
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 Aug 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:584d
-- **Enlace:** https://openai.com/business/enabling-a-data-driven-workforce-webinar
-
-In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.
-
----
-
-### 19. GPT-4o System Card External Testers Acknowledgements
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 Aug 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:584d
-- **Enlace:** https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements
-
-GPT-4o system card external testers acknowledgements
-
----
-
-### 20. On first-order meta-learning algorithms
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 Mar 2018 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2929d
-- **Enlace:** https://openai.com/index/on-first-order-meta-learning-algorithms
-
-
 
 ---

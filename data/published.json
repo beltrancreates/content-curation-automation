@@ -25479,5 +25479,255 @@
       "authority:9",
       "old:3055d"
     ]
+  },
+  {
+    "id": "27d7c1511b73f192c5a30dcf804b6f161a77d597f77696eef9f3c545c5ebbc72",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,open source",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "fa0edd79b55d638250cb1d2e229ac613fabaee8d306a79d9cb399a3819253510",
+    "title": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "375b64a5680f56f4785d0b0628a2c42a7f1ccc8b7d49f308537da339791b8baf",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "fdc92bcfa5d4d4ccd5d281f582935d7bcd5d780a3f01165a34428aa3d8e47f2b",
+    "title": "Codex-maxxing for long-running work",
+    "link": "https://openai.com/index/codex-maxxing-long-running-work",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "published": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "33a012819e9666834640c72fca55d5c47e164630564c18574efb08b1c6707281",
+    "title": "How the voices for ChatGPT were chosen",
+    "link": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen",
+    "summary": "How the voices for ChatGPT were chosen\nWe worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.",
+    "published": "Sun, 19 May 2024 23:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:664d"
+    ]
+  },
+  {
+    "id": "dab15fdbbebceb1b87ec65afe67e62bda8ce399cbe3e8460f95cd043f65637c9",
+    "title": "Learning policy representations in multiagent systems",
+    "link": "https://openai.com/index/learning-policy-representations-in-multiagent-systems",
+    "summary": "",
+    "published": "Sun, 17 Jun 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2828d"
+    ]
+  },
+  {
+    "id": "24499136378b095af5c1e4eab1448d05d27a82deff25663f05a3e30798b778ee",
+    "title": "Prediction and control with temporal segment models",
+    "link": "https://openai.com/index/prediction-and-control-with-temporal-segment-models",
+    "summary": "",
+    "published": "Sun, 12 Mar 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3290d"
+    ]
+  },
+  {
+    "id": "50d7a3882579ea4ab5b01efdf1cc6cec15e6f13cd601f71788bc5615e76d395e",
+    "title": "Some considerations on learning to explore via meta-reinforcement learning",
+    "link": "https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning",
+    "summary": "",
+    "published": "Sat, 03 Mar 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2934d"
+    ]
+  },
+  {
+    "id": "0efbd4b2d18ff39b381323c917ed7fcefc83b0cea58e840461c5f8a7adab642e",
+    "title": "GamePad: A learning environment for theorem proving",
+    "link": "https://openai.com/index/gamepad",
+    "summary": "",
+    "published": "Sat, 02 Jun 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2843d"
+    ]
+  },
+  {
+    "id": "2036c9c0c444e948cdc6344fe8f816873a7ec3f3e47ead0c6704863778818fe4",
+    "title": "Teacher–student curriculum learning",
+    "link": "https://openai.com/index/teacher-student-curriculum-learning",
+    "summary": "",
+    "published": "Sat, 01 Jul 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3179d"
+    ]
   }
 ]
