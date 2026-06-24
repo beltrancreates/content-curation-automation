@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-23 10:32 UTC_
+_Actualizado: 2026-06-24 10:17 UTC_
 
 ## Selección priorizada
 
-### 1. Teacher–student curriculum learning
+### 1. A hazard analysis framework for code synthesis large language models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Jul 2022 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1329d
+- **Enlace:** https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models
+
+
+
+---
+
+### 2. GPT-4V(ision) system card
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Sep 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:902d
+- **Enlace:** https://openai.com/index/gpt-4v-system-card
+
+
+
+---
+
+### 3. ChatGPT can now see, hear, and speak
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 Sep 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:902d
+- **Enlace:** https://openai.com/index/chatgpt-can-now-see-hear-and-speak
+
+We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about.
+
+---
+
+### 4. Fine-tuning GPT-4o webinar
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Aug 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:566d
+- **Enlace:** https://openai.com/business/fine-tuning-gpt-4o-webinar
+
+Fine-Tuning GPT-4o Webinar
+
+---
+
+### 5. Introducing ChatGPT Enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Aug 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:930d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-enterprise
+
+Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
+
+---
+
+### 6. Infrastructure for deep learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 29 Aug 2016 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3485d
+- **Enlace:** https://openai.com/index/infrastructure-for-deep-learning
+
+Deep learning is an empirical science, and the quality of a group’s infrastructure is a multiplier on progress. Fortunately, today’s open-source ecosystem makes it possible for anyone to build great deep learning infrastructure.
+
+---
+
+### 7. Introducing parental controls
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 29 Sep 2025 03:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:167d
+- **Enlace:** https://openai.com/index/introducing-parental-controls
+
+We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.
+
+---
+
+### 8. Team update
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 30 Jan 2017 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,machine learning,modelo,model, preferred_domain, authority:9, old:3331d, duplicate
+- **Enlace:** https://openai.com/index/team-update-january
+
+The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots.
+
+---
+
+### 9. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 23 Jun 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-immunology-mystery
+
+GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
+
+---
+
+### 10. Helping build shared standards for advanced AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 23 Jun 2026 13:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+
+OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
+
+---
+
+### 11. Teacher–student curriculum learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ _Actualizado: 2026-06-23 10:32 UTC_
 
 ---
 
-### 2. GamePad: A learning environment for theorem proving
+### 12. GamePad: A learning environment for theorem proving
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ _Actualizado: 2026-06-23 10:32 UTC_
 
 ---
 
-### 3. Some considerations on learning to explore via meta-reinforcement learning
+### 13. Some considerations on learning to explore via meta-reinforcement learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ _Actualizado: 2026-06-23 10:32 UTC_
 
 ---
 
-### 4. Prediction and control with temporal segment models
+### 14. Prediction and control with temporal segment models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ _Actualizado: 2026-06-23 10:32 UTC_
 
 ---
 
-### 5. Learning policy representations in multiagent systems
+### 15. Learning policy representations in multiagent systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ _Actualizado: 2026-06-23 10:32 UTC_
 
 ---
 
-### 6. How the voices for ChatGPT were chosen
+### 16. How the voices for ChatGPT were chosen
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -83,7 +213,7 @@ We worked with industry-leading casting and directing professionals to narrow do
 
 ---
 
-### 7. Codex-maxxing for long-running work
+### 17. Codex-maxxing for long-running work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -96,7 +226,7 @@ Learn how Jason Liu uses Codex to preserve context, manage complex projects, and
 
 ---
 
-### 8. Daybreak: Tools for securing every organization in the world
+### 18. Daybreak: Tools for securing every organization in the world
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -109,7 +239,7 @@ OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber
 
 ---
 
-### 9. How Omio is building the future of conversational travel
+### 19. How Omio is building the future of conversational travel
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -122,7 +252,7 @@ Discover how Omio uses OpenAI to power conversational travel experiences, accele
 
 ---
 
-### 10. Patch the Planet: a Daybreak initiative to support open source maintainers
+### 20. Patch the Planet: a Daybreak initiative to support open source maintainers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -132,135 +262,5 @@ Discover how Omio uses OpenAI to power conversational travel experiences, accele
 - **Enlace:** https://openai.com/index/patch-the-planet
 
 OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
-
----
-
-### 11. Interpretable and pedagogical examples
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 02 Nov 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3055d
-- **Enlace:** https://openai.com/index/interpretable-and-pedagogical-examples
-
-
-
----
-
-### 12. New Credit Facility Enhances Financial Flexibility
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Oct 2024 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:528d
-- **Enlace:** https://openai.com/index/new-credit-facility-enhances-financial-flexibility
-
-In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.
-
----
-
-### 13. Introducing canvas, a new way to write and code with ChatGPT.
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Oct 2024 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:528d
-- **Enlace:** https://openai.com/index/introducing-canvas
-
-Introducing canvas
-
----
-
-### 14. Understanding the capabilities, limitations, and societal impact of large language models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 04 Feb 2021 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1865d
-- **Enlace:** https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models
-
-
-
----
-
-### 15. Retro Contest
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Apr 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2901d
-- **Enlace:** https://openai.com/index/retro-contest
-
-We’re launching a transfer learning contest that measures a reinforcement learning algorithm’s ability to generalize from previous experience.
-
----
-
-### 16. Navigating health questions with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Feb 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:38d
-- **Enlace:** https://openai.com/index/navigating-health-questions
-
-A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.
-
----
-
-### 17. GPT-5.3-Codex System Card
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Feb 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:38d
-- **Enlace:** https://openai.com/index/gpt-5-3-codex-system-card
-
-GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.
-
----
-
-### 18. Using GPT-4 to deliver a new customer service standard
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Sep 2024 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:556d
-- **Enlace:** https://openai.com/index/ada
-
-Ada uses GPT-4 to deliver a new customer service standard
-
----
-
-### 19. Extracting Concepts from GPT-4
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Jun 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:647d
-- **Enlace:** https://openai.com/index/extracting-concepts-from-gpt-4
-
-Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations.
-
----
-
-### 20. Samsung Electronics brings ChatGPT and Codex to employees
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 21 Jun 2026 23:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
-
-Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
 
 ---

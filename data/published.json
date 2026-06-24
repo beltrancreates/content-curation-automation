@@ -25729,5 +25729,256 @@
       "authority:9",
       "old:3179d"
     ]
+  },
+  {
+    "id": "9cb6cd8ef2f99b83f12065e2c888e7e7f29727535d2cea6ef041aded68ad3752",
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "a168b9453f99d1aa0797964599e3c02f3b06efc405a41b3e18958421a9445543",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "624d1388928dd89963ec43bcd6e1852802a3d5328ad4e36e0e664a762fd67244",
+    "title": "Team update",
+    "link": "https://openai.com/index/team-update-january",
+    "summary": "The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots.",
+    "published": "Mon, 30 Jan 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:ai,machine learning,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3331d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "f58e24877f2ce8e8933613aea5524cb3fc7de8e74299016fd80c7c3146f8148f",
+    "title": "Introducing parental controls",
+    "link": "https://openai.com/index/introducing-parental-controls",
+    "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
+    "published": "Mon, 29 Sep 2025 03:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:167d"
+    ]
+  },
+  {
+    "id": "0e85fc8ba3375bab9620b22e67e683a1987aa1aed16f96c58588c2550f7620cd",
+    "title": "Infrastructure for deep learning",
+    "link": "https://openai.com/index/infrastructure-for-deep-learning",
+    "summary": "Deep learning is an empirical science, and the quality of a group’s infrastructure is a multiplier on progress. Fortunately, today’s open-source ecosystem makes it possible for anyone to build great deep learning infrastructure.",
+    "published": "Mon, 29 Aug 2016 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3485d"
+    ]
+  },
+  {
+    "id": "296f455213d50b94af2699ca82c4eaa5d1d735aa4db41f0c1daa4a19f2506f5d",
+    "title": "Introducing ChatGPT Enterprise",
+    "link": "https://openai.com/index/introducing-chatgpt-enterprise",
+    "summary": "Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.",
+    "published": "Mon, 28 Aug 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:930d"
+    ]
+  },
+  {
+    "id": "9b78722b0a02bcf7770268500fada0700ed947b0c069ff7a4bc906ce9bba4353",
+    "title": "Fine-tuning GPT-4o webinar",
+    "link": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+    "summary": "Fine-Tuning GPT-4o Webinar",
+    "published": "Mon, 26 Aug 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:566d"
+    ]
+  },
+  {
+    "id": "76b24db2d77a71ddaf6b063abd10b61b192afc7ea1caf5457071ade28706244f",
+    "title": "ChatGPT can now see, hear, and speak",
+    "link": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
+    "summary": "We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about.",
+    "published": "Mon, 25 Sep 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:902d"
+    ]
+  },
+  {
+    "id": "bb16ab87b1fcbba7f75d586c50bcf4eac9f7d85f84d684a1a7b2d330b63185ca",
+    "title": "GPT-4V(ision) system card",
+    "link": "https://openai.com/index/gpt-4v-system-card",
+    "summary": "",
+    "published": "Mon, 25 Sep 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:902d"
+    ]
+  },
+  {
+    "id": "117b910cbee8cca4326d4496fc24eb289efdfdb1933b2081e8b8af3b3f15652c",
+    "title": "A hazard analysis framework for code synthesis large language models",
+    "link": "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models",
+    "summary": "",
+    "published": "Mon, 25 Jul 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1329d"
+    ]
   }
 ]
