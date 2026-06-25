@@ -1600,6 +1600,56 @@
     ]
   },
   {
+    "id": "e85702240741c40f357453ea4e47b60fd33b4e00d4773ba552d56dced97149a2",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,llm",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "1e2ee4222c16fbc4e7bf4795f7f341f2d126a624c2c51ba9e5178cf73cb488ca",
+    "title": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -28141,6 +28191,29 @@
     ]
   },
   {
+    "id": "4bd3a5441f0ba6fafb66422e64700110d97767c9896b235589e0c388bbc32692",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+    "published": "Wed, 24 Jun 2026 11:59:54 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -32124,6 +32197,75 @@
     "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
     "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removing bacteria from the bloodstream, metabolizing drugs,&#8230;",
     "published": "Tue, 23 Jun 2026 21:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "43173514af94fa1cdc95faa41dc0cc59331784087e4cae3e1b5287e058db61ae",
+    "title": "Europe’s extreme heat is shutting down power plants",
+    "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
+    "published": "Wed, 24 Jun 2026 15:25:28 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "facfab21cc639d3046a01215e282e219f281b3d5572c4fd84e041d504c18635a",
+    "title": "The Download: introducing the Engineering issue",
+    "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new&#8230;",
+    "published": "Wed, 24 Jun 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "d79d6317cc05aa6bc7e7cc370f4e0c339aec63f3f513653ba22315f6e56c0fb7",
+    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+    "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+    "published": "Wed, 24 Jun 2026 12:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

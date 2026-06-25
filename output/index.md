@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-24 10:17 UTC_
+_Actualizado: 2026-06-25 10:12 UTC_
 
 ## Selección priorizada
 
-### 1. A hazard analysis framework for code synthesis large language models
+### 1. Stochastic Neural Networks for hierarchical reinforcement learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Apr 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3261d
+- **Enlace:** https://openai.com/index/stochastic-neural-networks-for-hierarchical-reinforcement-learning
+
+
+
+---
+
+### 2. Large-scale study of curiosity-driven learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 13 Aug 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2771d
+- **Enlace:** https://openai.com/index/large-scale-study-of-curiosity-driven-learning
+
+
+
+---
+
+### 3. Hello GPT-4o
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 13 May 2024 10:05:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:671d
+- **Enlace:** https://openai.com/index/hello-gpt-4o
+
+We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.
+
+---
+
+### 4. On the quantitative analysis of decoder-based generative models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 14 Nov 2016 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3408d
+- **Enlace:** https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models
+
+
+
+---
+
+### 5. Addendum to GPT-5 system card: GPT-5-Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 15 Sep 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:181d
+- **Enlace:** https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex
+
+This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.
+
+---
+
+### 6. Introducing upgrades to Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 15 Sep 2025 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:181d
+- **Enlace:** https://openai.com/index/introducing-upgrades-to-codex
+
+Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.
+
+---
+
+### 7. Outbound coordinated vulnerability disclosure policy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:174d
+- **Enlace:** https://openai.com/policies/outbound-coordinated-disclosure-policy
+
+Outbound coordinated vulnerability disclosure policy
+
+---
+
+### 8. American-made innovation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 11:30:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:174d
+- **Enlace:** https://openai.com/global-affairs/american-made-innovation
+
+American-made innovation
+
+---
+
+### 9. How agents are transforming work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 25 Jun 2026 02:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/how-agents-are-transforming-work
+
+A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
+
+---
+
+### 10. OpenAI and Broadcom unveil LLM-optimized inference chip
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 24 Jun 2026 06:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-broadcom-jalapeno-inference-chip
+
+OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
+
+---
+
+### 11. A hazard analysis framework for code synthesis large language models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ _Actualizado: 2026-06-24 10:17 UTC_
 
 ---
 
-### 2. GPT-4V(ision) system card
+### 12. GPT-4V(ision) system card
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ _Actualizado: 2026-06-24 10:17 UTC_
 
 ---
 
-### 3. ChatGPT can now see, hear, and speak
+### 13. ChatGPT can now see, hear, and speak
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We are beginning to roll out new voice and image capabilities in ChatGPT. They o
 
 ---
 
-### 4. Fine-tuning GPT-4o webinar
+### 14. Fine-tuning GPT-4o webinar
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Fine-Tuning GPT-4o Webinar
 
 ---
 
-### 5. Introducing ChatGPT Enterprise
+### 15. Introducing ChatGPT Enterprise
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Get enterprise-grade security & privacy and the most powerful version of ChatGPT
 
 ---
 
-### 6. Infrastructure for deep learning
+### 16. Infrastructure for deep learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Deep learning is an empirical science, and the quality of a group’s infrastruc
 
 ---
 
-### 7. Introducing parental controls
+### 17. Introducing parental controls
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ We’re rolling out parental controls and a new parent resource page to help fam
 
 ---
 
-### 8. Team update
+### 18. Team update
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI c
 
 ---
 
-### 9. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+### 19. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T
 
 ---
 
-### 10. Helping build shared standards for advanced AI
+### 20. Helping build shared standards for advanced AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,136 +261,5 @@ GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T
 - **Enlace:** https://openai.com/index/helping-build-shared-standards-for-advanced-ai
 
 OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
-
----
-
-### 11. Teacher–student curriculum learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 01 Jul 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3179d
-- **Enlace:** https://openai.com/index/teacher-student-curriculum-learning
-
-
-
----
-
-### 12. GamePad: A learning environment for theorem proving
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 02 Jun 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2843d
-- **Enlace:** https://openai.com/index/gamepad
-
-
-
----
-
-### 13. Some considerations on learning to explore via meta-reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 03 Mar 2018 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2934d
-- **Enlace:** https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning
-
-
-
----
-
-### 14. Prediction and control with temporal segment models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 12 Mar 2017 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3290d
-- **Enlace:** https://openai.com/index/prediction-and-control-with-temporal-segment-models
-
-
-
----
-
-### 15. Learning policy representations in multiagent systems
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 17 Jun 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2828d
-- **Enlace:** https://openai.com/index/learning-policy-representations-in-multiagent-systems
-
-
-
----
-
-### 16. How the voices for ChatGPT were chosen
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 19 May 2024 23:30:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:664d
-- **Enlace:** https://openai.com/index/how-the-voices-for-chatgpt-were-chosen
-
-How the voices for ChatGPT were chosen
-We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.
-
----
-
-### 17. Codex-maxxing for long-running work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Jun 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/codex-maxxing-long-running-work
-
-Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
-
----
-
-### 18. Daybreak: Tools for securing every organization in the world
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Jun 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/daybreak-securing-the-world
-
-OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
-
----
-
-### 19. How Omio is building the future of conversational travel
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 23 Jun 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/omio
-
-Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-
----
-
-### 20. Patch the Planet: a Daybreak initiative to support open source maintainers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Jun 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,open source, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/patch-the-planet
-
-OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 
 ---
