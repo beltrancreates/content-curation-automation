@@ -26230,5 +26230,255 @@
       "authority:9",
       "old:3261d"
     ]
+  },
+  {
+    "id": "709349b696c436cdb30ec0be5706767b6b392095e33b6c0bc9714cef91220a1e",
+    "title": "Glow: Better reversible generative models",
+    "link": "https://openai.com/index/glow",
+    "summary": "We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can generate realistic high resolution images, supports efficient sampling, and discovers features that can be used to manipulate attributes of data. We’re releasing code for the model and an online visualization tool so people can explore and build on these results.",
+    "published": "Mon, 09 Jul 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2806d"
+    ]
+  },
+  {
+    "id": "667f04e0216f9b6063170abc4436c072c0e67533eb9d635d125e11f8f802fcd7",
+    "title": "Animator Lyndon Barrois creates new worlds with Sora",
+    "link": "https://openai.com/index/sora-lyndon-barrois",
+    "summary": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
+    "published": "Mon, 09 Dec 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:461d"
+    ]
+  },
+  {
+    "id": "950e8fb03c7c01af8623e16c184320e938824550b22d735f2c75281643853d5e",
+    "title": "Generative language modeling for automated theorem proving",
+    "link": "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving",
+    "summary": "",
+    "published": "Mon, 07 Sep 2020 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2015d"
+    ]
+  },
+  {
+    "id": "11991fdeacee0f359f04a39df4989c8af786655a904efdd200aefcb870bfe984",
+    "title": "Introducing AgentKit, new Evals, and RFT for agents",
+    "link": "https://openai.com/index/introducing-agentkit",
+    "summary": "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+    "published": "Mon, 06 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:160d"
+    ]
+  },
+  {
+    "id": "21cb11429c5c090d59c505bdb7eed223cff41ef0804f7da7d0ae80d9fb64e529",
+    "title": "Introducing GPTs",
+    "link": "https://openai.com/index/introducing-gpts",
+    "summary": "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.",
+    "published": "Mon, 06 Nov 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:860d"
+    ]
+  },
+  {
+    "id": "39671e6016547af261b8d6b3ee6adb0ef33420bde750f86d101c3af923e02c79",
+    "title": "New models and developer products announced at DevDay",
+    "link": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
+    "summary": "GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more.",
+    "published": "Mon, 06 Nov 2023 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:860d"
+    ]
+  },
+  {
+    "id": "1d3f666558518d4bb4da1e53020bb3a42722f00652cb31b02ad987620d4f8e84",
+    "title": "Third-person imitation learning",
+    "link": "https://openai.com/index/third-person-imitation-learning",
+    "summary": "",
+    "published": "Mon, 06 Mar 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3296d"
+    ]
+  },
+  {
+    "id": "1bae488b21cda4772b97de831f8025ad81e640240bd433797c81bfedcdd5fab4",
+    "title": "Plan online, learn offline: Efficient learning and exploration via model-based control",
+    "link": "https://openai.com/index/plan-online-learn-offline",
+    "summary": "",
+    "published": "Mon, 05 Nov 2018 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2687d"
+    ]
+  },
+  {
+    "id": "6b0a3107653e269fd11d0533981a2c548218485b46ae16a8770f1263bf8dcb96",
+    "title": "UCB exploration via Q-ensembles",
+    "link": "https://openai.com/index/ucb-exploration-via-q-ensembles",
+    "summary": "",
+    "published": "Mon, 05 Jun 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3205d"
+    ]
+  },
+  {
+    "id": "9cf1011ff6748d31fc8e50682be56da4477ce83ed2b575863d966a1512938f11",
+    "title": "Neural MMO: A massively multiagent game environment",
+    "link": "https://openai.com/index/neural-mmo",
+    "summary": "We’re releasing a Neural MMO, a massively multiagent game environment for reinforcement learning agents. Our platform supports a large, variable number of agents within a persistent and open-ended task. The inclusion of many agents and species leads to better exploration, divergent niche formation, and greater overall competence.",
+    "published": "Mon, 04 Mar 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2568d"
+    ]
   }
 ]
