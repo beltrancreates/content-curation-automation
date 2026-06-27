@@ -26480,5 +26480,255 @@
       "authority:9",
       "old:2568d"
     ]
+  },
+  {
+    "id": "12c854045ee71d074f9fc282d75c80eb36d2ab3baf0dc74c93dec6c7270a1ade",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7f3d8a693a4dfa4cef331934e3f8db1c791c54ecda3127a43f40ec054cbd7372",
+    "title": "Computational limitations in robust classification and win-win results",
+    "link": "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results",
+    "summary": "",
+    "published": "Mon, 04 Feb 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2596d"
+    ]
+  },
+  {
+    "id": "3aa201bd3ee54faf11f9492c84e3f81cabcd30dce509147b044603176d025504",
+    "title": "Learning sparse neural networks through L₀ regularization",
+    "link": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
+    "summary": "",
+    "published": "Mon, 04 Dec 2017 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3023d"
+    ]
+  },
+  {
+    "id": "3ecacba5dda14c057fb986ba31bbb6b9cfba83900d8efa3377d88d6fa558febd",
+    "title": "What we’re optimizing ChatGPT for",
+    "link": "https://openai.com/index/optimizing-chatgpt",
+    "summary": "We build ChatGPT to help you thrive in all the ways you want. Learn how we're improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all guided by expert input.",
+    "published": "Mon, 04 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:223d"
+    ]
+  },
+  {
+    "id": "596a7ba9f95de60d02819d32806d54182c8e36d06084680b572df875a6417893",
+    "title": "Nonlinear computation in deep linear networks",
+    "link": "https://openai.com/index/nonlinear-computation-in-deep-linear-networks",
+    "summary": "",
+    "published": "Fri, 29 Sep 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3089d"
+    ]
+  },
+  {
+    "id": "7a6b66a9ba01538c4e7f982bcad3c7d701c671d9538f153d72b7604157e5e0c9",
+    "title": "Navigating the challenges and opportunities of synthetic voices",
+    "link": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices",
+    "summary": "We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices.",
+    "published": "Fri, 29 Mar 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:716d"
+    ]
+  },
+  {
+    "id": "0ed0e1ac6057d4dd9209a140b661465f5111383c98138830b4898fa57379bbb7",
+    "title": "Evolution strategies as a scalable alternative to reinforcement learning",
+    "link": "https://openai.com/index/evolution-strategies",
+    "summary": "We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchmarks (e.g. Atari/MuJoCo), while overcoming many of RL’s inconveniences.",
+    "published": "Fri, 24 Mar 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3278d"
+    ]
+  },
+  {
+    "id": "7181d43a925af13455dcdbf4ff4e67ace404d530e0d268ebbd11e7896224bc2d",
+    "title": "Retro Contest: Results",
+    "link": "https://openai.com/index/retro-contest-results",
+    "summary": "The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete.",
+    "published": "Fri, 22 Jun 2018 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2823d"
+    ]
+  },
+  {
+    "id": "bba7b23eb027a3c17890eee3b6ae05f3af43d675d406ebaf014a34727958c1ff",
+    "title": "Equivalence between policy gradients and soft Q-learning",
+    "link": "https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning",
+    "summary": "",
+    "published": "Fri, 21 Apr 2017 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3250d"
+    ]
+  },
+  {
+    "id": "395e71af932e9ff91c3ff0876f0b1467af1acaa330bf2cf3bd420aceca5b3c61",
+    "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+    "link": "https://openai.com/index/gpts-are-gpts",
+    "summary": "",
+    "published": "Fri, 17 Mar 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1094d"
+    ]
   }
 ]

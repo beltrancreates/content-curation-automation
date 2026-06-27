@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-26 10:18 UTC_
+_Actualizado: 2026-06-27 09:25 UTC_
 
 ## Selección priorizada
 
-### 1. Neural MMO: A massively multiagent game environment
+### 1. GPTs are GPTs: An early look at the labor market impact potential of large language models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 17 Mar 2023 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1094d
+- **Enlace:** https://openai.com/index/gpts-are-gpts
+
+
+
+---
+
+### 2. Equivalence between policy gradients and soft Q-learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 21 Apr 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3250d
+- **Enlace:** https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning
+
+
+
+---
+
+### 3. Retro Contest: Results
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 22 Jun 2018 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2823d
+- **Enlace:** https://openai.com/index/retro-contest-results
+
+The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete.
+
+---
+
+### 4. Evolution strategies as a scalable alternative to reinforcement learning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 24 Mar 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3278d
+- **Enlace:** https://openai.com/index/evolution-strategies
+
+We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchmarks (e.g. Atari/MuJoCo), while overcoming many of RL’s inconveniences.
+
+---
+
+### 5. Navigating the challenges and opportunities of synthetic voices
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 Mar 2024 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:716d
+- **Enlace:** https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices
+
+We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices.
+
+---
+
+### 6. Nonlinear computation in deep linear networks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 29 Sep 2017 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3089d
+- **Enlace:** https://openai.com/index/nonlinear-computation-in-deep-linear-networks
+
+
+
+---
+
+### 7. What we’re optimizing ChatGPT for
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 04 Aug 2025 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:223d
+- **Enlace:** https://openai.com/index/optimizing-chatgpt
+
+We build ChatGPT to help you thrive in all the ways you want. Learn how we're improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all guided by expert input.
+
+---
+
+### 8. Learning sparse neural networks through L₀ regularization
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 04 Dec 2017 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3023d
+- **Enlace:** https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization
+
+
+
+---
+
+### 9. Computational limitations in robust classification and win-win results
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 04 Feb 2019 08:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2596d
+- **Enlace:** https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results
+
+
+
+---
+
+### 10. Previewing GPT-5.6 Sol: a next-generation model
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 26 Jun 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/previewing-gpt-5-6-sol
+
+OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
+
+---
+
+### 11. Neural MMO: A massively multiagent game environment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ We’re releasing a Neural MMO, a massively multiagent game environment for rei
 
 ---
 
-### 2. UCB exploration via Q-ensembles
+### 12. UCB exploration via Q-ensembles
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ We’re releasing a Neural MMO, a massively multiagent game environment for rei
 
 ---
 
-### 3. Plan online, learn offline: Efficient learning and exploration via model-based control
+### 13. Plan online, learn offline: Efficient learning and exploration via model-based control
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ We’re releasing a Neural MMO, a massively multiagent game environment for rei
 
 ---
 
-### 4. Third-person imitation learning
+### 14. Third-person imitation learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ We’re releasing a Neural MMO, a massively multiagent game environment for rei
 
 ---
 
-### 5. New models and developer products announced at DevDay
+### 15. New models and developer products announced at DevDay
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Tu
 
 ---
 
-### 6. Introducing GPTs
+### 16. Introducing GPTs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ You can now create custom versions of ChatGPT that combine instructions, extra k
 
 ---
 
-### 7. Introducing AgentKit, new Evals, and RFT for agents
+### 17. Introducing AgentKit, new Evals, and RFT for agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Today, we’re releasing  new tools to help developers go from prototype to prod
 
 ---
 
-### 8. Generative language modeling for automated theorem proving
+### 18. Generative language modeling for automated theorem proving
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Today, we’re releasing  new tools to help developers go from prototype to prod
 
 ---
 
-### 9. Animator Lyndon Barrois creates new worlds with Sora
+### 19. Animator Lyndon Barrois creates new worlds with Sora
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
 
 ---
 
-### 10. Glow: Better reversible generative models
+### 20. Glow: Better reversible generative models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
 - **Enlace:** https://openai.com/index/glow
 
 We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can generate realistic high resolution images, supports efficient sampling, and discovers features that can be used to manipulate attributes of data. We’re releasing code for the model and an online visualization tool so people can explore and build on these results.
-
----
-
-### 11. Stochastic Neural Networks for hierarchical reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Apr 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3261d
-- **Enlace:** https://openai.com/index/stochastic-neural-networks-for-hierarchical-reinforcement-learning
-
-
-
----
-
-### 12. Large-scale study of curiosity-driven learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 Aug 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2771d
-- **Enlace:** https://openai.com/index/large-scale-study-of-curiosity-driven-learning
-
-
-
----
-
-### 13. Hello GPT-4o
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 13 May 2024 10:05:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:671d
-- **Enlace:** https://openai.com/index/hello-gpt-4o
-
-We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.
-
----
-
-### 14. On the quantitative analysis of decoder-based generative models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 14 Nov 2016 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3408d
-- **Enlace:** https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models
-
-
-
----
-
-### 15. Addendum to GPT-5 system card: GPT-5-Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 15 Sep 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:181d
-- **Enlace:** https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex
-
-This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.
-
----
-
-### 16. Introducing upgrades to Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 15 Sep 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:181d
-- **Enlace:** https://openai.com/index/introducing-upgrades-to-codex
-
-Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.
-
----
-
-### 17. Outbound coordinated vulnerability disclosure policy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Sep 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:174d
-- **Enlace:** https://openai.com/policies/outbound-coordinated-disclosure-policy
-
-Outbound coordinated vulnerability disclosure policy
-
----
-
-### 18. American-made innovation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Sep 2025 11:30:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:174d
-- **Enlace:** https://openai.com/global-affairs/american-made-innovation
-
-American-made innovation
-
----
-
-### 19. How agents are transforming work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 25 Jun 2026 02:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/how-agents-are-transforming-work
-
-A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
-
----
-
-### 20. OpenAI and Broadcom unveil LLM-optimized inference chip
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Jun 2026 06:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-broadcom-jalapeno-inference-chip
-
-OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
 
 ---
