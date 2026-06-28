@@ -26730,5 +26730,256 @@
       "authority:9",
       "old:1094d"
     ]
+  },
+  {
+    "id": "d9e681b0ec72ac68db8c7be196794d68361369d988804a89f3ebcd7ce6aee32b",
+    "title": "Evolution through large models",
+    "link": "https://openai.com/index/evolution-through-large-models",
+    "summary": "",
+    "published": "Fri, 17 Jun 2022 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1367d"
+    ]
+  },
+  {
+    "id": "d24b9771d756cd6c5762e1c08cbd1e5533e2760a060b873232535c5a54061f2e",
+    "title": "Introducing Codex",
+    "link": "https://openai.com/index/introducing-codex",
+    "summary": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
+    "published": "Fri, 16 May 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:303d"
+    ]
+  },
+  {
+    "id": "afff8c7c6b2f7415550802f96b20acae6368bbc1b2f2294e9e05250e375d1ae0",
+    "title": "The truth left out from Elon Musk’s recent court filing",
+    "link": "https://openai.com/index/the-truth-elon-left-out",
+    "summary": "The truth left out from Elon Musk’s recent court filing.",
+    "published": "Fri, 16 Jan 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:58d"
+    ]
+  },
+  {
+    "id": "a3eaead6cc674ec8ba76c0e294752185cacaf88f21f639a211928f520ce4f766",
+    "title": "Point-E: A system for generating 3D point clouds from complex prompts",
+    "link": "https://openai.com/index/point-e",
+    "summary": "",
+    "published": "Fri, 16 Dec 2022 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:1185d"
+    ]
+  },
+  {
+    "id": "2ba81f2cf37e56f4eef0cbd078fd8fd7311a4d26d2a608e69ff668a0b5f3d601",
+    "title": "Dota 2 with large scale deep reinforcement learning",
+    "link": "https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning",
+    "summary": "",
+    "published": "Fri, 13 Dec 2019 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2284d"
+    ]
+  },
+  {
+    "id": "e66eb60cda7dce9a9fec4e441292b510b3d792df97f17d10a035815cdfcd6391",
+    "title": "A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",
+    "link": "https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models",
+    "summary": "",
+    "published": "Fri, 11 Nov 2016 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:3411d"
+    ]
+  },
+  {
+    "id": "0d53a151950e54816de32aabd22235547c0c7cec01db0cb0aaca48a004ee9559",
+    "title": "Accurately analyzing large scale qualitative data",
+    "link": "https://openai.com/index/viable",
+    "summary": "Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unparalleled accuracy.",
+    "published": "Fri, 07 Jul 2023 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:982d"
+    ]
+  },
+  {
+    "id": "7fc3e6b66e1de0b01cc93bac6ea449f59279046d023749b738d3a00ad0ff79ba",
+    "title": "Transfer of adversarial robustness between perturbation types",
+    "link": "https://openai.com/index/transfer-of-adversarial-robustness-between-perturbation-types",
+    "summary": "",
+    "published": "Fri, 03 May 2019 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:2508d"
+    ]
+  },
+  {
+    "id": "fc534b482c54a6b2ace4992e3b6265ea566e460c982bc5641d63f421e3d14b82",
+    "title": "Expanding on what we missed with sycophancy",
+    "link": "https://openai.com/index/expanding-on-sycophancy",
+    "summary": "A deeper dive on our findings, what went wrong, and future changes we’re making.",
+    "published": "Fri, 02 May 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:317d"
+    ]
+  },
+  {
+    "id": "21bf4f983a2f0ce7b1201e1a764a7144cefb09b8ac95dcd1f5209e66a6f53d32",
+    "title": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+    "link": "https://openai.com/index/eneos-materials",
+    "summary": "ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.",
+    "published": "Wed, 24 Sep 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research,safety",
+      "preferred_domain",
+      "authority:9",
+      "old:183d",
+      "duplicate"
+    ]
   }
 ]
