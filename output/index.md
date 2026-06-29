@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-28 09:54 UTC_
+_Actualizado: 2026-06-29 11:54 UTC_
 
 ## Selección priorizada
 
-### 1. ENEOS Materials brings ChatGPT Enterprise to manufacturing
+### 1. Why physical AI is becoming manufacturing’s next advantage
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 13 Mar 2026 15:16:55 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,safety, authority:8, recent:2d
+- **Enlace:** https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/
+
+For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;
+
+---
+
+### 2. Pragmatic by design: Engineering AI for the real world
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 12 Mar 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:3d
+- **Enlace:** https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
+
+The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;
+
+---
+
+### 3. The Download: Pokémon Go to train world models, and the US-China race to find aliens
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 11 Mar 2026 12:38:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:4d
+- **Enlace:** https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world&#160; Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the&#8230;
+
+---
+
+### 4. BBVA puts AI at the core of banking with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 11 Jun 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d, duplicate
+- **Enlace:** https://openai.com/index/bbva
+
+Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.
+
+---
+
+### 5. How to use Codex for everyday work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d
+- **Enlace:** https://openai.com/academy/how-to-use-codex-for-everyday-work
+
+Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
+
+---
+
+### 6. How Balyasny Asset Management built an AI research engine
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 06 Mar 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:34d, duplicate
+- **Enlace:** https://openai.com/index/balyasny-asset-management
+
+By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.
+
+---
+
+### 7. How Descript engineers multilingual video dubbing at scale
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 06 Mar 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:27d, duplicate
+- **Enlace:** https://openai.com/index/descript
+
+Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.
+
+---
+
+### 8. SafetyKit scales risk agents with OpenAI’s most capable models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Sep 2025 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:198d, duplicate
+- **Enlace:** https://openai.com/index/safetykit
+
+Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .
+
+---
+
+### 9. Mapping Europe’s AI Workforce Opportunity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 29 Jun 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/mapping-ai-jobs-transition-eu
+
+A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
+
+---
+
+### 10. HP Inc. launches Frontier strategic partnership with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 28 Jun 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/hp-frontier-partnership
+
+HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
+
+---
+
+### 11. ENEOS Materials brings ChatGPT Enterprise to manufacturing
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design 
 
 ---
 
-### 2. Expanding on what we missed with sycophancy
+### 12. Expanding on what we missed with sycophancy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ A deeper dive on our findings, what went wrong, and future changes we’re makin
 
 ---
 
-### 3. Transfer of adversarial robustness between perturbation types
+### 13. Transfer of adversarial robustness between perturbation types
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ A deeper dive on our findings, what went wrong, and future changes we’re makin
 
 ---
 
-### 4. Accurately analyzing large scale qualitative data
+### 14. Accurately analyzing large scale qualitative data
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unpa
 
 ---
 
-### 5. A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models
+### 15. A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unpa
 
 ---
 
-### 6. Dota 2 with large scale deep reinforcement learning
+### 16. Dota 2 with large scale deep reinforcement learning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unpa
 
 ---
 
-### 7. Point-E: A system for generating 3D point clouds from complex prompts
+### 17. Point-E: A system for generating 3D point clouds from complex prompts
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unpa
 
 ---
 
-### 8. The truth left out from Elon Musk’s recent court filing
+### 18. The truth left out from Elon Musk’s recent court filing
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ The truth left out from Elon Musk’s recent court filing.
 
 ---
 
-### 9. Introducing Codex
+### 19. Introducing Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Introducing Codex: a cloud-based software engineering agent that can work on man
 
 ---
 
-### 10. Evolution through large models
+### 20. Evolution through large models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Introducing Codex: a cloud-based software engineering agent that can work on man
 - **Enlace:** https://openai.com/index/evolution-through-large-models
 
 
-
----
-
-### 11. GPTs are GPTs: An early look at the labor market impact potential of large language models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 17 Mar 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1094d
-- **Enlace:** https://openai.com/index/gpts-are-gpts
-
-
-
----
-
-### 12. Equivalence between policy gradients and soft Q-learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 21 Apr 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3250d
-- **Enlace:** https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning
-
-
-
----
-
-### 13. Retro Contest: Results
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 22 Jun 2018 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2823d
-- **Enlace:** https://openai.com/index/retro-contest-results
-
-The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete.
-
----
-
-### 14. Evolution strategies as a scalable alternative to reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 24 Mar 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3278d
-- **Enlace:** https://openai.com/index/evolution-strategies
-
-We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchmarks (e.g. Atari/MuJoCo), while overcoming many of RL’s inconveniences.
-
----
-
-### 15. Navigating the challenges and opportunities of synthetic voices
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 Mar 2024 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:716d
-- **Enlace:** https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices
-
-We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices.
-
----
-
-### 16. Nonlinear computation in deep linear networks
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 29 Sep 2017 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3089d
-- **Enlace:** https://openai.com/index/nonlinear-computation-in-deep-linear-networks
-
-
-
----
-
-### 17. What we’re optimizing ChatGPT for
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 04 Aug 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:223d
-- **Enlace:** https://openai.com/index/optimizing-chatgpt
-
-We build ChatGPT to help you thrive in all the ways you want. Learn how we're improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all guided by expert input.
-
----
-
-### 18. Learning sparse neural networks through L₀ regularization
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 04 Dec 2017 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3023d
-- **Enlace:** https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization
-
-
-
----
-
-### 19. Computational limitations in robust classification and win-win results
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 04 Feb 2019 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2596d
-- **Enlace:** https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results
-
-
-
----
-
-### 20. Previewing GPT-5.6 Sol: a next-generation model
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 26 Jun 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/previewing-gpt-5-6-sol
-
-OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
 
 ---
