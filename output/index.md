@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-29 11:54 UTC_
+_Actualizado: 2026-06-30 10:28 UTC_
 
 ## Selección priorizada
 
-### 1. Why physical AI is becoming manufacturing’s next advantage
+### 1. Here’s why some people choose cryonics to store their bodies and brains after death
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 27 Mar 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/
+
+This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a&#8230;
+
+---
+
+### 2. The snow gods: How a couple of ski bums built the internet’s best weather app
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 26 Mar 2026 10:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/
+
+The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&#8230;
+
+---
+
+### 3. The AI Hype Index: AI goes to war
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Mar 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/
+
+AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;
+
+---
+
+### 4. This startup wants to change how mathematicians do math
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Mar 2026 13:59:17 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/
+
+Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;
+
+---
+
+### 5. The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Mar 2026 12:28:27 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;
+
+---
+
+### 6. The Bay Area’s animal welfare movement wants to recruit AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Mar 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
+
+In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area, a wildlife advocate spoke passionately to a crowd lounging in&#8230;
+
+---
+
+### 7. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Mar 2026 12:17:33 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&#8230;
+
+---
+
+### 8. OpenAI is throwing everything into building a fully automated researcher
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 20 Mar 2026 11:57:16 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
+
+OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&#8230;
+
+---
+
+### 9. The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 20 Mar 2026 13:15:45 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by&#8230;
+
+---
+
+### 10. The Pentagon is planning for AI companies to train on classified data, defense official says
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 17 Mar 2026 22:30:46 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
+
+The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;
+
+---
+
+### 11. Why physical AI is becoming manufacturing’s next advantage
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ For decades, manufacturers have pursued automation to drive efficiency, reduce c
 
 ---
 
-### 2. Pragmatic by design: Engineering AI for the real world
+### 12. Pragmatic by design: Engineering AI for the real world
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ The impact of artificial intelligence extends far beyond the digital world and i
 
 ---
 
-### 3. The Download: Pokémon Go to train world models, and the US-China race to find aliens
+### 13. The Download: Pokémon Go to train world models, and the US-China race to find aliens
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. BBVA puts AI at the core of banking with OpenAI
+### 14. BBVA puts AI at the core of banking with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with
 
 ---
 
-### 5. How to use Codex for everyday work
+### 15. How to use Codex for everyday work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverab
 
 ---
 
-### 6. How Balyasny Asset Management built an AI research engine
+### 16. How Balyasny Asset Management built an AI research engine
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ By combining rigorous model evaluation, full-platform use of OpenAI, and agent w
 
 ---
 
-### 7. How Descript engineers multilingual video dubbing at scale
+### 17. How Descript engineers multilingual video dubbing at scale
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Using OpenAI reasoning models, Descript unlocked automatic localization of large
 
 ---
 
-### 8. SafetyKit scales risk agents with OpenAI’s most capable models
+### 18. SafetyKit scales risk agents with OpenAI’s most capable models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enf
 
 ---
 
-### 9. Mapping Europe’s AI Workforce Opportunity
+### 19. Mapping Europe’s AI Workforce Opportunity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ A new OpenAI report maps how AI could reshape jobs across the EU, highlighting w
 
 ---
 
-### 10. HP Inc. launches Frontier strategic partnership with OpenAI
+### 20. HP Inc. launches Frontier strategic partnership with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ A new OpenAI report maps how AI could reshape jobs across the EU, highlighting w
 - **Enlace:** https://openai.com/index/hp-frontier-partnership
 
 HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
-
----
-
-### 11. ENEOS Materials brings ChatGPT Enterprise to manufacturing
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 24 Sep 2025 17:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model,research,safety, preferred_domain, authority:9, old:183d, duplicate
-- **Enlace:** https://openai.com/index/eneos-materials
-
-ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.
-
----
-
-### 12. Expanding on what we missed with sycophancy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 02 May 2025 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:317d
-- **Enlace:** https://openai.com/index/expanding-on-sycophancy
-
-A deeper dive on our findings, what went wrong, and future changes we’re making.
-
----
-
-### 13. Transfer of adversarial robustness between perturbation types
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 03 May 2019 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2508d
-- **Enlace:** https://openai.com/index/transfer-of-adversarial-robustness-between-perturbation-types
-
-
-
----
-
-### 14. Accurately analyzing large scale qualitative data
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Jul 2023 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:982d
-- **Enlace:** https://openai.com/index/viable
-
-Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unparalleled accuracy.
-
----
-
-### 15. A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Nov 2016 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3411d
-- **Enlace:** https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models
-
-
-
----
-
-### 16. Dota 2 with large scale deep reinforcement learning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Dec 2019 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:2284d
-- **Enlace:** https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning
-
-
-
----
-
-### 17. Point-E: A system for generating 3D point clouds from complex prompts
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 Dec 2022 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1185d
-- **Enlace:** https://openai.com/index/point-e
-
-
-
----
-
-### 18. The truth left out from Elon Musk’s recent court filing
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 Jan 2026 12:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:58d
-- **Enlace:** https://openai.com/index/the-truth-elon-left-out
-
-The truth left out from Elon Musk’s recent court filing.
-
----
-
-### 19. Introducing Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 May 2025 08:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:303d
-- **Enlace:** https://openai.com/index/introducing-codex
-
-Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.
-
----
-
-### 20. Evolution through large models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 17 Jun 2022 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1367d
-- **Enlace:** https://openai.com/index/evolution-through-large-models
-
-
 
 ---

@@ -27229,5 +27229,235 @@
       "authority:8",
       "recent:2d"
     ]
+  },
+  {
+    "id": "0ea1179b03fbea606b5ad55cd39101f5e0d857ab730240eef01bef2cd7e9dce1",
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;",
+    "published": "Tue, 17 Mar 2026 22:30:46 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "bc176fd4457f2a41de4d3c9828099f34b974b8b16d5ce7deb5adac0c5e321163",
+    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+    "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by&#8230;",
+    "published": "Fri, 20 Mar 2026 13:15:45 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "323afaad5f2f7b4a4181af1b362d81539f4f033b42c5f264ccd4072db0f60a90",
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&#8230;",
+    "published": "Fri, 20 Mar 2026 11:57:16 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ee77ad4e332119fcdb873730d0c448269708a9af143a28f1c9a156703d15a65e",
+    "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+    "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&#8230;",
+    "published": "Mon, 23 Mar 2026 12:17:33 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c091bb0548319fbda9dc41719ff8156510319b131d7d443702fc8234c9041f9e",
+    "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+    "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area, a wildlife advocate spoke passionately to a crowd lounging in&#8230;",
+    "published": "Mon, 23 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "20646f791b93d753f44aab9157a7bb79034b89dcaeb35f1bce05e8167caeca73",
+    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+    "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;",
+    "published": "Tue, 24 Mar 2026 12:28:27 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8aecaab9863b5f392539e3f72dfd3bc4d2cf02def727d2c8be18878968a77633",
+    "title": "This startup wants to change how mathematicians do math",
+    "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;",
+    "published": "Wed, 25 Mar 2026 13:59:17 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "9ee19e6a529dc9c6e8c47482bdd18a5354b1f402e4f3b04276d8e6a428c2ce25",
+    "title": "The AI Hype Index: AI goes to war",
+    "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+    "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;",
+    "published": "Wed, 25 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "1d542f3aea156977116d79f2775e0ec1a40ea5ab0b924ebe2e93943b140d20ce",
+    "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+    "link": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+    "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&#8230;",
+    "published": "Thu, 26 Mar 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "122f14704e771e5a2a8d0f6b24c2f1f48c65997811650a65676117ad59dec431",
+    "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+    "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+    "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a&#8230;",
+    "published": "Fri, 27 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]
