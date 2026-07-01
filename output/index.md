@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-06-30 10:28 UTC_
+_Actualizado: 2026-07-01 10:38 UTC_
 
 ## Selección priorizada
 
-### 1. Here’s why some people choose cryonics to store their bodies and brains after death
+### 1. Want to understand the current state of AI? Check out these charts.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 13 Apr 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/
+
+If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;
+
+---
+
+### 2. The Download: an exclusive Jeff VanderMeer story and AI models too scary to release
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 10 Apr 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft has crash-landed on a hostile planet. The only survivors&#8230;
+
+---
+
+### 3. AI is changing how small online sellers decide what to make
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 06 Apr 2026 11:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
+
+For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;
+
+---
+
+### 4. The one piece of data that could actually shed light on your job and AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 06 Apr 2026 16:33:35 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&#8230;
+
+---
+
+### 5. There are more AI health tools than ever—but how well do they work?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 30 Mar 2026 16:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/
+
+Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&#8230;
+
+---
+
+### 6. Inside Genebench-Pro
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Jun 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/genebench-pro/case-studies
+
+
+
+---
+
+### 7. Agriculture is ready for AI, but its data isn’t
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 30 Jun 2026 12:00:00 +0000
+- **Score:** 12.4
+- **Razones:** keyword_hits:artificial intelligence,ai,model,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
+
+Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;
+
+---
+
+### 8. Core dump epidemiology: fixing an 18-year-old bug
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Jun 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
+
+OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
+
+---
+
+### 9. How ChatGPT adoption has expanded
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Jun 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/how-chatgpt-adoption-has-expanded
+
+New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
+
+---
+
+### 10. Introducing GeneBench-Pro
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 30 Jun 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-genebench-pro
+
+Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
+
+---
+
+### 11. Here’s why some people choose cryonics to store their bodies and brains after death
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This week I reported on some rather unusual research that focuses on the brain o
 
 ---
 
-### 2. The snow gods: How a couple of ski bums built the internet’s best weather app
+### 12. The snow gods: How a couple of ski bums built the internet’s best weather app
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ The best snow-forecasting app for skiers and snowboarders isn’t from any of th
 
 ---
 
-### 3. The AI Hype Index: AI goes to war
+### 13. The AI Hype Index: AI goes to war
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic�
 
 ---
 
-### 4. This startup wants to change how mathematicians do math
+### 14. This startup wants to change how mathematicians do math
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ Axiom Math, a startup based in Palo Alto, California, has released a free new AI
 
 ---
 
-### 5. The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
+### 15. The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. The Bay Area’s animal welfare movement wants to recruit AI
+### 16. The Bay Area’s animal welfare movement wants to recruit AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ In early February, animal welfare advocates and AI researchers gathered in stock
 
 ---
 
-### 7. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
+### 17. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. OpenAI is throwing everything into building a fully automated researcher
+### 18. OpenAI is throwing everything into building a fully automated researcher
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ OpenAI is refocusing its research efforts and throwing its resources into a new 
 
 ---
 
-### 9. The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
+### 19. The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. The Pentagon is planning for AI companies to train on classified data, defense official says
+### 20. The Pentagon is planning for AI companies to train on classified data, defense official says
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
 
 The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;
-
----
-
-### 11. Why physical AI is becoming manufacturing’s next advantage
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Mar 2026 15:16:55 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,safety, authority:8, recent:2d
-- **Enlace:** https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/
-
-For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;
-
----
-
-### 12. Pragmatic by design: Engineering AI for the real world
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Mar 2026 13:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:3d
-- **Enlace:** https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
-
-The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;
-
----
-
-### 13. The Download: Pokémon Go to train world models, and the US-China race to find aliens
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 11 Mar 2026 12:38:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:4d
-- **Enlace:** https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world&#160; Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the&#8230;
-
----
-
-### 14. BBVA puts AI at the core of banking with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 11 Jun 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d, duplicate
-- **Enlace:** https://openai.com/index/bbva
-
-Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.
-
----
-
-### 15. How to use Codex for everyday work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d
-- **Enlace:** https://openai.com/academy/how-to-use-codex-for-everyday-work
-
-Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
-
----
-
-### 16. How Balyasny Asset Management built an AI research engine
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 06 Mar 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:34d, duplicate
-- **Enlace:** https://openai.com/index/balyasny-asset-management
-
-By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.
-
----
-
-### 17. How Descript engineers multilingual video dubbing at scale
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 06 Mar 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:27d, duplicate
-- **Enlace:** https://openai.com/index/descript
-
-Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.
-
----
-
-### 18. SafetyKit scales risk agents with OpenAI’s most capable models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Sep 2025 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, old:198d, duplicate
-- **Enlace:** https://openai.com/index/safetykit
-
-Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .
-
----
-
-### 19. Mapping Europe’s AI Workforce Opportunity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 29 Jun 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/mapping-ai-jobs-transition-eu
-
-A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
-
----
-
-### 20. HP Inc. launches Frontier strategic partnership with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 28 Jun 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/hp-frontier-partnership
-
-HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
 
 ---

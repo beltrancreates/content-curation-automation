@@ -1675,6 +1675,31 @@
     ]
   },
   {
+    "id": "a7ea7ed7b29ee8a7febcb20322b9129f2166c603b9ef24b394439ed00d95a9ca",
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -8125,6 +8150,56 @@
     ]
   },
   {
+    "id": "d9cc4aa3073b5f2e09c9237d79c3e27e4b4aa565d14183557cbc05e5270bad60",
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "dc1d07269cbf2ae901f526d09de5d7c736b5c2e26d06185eb0d22631eb2faa88",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -8143,6 +8218,29 @@
     "score": 12.4,
     "reasons": [
       "keyword_hits:ai,model,research,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "2bc9c8e7d098e651cbb6835a9a1fa03b019d28a7734e12747a41d90efea03fc2",
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+    "published": "Tue, 30 Jun 2026 12:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 12.4,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,model,research",
       "authority:8",
       "recent:0d"
     ]
@@ -21924,6 +22022,31 @@
     ]
   },
   {
+    "id": "7b6e5ae9ecf83a3680f2bef167512e451f859ef3a409a43e246f21b11b82d2bd",
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "summary": "",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "faa60f35b7b4c481314aff9d5c62fefcf38ce54f6ff756c6f24ccb43bef11a20",
     "title": "Shifting to AI model customization is an architectural imperative",
     "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
@@ -32574,6 +32697,52 @@
     "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
     "published": "Mon, 29 Jun 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "efa61bc8c39327dc46d1cb09770c8ce9de8f889f362781bfab6806a4d671c6d4",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+    "published": "Tue, 30 Jun 2026 21:50:04 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b23a45735c9ff99a9b8d35365aa28b07eb4582e7211d9507fe9ef533842c0f14",
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "published": "Tue, 30 Jun 2026 12:10:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

@@ -27459,5 +27459,243 @@
       "authority:8",
       "recent:0d"
     ]
+  },
+  {
+    "id": "a7ea7ed7b29ee8a7febcb20322b9129f2166c603b9ef24b394439ed00d95a9ca",
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "d9cc4aa3073b5f2e09c9237d79c3e27e4b4aa565d14183557cbc05e5270bad60",
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "dc1d07269cbf2ae901f526d09de5d7c736b5c2e26d06185eb0d22631eb2faa88",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "2bc9c8e7d098e651cbb6835a9a1fa03b019d28a7734e12747a41d90efea03fc2",
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+    "published": "Tue, 30 Jun 2026 12:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 12.4,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai,model,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7b6e5ae9ecf83a3680f2bef167512e451f859ef3a409a43e246f21b11b82d2bd",
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "summary": "",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "138dd62b7fe5ddbe26fa4b37f684ae84357d946afe76a615afd37ee5e2dee1da",
+    "title": "There are more AI health tools than ever—but how well do they work?",
+    "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+    "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&#8230;",
+    "published": "Mon, 30 Mar 2026 16:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b7c7f6980e15db4833233e48f9a410bde4d437e65a82b3c5d17b1a77e614588a",
+    "title": "The one piece of data that could actually shed light on your job and AI",
+    "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&#8230;",
+    "published": "Mon, 06 Apr 2026 16:33:35 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "006782c34f212f39327bcb9d037989a4816f7a4c96ca5a219b77460dabdc92a7",
+    "title": "AI is changing how small online sellers decide what to make",
+    "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;",
+    "published": "Mon, 06 Apr 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "65b5012291e3695ca4c4559d8b406d50ad6d8de6b9972875ce1c6256dc1d8b89",
+    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+    "link": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft has crash-landed on a hostile planet. The only survivors&#8230;",
+    "published": "Fri, 10 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "db5207bf6537d92e365eac7e157dade0c9071e295cd467029860ed299eb6df69",
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;",
+    "published": "Mon, 13 Apr 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:artificial intelligence,ai",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]
