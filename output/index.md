@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-01 10:38 UTC_
+_Actualizado: 2026-07-02 09:56 UTC_
 
 ## Selección priorizada
 
-### 1. Want to understand the current state of AI? Check out these charts.
+### 1. The Download: DeepSeek’s latest AI breakthrough, and the race to build world models
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 27 Apr 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;
+
+---
+
+### 2. Rebuilding the data stack for AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 27 Apr 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/
+
+Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;
+
+---
+
+### 3. AI needs a strong data fabric to deliver business value
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 22 Apr 2026 10:05:06 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/
+
+Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;
+
+---
+
+### 4. AI at MIT
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 21 Apr 2026 21:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/
+
+At&#160;MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty&#8230;
+
+---
+
+### 5. This tool could show how consciousness works
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 21 Apr 2026 21:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/
+
+How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;
+
+---
+
+### 6. How robots learn: A brief, contemporary history
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 17 Apr 2026 10:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/
+
+Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;
+
+---
+
+### 7. Why having “humans in the loop” in an AI war is an illusion
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 12:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/
+
+The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&#8230;
+
+---
+
+### 8. Treating enterprise AI as an operating layer
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/
+
+There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.&#8230;
+
+---
+
+### 9. Making AI operational in constrained public sector environments
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/
+
+The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in&#8230;
+
+---
+
+### 10. You have no choice in reading this article—maybe
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 13 Apr 2026 10:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/
+
+Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;
+
+---
+
+### 11. Want to understand the current state of AI? Check out these charts.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ If you’re following AI news, you’re probably getting whiplash. AI is a gold 
 
 ---
 
-### 2. The Download: an exclusive Jeff VanderMeer story and AI models too scary to release
+### 12. The Download: an exclusive Jeff VanderMeer story and AI models too scary to release
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. AI is changing how small online sellers decide what to make
+### 13. AI is changing how small online sellers decide what to make
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black mode
 
 ---
 
-### 4. The one piece of data that could actually shed light on your job and AI
+### 14. The one piece of data that could actually shed light on your job and AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 5. There are more AI health tools than ever—but how well do they work?
+### 15. There are more AI health tools than ever—but how well do they work?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ Earlier this month, Microsoft launched Copilot Health, a new space within its Co
 
 ---
 
-### 6. Inside Genebench-Pro
+### 16. Inside Genebench-Pro
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Earlier this month, Microsoft launched Copilot Health, a new space within its Co
 
 ---
 
-### 7. Agriculture is ready for AI, but its data isn’t
+### 17. Agriculture is ready for AI, but its data isn’t
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ Artificial intelligence is transforming what is possible in agriculture, but ind
 
 ---
 
-### 8. Core dump epidemiology: fixing an 18-year-old bug
+### 18. Core dump epidemiology: fixing an 18-year-old bug
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI engineers used large-scale core dump analysis to debug rare infrastructur
 
 ---
 
-### 9. How ChatGPT adoption has expanded
+### 19. How ChatGPT adoption has expanded
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ New OpenAI Signals data shows how ChatGPT adoption is growing globally, with use
 
 ---
 
-### 10. Introducing GeneBench-Pro
+### 20. Introducing GeneBench-Pro
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ New OpenAI Signals data shows how ChatGPT adoption is growing globally, with use
 - **Enlace:** https://openai.com/index/introducing-genebench-pro
 
 Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
-
----
-
-### 11. Here’s why some people choose cryonics to store their bodies and brains after death
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 27 Mar 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/
-
-This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a&#8230;
-
----
-
-### 12. The snow gods: How a couple of ski bums built the internet’s best weather app
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 26 Mar 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/
-
-The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&#8230;
-
----
-
-### 13. The AI Hype Index: AI goes to war
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 25 Mar 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/
-
-AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;
-
----
-
-### 14. This startup wants to change how mathematicians do math
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 25 Mar 2026 13:59:17 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/
-
-Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;
-
----
-
-### 15. The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 24 Mar 2026 12:28:27 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;
-
----
-
-### 16. The Bay Area’s animal welfare movement wants to recruit AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 23 Mar 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
-
-In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area, a wildlife advocate spoke passionately to a crowd lounging in&#8230;
-
----
-
-### 17. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 23 Mar 2026 12:17:33 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&#8230;
-
----
-
-### 18. OpenAI is throwing everything into building a fully automated researcher
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 20 Mar 2026 11:57:16 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
-
-OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&#8230;
-
----
-
-### 19. The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 20 Mar 2026 13:15:45 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by&#8230;
-
----
-
-### 20. The Pentagon is planning for AI companies to train on classified data, defense official says
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 17 Mar 2026 22:30:46 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
-
-The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;
 
 ---
