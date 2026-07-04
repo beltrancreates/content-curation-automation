@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-03 09:52 UTC_
+_Actualizado: 2026-07-04 09:17 UTC_
 
 ## Selección priorizada
 
-### 1. Tech researchers are suing the Trump administration over the future of online safety
+### 1. Three things to watch amid Anthropic’s latest feud with the government
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 22 Jun 2026 18:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;
+
+---
+
+### 2. The Download: AI bottleneck debates, and BCI trials take off
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 19 Jun 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;
+
+---
+
+### 3. Brain-computer interface trials are taking off
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 19 Jun 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
+
+This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;
+
+---
+
+### 4. Exclusive eBook: How AI is becoming the next military advisor
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 16 Jun 2026 20:35:02 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+
+A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;
+
+---
+
+### 5. This man with ALS is “the first power user” of a brain implant that lets him speak
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 15 Jun 2026 15:12:28 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
+
+Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;
+
+---
+
+### 6. The Download: AI can run your admin department now
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 02 Jun 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;
+
+---
+
+### 7. The deadly Ebola outbreak is proving difficult to control
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 29 May 2026 11:19:52 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/
+
+The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses&#8230;
+
+---
+
+### 8. How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 29 May 2026 10:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/
+
+Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;
+
+---
+
+### 9. The Download: keeping up with AI, and the future of IVF
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 27 May 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;
+
+---
+
+### 10. It’s time to address the looming crisis in entry-level work.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 26 May 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
+
+Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;
+
+---
+
+### 11. Tech researchers are suing the Trump administration over the future of online safety
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Since its earliest days back in office, the Trump administration has been going 
 
 ---
 
-### 2. What to expect from Google this week
+### 12. What to expect from Google this week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 3. The Download: deepfake porn’s stolen bodies and AI sharing private numbers
+### 13. The Download: deepfake porn’s stolen bodies and AI sharing private numbers
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. World Models: 10 Things That Matter in AI Right Now
+### 14. World Models: 10 Things That Matter in AI Right Now
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ World models recently made our list of 10 Things That Matter in AI Right Now. W
 
 ---
 
-### 5. Fostering breakthrough AI innovation through customer-back engineering
+### 15. Fostering breakthrough AI innovation through customer-back engineering
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ Despite years of digitization, organizations capture less than one-third of the 
 
 ---
 
-### 6. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
+### 16. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ Smack dab between Australia and South America, the US National Oceanic and Atmos
 
 ---
 
-### 7. The Download: a new Christian phone network, and debugging LLMs
+### 17. The Download: a new Christian phone network, and debugging LLMs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models
+### 18. Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ In the first week of the landmark trial between Elon Musk and OpenAI, Musk took 
 
 ---
 
-### 9. The Download: the North Pole’s future and humanoid data
+### 19. The Download: the North Pole’s future and humanoid data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. Teaching AI to run with the turbines
+### 20. Teaching AI to run with the turbines
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
 
 Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;
-
----
-
-### 11. The Download: DeepSeek’s latest AI breakthrough, and the race to build world models
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Apr 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;
-
----
-
-### 12. Rebuilding the data stack for AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Apr 2026 13:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/
-
-Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;
-
----
-
-### 13. AI needs a strong data fabric to deliver business value
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 22 Apr 2026 10:05:06 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/
-
-Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;
-
----
-
-### 14. AI at MIT
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 21 Apr 2026 21:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/
-
-At&#160;MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty&#8230;
-
----
-
-### 15. This tool could show how consciousness works
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 21 Apr 2026 21:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/
-
-How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;
-
----
-
-### 16. How robots learn: A brief, contemporary history
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 17 Apr 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/
-
-Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;
-
----
-
-### 17. Why having “humans in the loop” in an AI war is an illusion
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 12:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/
-
-The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&#8230;
-
----
-
-### 18. Treating enterprise AI as an operating layer
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 13:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/
-
-There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.&#8230;
-
----
-
-### 19. Making AI operational in constrained public sector environments
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 13:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/
-
-The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in&#8230;
-
----
-
-### 20. You have no choice in reading this article—maybe
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 13 Apr 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/
-
-Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;
 
 ---
