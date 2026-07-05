@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-04 09:17 UTC_
+_Actualizado: 2026-07-05 09:38 UTC_
 
 ## Selección priorizada
 
-### 1. Three things to watch amid Anthropic’s latest feud with the government
+### 1. The state of enterprise AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 08 Dec 2025 04:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d, duplicate
+- **Enlace:** https://openai.com/index/the-state-of-enterprise-ai-2025-report
+
+Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.
+
+---
+
+### 2. Introducing GPT-5.2-Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 18 Dec 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:87d, duplicate
+- **Enlace:** https://openai.com/index/introducing-gpt-5-2-codex
+
+GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.
+
+---
+
+### 3. A device that revives eyeballs from dead donors could make eye transplants possible
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 03 Jul 2026 17:34:37 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
+
+It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;
+
+---
+
+### 4. The Download: a startup has a solution for AI’s groupthink problem
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 02 Jul 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;
+
+---
+
+### 5. The Download: Anthropic launches Claude Science, and California’s carbon manure math
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 01 Jul 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;
+
+---
+
+### 6. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 01 Jul 2026 14:35:16 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
+
+Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
+
+---
+
+### 7. Building tech in the world’s secret R&D hub
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 30 Jun 2026 10:23:30 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
+
+Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;
+
+---
+
+### 8. Repositioning retail for the AI era
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 25 Jun 2026 14:22:59 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
+
+Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;
+
+---
+
+### 9. The emergence of the web data infrastructure layer for AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 24 Jun 2026 11:59:54 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
+
+AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;
+
+---
+
+### 10. Reinventing the zipper
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 23 Jun 2026 21:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/
+
+With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented&#8230;
+
+---
+
+### 11. Three things to watch amid Anthropic’s latest feud with the government
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 2. The Download: AI bottleneck debates, and BCI trials take off
+### 12. The Download: AI bottleneck debates, and BCI trials take off
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Brain-computer interface trials are taking off
+### 13. Brain-computer interface trials are taking off
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This week, I covered the story of Casey Harrell—a man with ALS who is “the f
 
 ---
 
-### 4. Exclusive eBook: How AI is becoming the next military advisor
+### 14. Exclusive eBook: How AI is becoming the next military advisor
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ A collection of stories about how militaries are using AI models to make decisio
 
 ---
 
-### 5. This man with ALS is “the first power user” of a brain implant that lets him speak
+### 15. This man with ALS is “the first power user” of a brain implant that lets him speak
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ Casey Harrell has had a set of electrodes embedded in his brain for almost three
 
 ---
 
-### 6. The Download: AI can run your admin department now
+### 16. The Download: AI can run your admin department now
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The deadly Ebola outbreak is proving difficult to control
+### 17. The deadly Ebola outbreak is proving difficult to control
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ The alert was raised on May 5. Four health-care workers in the Ituri Province of
 
 ---
 
-### 8. How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment
+### 18. How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ Pope Leo XIV’s new encyclical on artificial intelligence includes a statement 
 
 ---
 
-### 9. The Download: keeping up with AI, and the future of IVF
+### 19. The Download: keeping up with AI, and the future of IVF
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. It’s time to address the looming crisis in entry-level work.
+### 20. It’s time to address the looming crisis in entry-level work.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
 
 Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;
-
----
-
-### 11. Tech researchers are suing the Trump administration over the future of online safety
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 21 May 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:research,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
-
-Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online.&#160; Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court.&#160;&#8230;
-
----
-
-### 12. What to expect from Google this week
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 18 May 2026 17:35:43 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;
-
----
-
-### 13. The Download: deepfake porn’s stolen bodies and AI sharing private numbers
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 14 May 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted&#8230;
-
----
-
-### 14. World Models: 10 Things That Matter in AI Right Now
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 12 May 2026 16:22:15 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/
-
-World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, &#8220;Can AI Learn to Understand the World?&#8221; exploring how AI may evolve to&#8230;
-
----
-
-### 15. Fostering breakthrough AI innovation through customer-back engineering
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 11 May 2026 13:33:06 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/
-
-Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;
-
----
-
-### 16. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 01 May 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/
-
-Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;
-
----
-
-### 17. The Download: a new Christian phone network, and debugging LLMs
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 01 May 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks&#8230;
-
----
-
-### 18. Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 01 May 2026 22:08:19 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/
-
-In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;
-
----
-
-### 19. The Download: the North Pole’s future and humanoid data
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 30 Apr 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel&#8230;
-
----
-
-### 20. Teaching AI to run with the turbines
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 02 Jul 2026 12:51:44 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:artificial intelligence,ai,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
-
-Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;
 
 ---
