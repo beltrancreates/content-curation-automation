@@ -28623,5 +28623,265 @@
       "old:97d",
       "duplicate"
     ]
+  },
+  {
+    "id": "7bf28b9ab2cc135afaf99d5de2c54a7e99eb0d8dce00a2c0d97a056e77f48201",
+    "title": "How Scania accelerates work with AI across its global workforce",
+    "link": "https://openai.com/index/scania",
+    "summary": "Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+    "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:128d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "d42da3d846d3bd1c7cca3805cd1bd6c82f564aa885c259c1d4674c645be225ca",
+    "title": "Plex Coffee delivers fast, personal service with ChatGPT",
+    "link": "https://openai.com/index/plex-coffee",
+    "summary": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+    "published": "Wed, 15 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:163d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "620629b044668f6fad3984e88ca47d903dfe5038228b5cd30acb6e5832d7ee54",
+    "title": "HiBob turns 2,500 GPTs into product and team growth",
+    "link": "https://openai.com/index/hibob",
+    "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+    "published": "Wed, 08 Oct 2025 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:169d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "644381f719736c17fb585d82eaa955c6f0bccbe12b45b9e8fe2f3eb3a6a55179",
+    "title": "Advancing organizational transformation for business innovation",
+    "link": "https://openai.com/index/dai-nippon-printing",
+    "summary": "DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
+    "published": "Tue, 28 Oct 2025 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:149d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "37f1ac7531a18e77e9cb4b63e8bf1f56ebd44c0d4881b5e438243848ba16f441",
+    "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+    "link": "https://openai.com/index/trustbank",
+    "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "published": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:59d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "bcc19c71fc25823bed1d7c2b26c8943914356331fe942bccc9ae4741f7aa6679",
+    "title": "Commonwealth Bank of Australia builds AI fluency at scale",
+    "link": "https://openai.com/index/commonwealth-bank-of-australia",
+    "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "published": "Tue, 09 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:108d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "b75e19c418cf9fd223bb1d14746e24a11dea2987fa262c4a92e7aeedefcc901f",
+    "title": "Taisei Corporation shapes the next generation of talent with AI",
+    "link": "https://openai.com/index/taisei",
+    "summary": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+    "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:57d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "b1d2926ecc679da5f90f5245972b9c372815b9d1c016e6620f8656371c8e1843",
+    "title": "How Podium is arming 10,000+ SMBs with AI agents",
+    "link": "https://openai.com/index/podium",
+    "summary": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:106d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "54089bb99c87f8441565acce406d4d5a494ada174968132c85587e307d383e7b",
+    "title": "How BBVA is scaling AI from pilot to practice across the org",
+    "link": "https://openai.com/index/bbva-2025",
+    "summary": "BBVA is embedding ChatGPT Enterprise into daily work, saving employee hours each week, creating 20,000+ custom GPTs, and achieving up to 80% efficiency gains.",
+    "published": "Thu, 06 Nov 2025 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:140d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "69e61986804031f4f6f3dba9a207678c40c9e143ed33fd3346b4593c964c519d",
+    "title": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
+    "link": "https://openai.com/index/steuerrecht",
+    "summary": "Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
+    "published": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:151d",
+      "duplicate"
+    ]
   }
 ]

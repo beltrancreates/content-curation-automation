@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-05 09:38 UTC_
+_Actualizado: 2026-07-06 11:23 UTC_
 
 ## Selección priorizada
 
-### 1. The state of enterprise AI
+### 1. Steuerrecht.com delivers client-ready legal analysis with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 27 Oct 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:151d, duplicate
+- **Enlace:** https://openai.com/index/steuerrecht
+
+Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.
+
+---
+
+### 2. How BBVA is scaling AI from pilot to practice across the org
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 06 Nov 2025 09:30:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:140d, duplicate
+- **Enlace:** https://openai.com/index/bbva-2025
+
+BBVA is embedding ChatGPT Enterprise into daily work, saving employee hours each week, creating 20,000+ custom GPTs, and achieving up to 80% efficiency gains.
+
+---
+
+### 3. How Podium is arming 10,000+ SMBs with AI agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 11 Dec 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:106d, duplicate
+- **Enlace:** https://openai.com/index/podium
+
+Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.
+
+---
+
+### 4. Taisei Corporation shapes the next generation of talent with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:57d, duplicate
+- **Enlace:** https://openai.com/index/taisei
+
+Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.
+
+---
+
+### 5. Commonwealth Bank of Australia builds AI fluency at scale
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 09 Dec 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:108d, duplicate
+- **Enlace:** https://openai.com/index/commonwealth-bank-of-australia
+
+Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.
+
+---
+
+### 6. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Jan 2026 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:59d, duplicate
+- **Enlace:** https://openai.com/index/trustbank
+
+TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.
+
+---
+
+### 7. Advancing organizational transformation for business innovation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 28 Oct 2025 17:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:149d, duplicate
+- **Enlace:** https://openai.com/index/dai-nippon-printing
+
+DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.
+
+---
+
+### 8. HiBob turns 2,500 GPTs into product and team growth
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Oct 2025 08:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:169d, duplicate
+- **Enlace:** https://openai.com/index/hibob
+
+Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.
+
+---
+
+### 9. Plex Coffee delivers fast, personal service with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Oct 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:163d, duplicate
+- **Enlace:** https://openai.com/index/plex-coffee
+
+Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.
+
+---
+
+### 10. How Scania accelerates work with AI across its global workforce
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Nov 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:128d, duplicate
+- **Enlace:** https://openai.com/index/scania
+
+Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.
+
+---
+
+### 11. The state of enterprise AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Key findings from OpenAI’s enterprise data show accelerating AI adoption, deep
 
 ---
 
-### 2. Introducing GPT-5.2-Codex
+### 12. Introducing GPT-5.2-Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon re
 
 ---
 
-### 3. A device that revives eyeballs from dead donors could make eye transplants possible
+### 13. A device that revives eyeballs from dead donors could make eye transplants possible
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ It’s not easy to transplant a whole human eye. The surgery is difficult. And t
 
 ---
 
-### 4. The Download: a startup has a solution for AI’s groupthink problem
+### 14. The Download: a startup has a solution for AI’s groupthink problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. The Download: Anthropic launches Claude Science, and California’s carbon manure math
+### 15. The Download: Anthropic launches Claude Science, and California’s carbon manure math
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
+### 16. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gem
 
 ---
 
-### 7. Building tech in the world’s secret R&D hub
+### 17. Building tech in the world’s secret R&D hub
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few 
 
 ---
 
-### 8. Repositioning retail for the AI era
+### 18. Repositioning retail for the AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ Artificial intelligence is rapidly reshaping retail, but not in the ways consume
 
 ---
 
-### 9. The emergence of the web data infrastructure layer for AI
+### 19. The emergence of the web data infrastructure layer for AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ AI is booming. New use cases are emerging each day. To capitalize on the technol
 
 ---
 
-### 10. Reinventing the zipper
+### 20. Reinventing the zipper
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ AI is booming. New use cases are emerging each day. To capitalize on the technol
 - **Enlace:** https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/
 
 With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented&#8230;
-
----
-
-### 11. Three things to watch amid Anthropic’s latest feud with the government
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 22 Jun 2026 18:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;
-
----
-
-### 12. The Download: AI bottleneck debates, and BCI trials take off
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 19 Jun 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;
-
----
-
-### 13. Brain-computer interface trials are taking off
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 19 Jun 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
-
-This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;
-
----
-
-### 14. Exclusive eBook: How AI is becoming the next military advisor
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 16 Jun 2026 20:35:02 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
-
-A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;
-
----
-
-### 15. This man with ALS is “the first power user” of a brain implant that lets him speak
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 15 Jun 2026 15:12:28 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
-
-Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;
-
----
-
-### 16. The Download: AI can run your admin department now
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 02 Jun 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;
-
----
-
-### 17. The deadly Ebola outbreak is proving difficult to control
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 29 May 2026 11:19:52 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/
-
-The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses&#8230;
-
----
-
-### 18. How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 29 May 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/
-
-Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;
-
----
-
-### 19. The Download: keeping up with AI, and the future of IVF
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 27 May 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;
-
----
-
-### 20. It’s time to address the looming crisis in entry-level work.
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 26 May 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
-
-Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;
 
 ---
