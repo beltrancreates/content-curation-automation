@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-06 11:23 UTC_
+_Actualizado: 2026-07-07 10:21 UTC_
 
 ## Selección priorizada
 
-### 1. Steuerrecht.com delivers client-ready legal analysis with ChatGPT
+### 1. The Download: how AI is used for military targeting, and the Pentagon’s war on Claude
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 13 Mar 2026 12:16:56 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:2d
+- **Enlace:** https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;
+
+---
+
+### 2. Brutal times for the US battery industry
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 12 Mar 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:3d
+- **Enlace:** https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/
+
+Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems&#8230;
+
+---
+
+### 3. The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 12 Mar 2026 13:02:48 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:3d
+- **Enlace:** https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&#8230;
+
+---
+
+### 4. A defense official reveals how AI chatbots could be used for targeting decisions
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 12 Mar 2026 22:23:34 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:2d
+- **Enlace:** https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
+
+The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;
+
+---
+
+### 5. Building a strong data infrastructure for AI agent success
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 10 Mar 2026 14:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:5d
+- **Enlace:** https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
+
+In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;
+
+---
+
+### 6. Hustlers are cashing in on China’s OpenClaw AI craze
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 11 Mar 2026 12:46:21 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:4d
+- **Enlace:** https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
+
+Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;
+
+---
+
+### 7. Morgan Stanley is shaping the future of financial services
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Dec 2024 10:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:569d, duplicate
+- **Enlace:** https://openai.com/index/morgan-stanley
+
+Morgan Stanley uses AI evals to shape the future of financial services
+
+---
+
+### 8. Notion’s GPT‑5 rebuild unlocks autonomous AI workflows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 07 Nov 2025 10:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d, duplicate
+- **Enlace:** https://openai.com/index/notion
+
+Notion rebuilt its AI architecture with GPT-5 to create agents that reason, act, and adapt across workflows, unlocking faster and more flexible productivity in Notion 3.0.
+
+---
+
+### 9. HYGH speeds development and campaigns with ChatGPT Business
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Oct 2025 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:168d, duplicate
+- **Enlace:** https://openai.com/index/hygh
+
+HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.
+
+---
+
+### 10. SchoolAI builds an AI platform that empowers teachers
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 22 Sep 2025 10:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:185d, duplicate
+- **Enlace:** https://openai.com/index/schoolai
+
+SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.
+
+---
+
+### 11. Steuerrecht.com delivers client-ready legal analysis with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate ta
 
 ---
 
-### 2. How BBVA is scaling AI from pilot to practice across the org
+### 12. How BBVA is scaling AI from pilot to practice across the org
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ BBVA is embedding ChatGPT Enterprise into daily work, saving employee hours each
 
 ---
 
-### 3. How Podium is arming 10,000+ SMBs with AI agents
+### 13. How Podium is arming 10,000+ SMBs with AI agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate d
 
 ---
 
-### 4. Taisei Corporation shapes the next generation of talent with AI
+### 14. Taisei Corporation shapes the next generation of talent with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to d
 
 ---
 
-### 5. Commonwealth Bank of Australia builds AI fluency at scale
+### 15. Commonwealth Bank of Australia builds AI fluency at scale
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterpri
 
 ---
 
-### 6. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts
+### 16. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabl
 
 ---
 
-### 7. Advancing organizational transformation for business innovation
+### 17. Advancing organizational transformation for business innovation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% fas
 
 ---
 
-### 8. HiBob turns 2,500 GPTs into product and team growth
+### 18. HiBob turns 2,500 GPTs into product and team growth
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption,
 
 ---
 
-### 9. Plex Coffee delivers fast, personal service with ChatGPT
+### 19. Plex Coffee delivers fast, personal service with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff
 
 ---
 
-### 10. How Scania accelerates work with AI across its global workforce
+### 20. How Scania accelerates work with AI across its global workforce
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff
 - **Enlace:** https://openai.com/index/scania
 
 Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.
-
----
-
-### 11. The state of enterprise AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Dec 2025 04:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:97d, duplicate
-- **Enlace:** https://openai.com/index/the-state-of-enterprise-ai-2025-report
-
-Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.
-
----
-
-### 12. Introducing GPT-5.2-Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 18 Dec 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:87d, duplicate
-- **Enlace:** https://openai.com/index/introducing-gpt-5-2-codex
-
-GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.
-
----
-
-### 13. A device that revives eyeballs from dead donors could make eye transplants possible
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 03 Jul 2026 17:34:37 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
-
-It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;
-
----
-
-### 14. The Download: a startup has a solution for AI’s groupthink problem
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 02 Jul 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;
-
----
-
-### 15. The Download: Anthropic launches Claude Science, and California’s carbon manure math
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 01 Jul 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;
-
----
-
-### 16. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 01 Jul 2026 14:35:16 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
-
-Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
-
----
-
-### 17. Building tech in the world’s secret R&D hub
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 30 Jun 2026 10:23:30 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
-
-Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;
-
----
-
-### 18. Repositioning retail for the AI era
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 25 Jun 2026 14:22:59 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
-
-Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;
-
----
-
-### 19. The emergence of the web data infrastructure layer for AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 24 Jun 2026 11:59:54 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
-
-AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;
-
----
-
-### 20. Reinventing the zipper
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 23 Jun 2026 21:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/
-
-With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented&#8230;
 
 ---

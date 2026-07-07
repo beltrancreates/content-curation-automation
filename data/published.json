@@ -28883,5 +28883,247 @@
       "old:151d",
       "duplicate"
     ]
+  },
+  {
+    "id": "9103190b4efe122ef1dcbad22d29b859f52bc8fc7703696fbd9a8512c34d342e",
+    "title": "SchoolAI builds an AI platform that empowers teachers",
+    "link": "https://openai.com/index/schoolai",
+    "summary": "SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.",
+    "published": "Mon, 22 Sep 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:185d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "2c77501f24056b063b237f2d91dd249d0d6737f551f774c7eb324f9801c23115",
+    "title": "HYGH speeds development and campaigns with ChatGPT Business",
+    "link": "https://openai.com/index/hygh",
+    "summary": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+    "published": "Fri, 10 Oct 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:168d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "1c96bd59ada94a0fedf56c4fc30c2b5711d889c157ede0aa0b805e519b8aac0d",
+    "title": "Notion’s GPT‑5 rebuild unlocks autonomous AI workflows",
+    "link": "https://openai.com/index/notion",
+    "summary": "Notion rebuilt its AI architecture with GPT-5 to create agents that reason, act, and adapt across workflows, unlocking faster and more flexible productivity in Notion 3.0.",
+    "published": "Fri, 07 Nov 2025 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:139d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "8cc902931fef68b409bcf99ed605e4dc258e4c799a7e8fdc0fbcbe788abb2bd4",
+    "title": "Morgan Stanley is shaping the future of financial services",
+    "link": "https://openai.com/index/morgan-stanley",
+    "summary": "Morgan Stanley uses AI evals to shape the future of financial services",
+    "published": "Wed, 04 Dec 2024 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 7.699999999999999,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:569d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "d031631976877b0ba94cb084cf3c7c987bbc52e9148eb2623b993571670ad379",
+    "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+    "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;",
+    "published": "Wed, 11 Mar 2026 12:46:21 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:4d"
+    ]
+  },
+  {
+    "id": "bb27ee40c84302f7959513a0b91984b55857241beab05df0eb7466304cdea731",
+    "title": "Building a strong data infrastructure for AI agent success",
+    "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+    "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;",
+    "published": "Tue, 10 Mar 2026 14:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:5d"
+    ]
+  },
+  {
+    "id": "c4deb053cb9b25b5effed3e7a6323191988767ca71aaa425909a2d6877287edf",
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;",
+    "published": "Thu, 12 Mar 2026 22:23:34 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:2d"
+    ]
+  },
+  {
+    "id": "4463160d84c67abdb88a860db09c4d9182244bf83a9af2013e876d9cb7436eff",
+    "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+    "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&#8230;",
+    "published": "Thu, 12 Mar 2026 13:02:48 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:3d"
+    ]
+  },
+  {
+    "id": "f4adf3e1ae773fd44ede77064d6e0f2089473819f87dd840a6e3611e546f8234",
+    "title": "Brutal times for the US battery industry",
+    "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+    "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems&#8230;",
+    "published": "Thu, 12 Mar 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:3d"
+    ]
+  },
+  {
+    "id": "2fbb0698485a15cfd5f1fcf0a5bf4d23230924677fab12c82794ec368806931a",
+    "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+    "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;",
+    "published": "Fri, 13 Mar 2026 12:16:56 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:2d"
+    ]
   }
 ]
