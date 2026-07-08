@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-07 10:21 UTC_
+_Actualizado: 2026-07-08 09:22 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: how AI is used for military targeting, and the Pentagon’s war on Claude
+### 1. The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 19 Mar 2026 12:17:02 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;
+
+---
+
+### 2. What do new nuclear reactors mean for waste?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 18 Mar 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/
+
+MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;
+
+---
+
+### 3. The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 18 Mar 2026 12:38:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;
+
+---
+
+### 4. The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 17 Mar 2026 12:26:48 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;
+
+---
+
+### 5. Securing digital assets against future threats
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Mar 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/
+
+
+
+---
+
+### 6. The Download: glass chips and “AI-free” logos
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Mar 2026 12:35:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it’s&#160;now poised to find its way into the AI chips used in the world’s newest and&#8230;
+
+---
+
+### 7. Nurturing agentic AI beyond the toddler stage
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Mar 2026 13:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/
+
+Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;
+
+---
+
+### 8. Where OpenAI’s technology could show up in Iran
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Mar 2026 17:06:21 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;
+
+---
+
+### 9. Future AI chips could be built on glass
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 13 Mar 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:2d
+- **Enlace:** https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/
+
+Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;
+
+---
+
+### 10. Australian Payments Plus moves faster with ChatGPT and Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 07 Jul 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/australian-payments-plus
+
+See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
+
+---
+
+### 11. The Download: how AI is used for military targeting, and the Pentagon’s war on Claude
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Brutal times for the US battery industry
+### 12. Brutal times for the US battery industry
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ Just a few years ago, the battery industry was hot, hot, hot. There was a seemin
 
 ---
 
-### 3. The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump
+### 13. The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. A defense official reveals how AI chatbots could be used for targeting decisions
+### 14. A defense official reveals how AI chatbots could be used for targeting decisions
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ The US military might use generative AI systems to rank lists of targets and mak
 
 ---
 
-### 5. Building a strong data infrastructure for AI agent success
+### 15. Building a strong data infrastructure for AI agent success
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ In the race to adopt and show value from AI, enterprises are moving faster than 
 
 ---
 
-### 6. Hustlers are cashing in on China’s OpenClaw AI craze
+### 16. Hustlers are cashing in on China’s OpenClaw AI craze
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ Feng Qingyang had always hoped to launch his own company, but he never thought t
 
 ---
 
-### 7. Morgan Stanley is shaping the future of financial services
+### 17. Morgan Stanley is shaping the future of financial services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Morgan Stanley uses AI evals to shape the future of financial services
 
 ---
 
-### 8. Notion’s GPT‑5 rebuild unlocks autonomous AI workflows
+### 18. Notion’s GPT‑5 rebuild unlocks autonomous AI workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Notion rebuilt its AI architecture with GPT-5 to create agents that reason, act,
 
 ---
 
-### 9. HYGH speeds development and campaigns with ChatGPT Business
+### 19. HYGH speeds development and campaigns with ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ HYGH speeds up software development and campaign delivery with ChatGPT Business,
 
 ---
 
-### 10. SchoolAI builds an AI platform that empowers teachers
+### 20. SchoolAI builds an AI platform that empowers teachers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ HYGH speeds up software development and campaign delivery with ChatGPT Business,
 - **Enlace:** https://openai.com/index/schoolai
 
 SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.
-
----
-
-### 11. Steuerrecht.com delivers client-ready legal analysis with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 27 Oct 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:151d, duplicate
-- **Enlace:** https://openai.com/index/steuerrecht
-
-Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.
-
----
-
-### 12. How BBVA is scaling AI from pilot to practice across the org
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Nov 2025 09:30:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:140d, duplicate
-- **Enlace:** https://openai.com/index/bbva-2025
-
-BBVA is embedding ChatGPT Enterprise into daily work, saving employee hours each week, creating 20,000+ custom GPTs, and achieving up to 80% efficiency gains.
-
----
-
-### 13. How Podium is arming 10,000+ SMBs with AI agents
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 11 Dec 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:106d, duplicate
-- **Enlace:** https://openai.com/index/podium
-
-Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.
-
----
-
-### 14. Taisei Corporation shapes the next generation of talent with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Jan 2026 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:57d, duplicate
-- **Enlace:** https://openai.com/index/taisei
-
-Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.
-
----
-
-### 15. Commonwealth Bank of Australia builds AI fluency at scale
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 09 Dec 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:108d, duplicate
-- **Enlace:** https://openai.com/index/commonwealth-bank-of-australia
-
-Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.
-
----
-
-### 16. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 27 Jan 2026 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:59d, duplicate
-- **Enlace:** https://openai.com/index/trustbank
-
-TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.
-
----
-
-### 17. Advancing organizational transformation for business innovation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 28 Oct 2025 17:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:149d, duplicate
-- **Enlace:** https://openai.com/index/dai-nippon-printing
-
-DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.
-
----
-
-### 18. HiBob turns 2,500 GPTs into product and team growth
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 08 Oct 2025 08:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:169d, duplicate
-- **Enlace:** https://openai.com/index/hibob
-
-Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.
-
----
-
-### 19. Plex Coffee delivers fast, personal service with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 15 Oct 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:163d, duplicate
-- **Enlace:** https://openai.com/index/plex-coffee
-
-Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.
-
----
-
-### 20. How Scania accelerates work with AI across its global workforce
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 19 Nov 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:128d, duplicate
-- **Enlace:** https://openai.com/index/scania
-
-Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.
 
 ---

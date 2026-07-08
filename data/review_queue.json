@@ -22047,6 +22047,31 @@
     ]
   },
   {
+    "id": "c656ffb4fe3248f5b0d013e0d139c1d585c814740456512d280bd518dc181ce3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "faa60f35b7b4c481314aff9d5c62fefcf38ce54f6ff756c6f24ccb43bef11a20",
     "title": "Shifting to AI model customization is an architectural imperative",
     "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
@@ -32996,6 +33021,75 @@
     "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
     "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c97180c005580fef65acef38d5a247591de05a350110428de0f1154183a4fdb6",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+    "published": "Tue, 07 Jul 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "dd288d67570aa43cdc2a34714649d011be4bcec70da92929dc4046b5a5a4a243",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b194a51623cf3edbab04b37e84ae6cc28bae389bc438e5886e0cf13888bb17f0",
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
+    "published": "Tue, 07 Jul 2026 10:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

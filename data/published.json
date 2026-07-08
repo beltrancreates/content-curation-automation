@@ -29125,5 +29125,237 @@
       "authority:8",
       "recent:2d"
     ]
+  },
+  {
+    "id": "c656ffb4fe3248f5b0d013e0d139c1d585c814740456512d280bd518dc181ce3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "52abf7e8edc16142054619ca5413f05498345612c81c68b1cef2e5b008a6ac1d",
+    "title": "Future AI chips could be built on glass",
+    "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+    "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;",
+    "published": "Fri, 13 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:2d"
+    ]
+  },
+  {
+    "id": "c040816208a022cb3464f40d81545f62a52f3db86da0996b4418a6d7eaa078f2",
+    "title": "Where OpenAI’s technology could show up in Iran",
+    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;",
+    "published": "Mon, 16 Mar 2026 17:06:21 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "30cbde5695761de435f0af78c24f5c7befb32926c2ad5aa72fdc823a8e58434b",
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+    "published": "Mon, 16 Mar 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "f2296c33731d9070e5ccb28a16680f09225c4e51b7c6b3b31c5502770a2ee168",
+    "title": "The Download: glass chips and “AI-free” logos",
+    "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it’s&#160;now poised to find its way into the AI chips used in the world’s newest and&#8230;",
+    "published": "Mon, 16 Mar 2026 12:35:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "0605e0e6f8d220337f30dabf53efc7377dbb5e5c0991db2a356cccea75fdc655",
+    "title": "Securing digital assets against future threats",
+    "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "summary": "",
+    "published": "Mon, 16 Mar 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "18a9c4a822ecdb0f567461097784a6e4063470113c257385235b8724ca8aa216",
+    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;",
+    "published": "Tue, 17 Mar 2026 12:26:48 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "1087fdda83b58152b47e81ebe68a5213ef762112f0a9562944c56d247482966b",
+    "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;",
+    "published": "Wed, 18 Mar 2026 12:38:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "5357fd78c4b35a81203b9cbadd295b05412b58c3e436b22a5ba5cb0c7d52f9c8",
+    "title": "What do new nuclear reactors mean for waste?",
+    "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;",
+    "published": "Wed, 18 Mar 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ea8658482ad32bf48e62be8905d8209a8a6408db4189eff5c4c7bdf442507b29",
+    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+    "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;",
+    "published": "Thu, 19 Mar 2026 12:17:02 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]
