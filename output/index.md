@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-08 09:22 UTC_
+_Actualizado: 2026-07-09 10:24 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
+### 1. Why this battery company is pivoting to AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Mar 2026 15:02:50 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/
+
+Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;
+
+---
+
+### 2. Roundtables: The Next Era of Space Exploration
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Mar 2026 17:26:26 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/
+
+Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8230;
+
+---
+
+### 3. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Mar 2026 16:43:36 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/
+
+L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&#8230;
+
+---
+
+### 4. Exclusive eBook: Are we ready to hand AI agents the keys?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Mar 2026 18:17:13 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/
+
+We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only&#8230;
+
+---
+
+### 5. The hardest question to answer about AI-fueled delusions
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Mar 2026 16:31:20 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&#8230;
+
+---
+
+### 6. Mind-altering substances are (still) falling short in clinical trials
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 20 Mar 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
+
+This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over&#8230;
+
+---
+
+### 7. Introducing GPT-Live
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Jul 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-gpt-live
+
+A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+
+---
+
+### 8. Helping K–12 educators build practical AI skills
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Jul 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/k-12-educators-practical-skills
+
+OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
+
+---
+
+### 9. Separating signal from noise in coding evaluations
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Jul 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/separating-signal-from-noise-coding-evaluations
+
+A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
+
+---
+
+### 10. Our approach to government and national security partnerships
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 08 Jul 2026 13:30:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/government-national-security-partnerships
+
+Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
+
+---
+
+### 11. The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. What do new nuclear reactors mean for waste?
+### 12. What do new nuclear reactors mean for waste?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 3. The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
+### 13. The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit
+### 14. The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. Securing digital assets against future threats
+### 15. Securing digital assets against future threats
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. The Download: glass chips and “AI-free” logos
+### 16. The Download: glass chips and “AI-free” logos
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Nurturing agentic AI beyond the toddler stage
+### 17. Nurturing agentic AI beyond the toddler stage
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ Parents of young children face a lot of fears about developmental milestones, fr
 
 ---
 
-### 8. Where OpenAI’s technology could show up in Iran
+### 18. Where OpenAI’s technology could show up in Iran
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 9. Future AI chips could be built on glass
+### 19. Future AI chips could be built on glass
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ Human-made glass is thousands of years old. But it’s now poised to find its wa
 
 ---
 
-### 10. Australian Payments Plus moves faster with ChatGPT and Codex
+### 20. Australian Payments Plus moves faster with ChatGPT and Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Human-made glass is thousands of years old. But it’s now poised to find its wa
 - **Enlace:** https://openai.com/index/australian-payments-plus
 
 See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
-
----
-
-### 11. The Download: how AI is used for military targeting, and the Pentagon’s war on Claude
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Mar 2026 12:16:56 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:2d
-- **Enlace:** https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;
-
----
-
-### 12. Brutal times for the US battery industry
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Mar 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:3d
-- **Enlace:** https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/
-
-Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems&#8230;
-
----
-
-### 13. The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Mar 2026 13:02:48 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:3d
-- **Enlace:** https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&#8230;
-
----
-
-### 14. A defense official reveals how AI chatbots could be used for targeting decisions
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Mar 2026 22:23:34 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:2d
-- **Enlace:** https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
-
-The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;
-
----
-
-### 15. Building a strong data infrastructure for AI agent success
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 10 Mar 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:5d
-- **Enlace:** https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
-
-In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;
-
----
-
-### 16. Hustlers are cashing in on China’s OpenClaw AI craze
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 11 Mar 2026 12:46:21 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:4d
-- **Enlace:** https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
-
-Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;
-
----
-
-### 17. Morgan Stanley is shaping the future of financial services
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Dec 2024 10:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:569d, duplicate
-- **Enlace:** https://openai.com/index/morgan-stanley
-
-Morgan Stanley uses AI evals to shape the future of financial services
-
----
-
-### 18. Notion’s GPT‑5 rebuild unlocks autonomous AI workflows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Nov 2025 10:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:139d, duplicate
-- **Enlace:** https://openai.com/index/notion
-
-Notion rebuilt its AI architecture with GPT-5 to create agents that reason, act, and adapt across workflows, unlocking faster and more flexible productivity in Notion 3.0.
-
----
-
-### 19. HYGH speeds development and campaigns with ChatGPT Business
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Oct 2025 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:168d, duplicate
-- **Enlace:** https://openai.com/index/hygh
-
-HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.
-
----
-
-### 20. SchoolAI builds an AI platform that empowers teachers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 22 Sep 2025 10:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:185d, duplicate
-- **Enlace:** https://openai.com/index/schoolai
-
-SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.
 
 ---
