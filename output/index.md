@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-09 10:24 UTC_
+_Actualizado: 2026-07-10 10:18 UTC_
 
 ## Selección priorizada
 
-### 1. Why this battery company is pivoting to AI
+### 1. GPT-5.5 Bio Bug Bounty
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d, duplicate
+- **Enlace:** https://openai.com/index/bio-bug-bounty
+
+Details about the OpenAI Bio Bounty program
+
+---
+
+### 2. How to use ChatGPT Work for everyday tasks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d
+- **Enlace:** https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks
+
+Explore practical ChatGPT Work use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
+
+---
+
+### 3. ChatGPT Sites
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 02 Jun 2026 10:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:38d
+- **Enlace:** https://openai.com/academy/chatgpt-sites
+
+Create that kind of lightweight website or app with Codex.
+
+---
+
+### 4. Anthropic found a hidden space where Claude puzzles over concepts
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 09 Jul 2026 20:22:28 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,model,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+
+The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;
+
+---
+
+### 5. Modeling an AI jobs transition
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 25 Apr 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:76d
+- **Enlace:** https://openai.com/index/modeling-ai-jobs-transition
+
+A new framework analyzes 921 occupations and 148 million U.S. jobs to identify which roles face automation risk, reorganization, growth, or minimal AI disruption.
+
+---
+
+### 6. ChatGPT is now a partner for your most ambitious work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/chatgpt-for-your-most-ambitious-work
+
+ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
+
+---
+
+### 7. GPT-5.6: Frontier intelligence that scales with your ambition
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gpt-5-6
+
+More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
+
+---
+
+### 8. How Deutsche Telekom is rewiring telecommunications with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Jul 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/deutsche-telekom
+
+How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
+
+---
+
+### 9. AI is becoming a first hire for small businesses
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 25 May 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:46d
+- **Enlace:** https://openai.com/index/ai-first-hire-small-business
+
+New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.
+
+---
+
+### 10. GPT-5.6 is now the preferred model in Microsoft 365 Copilot
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 09 Jul 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+
+Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+
+---
+
+### 11. Why this battery company is pivoting to AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Qichao Hu doesn’t mince words about how he sees the state of the battery indus
 
 ---
 
-### 2. Roundtables: The Next Era of Space Exploration
+### 12. Roundtables: The Next Era of Space Exploration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ Listen to the session or watch below Whether it&#8217;s the race to find life on
 
 ---
 
-### 3. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
+### 13. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Ariz
 
 ---
 
-### 4. Exclusive eBook: Are we ready to hand AI agents the keys?
+### 14. Exclusive eBook: Are we ready to hand AI agents the keys?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ We’re starting to give AI agents real autonomy, but are we prepared for what c
 
 ---
 
-### 5. The hardest question to answer about AI-fueled delusions
+### 15. The hardest question to answer about AI-fueled delusions
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 6. Mind-altering substances are (still) falling short in clinical trials
+### 16. Mind-altering substances are (still) falling short in clinical trials
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This week I want to look at where we are with psychedelics, the mind-altering su
 
 ---
 
-### 7. Introducing GPT-Live
+### 17. Introducing GPT-Live
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ A new generation of voice models for natural human-AI interaction, now powering 
 
 ---
 
-### 8. Helping K–12 educators build practical AI skills
+### 18. Helping K–12 educators build practical AI skills
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills 
 
 ---
 
-### 9. Separating signal from noise in coding evaluations
+### 19. Separating signal from noise in coding evaluations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding ben
 
 ---
 
-### 10. Our approach to government and national security partnerships
+### 20. Our approach to government and national security partnerships
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding ben
 - **Enlace:** https://openai.com/index/government-national-security-partnerships
 
 Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
-
----
-
-### 11. The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 19 Mar 2026 12:17:02 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;
-
----
-
-### 12. What do new nuclear reactors mean for waste?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 18 Mar 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;
-
----
-
-### 13. The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 18 Mar 2026 12:38:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;
-
----
-
-### 14. The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 17 Mar 2026 12:26:48 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;
-
----
-
-### 15. Securing digital assets against future threats
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Mar 2026 11:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/
-
-
-
----
-
-### 16. The Download: glass chips and “AI-free” logos
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Mar 2026 12:35:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it’s&#160;now poised to find its way into the AI chips used in the world’s newest and&#8230;
-
----
-
-### 17. Nurturing agentic AI beyond the toddler stage
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Mar 2026 13:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/
-
-Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;
-
----
-
-### 18. Where OpenAI’s technology could show up in Iran
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Mar 2026 17:06:21 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;
-
----
-
-### 19. Future AI chips could be built on glass
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Mar 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:2d
-- **Enlace:** https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/
-
-Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;
-
----
-
-### 20. Australian Payments Plus moves faster with ChatGPT and Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 07 Jul 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/australian-payments-plus
-
-See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
 
 ---
