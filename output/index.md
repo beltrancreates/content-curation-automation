@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-11 08:42 UTC_
+_Actualizado: 2026-07-12 08:59 UTC_
 
 ## Selección priorizada
 
-### 1. Inside the stealthy startup that pitched brainless human clones
+### 1. Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 08 Apr 2026 14:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/
+
+We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&#8230;
+
+---
+
+### 2. The Download: AI’s impact on jobs, and data centres in space
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 07 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalypse is spoken about as a given. Now even economists who have&#8230;
+
+---
+
+### 3. Enabling agent-first process redesign
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 07 Apr 2026 14:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
+
+Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&#8230;
+
+---
+
+### 4. Desalination plants in the Middle East are increasingly vulnerable
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 07 Apr 2026 14:54:06 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/
+
+MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early&#8230;
+
+---
+
+### 5. Four things we’d need to put data centers in space
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 03 Apr 2026 17:03:19 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/
+
+MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The&#8230;
+
+---
+
+### 6. Fuel prices are soaring. Plastic could be next.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 02 Apr 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/
+
+As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the&#8230;
+
+---
+
+### 7. The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 02 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;
+
+---
+
+### 8. The gig workers who are training humanoid robots at home
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 01 Apr 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/
+
+When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8230;
+
+---
+
+### 9. The Download: gig workers training humanoids, and better AI benchmarks
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 01 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots at home&#160; When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his&#8230;
+
+---
+
+### 10. The Download: AI health tools and the Pentagon’s Anthropic culture war
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 31 Mar 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There are more AI health tools than ever—but how well do they work?&#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&#160; There’s&#160;a clear demand&#8230;
+
+---
+
+### 11. Inside the stealthy startup that pitched brainless human clones
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ After operating in secrecy for years, a startup company called R3 Bio, in Richmo
 
 ---
 
-### 2. The Download: brainless human clones and the first uterus kept alive outside a body
+### 12. The Download: brainless human clones and the first uterus kept alive outside a body
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. The Pentagon’s culture war tactic against Anthropic has backfired
+### 13. The Pentagon’s culture war tactic against Anthropic has backfired
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 4. A woman’s uterus has been kept alive outside the body for the first time
+### 14. A woman’s uterus has been kept alive outside the body for the first time
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 5. The Download: the internet’s best weather app, and why people freeze their brains
+### 15. The Download: the internet’s best weather app, and why people freeze their brains
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. The Download: a battery pivot to AI, and rewriting math
+### 16. The Download: a battery pivot to AI, and rewriting math
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Agentic commerce runs on truth and context
+### 17. Agentic commerce runs on truth and context
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ Imagine telling a digital agent, “Use my points and book a family trip to Ital
 
 ---
 
-### 8. The Download: reawakening frozen brains, and the AI Hype Index returns
+### 18. The Download: reawakening frozen brains, and the AI Hype Index returns
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. ChatGPT Codex settings
+### 19. ChatGPT Codex settings
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Learn how to configure Codex settings, including personalization, detail level, 
 
 ---
 
-### 10. The Download: Claude’s inner workings and OpenAI’s “super app”
+### 20. The Download: Claude’s inner workings and OpenAI’s “super app”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ Learn how to configure Codex settings, including personalization, detail level, 
 - **Enlace:** https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;
-
----
-
-### 11. GPT-5.5 Bio Bug Bounty
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d, duplicate
-- **Enlace:** https://openai.com/index/bio-bug-bounty
-
-Details about the OpenAI Bio Bounty program
-
----
-
-### 12. How to use ChatGPT Work for everyday tasks
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d
-- **Enlace:** https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks
-
-Explore practical ChatGPT Work use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.
-
----
-
-### 13. ChatGPT Sites
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 02 Jun 2026 10:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:38d
-- **Enlace:** https://openai.com/academy/chatgpt-sites
-
-Create that kind of lightweight website or app with Codex.
-
----
-
-### 14. Anthropic found a hidden space where Claude puzzles over concepts
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 09 Jul 2026 20:22:28 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
-
-The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;
-
----
-
-### 15. Modeling an AI jobs transition
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sat, 25 Apr 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:76d
-- **Enlace:** https://openai.com/index/modeling-ai-jobs-transition
-
-A new framework analyzes 921 occupations and 148 million U.S. jobs to identify which roles face automation risk, reorganization, growth, or minimal AI disruption.
-
----
-
-### 16. ChatGPT is now a partner for your most ambitious work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatgpt-for-your-most-ambitious-work
-
-ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
-
----
-
-### 17. GPT-5.6: Frontier intelligence that scales with your ambition
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 09 Jul 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/gpt-5-6
-
-More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-
----
-
-### 18. How Deutsche Telekom is rewiring telecommunications with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Jul 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/deutsche-telekom
-
-How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
-
----
-
-### 19. AI is becoming a first hire for small businesses
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 25 May 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:46d
-- **Enlace:** https://openai.com/index/ai-first-hire-small-business
-
-New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.
-
----
-
-### 20. GPT-5.6 is now the preferred model in Microsoft 365 Copilot
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 09 Jul 2026 13:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-
-Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 
 ---
