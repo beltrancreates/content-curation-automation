@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-13 10:18 UTC_
+_Actualizado: 2026-07-14 09:00 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: the state of AI, and protecting bears with drones
+### 1. The Download: bad news for inner Neanderthals, and AI warfare’s human illusion
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 17 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving&#8230;
+
+---
+
+### 2. The quest to measure our relationship with nature
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/
+
+As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were&#8230;
+
+---
+
+### 3. The noise we make is hurting animals. Can we learn to shut up?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/
+
+When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed. Cities—normally filled with the honking, screeching, engine-gunning riot of transportation—became as silent as&#8230;
+
+---
+
+### 4. The Download: cyberscammers’ banking bypasses, and carbon removal troubles
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 16 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering&#160;center&#160;in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the&#8230;
+
+---
+
+### 5. No one’s sure if synthetic mirror life will kill us all
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 15 Apr 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/
+
+For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,&#8230;
+
+---
+
+### 6. The Download: NASA’s nuclear spacecraft and unveiling our AI 10
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 15 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&#160; Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel&#8230;
+
+---
+
+### 7. Coming soon: 10 Things That Matter in AI Right Now
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 14 Apr 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/
+
+Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;
+
+---
+
+### 8. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 14 Apr 2026 12:04:47 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/
+
+MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters&#8230;
+
+---
+
+### 9. The Download: a donor conception cap and world models for AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 13 Jul 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;
+
+---
+
+### 10. What Anthropic’s latest AI discovery does—and doesn’t—show
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 13 Jul 2026 18:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,model,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;
+
+---
+
+### 11. The Download: the state of AI, and protecting bears with drones
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Redefining the future of software engineering
+### 12. Redefining the future of software engineering
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ Software engineering has experienced two seismic shifts this century. First was 
 
 ---
 
-### 3. Building trust in the AI era with privacy-led UX
+### 13. Building trust in the AI era with privacy-led UX
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ The practice of privacy-led user experience (UX) is a design philosophy that tre
 
 ---
 
-### 4. Job titles of the future: Wildlife first responder
+### 14. Job titles of the future: Wildlife first responder
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ Grizzly bears have made such a comeback across eastern Montana that in 2017, the
 
 ---
 
-### 5. The Download: how humans make decisions, and Moderna’s “vaccine” word games
+### 15. The Download: how humans make decisions, and Moderna’s “vaccine” word games
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Why opinion on AI is so divided
+### 16. Why opinion on AI is so divided
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 7. Constellations
+### 17. Constellations
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ I. We had crash-landed on the planet. We were far from home. The spaceship could
 
 ---
 
-### 8. What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma
+### 18. What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ Is it the Department of Defense or the Department of War? The Gulf of Mexico or 
 
 ---
 
-### 9. The Download: AstroTurf wars and exponential AI growth
+### 19. The Download: AstroTurf wars and exponential AI growth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. The Download: water threats in Iran and AI’s impact on what entrepreneurs make
+### 20. The Download: water threats in Iran and AI’s impact on what entrepreneurs make
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region.&#160;&#160;President&#8230;
-
----
-
-### 11. Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 08 Apr 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/
-
-We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&#8230;
-
----
-
-### 12. The Download: AI’s impact on jobs, and data centres in space
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 07 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalypse is spoken about as a given. Now even economists who have&#8230;
-
----
-
-### 13. Enabling agent-first process redesign
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 07 Apr 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
-
-Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&#8230;
-
----
-
-### 14. Desalination plants in the Middle East are increasingly vulnerable
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 07 Apr 2026 14:54:06 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early&#8230;
-
----
-
-### 15. Four things we’d need to put data centers in space
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 03 Apr 2026 17:03:19 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The&#8230;
-
----
-
-### 16. Fuel prices are soaring. Plastic could be next.
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 02 Apr 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/
-
-As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the&#8230;
-
----
-
-### 17. The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 02 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices.&#160;But looking ahead, further consequences&#160;could&#8230;
-
----
-
-### 18. The gig workers who are training humanoid robots at home
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 01 Apr 2026 11:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/
-
-When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8230;
-
----
-
-### 19. The Download: gig workers training humanoids, and better AI benchmarks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 01 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots at home&#160; When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his&#8230;
-
----
-
-### 20. The Download: AI health tools and the Pentagon’s Anthropic culture war
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 31 Mar 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There are more AI health tools than ever—but how well do they work?&#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&#160; There’s&#160;a clear demand&#8230;
 
 ---
