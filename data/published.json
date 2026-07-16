@@ -30999,5 +30999,239 @@
       "authority:8",
       "recent:0d"
     ]
+  },
+  {
+    "id": "faf2e4780b7fc318741001a2dba411f537c7368c521834522cca4cdd846cc6a2",
+    "title": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "13af18dd18eb774df1080b491a27772b3a2c74711cc335d5743b0853b0e1a82e",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,safety",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c1858cf5ca3aa9db02e388020b442d41fedb01b3570971a1243df4c662c8bb28",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+    "published": "Wed, 15 Jul 2026 17:09:37 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,model,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "e16aaf6e62fdf2b8879a4f5d842540f5f9aa82a4ba8c553a1afc77abb4f4b802",
+    "title": "There is no nature anymore",
+    "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+    "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the&#8230;",
+    "published": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "d413a83378f9e110770818360b031c49baca65f0f0ba663a48ec9117f6fbb627",
+    "title": "Los Angeles is finally going underground",
+    "link": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+    "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a&#8230;",
+    "published": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "b2152960a3914f106f1e22d07a3b81b412da1a2ee33899d27c78a844ba91c8cb",
+    "title": "The Download: introducing the Nature issue",
+    "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160; From microplastics in rainforest wildlife to artificial light&#8230;",
+    "published": "Thu, 23 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7bdbf5e12aa6f4f21dfda0276c353b0e6d9fe43359337ab9f7064c067ba6d6d4",
+    "title": "The Download: supercharged scams and studying AI healthcare",
+    "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&#8230;",
+    "published": "Fri, 24 Apr 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7170330c4a32fd8c25f4bb162969310ff417044b6100f8b201e7a99af55739d0",
+    "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+    "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;",
+    "published": "Fri, 24 Apr 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "1d60fd422232e8ea47a9aac507fcb3f44098aeaeeb9f09e9bd31af9716a16661",
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
+    "published": "Mon, 27 Apr 2026 22:52:57 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "5b73b62bf5aa547048e903c6b5483a29946a85433b57388661dee0d81cda5f00",
+    "title": "The missing step between hype and profit",
+    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+    "published": "Mon, 27 Apr 2026 16:13:41 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]

@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-07-15 09:05 UTC_
+_Actualizado: 2026-07-16 09:09 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: introducing the 10 Things That Matter in AI Right Now
+### 1. The missing step between hype and profit
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 27 Apr 2026 16:13:41 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;
+
+---
+
+### 2. Elon Musk and Sam Altman are going to court over OpenAI’s future
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 27 Apr 2026 22:52:57 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/
+
+After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;
+
+---
+
+### 3. Health-care AI is here. We don’t know if it actually helps patients.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 24 Apr 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/
+
+I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;
+
+---
+
+### 4. The Download: supercharged scams and studying AI healthcare
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 24 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&#8230;
+
+---
+
+### 5. The Download: introducing the Nature issue
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 23 Apr 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160; From microplastics in rainforest wildlife to artificial light&#8230;
+
+---
+
+### 6. Los Angeles is finally going underground
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 22 Apr 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/
+
+Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a&#8230;
+
+---
+
+### 7. There is no nature anymore
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 22 Apr 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/
+
+When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the&#8230;
+
+---
+
+### 8. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 15 Jul 2026 17:09:37 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,model,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
+
+OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;
+
+---
+
+### 9. GPT-Red: Unlocking Self-Improvement for Robustness
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Jul 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/unlocking-self-improvement-gpt-red
+
+Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
+
+---
+
+### 10. The US is advancing AI safety through state and federal action
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 15 Jul 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+
+OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
+
+---
+
+### 11. The Download: introducing the 10 Things That Matter in AI Right Now
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Analog computing from waste heat
+### 12. Analog computing from waste heat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ Heat generated by electronic devices is usually a problem, but a team led by Giu
 
 ---
 
-### 3. A natural protein may protect the GI tract from infection
+### 13. A natural protein may protect the GI tract from infection
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugar
 
 ---
 
-### 4. Roundtables: Unveiling The 10 Things That Matter in AI Right Now
+### 14. Roundtables: Unveiling The 10 Things That Matter in AI Right Now
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ Listen to the session or watch below Watch a special edition of Roundtables simu
 
 ---
 
-### 5. Chinese tech workers are starting to train their AI doubles–and pushing back
+### 15. Chinese tech workers are starting to train their AI doubles–and pushing back
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ Tech workers in China are being instructed by their bosses to train AI agents to
 
 ---
 
-### 6. Colossal Biosciences said it cloned red wolves. Is it for real?
+### 16. Colossal Biosciences said it cloned red wolves. Is it for real?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ If you want to capture something wolflike, it’s best to embark before dawn. So
 
 ---
 
-### 7. The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles
+### 17. The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. The case for fixing everything
+### 18. The case for fixing everything
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ The handsome new book Maintenance: Of Everything, Part One, by the tech industry
 
 ---
 
-### 9. The Download: Claude’s inner workings, and the future of world models
+### 19. The Download: Claude’s inner workings, and the future of world models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. How to manage AI investments in the agentic era
+### 20. How to manage AI investments in the agentic era
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://openai.com/index/managing-ai-investments-in-agentic-era
 
 Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-
----
-
-### 11. The Download: bad news for inner Neanderthals, and AI warfare’s human illusion
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 17 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving&#8230;
-
----
-
-### 12. The quest to measure our relationship with nature
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/
-
-As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were&#8230;
-
----
-
-### 13. The noise we make is hurting animals. Can we learn to shut up?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/
-
-When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed. Cities—normally filled with the honking, screeching, engine-gunning riot of transportation—became as silent as&#8230;
-
----
-
-### 14. The Download: cyberscammers’ banking bypasses, and carbon removal troubles
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 16 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering&#160;center&#160;in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the&#8230;
-
----
-
-### 15. No one’s sure if synthetic mirror life will kill us all
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 15 Apr 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/
-
-For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,&#8230;
-
----
-
-### 16. The Download: NASA’s nuclear spacecraft and unveiling our AI 10
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 15 Apr 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&#160; Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel&#8230;
-
----
-
-### 17. Coming soon: 10 Things That Matter in AI Right Now
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 14 Apr 2026 11:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/
-
-Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;
-
----
-
-### 18. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 14 Apr 2026 12:04:47 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters&#8230;
-
----
-
-### 19. The Download: a donor conception cap and world models for AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 13 Jul 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;
-
----
-
-### 20. What Anthropic’s latest AI discovery does—and doesn’t—show
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 13 Jul 2026 18:00:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;
 
 ---
