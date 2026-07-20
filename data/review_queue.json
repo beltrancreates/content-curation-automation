@@ -22794,6 +22794,29 @@
     ]
   },
   {
+    "id": "c622107b8ad3263e55b88591b6f7859fcd8dd694ffad0b167d2b0d396039f0e9",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+    "published": "Mon, 20 Jul 2026 08:39:01 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,research,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "6e29bcfe290e6fa6e408bb70bd5ff440dabe1cd59eaa49113919aea0a0f8ea64",
     "title": "Reinforcement learning with prediction-based rewards",
     "link": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
