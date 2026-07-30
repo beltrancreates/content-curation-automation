@@ -26198,5 +26198,93 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "9789e6e0e97aee1dc5caff986773bc6d0997bda1a8e275f4d399f0f6aa717831",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "published": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "2b3c90a99ba92588a8748c83d28b9d44c75166ae2110980fc0b0d1d5364bdde7",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "2f17f8fd55bdf587d3376227e00d4b5534ebe85c168bc031cb1fdc0710c34325",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "74077464bdcaffb208cb3e9f9065c03b47ce7fb182671a4edb77b1b9e9ff6555",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
+    "published": "Wed, 29 Jul 2026 17:58:44 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "0dd9d18c5420cf90669fcd4d3201f5891171355af55c27343f9acc5cf2ba784f",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "published": "Wed, 29 Jul 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
