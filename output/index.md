@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-01 09:01 UTC_
+_Actualizado: 2026-08-02 09:05 UTC_
 
 ## Selección priorizada
 
-### 1. Ten advances in mathematics and theoretical computer science
+### 1. Operation "Doppelganger": Russian influence activity targeting Ukraine
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 May 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger
+
+OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to generate anti-Ukraine social media comments, translations, and website copy across several languages.
+
+---
+
+### 2. Operation "Zero Zeno": Israel-linked influence activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 May 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno
+
+OpenAI banned accounts linked to a previously unreprorted Israel-origin operation we dubbed “Zero Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut content.
+
+---
+
+### 3. IUVM: Iran-linked influence content network
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 May 2024 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm
+
+OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate and translate pro-Iran, anti-Israel and anti-US website content.
+
+---
+
+### 4. Scam operations: Online fraud networks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:304d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations
+
+OpenAI banned accounts tied to online fraud networks using AI to support scam scripts, impersonation, translation, and victim engagement.
+
+---
+
+### 5. Cyber Operation: Russian-speaking malware tooling
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:304d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling
+
+OpenAI banned accounts likely linked to Russian-speaking criminal groups, using AI to build malware loaders, evasion layers, credential-theft scripts, and C2 infrastructure.
+
+---
+
+### 6. Cyber Operation: Korean-language malware support
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:304d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-korean-language-malware-support
+
+OpenAI banned Korean-language accounts using AI for malware development support, debugging, phishing, and credential-theft workflows.
+
+---
+
+### 7. Operation “Stop News”: Recidivist influence activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:304d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025
+
+OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to generate recidivist influence content targeting Africa and the UK.
+
+---
+
+### 8. Operation “Nine–emdash Line”: Regional influence activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 01 Oct 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:304d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-nine-emdash-line
+
+OpenAI banned accounts linked to a previously unreprorted PRC-origin operation we dubbed "Nine-emdash Line", using AI to create regional influence content about the South China Sea, Hong Kong, and US politics.
+
+---
+
+### 9. Disrupting a Criminal Scam Operation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 31 Jul 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+
+OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
+
+---
+
+### 10. Building abundant intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 31 Jul 2026 15:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/building-abundant-intelligence
+
+A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
+
+---
+
+### 11. Ten advances in mathematics and theoretical computer science
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 ---
 
-### 2. Cyber threat actors: AI-assisted intrusion research
+### 12. Cyber threat actors: AI-assisted intrusion research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI banned accounts potentially associated with publicly reported DPRK-affili
 
 ---
 
-### 3. Operation “VAGue Focus”: Social engineering and influence activity
+### 13. Operation “VAGue Focus”: Social engineering and influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI banned accounts using AI for social engineering, surveillance-themed rese
 
 ---
 
-### 4. Vixen and Keyhole Panda: China-linked cyber operations
+### 14. Vixen and Keyhole Panda: China-linked cyber operations
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI banned accounts associated with threat actors publicly attributed to the 
 
 ---
 
-### 5. Operation “Uncle Spam”: US polarization influence activity
+### 15. Operation “Uncle Spam”: US polarization influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI banned China-origin accounts using AI to generate US political content an
 
 ---
 
-### 6. SweetSpecter: China-linked cyber activity
+### 16. SweetSpecter: China-linked cyber activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI banned accounts likely belonging to a suspected China-based adversary tra
 
 ---
 
-### 7. CyberAv3ngers: Iran-linked cyber research activity
+### 17. CyberAv3ngers: Iran-linked cyber research activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI banned accounts that appeared to belong to CyberAv3ngers using AI to rese
 
 ---
 
-### 8. Operation "Spamouflage": China-linked influence activity
+### 18. Operation "Spamouflage": China-linked influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", u
 
 ---
 
-### 9. Cyber Operation: Phishing and scripting support
+### 19. Cyber Operation: Phishing and scripting support
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI banned accounts involved in activity that overlapped with publicly report
 
 ---
 
-### 10. PRC-linked abuse: Surveillance and influence activity
+### 20. PRC-linked abuse: Surveillance and influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI banned accounts involved in activity that overlapped with publicly report
 - **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse
 
 OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted profiling, and research on critics and other individuals.
-
----
-
-### 11. How AI helps scientists design the next generation of medicines
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 23 Jul 2026 12:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
-
-Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;
-
----
-
-### 12. The Download: energy transmission and US threats against Chinese AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 23 Jul 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about&#8230;
-
----
-
-### 13. The Download: NASA’s new space telescope and OpenAI’s autonomous hacker
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 22 Jul 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;
-
----
-
-### 14. Advancing next-gen AI with materials science innovation
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 21 Jul 2026 10:37:34 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
-
-The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;
-
----
-
-### 15. The Download: tricking LLMs, and reviving geothermal plants
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 30 Jul 2026 12:10:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,model,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;
-
----
-
-### 16. Univé builds an AI-ready workforce
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 31 Jul 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/unive
-
-See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
-
----
-
-### 17. How avatarin built a 24/7 retail agent with GPT-Realtime
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Jul 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/avatarin
-
-avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
-
----
-
-### 18. Advancing the price-performance frontier with GPT-5.6
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 30 Jul 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
-
-Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
-
----
-
-### 19. Advancing responsible AI across Europe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 31 Jul 2026 15:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:-1d
-- **Enlace:** https://openai.com/index/advancing-responsible-ai-across-europe
-
-OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
-
----
-
-### 20. A fundamental flaw leaves LLMs strikingly vulnerable to attack
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 30 Jul 2026 10:15:19 +0000
-- **Score:** 16.4
-- **Razones:** keyword_hits:ai,machine learning,model,research,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
-
-It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;
 
 ---
