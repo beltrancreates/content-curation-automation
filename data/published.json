@@ -35232,5 +35232,255 @@
       "authority:9",
       "old:822d"
     ]
+  },
+  {
+    "id": "850f220acb9a4c387cd76db1d121d184cb735ae81431d312c74bbfcfe0526642",
+    "title": "\"Bad Grammar\": Russian-linked Telegram comment activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar",
+    "summary": "OpenAI banned accounts linked to a previously unreprorted Russia-origin operation we dubbed \"Bad Grammar\", using AI to generate English- and Russian-language Telegram comments on Ukraine, Moldova, Baltic, and US politics.",
+    "published": "Wed, 01 May 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:822d"
+    ]
+  },
+  {
+    "id": "add8e14e8f1e5b4e3fbabc96356021eee77e12745efa9f01c68a2d04603808d8",
+    "title": "Corrupt Comment: Anti-corruption foundation criticism",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment",
+    "summary": "OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption foundation and related figures.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "f1d6087d013c55f44be92def01203513fa55ed49a561a61e700432836ca80d6d",
+    "title": "Tort Report: Abusive reporting activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report",
+    "summary": "OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese public figures and platforms.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "f0ca42086b3c5ca8697c028ec215498806a4daf8a000a499220c347eea267a73",
+    "title": "Rwandan election content: Political commenting network",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content",
+    "summary": "OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the country’s elections.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "45e6cfe552dbd60fdf6753eade73b1ae41079fe417915dcdf65a022b44ac6928",
+    "title": "Bet Bot: Gambling spam network",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot",
+    "summary": "OpenAI banned accounts that accessed its models through an Israel-based startup to generate conversations and send links to gambling sites on X.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "6e22b9490ddb6bd61f5cbbb3bfcc8e1809ac5808b2800ce464ae5f814f9aa93b",
+    "title": "Operation “STORM-2035”: Iran-origin influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
+    "summary": "OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content and publish it across sites.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "3993258d99dd3a9eed14e0dd02feb6d96e8fa9e1ce70d3965c7bd516afe8959a",
+    "title": "Operation “A2Z”: Multilingual influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-a2z",
+    "summary": "OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about elections, Ukraine, and politics across platforms.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "afb00586c4f1eecea13c4a7f93c1c36c40aebc451edc2c42dfa1953ad6f41537",
+    "title": "Operation “Stop News”: Russia-origin influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024",
+    "summary": "OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and posts targeting Ukraine and the West.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "2cb4f6ae9b441c875e49b55f4e77ccf2586b7889d7b1f6b473347bf0e2912f93",
+    "title": "Hoax: Fake Russian “troll” error message",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
+    "summary": "OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT error message claiming to detect “Russian troll” activity.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
+  },
+  {
+    "id": "a9b984b5d40d6cdf8d4f2a9e94915996aa3ca0ad2acf7b2b2b5414f09e810986",
+    "title": "STORM-0817: Iran-linked malware and scraping activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
+    "summary": "OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:669d"
+    ]
   }
 ]

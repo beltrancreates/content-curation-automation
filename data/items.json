@@ -27271,5 +27271,22 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "838afb41813c38b4293e41c889ca193c49bdb13fe2a183d23c1041851793ef4a",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "published": "Mon, 03 Aug 2026 08:30:05 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
