@@ -35482,5 +35482,255 @@
       "authority:9",
       "old:669d"
     ]
+  },
+  {
+    "id": "2fdcedf707c54d546e51ddb6bb096fe11f55318de866cf5b8fd0fca53e6724e8",
+    "title": "Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "d2e6a593526926671a38353644e0b12c2389c7dfc92dcf055a8162e1f042b071",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "86d95ba1d13603f2f8415028a79b9619dd53e7978bb07cbe631defd6fd77347f",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "1a14b4e3d544b9684432feb9032d063a0ec4c69dcd14b2c24c455b2a713a060e",
+    "title": "Operation “Sneer Review”: China-origin influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-sneer-review",
+    "summary": "OpenAI banned accounts using AI to generate posts criticizing a Taiwanese social media influencer and related US topics.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "37357aa2023b8e6906d03ac3dcce8e7dab168cb7325090b8a14a959a78b8631c",
+    "title": "Operation “Wrong Number”: AI-assisted task scam",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number",
+    "summary": "OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows targeting people in the UK.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "549f32d321ff667a40836b5355a4e604e3e58112d3b43b99ff4a5de8b4a89d24",
+    "title": "STORM-2035: Recidivist influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2025",
+    "summary": "OpenAI banned accounts associated with the likely Iran-linked STORM-2035 operation using AI to create influence content about US, UK, Irish, and Venezuelan politics.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "fb2073eb122e24a21920ef6f3518305df18edf8d7204fb5061a08e441656cb4c",
+    "title": "Operation “High Five”: Philippines political comments",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-high-five",
+    "summary": "OpenAI banned accounts using AI to generate comments about Philippine politics and public officials across social platforms.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "9970c377b92ae81ded5621d59a8bf39e89d8fe6633c41db4c53aac7fad0f0346",
+    "title": "Operation “Helgoland Bite”: German-language influence activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-helgoland-bite",
+    "summary": "OpenAI banned accounts that appeared to originate in Russia and used AI to generate German-language political content about Ukraine, NATO, and domestic issues.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "50d17d9f5f56f946dc719102238033b92e1caae3b3e5b36ab46a6c5679e956c2",
+    "title": "Deceptive Employment Scheme: IT worker activity",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers",
+    "summary": "OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to develop materials for potentially fraudulent remote-job applications.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
+  },
+  {
+    "id": "5e41d0fe27398fdb7e6696f01299ce5380f196e3a99ce6f3a938d7ac18367a3a",
+    "title": "Operation “ScopeCreep”: Russian-speaking malware development",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-scopecreep",
+    "summary": "OpenAI banned Russian-language accounts using AI to build malware, refine loaders, and troubleshoot cyber tooling.",
+    "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:426d"
+    ]
   }
 ]
