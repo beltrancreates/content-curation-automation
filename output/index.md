@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-04 09:35 UTC_
+_Actualizado: 2026-08-05 09:31 UTC_
 
 ## Selección priorizada
 
-### 1. Operation “ScopeCreep”: Russian-speaking malware development
+### 1. “Tech and Tariffs” Campaign: Influence activity targeting US tech policy
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 01 Jun 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:61d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs
+
+OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.
+
+---
+
+### 2. Operation “Sponsored Discontent”: Influence activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-sponsored-discontent
+
+OpenAI banned likely China-origin accounts using AI to generate English social posts and Spanish-language articles.
+
+---
+
+### 3. Romance-baiting scam: AI-assisted pig butchering workflows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam
+
+OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate and generate romance, investment scam conversations.
+
+---
+
+### 4. Iranian influence nexus: Cross-platform activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus
+
+OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM and STORM-2035 influence activity.
+
+---
+
+### 5. Covert influence operation: Ghana election activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-ghana-election
+
+OpenAI banned accounts using AI to generate articles, posts, and fake engagement around Ghana’s 2024 presidential election.
+
+---
+
+### 6. Task scam: AI-assisted fake review jobs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-task-scam
+
+OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate messages for fake-review job scams that asked victims to pay fees.
+
+---
+
+### 7. Operation “Peer Review”: AI-assisted surveillance planning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-peer-review
+
+OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze documents, and debug code.
+
+---
+
+### 8. Deceptive Employment Scheme: AI-assisted hiring deception
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sat, 01 Feb 2025 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:546d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme
+
+OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with characteristics of publicly reported North Korea-linked IT-worker activity.
+
+---
+
+### 9. New ways to learn and teach with ChatGPT Work and Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 04 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/learn-teach-chatgpt-work-codex
+
+Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
+
+---
+
+### 10. Third-party cyber evaluations involving OpenAI models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 04 Aug 2026 19:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+
+OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
+
+---
+
+### 11. Operation “ScopeCreep”: Russian-speaking malware development
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ OpenAI banned Russian-language accounts using AI to build malware, refine loader
 
 ---
 
-### 2. Deceptive Employment Scheme: IT worker activity
+### 12. Deceptive Employment Scheme: IT worker activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ OpenAI banned accounts associated with suspected deceptive employment campaigns 
 
 ---
 
-### 3. Operation “Helgoland Bite”: German-language influence activity
+### 13. Operation “Helgoland Bite”: German-language influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ OpenAI banned accounts that appeared to originate in Russia and used AI to gener
 
 ---
 
-### 4. Operation “High Five”: Philippines political comments
+### 14. Operation “High Five”: Philippines political comments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI banned accounts using AI to generate comments about Philippine politics a
 
 ---
 
-### 5. STORM-2035: Recidivist influence activity
+### 15. STORM-2035: Recidivist influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI banned accounts associated with the likely Iran-linked STORM-2035 operati
 
 ---
 
-### 6. Operation “Wrong Number”: AI-assisted task scam
+### 16. Operation “Wrong Number”: AI-assisted task scam
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI banned accounts that likely originated in Cambodia and used AI to support
 
 ---
 
-### 7. Operation “Sneer Review”: China-origin influence activity
+### 17. Operation “Sneer Review”: China-origin influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI banned accounts using AI to generate posts criticizing a Taiwanese social
 
 ---
 
-### 8. Circles powers telco personalization with OpenAI technology
+### 18. Circles powers telco personalization with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Circles uses the OpenAI API and Codex to power AI-native telco experiences, incr
 
 ---
 
-### 9. How we built a realtime system for responsive voice AI in six months
+### 19. How we built a realtime system for responsive voice AI in six months
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ GPT-Live enables continuous voice interaction with AI, using a turnless speech m
 
 ---
 
-### 10. Apple is getting this wrong
+### 20. Apple is getting this wrong
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ GPT-Live enables continuous voice interaction with AI, using a turnless speech m
 - **Enlace:** https://openai.com/index/apple-is-getting-this-wrong
 
 OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
-
----
-
-### 11. STORM-0817: Iran-linked malware and scraping activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817
-
-OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.
-
----
-
-### 12. Hoax: Fake Russian “troll” error message
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll
-
-OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT error message claiming to detect “Russian troll” activity.
-
----
-
-### 13. Operation “Stop News”: Russia-origin influence activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024
-
-OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and posts targeting Ukraine and the West.
-
----
-
-### 14. Operation “A2Z”: Multilingual influence activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-a2z
-
-OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about elections, Ukraine, and politics across platforms.
-
----
-
-### 15. Operation “STORM-2035”: Iran-origin influence activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024
-
-OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content and publish it across sites.
-
----
-
-### 16. Bet Bot: Gambling spam network
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot
-
-OpenAI banned accounts that accessed its models through an Israel-based startup to generate conversations and send links to gambling sites on X.
-
----
-
-### 17. Rwandan election content: Political commenting network
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content
-
-OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the country’s elections.
-
----
-
-### 18. Tort Report: Abusive reporting activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report
-
-OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese public figures and platforms.
-
----
-
-### 19. Corrupt Comment: Anti-corruption foundation criticism
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Oct 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:669d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment
-
-OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption foundation and related figures.
-
----
-
-### 20. "Bad Grammar": Russian-linked Telegram comment activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 01 May 2024 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:822d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar
-
-OpenAI banned accounts linked to a previously unreprorted Russia-origin operation we dubbed "Bad Grammar", using AI to generate English- and Russian-language Telegram comments on Ukraine, Moldova, Baltic, and US politics.
 
 ---
