@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-07 08:09 UTC_
+_Actualizado: 2026-08-08 07:43 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Montana’s new experimental drug rules
+### 1. How finance teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 15:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:58d, duplicate
+- **Enlace:** https://openai.com/academy/how-finance-teams-use-codex
+
+See how finance teams can use ChatGPT Work to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.
+
+---
+
+### 2. Stripe
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1109d, duplicate
+- **Enlace:** https://openai.com/index/stripe
+
+Stripe leverages GPT-4 to streamline user experience and combat fraud.
+
+---
+
+### 3. Team update
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Aug 2016 07:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3498d, duplicate
+- **Enlace:** https://openai.com/index/team-update-august
+
+We’ve hired more great people to help us achieve our goals. Welcome, everyone!
+
+---
+
+### 4. How ideas of a vast censorship network moved from the online fringe to Trump policy
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 07 Aug 2026 14:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/
+
+This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;
+
+---
+
+### 5. The Download: a censorship conspiracy theory and the first virus created by AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 07 Aug 2026 14:20:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;
+
+---
+
+### 6. The Download: NASA’s new telescope and Chinese tech import curbs
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 05 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;
+
+---
+
+### 7. The Download: US robot restrictions, and ICE’s DNA grab
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 04 Aug 2026 12:14:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;
+
+---
+
+### 8. Trump’s AI protectionism has come for robotics
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 03 Aug 2026 18:43:30 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;
+
+---
+
+### 9. How HSP GRUPPE builds AI capabilities for tax advisory
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 07 Aug 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/hsp-gruppe
+
+Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
+
+---
+
+### 10. Responding to the next frontier of critical cyber capabilities
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 07 Aug 2026 15:20:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+
+OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
+
+---
+
+### 11. The Download: Montana’s new experimental drug rules
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. The Download: a chip talent battle, and deflating AI hype
+### 12. The Download: a chip talent battle, and deflating AI hype
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. How an overlooked geothermal plant got a second chance
+### 13. How an overlooked geothermal plant got a second chance
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ In June 2024, a small company called Zanskar purchased a geothermal power plant 
 
 ---
 
-### 4. The AI Hype Index: Unsexy AI
+### 14. The AI Hype Index: Unsexy AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ It feels bad enough when an open letter signed by leading economists warns that 
 
 ---
 
-### 5. Building the enterprise environment for agentic AI
+### 15. Building the enterprise environment for agentic AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ For the enterprise, the promise of agentic AI is much more than just a better ch
 
 ---
 
-### 6. Closing the data loop in AI-driven drug discovery
+### 16. Closing the data loop in AI-driven drug discovery
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ Drug discovery is a high-cost, high-risk endeavor that is under growing pressure
 
 ---
 
-### 7. The Download: Google’s AI shake-up and Meta’s rogue model
+### 17. The Download: Google’s AI shake-up and Meta’s rogue model
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
+### 18. Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, pl
 
 ---
 
-### 9. From asking to doing: How the world is putting ChatGPT to work
+### 19. From asking to doing: How the world is putting ChatGPT to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ New OpenAI Signals data shows how people use ChatGPT worldwide, with country-lev
 
 ---
 
-### 10. Working with the American Psychological Association on youth mental health and AI
+### 20. Working with the American Psychological Association on youth mental health and AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ New OpenAI Signals data shows how people use ChatGPT worldwide, with country-lev
 - **Enlace:** https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 
 OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.
-
----
-
-### 11. The path to artificial superintelligence
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Jul 2026 12:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
-
-Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;
-
----
-
-### 12. The Download: lasers for nuclear fuel, and organ preservation advances
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Jul 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;
-
----
-
-### 13. Samsung’s chip workers are jumping ship to rival SK Hynix
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 28 Jul 2026 09:18:57 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
-
-Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;
-
----
-
-### 14. The Download: an organ transplant breakthrough, and homegrown Chinese chips
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 24 Jul 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;
-
----
-
-### 15. The quest to keep organs alive outside the body
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 24 Jul 2026 17:03:55 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
-
-This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;
-
----
-
-### 16. The power line that could reshape New York’s grid is hitting snags
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 23 Jul 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
-
-On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).&#8230;
-
----
-
-### 17. The Download: reward hacking explained, and suspected Iranian cyberattacks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 03 Aug 2026 12:08:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;
-
----
-
-### 18. Here’s why AI agents lie and cheat to reach their goals
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 03 Aug 2026 08:30:05 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;
-
----
-
-### 19. Introducing the OpenAI Economic Research Exchange
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 08 Jun 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:58d, duplicate
-- **Enlace:** https://openai.com/index/introducing-the-openai-economic-research-exchange
-
-OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.
-
----
-
-### 20. “Data Center Bandwagon” Campaign: US-targeted influence activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 01 Jun 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:61d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon
-
-OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.
 
 ---
