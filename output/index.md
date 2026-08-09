@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-08 07:43 UTC_
+_Actualizado: 2026-08-09 07:48 UTC_
 
 ## Selección priorizada
 
-### 1. How finance teams use ChatGPT Work
+### 1. How sales teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
+- **Enlace:** https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+
+See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
+
+---
+
+### 2. How data science teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
+- **Enlace:** https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+
+See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
+
+---
+
+### 3. How business operations teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
+- **Enlace:** https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
+
+See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs
+
+---
+
+### 4. What is ChatGPT Codex?
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
+- **Enlace:** https://openai.com/academy/what-is-codex
+
+Learn how ChatGPT Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.
+
+---
+
+### 5. Working with ChatGPT Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
+- **Enlace:** https://openai.com/academy/working-with-codex
+
+Learn how to set up your ChatGPT Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.
+
+---
+
+### 6. How to get started with ChatGPT Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
+- **Enlace:** https://openai.com/academy/codex-how-to-start
+
+Learn how to get started with ChatGPT Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.
+
+---
+
+### 7. How finance teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +95,7 @@ See how finance teams can use ChatGPT Work to build MBRs, reporting packs, varia
 
 ---
 
-### 2. Stripe
+### 8. Stripe
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +108,7 @@ Stripe leverages GPT-4 to streamline user experience and combat fraud.
 
 ---
 
-### 3. Team update
+### 9. Team update
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +121,7 @@ We’ve hired more great people to help us achieve our goals. Welcome, everyone!
 
 ---
 
-### 4. How ideas of a vast censorship network moved from the online fringe to Trump policy
+### 10. How ideas of a vast censorship network moved from the online fringe to Trump policy
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ This article was produced in partnership with Type Investigations, with support 
 
 ---
 
-### 5. The Download: a censorship conspiracy theory and the first virus created by AI
+### 11. The Download: a censorship conspiracy theory and the first virus created by AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. The Download: NASA’s new telescope and Chinese tech import curbs
+### 12. The Download: NASA’s new telescope and Chinese tech import curbs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The Download: US robot restrictions, and ICE’s DNA grab
+### 13. The Download: US robot restrictions, and ICE’s DNA grab
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Trump’s AI protectionism has come for robotics
+### 14. Trump’s AI protectionism has come for robotics
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +186,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 9. How HSP GRUPPE builds AI capabilities for tax advisory
+### 15. How HSP GRUPPE builds AI capabilities for tax advisory
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve w
 
 ---
 
-### 10. Responding to the next frontier of critical cyber capabilities
+### 16. Responding to the next frontier of critical cyber capabilities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps 
 
 ---
 
-### 11. The Download: Montana’s new experimental drug rules
+### 17. The Download: Montana’s new experimental drug rules
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. The Download: a chip talent battle, and deflating AI hype
+### 18. The Download: a chip talent battle, and deflating AI hype
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. How an overlooked geothermal plant got a second chance
+### 19. How an overlooked geothermal plant got a second chance
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +251,7 @@ In June 2024, a small company called Zanskar purchased a geothermal power plant 
 
 ---
 
-### 14. The AI Hype Index: Unsexy AI
+### 20. The AI Hype Index: Unsexy AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -183,83 +261,5 @@ In June 2024, a small company called Zanskar purchased a geothermal power plant 
 - **Enlace:** https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
 
 It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;
-
----
-
-### 15. Building the enterprise environment for agentic AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Jul 2026 11:32:58 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
-
-For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;
-
----
-
-### 16. Closing the data loop in AI-driven drug discovery
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 27 Jul 2026 11:40:16 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
-
-Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;
-
----
-
-### 17. The Download: Google’s AI shake-up and Meta’s rogue model
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 06 Aug 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;
-
----
-
-### 18. Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Aug 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
-
-ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.
-
----
-
-### 19. From asking to doing: How the world is putting ChatGPT to work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
-
-New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.
-
----
-
-### 20. Working with the American Psychological Association on youth mental health and AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 06 Aug 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
-
-OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.
 
 ---

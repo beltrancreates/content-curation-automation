@@ -36696,5 +36696,161 @@
       "old:58d",
       "duplicate"
     ]
+  },
+  {
+    "id": "7d5578b7a7c488018259f940ec37d743af17103947274f55699204079e1c31e2",
+    "title": "How to get started with ChatGPT Codex",
+    "link": "https://openai.com/academy/codex-how-to-start",
+    "summary": "Learn how to get started with ChatGPT Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+    "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:78d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "14221d7fa3f7559904dbcba106b83820170f7993beccaa46cf8f202eb9d56b6e",
+    "title": "Working with ChatGPT Codex",
+    "link": "https://openai.com/academy/working-with-codex",
+    "summary": "Learn how to set up your ChatGPT Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+    "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:78d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "58fa58709a54ebd25fbe1944e25856de88626d7c0874739ff5a4b4602ad7ab15",
+    "title": "What is ChatGPT Codex?",
+    "link": "https://openai.com/academy/what-is-codex",
+    "summary": "Learn how ChatGPT Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:78d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "4d1d77669edc80b060ab2744d4e35f225258e976fe0e8a87ec9742dff3733a0b",
+    "title": "How business operations teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "summary": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
+    "published": "Fri, 15 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:56d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "1b7ad19bf1cf267e4e4d561ea58679941e4fae8c260d4468d53cce3e8b3da763",
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "published": "Fri, 15 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:56d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "ff4198ea62e23c9f78c318acb9cee50f87d585dd9f2590faf6ef8df7acb4f03d",
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "published": "Fri, 15 May 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 5.699999999999999,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:56d",
+      "duplicate"
+    ]
   }
 ]
