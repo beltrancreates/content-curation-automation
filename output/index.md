@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-10 08:22 UTC_
+_Actualizado: 2026-08-11 08:07 UTC_
 
 ## Selección priorizada
 
-### 1. How sales teams use ChatGPT Work
+### 1. AI professors are negotiating the new realities of academic research
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 10 Aug 2026 20:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;
+
+---
+
+### 2. These startups are chasing the next big thing in LLMs
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 10 Aug 2026 09:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/
+
+MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;
+
+---
+
+### 3. Premium seats are coming to ChatGPT Business
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/premium-seats-chatgpt-business
+
+Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.
+
+---
+
+### 4. Virgin Atlantic sharpens customer journeys with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/virgin-atlantic/chatgpt-work
+
+Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.
+
+---
+
+### 5. How Zapier transformed core marketing processes with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/zapier
+
+The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.
+
+---
+
+### 6. Putting frontier cyber models in more trusted hands
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+
+Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.
+
+---
+
+### 7. Model ML completes finance work more efficiently with GPT-5.6 Sol
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/model-ml
+
+Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
+
+---
+
+### 8. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 14:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/responsible-ai-infrastructure-texas
+
+OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+
+---
+
+### 9. What building an AI-native finance function taught me
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/building-an-ai-native-finance-function
+
+OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
+
+---
+
+### 10. Expanding Daybreak as the Cyber Defense Window Narrows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 10 Aug 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+
+Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
+
+---
+
+### 11. How sales teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +147,7 @@ See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep
 
 ---
 
-### 2. How data science teams use ChatGPT Work
+### 12. How data science teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +160,7 @@ See how data science teams can use ChatGPT Work to build root-cause briefs, impa
 
 ---
 
-### 3. How business operations teams use ChatGPT Work
+### 13. How business operations teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ See how business operations teams can use ChatGPT Work to create initiative brie
 
 ---
 
-### 4. What is ChatGPT Codex?
+### 14. What is ChatGPT Codex?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Learn how ChatGPT Codex helps you go beyond chat by automating tasks, connecting
 
 ---
 
-### 5. Working with ChatGPT Codex
+### 15. Working with ChatGPT Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Learn how to set up your ChatGPT Codex workspace, create threads and projects, m
 
 ---
 
-### 6. How to get started with ChatGPT Codex
+### 16. How to get started with ChatGPT Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn how to get started with ChatGPT Codex by setting up projects, creating thr
 
 ---
 
-### 7. How finance teams use ChatGPT Work
+### 17. How finance teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ See how finance teams can use ChatGPT Work to build MBRs, reporting packs, varia
 
 ---
 
-### 8. Stripe
+### 18. Stripe
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Stripe leverages GPT-4 to streamline user experience and combat fraud.
 
 ---
 
-### 9. Team update
+### 19. Team update
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ We’ve hired more great people to help us achieve our goals. Welcome, everyone!
 
 ---
 
-### 10. How ideas of a vast censorship network moved from the online fringe to Trump policy
+### 20. How ideas of a vast censorship network moved from the online fringe to Trump policy
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ We’ve hired more great people to help us achieve our goals. Welcome, everyone!
 - **Enlace:** https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/
 
 This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;
-
----
-
-### 11. The Download: a censorship conspiracy theory and the first virus created by AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 07 Aug 2026 14:20:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;
-
----
-
-### 12. The Download: NASA’s new telescope and Chinese tech import curbs
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 05 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;
-
----
-
-### 13. The Download: US robot restrictions, and ICE’s DNA grab
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 04 Aug 2026 12:14:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;
-
----
-
-### 14. Trump’s AI protectionism has come for robotics
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 03 Aug 2026 18:43:30 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;
-
----
-
-### 15. How HSP GRUPPE builds AI capabilities for tax advisory
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Aug 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/hsp-gruppe
-
-Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
-
----
-
-### 16. Responding to the next frontier of critical cyber capabilities
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 07 Aug 2026 15:20:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
-
-OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
-
----
-
-### 17. The Download: Montana’s new experimental drug rules
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 31 Jul 2026 12:16:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;
-
----
-
-### 18. The Download: a chip talent battle, and deflating AI hype
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 29 Jul 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;
-
----
-
-### 19. How an overlooked geothermal plant got a second chance
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 29 Jul 2026 17:58:44 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
-
-In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;
-
----
-
-### 20. The AI Hype Index: Unsexy AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 29 Jul 2026 08:42:57 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
-
-It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;
 
 ---
