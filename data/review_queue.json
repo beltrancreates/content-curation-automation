@@ -9723,6 +9723,31 @@
     ]
   },
   {
+    "id": "8b9a4b7badf9e90290fbd0b9d7a1c01c390014c206cce0c98de56cc241437ff8",
+    "title": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -24968,6 +24993,29 @@
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
     "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 10.4,
+    "reasons": [
+      "keyword_hits:ai,research,llm",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "28221f1bf847d4049504ee1a173e792b1e7de98d17d5244f5e8fbde4b90d237a",
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+    "published": "Tue, 11 Aug 2026 12:10:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",

@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-11 08:07 UTC_
+_Actualizado: 2026-08-12 08:10 UTC_
 
 ## Selección priorizada
 
-### 1. AI professors are negotiating the new realities of academic research
+### 1. The Download: AI agents for science, and the “censorship-industrial complex”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 10 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;
+
+---
+
+### 2. AI for science needs reasoning, not just data
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 10 Aug 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/
+
+Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;
+
+---
+
+### 3. The Download: the next big thing in LLMs and how AI academic research is shifting
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 11 Aug 2026 12:10:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;
+
+---
+
+### 4. Daybreak models are now available on AWS
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 11 Aug 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/daybreak-models-are-now-available-on-aws
+
+OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.
+
+---
+
+### 5. AI professors are negotiating the new realities of academic research
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 2. These startups are chasing the next big thing in LLMs
+### 6. These startups are chasing the next big thing in LLMs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ MIT Technology Review’s What’s Next series looks across industries, trends, 
 
 ---
 
-### 3. Premium seats are coming to ChatGPT Business
+### 7. Premium seats are coming to ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 i
 
 ---
 
-### 4. Virgin Atlantic sharpens customer journeys with ChatGPT Work
+### 8. Virgin Atlantic sharpens customer journeys with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ Virgin Atlantic is accelerating research, product planning, and decision-making 
 
 ---
 
-### 5. How Zapier transformed core marketing processes with ChatGPT Work
+### 9. How Zapier transformed core marketing processes with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number o
 
 ---
 
-### 6. Putting frontier cyber models in more trusted hands
+### 10. Putting frontier cyber models in more trusted hands
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver a
 
 ---
 
-### 7. Model ML completes finance work more efficiently with GPT-5.6 Sol
+### 11. Model ML completes finance work more efficiently with GPT-5.6 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ Model ML uses GPT-5.6 Sol to carry finance work from research and analysis throu
 
 ---
 
-### 8. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+### 12. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +160,7 @@ OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsibl
 
 ---
 
-### 9. What building an AI-native finance function taught me
+### 13. What building an AI-native finance function taught me
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance fun
 
 ---
 
-### 10. Expanding Daybreak as the Cyber Defense Window Narrows
+### 14. Expanding Daybreak as the Cyber Defense Window Narrows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Da
 
 ---
 
-### 11. How sales teams use ChatGPT Work
+### 15. How sales teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep
 
 ---
 
-### 12. How data science teams use ChatGPT Work
+### 16. How data science teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +212,7 @@ See how data science teams can use ChatGPT Work to build root-cause briefs, impa
 
 ---
 
-### 13. How business operations teams use ChatGPT Work
+### 17. How business operations teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +225,7 @@ See how business operations teams can use ChatGPT Work to create initiative brie
 
 ---
 
-### 14. What is ChatGPT Codex?
+### 18. What is ChatGPT Codex?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ Learn how ChatGPT Codex helps you go beyond chat by automating tasks, connecting
 
 ---
 
-### 15. Working with ChatGPT Codex
+### 19. Working with ChatGPT Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ Learn how to set up your ChatGPT Codex workspace, create threads and projects, m
 
 ---
 
-### 16. How to get started with ChatGPT Codex
+### 20. How to get started with ChatGPT Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ Learn how to set up your ChatGPT Codex workspace, create threads and projects, m
 - **Enlace:** https://openai.com/academy/codex-how-to-start
 
 Learn how to get started with ChatGPT Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.
-
----
-
-### 17. How finance teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 May 2026 15:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:58d, duplicate
-- **Enlace:** https://openai.com/academy/how-finance-teams-use-codex
-
-See how finance teams can use ChatGPT Work to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.
-
----
-
-### 18. Stripe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 07:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1109d, duplicate
-- **Enlace:** https://openai.com/index/stripe
-
-Stripe leverages GPT-4 to streamline user experience and combat fraud.
-
----
-
-### 19. Team update
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 16 Aug 2016 07:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:3498d, duplicate
-- **Enlace:** https://openai.com/index/team-update-august
-
-We’ve hired more great people to help us achieve our goals. Welcome, everyone!
-
----
-
-### 20. How ideas of a vast censorship network moved from the online fringe to Trump policy
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 07 Aug 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/
-
-This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;
 
 ---
