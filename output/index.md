@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-12 08:10 UTC_
+_Actualizado: 2026-08-13 08:14 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: AI agents for science, and the “censorship-industrial complex”
+### 1. The Download: our 35 young innovators and the “censorship-industrial complex”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 12 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;
+
+---
+
+### 2. Scaling AI agents with trustworthy data
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 12 Aug 2026 16:51:57 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/
+
+Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;
+
+---
+
+### 3. Scientists just created female clones of male mice
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 12 Aug 2026 18:59:48 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/
+
+Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;
+
+---
+
+### 4. How business operations teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:90d
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex
+
+See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs
+
+---
+
+### 5. How sales teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:30d
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
+
+See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
+
+---
+
+### 6. How data science teams use ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:30d
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+
+See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
+
+---
+
+### 7. How RingCentral builds AI-native work from engineering to ops
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 12 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/ringcentral
+
+See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.
+
+---
+
+### 8. From assistance to execution: How enterprises put AI to work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 12 Aug 2026 06:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/how-enterprises-put-ai-to-work
+
+OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
+
+---
+
+### 9. The Download: AI agents for science, and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. AI for science needs reasoning, not just data
+### 10. AI for science needs reasoning, not just data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +134,7 @@ Every few decades, someone announces that science has reached its end. In 1903, 
 
 ---
 
-### 3. The Download: the next big thing in LLMs and how AI academic research is shifting
+### 11. The Download: the next big thing in LLMs and how AI academic research is shifting
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Daybreak models are now available on AWS
+### 12. Daybreak models are now available on AWS
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +160,7 @@ OpenAI and AWS are making Daybreak cybersecurity capabilities available through 
 
 ---
 
-### 5. AI professors are negotiating the new realities of academic research
+### 13. AI professors are negotiating the new realities of academic research
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +173,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 6. These startups are chasing the next big thing in LLMs
+### 14. These startups are chasing the next big thing in LLMs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +186,7 @@ MIT Technology Review’s What’s Next series looks across industries, trends, 
 
 ---
 
-### 7. Premium seats are coming to ChatGPT Business
+### 15. Premium seats are coming to ChatGPT Business
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +199,7 @@ Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 i
 
 ---
 
-### 8. Virgin Atlantic sharpens customer journeys with ChatGPT Work
+### 16. Virgin Atlantic sharpens customer journeys with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +212,7 @@ Virgin Atlantic is accelerating research, product planning, and decision-making 
 
 ---
 
-### 9. How Zapier transformed core marketing processes with ChatGPT Work
+### 17. How Zapier transformed core marketing processes with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +225,7 @@ The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number o
 
 ---
 
-### 10. Putting frontier cyber models in more trusted hands
+### 18. Putting frontier cyber models in more trusted hands
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +238,7 @@ Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver a
 
 ---
 
-### 11. Model ML completes finance work more efficiently with GPT-5.6 Sol
+### 19. Model ML completes finance work more efficiently with GPT-5.6 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +251,7 @@ Model ML uses GPT-5.6 Sol to carry finance work from research and analysis throu
 
 ---
 
-### 12. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+### 20. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -157,109 +261,5 @@ Model ML uses GPT-5.6 Sol to carry finance work from research and analysis throu
 - **Enlace:** https://openai.com/index/responsible-ai-infrastructure-texas
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
-
----
-
-### 13. What building an AI-native finance function taught me
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/building-an-ai-native-finance-function
-
-OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
-
----
-
-### 14. Expanding Daybreak as the Cyber Defense Window Narrows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 10:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
-
-Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
-
----
-
-### 15. How sales teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
-- **Enlace:** https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-
-See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-
----
-
-### 16. How data science teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
-- **Enlace:** https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-
-See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
-
----
-
-### 17. How business operations teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:56d, duplicate
-- **Enlace:** https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
-
-See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs
-
----
-
-### 18. What is ChatGPT Codex?
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
-- **Enlace:** https://openai.com/academy/what-is-codex
-
-Learn how ChatGPT Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.
-
----
-
-### 19. Working with ChatGPT Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
-- **Enlace:** https://openai.com/academy/working-with-codex
-
-Learn how to set up your ChatGPT Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.
-
----
-
-### 20. How to get started with ChatGPT Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:78d, duplicate
-- **Enlace:** https://openai.com/academy/codex-how-to-start
-
-Learn how to get started with ChatGPT Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.
 
 ---
