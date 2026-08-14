@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-13 08:14 UTC_
+_Actualizado: 2026-08-14 08:10 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: our 35 young innovators and the “censorship-industrial complex”
+### 1. The Download: kids’ thoughts on AI, and female clones of male mice
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 13 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;
+
+---
+
+### 2. Flock is tightening its rules in response to a growing surveillance backlash
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 13 Aug 2026 13:41:10 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
+
+The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;
+
+---
+
+### 3. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 13 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/
+
+Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;
+
+---
+
+### 4. How kids feel about AI, in their own words
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 13 Aug 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/
+
+When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;
+
+---
+
+### 5. OpenAI appoints Dali Rajic as Chief Revenue Officer
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Aug 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/dali-rajic-chief-revenue-officer
+
+OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
+
+---
+
+### 6. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Aug 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/previewing-ultrafast
+
+Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
+
+---
+
+### 7. The builder’s guide to GPT‑5.6
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Aug 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/builders-guide-to-gpt-5-6
+
+Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
+
+---
+
+### 8. The Download: our 35 young innovators and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Scaling AI agents with trustworthy data
+### 9. Scaling AI agents with trustworthy data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ Business and technology leaders need no convincing that the time of agentic AI i
 
 ---
 
-### 3. Scientists just created female clones of male mice
+### 10. Scientists just created female clones of male mice
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ Scientists have deliberately turned male mouse embryos into females for the firs
 
 ---
 
-### 4. How business operations teams use ChatGPT Work
+### 11. How business operations teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ See how business operations teams can use ChatGPT Work to create initiative brie
 
 ---
 
-### 5. How sales teams use ChatGPT Work
+### 12. How sales teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep
 
 ---
 
-### 6. How data science teams use ChatGPT Work
+### 13. How data science teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ See how data science teams can use ChatGPT Work to build root-cause briefs, impa
 
 ---
 
-### 7. How RingCentral builds AI-native work from engineering to ops
+### 14. How RingCentral builds AI-native work from engineering to ops
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ See how RingCentral uses ChatGPT Work and Codex to accelerate AI product develop
 
 ---
 
-### 8. From assistance to execution: How enterprises put AI to work
+### 15. From assistance to execution: How enterprises put AI to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT a
 
 ---
 
-### 9. The Download: AI agents for science, and the “censorship-industrial complex”
+### 16. The Download: AI agents for science, and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. AI for science needs reasoning, not just data
+### 17. AI for science needs reasoning, not just data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +225,7 @@ Every few decades, someone announces that science has reached its end. In 1903, 
 
 ---
 
-### 11. The Download: the next big thing in LLMs and how AI academic research is shifting
+### 18. The Download: the next big thing in LLMs and how AI academic research is shifting
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Daybreak models are now available on AWS
+### 19. Daybreak models are now available on AWS
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +251,7 @@ OpenAI and AWS are making Daybreak cybersecurity capabilities available through 
 
 ---
 
-### 13. AI professors are negotiating the new realities of academic research
+### 20. AI professors are negotiating the new realities of academic research
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -170,96 +261,5 @@ OpenAI and AWS are making Daybreak cybersecurity capabilities available through 
 - **Enlace:** https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
 
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;
-
----
-
-### 14. These startups are chasing the next big thing in LLMs
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 10 Aug 2026 09:00:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/
-
-MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;
-
----
-
-### 15. Premium seats are coming to ChatGPT Business
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/premium-seats-chatgpt-business
-
-Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.
-
----
-
-### 16. Virgin Atlantic sharpens customer journeys with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/virgin-atlantic/chatgpt-work
-
-Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.
-
----
-
-### 17. How Zapier transformed core marketing processes with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/zapier
-
-The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.
-
----
-
-### 18. Putting frontier cyber models in more trusted hands
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
-
-Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.
-
----
-
-### 19. Model ML completes finance work more efficiently with GPT-5.6 Sol
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/model-ml
-
-Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
-
----
-
-### 20. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 10 Aug 2026 14:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/responsible-ai-infrastructure-texas
-
-OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
 ---
