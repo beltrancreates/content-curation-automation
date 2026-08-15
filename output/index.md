@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-14 08:10 UTC_
+_Actualizado: 2026-08-15 07:24 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: kids’ thoughts on AI, and female clones of male mice
+### 1. The Download: Flock’s new rules, cloning’s future, and children’s cells
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 14 Aug 2026 12:17:21 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;
+
+---
+
+### 2. This scientist is helping build a missing map of childhood
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 14 Aug 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/
+
+In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;
+
+---
+
+### 3. The Download: kids’ thoughts on AI, and female clones of male mice
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Flock is tightening its rules in response to a growing surveillance backlash
+### 4. Flock is tightening its rules in response to a growing surveillance backlash
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +56,7 @@ The police-tech giant Flock is announcing today that it will change officers’ 
 
 ---
 
-### 3. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+### 5. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +69,7 @@ Listen to the session or watch below The “censorship-industrial complex” is 
 
 ---
 
-### 4. How kids feel about AI, in their own words
+### 6. How kids feel about AI, in their own words
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +82,7 @@ When we set out to talk to kids about artificial intelligence, we thought we kne
 
 ---
 
-### 5. OpenAI appoints Dali Rajic as Chief Revenue Officer
+### 7. OpenAI appoints Dali Rajic as Chief Revenue Officer
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +95,7 @@ OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue o
 
 ---
 
-### 6. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+### 8. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +108,7 @@ Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14�
 
 ---
 
-### 7. The builder’s guide to GPT‑5.6
+### 9. The builder’s guide to GPT‑5.6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +121,7 @@ Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents wi
 
 ---
 
-### 8. The Download: our 35 young innovators and the “censorship-industrial complex”
+### 10. The Download: our 35 young innovators and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. Scaling AI agents with trustworthy data
+### 11. Scaling AI agents with trustworthy data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +147,7 @@ Business and technology leaders need no convincing that the time of agentic AI i
 
 ---
 
-### 10. Scientists just created female clones of male mice
+### 12. Scientists just created female clones of male mice
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +160,7 @@ Scientists have deliberately turned male mouse embryos into females for the firs
 
 ---
 
-### 11. How business operations teams use ChatGPT Work
+### 13. How business operations teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ See how business operations teams can use ChatGPT Work to create initiative brie
 
 ---
 
-### 12. How sales teams use ChatGPT Work
+### 14. How sales teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep
 
 ---
 
-### 13. How data science teams use ChatGPT Work
+### 15. How data science teams use ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ See how data science teams can use ChatGPT Work to build root-cause briefs, impa
 
 ---
 
-### 14. How RingCentral builds AI-native work from engineering to ops
+### 16. How RingCentral builds AI-native work from engineering to ops
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ See how RingCentral uses ChatGPT Work and Codex to accelerate AI product develop
 
 ---
 
-### 15. From assistance to execution: How enterprises put AI to work
+### 17. From assistance to execution: How enterprises put AI to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +225,7 @@ OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT a
 
 ---
 
-### 16. The Download: AI agents for science, and the “censorship-industrial complex”
+### 18. The Download: AI agents for science, and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 17. AI for science needs reasoning, not just data
+### 19. AI for science needs reasoning, not just data
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +251,7 @@ Every few decades, someone announces that science has reached its end. In 1903, 
 
 ---
 
-### 18. The Download: the next big thing in LLMs and how AI academic research is shifting
+### 20. The Download: the next big thing in LLMs and how AI academic research is shifting
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -235,31 +261,5 @@ Every few decades, someone announces that science has reached its end. In 1903, 
 - **Enlace:** https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;
-
----
-
-### 19. Daybreak models are now available on AWS
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 11 Aug 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/daybreak-models-are-now-available-on-aws
-
-OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.
-
----
-
-### 20. AI professors are negotiating the new realities of academic research
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 10 Aug 2026 20:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;
 
 ---
