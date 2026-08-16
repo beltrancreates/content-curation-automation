@@ -1,6 +1,6 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-15 07:24 UTC_
+_Actualizado: 2026-08-16 07:25 UTC_
 
 ## Selección priorizada
 
