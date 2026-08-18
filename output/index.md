@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-17 07:46 UTC_
+_Actualizado: 2026-08-18 07:32 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Flock’s new rules, cloning’s future, and children’s cells
+### 1. How much hydrogen awaits us underground?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 17 Aug 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/
+
+In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;
+
+---
+
+### 2. The Download: dead robot friends and the “censorship-industrial complex”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 17 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;
+
+---
+
+### 3. What Flock’s defenders are missing
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 17 Aug 2026 19:16:09 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;
+
+---
+
+### 4. Learn ChatGPT workflows for sales teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:130d, duplicate
+- **Enlace:** https://openai.com/academy/sales
+
+Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution.
+
+---
+
+### 5. Blue J’s approach for scaling fast in complex, regulated domains
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 21 Aug 2025 10:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:361d, duplicate
+- **Enlace:** https://openai.com/index/blue-j
+
+Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.
+
+---
+
+### 6. Everyday work with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:116d, duplicate
+- **Enlace:** https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks
+
+Learn practical ChatGPT Work workflows for recurring tasks, updates, research, planning, and team operations.
+
+---
+
+### 7. Learn ChatGPT workflows for marketing teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:130d, duplicate
+- **Enlace:** https://openai.com/academy/marketing
+
+Learn practical ChatGPT workflows for campaign planning, research, content creation, and performance analysis, with next steps for business teams.
+
+---
+
+### 8. New policy ideas for the Intelligence Age
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 17 Aug 2026 03:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/new-policy-ideas-for-the-intelligence-age
+
+OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.
+
+---
+
+### 9. OpenAI joins PORTS-Pike project
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 17 Aug 2026 05:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-joins-ports-pike-project
+
+OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs
+
+---
+
+### 10. The Defender’s Window
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 17 Aug 2026 05:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/the-defenders-window
+
+AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
+
+---
+
+### 11. The Download: Flock’s new rules, cloning’s future, and children’s cells
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. This scientist is helping build a missing map of childhood
+### 12. This scientist is helping build a missing map of childhood
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania
 
 ---
 
-### 3. The Download: kids’ thoughts on AI, and female clones of male mice
+### 13. The Download: kids’ thoughts on AI, and female clones of male mice
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Flock is tightening its rules in response to a growing surveillance backlash
+### 14. Flock is tightening its rules in response to a growing surveillance backlash
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ The police-tech giant Flock is announcing today that it will change officers’ 
 
 ---
 
-### 5. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+### 15. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ Listen to the session or watch below The “censorship-industrial complex” is 
 
 ---
 
-### 6. How kids feel about AI, in their own words
+### 16. How kids feel about AI, in their own words
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ When we set out to talk to kids about artificial intelligence, we thought we kne
 
 ---
 
-### 7. OpenAI appoints Dali Rajic as Chief Revenue Officer
+### 17. OpenAI appoints Dali Rajic as Chief Revenue Officer
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue o
 
 ---
 
-### 8. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+### 18. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14�
 
 ---
 
-### 9. The builder’s guide to GPT‑5.6
+### 19. The builder’s guide to GPT‑5.6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents wi
 
 ---
 
-### 10. The Download: our 35 young innovators and the “censorship-industrial complex”
+### 20. The Download: our 35 young innovators and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents wi
 - **Enlace:** https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;
-
----
-
-### 11. Scaling AI agents with trustworthy data
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 12 Aug 2026 16:51:57 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/
-
-Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;
-
----
-
-### 12. Scientists just created female clones of male mice
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 12 Aug 2026 18:59:48 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/
-
-Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;
-
----
-
-### 13. How business operations teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:90d
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex
-
-See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs
-
----
-
-### 14. How sales teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:30d
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
-
-See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-
----
-
-### 15. How data science teams use ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:30d
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
-
-See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
-
----
-
-### 16. How RingCentral builds AI-native work from engineering to ops
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ringcentral
-
-See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.
-
----
-
-### 17. From assistance to execution: How enterprises put AI to work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 12 Aug 2026 06:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/how-enterprises-put-ai-to-work
-
-OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
-
----
-
-### 18. The Download: AI agents for science, and the “censorship-industrial complex”
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 10 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;
-
----
-
-### 19. AI for science needs reasoning, not just data
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 10 Aug 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/
-
-Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;
-
----
-
-### 20. The Download: the next big thing in LLMs and how AI academic research is shifting
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 11 Aug 2026 12:10:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;
 
 ---
