@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-18 07:32 UTC_
+_Actualizado: 2026-08-19 07:32 UTC_
 
 ## Selección priorizada
 
-### 1. How much hydrogen awaits us underground?
+### 1. The Download: how people really use AI, and Flock’s design choices
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 18 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;
+
+---
+
+### 2. We still don’t know how people are really using AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 18 Aug 2026 10:06:43 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+
+AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;
+
+---
+
+### 3. AI’s recursive self-improvement might not come so quickly after all
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 18 Aug 2026 09:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
+
+The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;
+
+---
+
+### 4. How NVIDIA scales expertise with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/nvidia/chatgpt-work
+
+NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
+
+---
+
+### 5. ChatGPT Ads expands across Europe
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 22:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/chatgpt-ads-expands-across-europe
+
+ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
+
+---
+
+### 6. Asana cleared 5 years of engineering work in 2 weeks with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/asana
+
+Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
+
+---
+
+### 7. Introducing ChatGPT for Teens: Built for learning, backed by protections
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/chatgpt-for-teens
+
+ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+
+---
+
+### 8. Pacing model development in an era of cyber-critical capabilities
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/pacing-model-development-cyber-capabilities
+
+OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
+
+---
+
+### 9. Partnering with CodeAI to prepare the first AI generation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/partnering-with-codeai
+
+OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
+
+---
+
+### 10. Strengthening democratic oversight in national security
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 19:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/strengthening-democratic-oversight-in-national-security
+
+OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
+
+---
+
+### 11. How much hydrogen awaits us underground?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in nort
 
 ---
 
-### 2. The Download: dead robot friends and the “censorship-industrial complex”
+### 12. The Download: dead robot friends and the “censorship-industrial complex”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. What Flock’s defenders are missing
+### 13. What Flock’s defenders are missing
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 4. Learn ChatGPT workflows for sales teams
+### 14. Learn ChatGPT workflows for sales teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Learn practical ChatGPT workflows for account research, meeting prep, outreach, 
 
 ---
 
-### 5. Blue J’s approach for scaling fast in complex, regulated domains
+### 15. Blue J’s approach for scaling fast in complex, regulated domains
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Blue J scaled to three countries and more than 3,000 firms thanks to focus, doma
 
 ---
 
-### 6. Everyday work with ChatGPT Work
+### 16. Everyday work with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Learn practical ChatGPT Work workflows for recurring tasks, updates, research, p
 
 ---
 
-### 7. Learn ChatGPT workflows for marketing teams
+### 17. Learn ChatGPT workflows for marketing teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Learn practical ChatGPT workflows for campaign planning, research, content creat
 
 ---
 
-### 8. New policy ideas for the Intelligence Age
+### 18. New policy ideas for the Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI funds 14 independent projects exploring new AI policy ideas to expand eco
 
 ---
 
-### 9. OpenAI joins PORTS-Pike project
+### 19. OpenAI joins PORTS-Pike project
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ OpenAI joins PORTS-Pike project, expanding community investment and supporting t
 
 ---
 
-### 10. The Defender’s Window
+### 20. The Defender’s Window
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ OpenAI joins PORTS-Pike project, expanding community investment and supporting t
 - **Enlace:** https://openai.com/index/the-defenders-window
 
 AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
-
----
-
-### 11. The Download: Flock’s new rules, cloning’s future, and children’s cells
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 14 Aug 2026 12:17:21 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;
-
----
-
-### 12. This scientist is helping build a missing map of childhood
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 14 Aug 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/
-
-In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;
-
----
-
-### 13. The Download: kids’ thoughts on AI, and female clones of male mice
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 13 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;
-
----
-
-### 14. Flock is tightening its rules in response to a growing surveillance backlash
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 13 Aug 2026 13:41:10 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
-
-The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;
-
----
-
-### 15. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 13 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/
-
-Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;
-
----
-
-### 16. How kids feel about AI, in their own words
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 13 Aug 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/
-
-When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;
-
----
-
-### 17. OpenAI appoints Dali Rajic as Chief Revenue Officer
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Aug 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/dali-rajic-chief-revenue-officer
-
-OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
-
----
-
-### 18. Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Aug 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/previewing-ultrafast
-
-Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
-
----
-
-### 19. The builder’s guide to GPT‑5.6
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 13 Aug 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/builders-guide-to-gpt-5-6
-
-Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
-
----
-
-### 20. The Download: our 35 young innovators and the “censorship-industrial complex”
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 12 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;
 
 ---
