@@ -1,10 +1,127 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-19 07:32 UTC_
+_Actualizado: 2026-08-20 07:35 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: how people really use AI, and Flock’s design choices
+### 1. Learn ChatGPT workflows for finance teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:130d, duplicate
+- **Enlace:** https://openai.com/academy/finance
+
+Learn practical ChatGPT workflows for financial analysis, reporting, planning, and decision-ready communication.
+
+---
+
+### 2. Operations workflows with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:95d, duplicate
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex
+
+Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision packets, and progress reporting.
+
+---
+
+### 3. Finance workflows with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 12 May 2026 15:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:97d, duplicate
+- **Enlace:** https://openai.com/academy/how-finance-teams-use-codex
+
+Learn practical ChatGPT Work workflows for reporting, variance analysis, forecasts, monthly reviews, and decision-ready finance deliverables.
+
+---
+
+### 4. Sales workflows with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d, duplicate
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
+
+Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.
+
+---
+
+### 5. Data science workflows with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d, duplicate
+- **Enlace:** https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+
+Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.
+
+---
+
+### 6. Child-monitoring apps might need a reboot
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 19 Aug 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/
+
+Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;
+
+---
+
+### 7. The Download: AI’s self-improvement problem, and what’s driving the heat
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 19 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;
+
+---
+
+### 8. Replit expands access to software creation with GPT-5.6 Luna
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Aug 2026 07:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/replit
+
+Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
+
+---
+
+### 9. Offering Zero Data Retention for frontier models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 19 Aug 2026 19:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/offering-zero-data-retention-for-frontier-models
+
+OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
+
+---
+
+### 10. The Download: how people really use AI, and Flock’s design choices
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. We still don’t know how people are really using AI
+### 11. We still don’t know how people are really using AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +147,7 @@ AI companies like Anthropic and OpenAI regularly publish reports on how people a
 
 ---
 
-### 3. AI’s recursive self-improvement might not come so quickly after all
+### 12. AI’s recursive self-improvement might not come so quickly after all
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +160,7 @@ The AI industry’s boldest promise right now is that AI will soon improve itsel
 
 ---
 
-### 4. How NVIDIA scales expertise with ChatGPT Work
+### 13. How NVIDIA scales expertise with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +173,7 @@ NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signal
 
 ---
 
-### 5. ChatGPT Ads expands across Europe
+### 14. ChatGPT Ads expands across Europe
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +186,7 @@ ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach
 
 ---
 
-### 6. Asana cleared 5 years of engineering work in 2 weeks with Codex
+### 15. Asana cleared 5 years of engineering work in 2 weeks with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +199,7 @@ Asana used OpenAI Codex to replace an outdated testing system in two weeks, comp
 
 ---
 
-### 7. Introducing ChatGPT for Teens: Built for learning, backed by protections
+### 16. Introducing ChatGPT for Teens: Built for learning, backed by protections
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +212,7 @@ ChatGPT for Teens helps teens learn, think critically, and use AI with confidenc
 
 ---
 
-### 8. Pacing model development in an era of cyber-critical capabilities
+### 17. Pacing model development in an era of cyber-critical capabilities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +225,7 @@ OpenAI is strengthening monitoring, alignment, and security for frontier AI mode
 
 ---
 
-### 9. Partnering with CodeAI to prepare the first AI generation
+### 18. Partnering with CodeAI to prepare the first AI generation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +238,7 @@ OpenAI and CodeAI are partnering to help students build AI literacy, think criti
 
 ---
 
-### 10. Strengthening democratic oversight in national security
+### 19. Strengthening democratic oversight in national security
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +251,7 @@ OpenAI launches an initiative to strengthen democratic oversight of AI in nation
 
 ---
 
-### 11. How much hydrogen awaits us underground?
+### 20. How much hydrogen awaits us underground?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -144,122 +261,5 @@ OpenAI launches an initiative to strengthen democratic oversight of AI in nation
 - **Enlace:** https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/
 
 In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;
-
----
-
-### 12. The Download: dead robot friends and the “censorship-industrial complex”
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 17 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;
-
----
-
-### 13. What Flock’s defenders are missing
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 17 Aug 2026 19:16:09 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;
-
----
-
-### 14. Learn ChatGPT workflows for sales teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:130d, duplicate
-- **Enlace:** https://openai.com/academy/sales
-
-Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution.
-
----
-
-### 15. Blue J’s approach for scaling fast in complex, regulated domains
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Aug 2025 10:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:361d, duplicate
-- **Enlace:** https://openai.com/index/blue-j
-
-Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.
-
----
-
-### 16. Everyday work with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 23 Apr 2026 10:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, old:116d, duplicate
-- **Enlace:** https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks
-
-Learn practical ChatGPT Work workflows for recurring tasks, updates, research, planning, and team operations.
-
----
-
-### 17. Learn ChatGPT workflows for marketing teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:130d, duplicate
-- **Enlace:** https://openai.com/academy/marketing
-
-Learn practical ChatGPT workflows for campaign planning, research, content creation, and performance analysis, with next steps for business teams.
-
----
-
-### 18. New policy ideas for the Intelligence Age
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Aug 2026 03:15:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/new-policy-ideas-for-the-intelligence-age
-
-OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.
-
----
-
-### 19. OpenAI joins PORTS-Pike project
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Aug 2026 05:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-joins-ports-pike-project
-
-OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs
-
----
-
-### 20. The Defender’s Window
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 17 Aug 2026 05:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/the-defenders-window
-
-AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
 
 ---
