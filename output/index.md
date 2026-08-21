@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-20 07:35 UTC_
+_Actualizado: 2026-08-21 07:37 UTC_
 
 ## Selección priorizada
 
-### 1. Learn ChatGPT workflows for finance teams
+### 1. Support networks aim to help kids through the polycrisis
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 20 Aug 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/
+
+Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;
+
+---
+
+### 2. The next big thing in hydrogen could be underground
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 20 Aug 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/
+
+There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;
+
+---
+
+### 3. The Download: polycrisis support networks and a hydrogen gold rush
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 20 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;
+
+---
+
+### 4. Unlocking hidden revenue streams with market models
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 20 Aug 2026 09:47:22 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/
+
+Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;
+
+---
+
+### 5. Debates over AI consciousness are a trap
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 20 Aug 2026 15:42:39 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,regulation, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/
+
+“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;
+
+---
+
+### 6. Stampli cuts launch hours by 68% using ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Aug 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/stampli
+
+With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
+
+---
+
+### 7. Introducing AI Futures
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Aug 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-ai-futures
+
+Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+
+---
+
+### 8. Learn ChatGPT workflows for finance teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +108,7 @@ Learn practical ChatGPT workflows for financial analysis, reporting, planning, a
 
 ---
 
-### 2. Operations workflows with ChatGPT Work
+### 9. Operations workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +121,7 @@ Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, 
 
 ---
 
-### 3. Finance workflows with ChatGPT Work
+### 10. Finance workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +134,7 @@ Learn practical ChatGPT Work workflows for reporting, variance analysis, forecas
 
 ---
 
-### 4. Sales workflows with ChatGPT Work
+### 11. Sales workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, accoun
 
 ---
 
-### 5. Data science workflows with ChatGPT Work
+### 12. Data science workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped 
 
 ---
 
-### 6. Child-monitoring apps might need a reboot
+### 13. Child-monitoring apps might need a reboot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +173,7 @@ Pam Wisniewski’s digital adolescence showed her the best and the worst of the 
 
 ---
 
-### 7. The Download: AI’s self-improvement problem, and what’s driving the heat
+### 14. The Download: AI’s self-improvement problem, and what’s driving the heat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Replit expands access to software creation with GPT-5.6 Luna
+### 15. Replit expands access to software creation with GPT-5.6 Luna
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas i
 
 ---
 
-### 9. Offering Zero Data Retention for frontier models
+### 16. Offering Zero Data Retention for frontier models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ OpenAI reaffirms Zero Data Retention for eligible API customers and previews Pri
 
 ---
 
-### 10. The Download: how people really use AI, and Flock’s design choices
+### 17. The Download: how people really use AI, and Flock’s design choices
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. We still don’t know how people are really using AI
+### 18. We still don’t know how people are really using AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ AI companies like Anthropic and OpenAI regularly publish reports on how people a
 
 ---
 
-### 12. AI’s recursive self-improvement might not come so quickly after all
+### 19. AI’s recursive self-improvement might not come so quickly after all
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ The AI industry’s boldest promise right now is that AI will soon improve itsel
 
 ---
 
-### 13. How NVIDIA scales expertise with ChatGPT Work
+### 20. How NVIDIA scales expertise with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -170,96 +261,5 @@ The AI industry’s boldest promise right now is that AI will soon improve itsel
 - **Enlace:** https://openai.com/index/nvidia/chatgpt-work
 
 NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
-
----
-
-### 14. ChatGPT Ads expands across Europe
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 22:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/chatgpt-ads-expands-across-europe
-
-ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
-
----
-
-### 15. Asana cleared 5 years of engineering work in 2 weeks with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/asana
-
-Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
-
----
-
-### 16. Introducing ChatGPT for Teens: Built for learning, backed by protections
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/chatgpt-for-teens
-
-ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
-
----
-
-### 17. Pacing model development in an era of cyber-critical capabilities
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/pacing-model-development-cyber-capabilities
-
-OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
-
----
-
-### 18. Partnering with CodeAI to prepare the first AI generation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/partnering-with-codeai
-
-OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
-
----
-
-### 19. Strengthening democratic oversight in national security
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 19:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/strengthening-democratic-oversight-in-national-security
-
-OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
-
----
-
-### 20. How much hydrogen awaits us underground?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 17 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/
-
-In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;
 
 ---

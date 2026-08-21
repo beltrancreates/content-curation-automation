@@ -10098,6 +10098,31 @@
     ]
   },
   {
+    "id": "ec2332dc6523ff28fd7611d203a34e5bed1c2cc33c1168a236bef83d4a08f5a2",
+    "title": "Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -25095,6 +25120,31 @@
     ]
   },
   {
+    "id": "1476f459afd654a9166b39674b80173a124234a760e1c2c24042cf2333dc2144",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "link": "https://openai.com/index/stampli",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "faa60f35b7b4c481314aff9d5c62fefcf38ce54f6ff756c6f24ccb43bef11a20",
     "title": "Shifting to AI model customization is an architectural imperative",
     "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
@@ -32326,6 +32376,52 @@
     ]
   },
   {
+    "id": "4c43d61326431017190c4aa164c786671b27334440819d7a0347745d97eb4b97",
+    "title": "Debates over AI consciousness are a trap",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+    "published": "Thu, 20 Aug 2026 15:42:39 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,regulation",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8ea31e2f7defd2be22f6470e495f18654d316307fbd4b7502c21448cad1450db",
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+    "published": "Thu, 20 Aug 2026 09:47:22 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
     "id": "ce449b267557de5dd9a593f06605b7818c380dfab5742b72c939e7f6aaac8f8a",
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -37937,6 +38033,75 @@
     "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
     "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "2c3e65e58f8a455ba1002c62347829b944ce38bbe8c0b7cafe42e73469cc63eb",
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+    "published": "Thu, 20 Aug 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "390bb8f943b28c3dd886823cdd6686187a2bfd9171a73127b0b42d38f3a10c4c",
+    "title": "The next big thing in hydrogen could be underground",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "published": "Thu, 20 Aug 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "aec5da499cb9a5780453d9d697318a9261b042115094000545cf98de33f24348",
+    "title": "Support networks aim to help kids through the polycrisis",
+    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    "published": "Thu, 20 Aug 2026 09:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",
