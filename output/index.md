@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-21 07:37 UTC_
+_Actualizado: 2026-08-22 07:25 UTC_
 
 ## Selección priorizada
 
-### 1. Support networks aim to help kids through the polycrisis
+### 1. Mother tongue
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 21 Aug 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/
+
+“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,&#8230;
+
+---
+
+### 2. The Download: threats from space mirrors and credit for AI drugs
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 21 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;
+
+---
+
+### 3. When AI designs a drug, who gets the credit?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 21 Aug 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
+
+When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;
+
+---
+
+### 4. Support networks aim to help kids through the polycrisis
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a c
 
 ---
 
-### 2. The next big thing in hydrogen could be underground
+### 5. The next big thing in hydrogen could be underground
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ There’s a hunt for new sources of hydrogen, and the gas (or at least the right
 
 ---
 
-### 3. The Download: polycrisis support networks and a hydrogen gold rush
+### 6. The Download: polycrisis support networks and a hydrogen gold rush
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Unlocking hidden revenue streams with market models
+### 7. Unlocking hidden revenue streams with market models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ Each day, an airline transports tens of thousands of passengers on hundreds of f
 
 ---
 
-### 5. Debates over AI consciousness are a trap
+### 8. Debates over AI consciousness are a trap
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +108,7 @@ Each day, an airline transports tens of thousands of passengers on hundreds of f
 
 ---
 
-### 6. Stampli cuts launch hours by 68% using ChatGPT Work
+### 9. Stampli cuts launch hours by 68% using ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ With a fixed deadline and design resources committed elsewhere, Stampli used Cod
 
 ---
 
-### 7. Introducing AI Futures
+### 10. Introducing AI Futures
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ Introducing AI Futures, a new OpenAI blog exploring how transformative AI could 
 
 ---
 
-### 8. Learn ChatGPT workflows for finance teams
+### 11. Learn ChatGPT workflows for finance teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ Learn practical ChatGPT workflows for financial analysis, reporting, planning, a
 
 ---
 
-### 9. Operations workflows with ChatGPT Work
+### 12. Operations workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, 
 
 ---
 
-### 10. Finance workflows with ChatGPT Work
+### 13. Finance workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +173,7 @@ Learn practical ChatGPT Work workflows for reporting, variance analysis, forecas
 
 ---
 
-### 11. Sales workflows with ChatGPT Work
+### 14. Sales workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, accoun
 
 ---
 
-### 12. Data science workflows with ChatGPT Work
+### 15. Data science workflows with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +199,7 @@ Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped 
 
 ---
 
-### 13. Child-monitoring apps might need a reboot
+### 16. Child-monitoring apps might need a reboot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +212,7 @@ Pam Wisniewski’s digital adolescence showed her the best and the worst of the 
 
 ---
 
-### 14. The Download: AI’s self-improvement problem, and what’s driving the heat
+### 17. The Download: AI’s self-improvement problem, and what’s driving the heat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 15. Replit expands access to software creation with GPT-5.6 Luna
+### 18. Replit expands access to software creation with GPT-5.6 Luna
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas i
 
 ---
 
-### 16. Offering Zero Data Retention for frontier models
+### 19. Offering Zero Data Retention for frontier models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ OpenAI reaffirms Zero Data Retention for eligible API customers and previews Pri
 
 ---
 
-### 17. The Download: how people really use AI, and Flock’s design choices
+### 20. The Download: how people really use AI, and Flock’s design choices
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ OpenAI reaffirms Zero Data Retention for eligible API customers and previews Pri
 - **Enlace:** https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;
-
----
-
-### 18. We still don’t know how people are really using AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 18 Aug 2026 10:06:43 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
-
-AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;
-
----
-
-### 19. AI’s recursive self-improvement might not come so quickly after all
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 18 Aug 2026 09:00:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,research,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
-
-The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;
-
----
-
-### 20. How NVIDIA scales expertise with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/nvidia/chatgpt-work
-
-NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
 
 ---
