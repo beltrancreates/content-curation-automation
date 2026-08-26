@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-25 07:38 UTC_
+_Actualizado: 2026-08-26 07:40 UTC_
 
 ## Selección priorizada
 
-### 1. Kids outlearn AI—and we still don’t know why
+### 1. Seeing through murky waters
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/
+
+When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8230;
+
+---
+
+### 2. AgeLab research inspires an A I startup
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/
+
+When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;
+
+---
+
+### 3. A new stamp on cyberfraud prevention
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/
+
+For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;
+
+---
+
+### 4. Addressing a sticking point in sustainable adhesives
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/
+
+Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;
+
+---
+
+### 5. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 26 Aug 2026 07:01:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
+
+It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;
+
+---
+
+### 6. Amping up T cells to target cancer
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
+
+Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can&#8230;
+
+---
+
+### 7. Introducing the Admin plugin for ChatGPT Work and Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Aug 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-admin-plugin
+
+Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.
+
+---
+
+### 8. Disrupting a new covert influence campaign from Russia
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+
+OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
+
+---
+
+### 9. Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Aug 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/jalapeno-first-results
+
+Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
+
+---
+
+### 10. The full stack behind abundant intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 25 Aug 2026 07:05:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/the-full-stack-behind-abundant-intelligence
+
+OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.
+
+---
+
+### 11. Kids outlearn AI—and we still don’t know why
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ People have been talking to each other for at least 100,000 years, as best we ca
 
 ---
 
-### 2. The Download: kids outlearning AI, and space travel agents
+### 12. The Download: kids outlearning AI, and space travel agents
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. How to encourage smarter AI use in the classroom
+### 13. How to encourage smarter AI use in the classroom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This article is from Making AI Work, MIT Technology Review’s limited-run newsl
 
 ---
 
-### 4. Advancing price-performance for developers with GPT‑5.6 in Kiro
+### 14. Advancing price-performance for developers with GPT‑5.6 in Kiro
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and 
 
 ---
 
-### 5. Mother tongue
+### 15. Mother tongue
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and 
 
 ---
 
-### 6. The Download: threats from space mirrors and credit for AI drugs
+### 16. The Download: threats from space mirrors and credit for AI drugs
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. When AI designs a drug, who gets the credit?
+### 17. When AI designs a drug, who gets the credit?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ When the biotech company Insilico Medicine used its computer models to propose a
 
 ---
 
-### 8. Support networks aim to help kids through the polycrisis
+### 18. Support networks aim to help kids through the polycrisis
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a c
 
 ---
 
-### 9. The next big thing in hydrogen could be underground
+### 19. The next big thing in hydrogen could be underground
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ There’s a hunt for new sources of hydrogen, and the gas (or at least the right
 
 ---
 
-### 10. The Download: polycrisis support networks and a hydrogen gold rush
+### 20. The Download: polycrisis support networks and a hydrogen gold rush
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ There’s a hunt for new sources of hydrogen, and the gas (or at least the right
 - **Enlace:** https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;
-
----
-
-### 11. Unlocking hidden revenue streams with market models
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 20 Aug 2026 09:47:22 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/
-
-Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;
-
----
-
-### 12. Debates over AI consciousness are a trap
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 20 Aug 2026 15:42:39 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,regulation, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/
-
-“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;
-
----
-
-### 13. Stampli cuts launch hours by 68% using ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 20 Aug 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/stampli
-
-With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
-
----
-
-### 14. Introducing AI Futures
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 20 Aug 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-ai-futures
-
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
-
----
-
-### 15. Learn ChatGPT workflows for finance teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 10 Apr 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:130d, duplicate
-- **Enlace:** https://openai.com/academy/finance
-
-Learn practical ChatGPT workflows for financial analysis, reporting, planning, and decision-ready communication.
-
----
-
-### 16. Operations workflows with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 15 May 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:95d, duplicate
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex
-
-Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision packets, and progress reporting.
-
----
-
-### 17. Finance workflows with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 12 May 2026 15:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:97d, duplicate
-- **Enlace:** https://openai.com/academy/how-finance-teams-use-codex
-
-Learn practical ChatGPT Work workflows for reporting, variance analysis, forecasts, monthly reviews, and decision-ready finance deliverables.
-
----
-
-### 18. Sales workflows with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d, duplicate
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
-
-Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.
-
----
-
-### 19. Data science workflows with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Jul 2026 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:35d, duplicate
-- **Enlace:** https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
-
-Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.
-
----
-
-### 20. Child-monitoring apps might need a reboot
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 19 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/
-
-Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;
 
 ---
