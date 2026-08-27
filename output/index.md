@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-26 07:40 UTC_
+_Actualizado: 2026-08-27 18:01 UTC_
 
 ## Selección priorizada
 
-### 1. Seeing through murky waters
+### 1. The inside story on why OpenAI agents hacked Hugging Face
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 26 Aug 2026 19:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
+
+The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;
+
+---
+
+### 2. Introducing Intelligence Age
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Aug 2026 07:00:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:7d, duplicate
+- **Enlace:** https://openai.com/index/introducing-ai-futures
+
+Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+
+---
+
+### 3. AI models flub these intelligence tests. Can you fare any better?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 26 Aug 2026 09:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,machine learning,model, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/
+
+Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;
+
+---
+
+### 4. Introducing Intelligence Age
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 20 Aug 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:7d
+- **Enlace:** https://openai.com/index/introducing-intelligence-age
+
+Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+
+---
+
+### 5. Expanding OpenAI’s presence in Brazil
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 27 Aug 2026 03:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/expanding-our-presence-in-brazil
+
+OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.
+
+---
+
+### 6. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 27 Aug 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+
+A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.
+
+---
+
+### 7. How loveholidays is making everyone a builder with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/loveholidays
+
+Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
+
+---
+
+### 8. The Hugging Face incident and the road ahead
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Aug 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/hugging-face-incident-and-the-road-ahead
+
+OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.
+
+---
+
+### 9. Learning never stops: How AI makes learning continuous
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Aug 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/learning-never-stops
+
+OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.
+
+---
+
+### 10. Bringing ChatGPT for Teachers to more U.S. school districts
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 26 Aug 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
+
+ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.
+
+---
+
+### 11. Seeing through murky waters
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ When remotely operated vehicles settle on the seafloor or dig through a sand bed
 
 ---
 
-### 2. AgeLab research inspires an A I startup
+### 12. AgeLab research inspires an A I startup
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in ca
 
 ---
 
-### 3. A new stamp on cyberfraud prevention
+### 13. A new stamp on cyberfraud prevention
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ For Rupert Young ’95, SM ’95, his career in data science and cybersecurity b
 
 ---
 
-### 4. Addressing a sticking point in sustainable adhesives
+### 14. Addressing a sticking point in sustainable adhesives
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ Petroleum-based adhesives are everywhere: bonding the wood and drywall in a cons
 
 ---
 
-### 5. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
+### 15. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the
 
 ---
 
-### 6. Amping up T cells to target cancer
+### 16. Amping up T cells to target cancer
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ Vaccines that turn the body’s immune system against tumors have shown promise 
 
 ---
 
-### 7. Introducing the Admin plugin for ChatGPT Work and Codex
+### 17. Introducing the Admin plugin for ChatGPT Work and Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, mana
 
 ---
 
-### 8. Disrupting a new covert influence campaign from Russia
+### 18. Disrupting a new covert influence campaign from Russia
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based thi
 
 ---
 
-### 9. Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+### 19. Jalapeño’s first results show industry-leading speed and efficiency in AI inference
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Jalapeño is a custom inference chip from OpenAI that delivers faster, more powe
 
 ---
 
-### 10. The full stack behind abundant intelligence
+### 20. The full stack behind abundant intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Jalapeño is a custom inference chip from OpenAI that delivers faster, more powe
 - **Enlace:** https://openai.com/index/the-full-stack-behind-abundant-intelligence
 
 OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.
-
----
-
-### 11. Kids outlearn AI—and we still don’t know why
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 24 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/
-
-People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;
-
----
-
-### 12. The Download: kids outlearning AI, and space travel agents
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 24 Aug 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;
-
----
-
-### 13. How to encourage smarter AI use in the classroom
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 24 Aug 2026 14:20:19 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/
-
-This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;
-
----
-
-### 14. Advancing price-performance for developers with GPT‑5.6 in Kiro
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 24 Aug 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/gpt-5-6-in-kiro
-
-GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.
-
----
-
-### 15. Mother tongue
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 21 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/
-
-“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,&#8230;
-
----
-
-### 16. The Download: threats from space mirrors and credit for AI drugs
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 21 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;
-
----
-
-### 17. When AI designs a drug, who gets the credit?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 21 Aug 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
-
-When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;
-
----
-
-### 18. Support networks aim to help kids through the polycrisis
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 20 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/
-
-Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;
-
----
-
-### 19. The next big thing in hydrogen could be underground
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 20 Aug 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/
-
-There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;
-
----
-
-### 20. The Download: polycrisis support networks and a hydrogen gold rush
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 20 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;
 
 ---
