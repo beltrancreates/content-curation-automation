@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-27 18:01 UTC_
+_Actualizado: 2026-08-28 19:11 UTC_
 
 ## Selección priorizada
 
-### 1. The inside story on why OpenAI agents hacked Hugging Face
+### 1. The Download: a secretive antiaging drug and joining virtual power plants
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 28 Aug 2026 12:35:27 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;
+
+---
+
+### 2. A startup claims it’s found a drug to make your blood young
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 27 Aug 2026 19:48:13 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/
+
+I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;
+
+---
+
+### 3. Raised on AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 26 Aug 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/
+
+When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;
+
+---
+
+### 4. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 26 Aug 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;
+
+---
+
+### 5. Your brain on AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/
+
+Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.&#160; Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling&#8230;
+
+---
+
+### 6. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 27 Aug 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;
+
+---
+
+### 7. Supporting Thailand’s next generation of AI startups
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 28 Aug 2026 02:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/supporting-next-generation-ai-startups-thailand
+
+OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
+
+---
+
+### 8. The inside story on why OpenAI agents hacked Hugging Face
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ The models responsible for last month’s agent hack of Hugging Face had been in
 
 ---
 
-### 2. Introducing Intelligence Age
+### 9. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +121,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 3. AI models flub these intelligence tests. Can you fare any better?
+### 10. AI models flub these intelligence tests. Can you fare any better?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ Puzzles and games have been central to AI development since the very beginning. 
 
 ---
 
-### 4. Introducing Intelligence Age
+### 11. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 5. Expanding OpenAI’s presence in Brazil
+### 12. Expanding OpenAI’s presence in Brazil
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ OpenAI is expanding its presence in Brazil, deepening engagement with developers
 
 ---
 
-### 6. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+### 13. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ A randomized study of more than 1,000 students examines ChatGPT, critical thinki
 
 ---
 
-### 7. How loveholidays is making everyone a builder with Codex
+### 14. How loveholidays is making everyone a builder with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ Discover how loveholidays uses OpenAI Codex to make software development accessi
 
 ---
 
-### 8. The Hugging Face incident and the road ahead
+### 15. The Hugging Face incident and the road ahead
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ OpenAI shares findings from the Hugging Face security incident and the steps we�
 
 ---
 
-### 9. Learning never stops: How AI makes learning continuous
+### 16. Learning never stops: How AI makes learning continuous
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ OpenAI’s new report explores how students and educators use ChatGPT to make le
 
 ---
 
-### 10. Bringing ChatGPT for Teachers to more U.S. school districts
+### 17. Bringing ChatGPT for Teachers to more U.S. school districts
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +225,7 @@ ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI 
 
 ---
 
-### 11. Seeing through murky waters
+### 18. Seeing through murky waters
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ When remotely operated vehicles settle on the seafloor or dig through a sand bed
 
 ---
 
-### 12. AgeLab research inspires an A I startup
+### 19. AgeLab research inspires an A I startup
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in ca
 
 ---
 
-### 13. A new stamp on cyberfraud prevention
+### 20. A new stamp on cyberfraud prevention
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -170,96 +261,5 @@ When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in ca
 - **Enlace:** https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/
 
 For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;
-
----
-
-### 14. Addressing a sticking point in sustainable adhesives
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/
-
-Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;
-
----
-
-### 15. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 26 Aug 2026 07:01:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
-
-It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;
-
----
-
-### 16. Amping up T cells to target cancer
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
-
-Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can&#8230;
-
----
-
-### 17. Introducing the Admin plugin for ChatGPT Work and Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 25 Aug 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-admin-plugin
-
-Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.
-
----
-
-### 18. Disrupting a new covert influence campaign from Russia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 25 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
-
-OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
-
----
-
-### 19. Jalapeño’s first results show industry-leading speed and efficiency in AI inference
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 25 Aug 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/jalapeno-first-results
-
-Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
-
----
-
-### 20. The full stack behind abundant intelligence
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 25 Aug 2026 07:05:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/the-full-stack-behind-abundant-intelligence
-
-OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.
 
 ---
