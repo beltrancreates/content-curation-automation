@@ -29716,5 +29716,23 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "0800406a6118c6eec343544a6b5dd4a5aff270886ea2aba7b0fe31220874db32",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "published": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
   }
 ]

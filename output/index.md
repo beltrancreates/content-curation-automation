@@ -1,10 +1,23 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-28 19:11 UTC_
+_Actualizado: 2026-08-29 12:55 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: a secretive antiaging drug and joining virtual power plants
+### 1. Our decision on Cursor following its acquisition by SpaceX
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 28 Aug 2026 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+
+Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+
+---
+
+### 2. The Download: a secretive antiaging drug and joining virtual power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +30,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. A startup claims it’s found a drug to make your blood young
+### 3. A startup claims it’s found a drug to make your blood young
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +43,7 @@ I knew I’d officially become a “longevity influencer” this month when a co
 
 ---
 
-### 3. Raised on AI
+### 4. Raised on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +56,7 @@ When my oldest child was born, I immediately set up Gmail and Twitter accounts i
 
 ---
 
-### 4. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+### 5. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. Your brain on AI
+### 6. Your brain on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +82,7 @@ Many people find AI-based chatbots helpful in keeping up with news, but a study 
 
 ---
 
-### 6. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+### 7. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Supporting Thailand’s next generation of AI startups
+### 8. Supporting Thailand’s next generation of AI startups
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +108,7 @@ OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health
 
 ---
 
-### 8. The inside story on why OpenAI agents hacked Hugging Face
+### 9. The inside story on why OpenAI agents hacked Hugging Face
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +121,7 @@ The models responsible for last month’s agent hack of Hugging Face had been in
 
 ---
 
-### 9. Introducing Intelligence Age
+### 10. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +134,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 10. AI models flub these intelligence tests. Can you fare any better?
+### 11. AI models flub these intelligence tests. Can you fare any better?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +147,7 @@ Puzzles and games have been central to AI development since the very beginning. 
 
 ---
 
-### 11. Introducing Intelligence Age
+### 12. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +160,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 12. Expanding OpenAI’s presence in Brazil
+### 13. Expanding OpenAI’s presence in Brazil
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +173,7 @@ OpenAI is expanding its presence in Brazil, deepening engagement with developers
 
 ---
 
-### 13. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+### 14. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +186,7 @@ A randomized study of more than 1,000 students examines ChatGPT, critical thinki
 
 ---
 
-### 14. How loveholidays is making everyone a builder with Codex
+### 15. How loveholidays is making everyone a builder with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +199,7 @@ Discover how loveholidays uses OpenAI Codex to make software development accessi
 
 ---
 
-### 15. The Hugging Face incident and the road ahead
+### 16. The Hugging Face incident and the road ahead
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +212,7 @@ OpenAI shares findings from the Hugging Face security incident and the steps we�
 
 ---
 
-### 16. Learning never stops: How AI makes learning continuous
+### 17. Learning never stops: How AI makes learning continuous
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +225,7 @@ OpenAI’s new report explores how students and educators use ChatGPT to make le
 
 ---
 
-### 17. Bringing ChatGPT for Teachers to more U.S. school districts
+### 18. Bringing ChatGPT for Teachers to more U.S. school districts
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -225,7 +238,7 @@ ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI 
 
 ---
 
-### 18. Seeing through murky waters
+### 19. Seeing through murky waters
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -238,7 +251,7 @@ When remotely operated vehicles settle on the seafloor or dig through a sand bed
 
 ---
 
-### 19. AgeLab research inspires an A I startup
+### 20. AgeLab research inspires an A I startup
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -248,18 +261,5 @@ When remotely operated vehicles settle on the seafloor or dig through a sand bed
 - **Enlace:** https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/
 
 When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;
-
----
-
-### 20. A new stamp on cyberfraud prevention
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/
-
-For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;
 
 ---
