@@ -1,10 +1,23 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-30 12:29 UTC_
+_Actualizado: 2026-08-31 14:44 UTC_
 
 ## Selección priorizada
 
-### 1. Our decision on Cursor following its acquisition by SpaceX
+### 1. A milestone in expanding access to AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 31 Aug 2026 04:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
+
+ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.
+
+---
+
+### 2. Our decision on Cursor following its acquisition by SpaceX
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +30,7 @@ Our decision to wind down our contract providing OpenAI models to Cursor followi
 
 ---
 
-### 2. The Download: a secretive antiaging drug and joining virtual power plants
+### 3. The Download: a secretive antiaging drug and joining virtual power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. A startup claims it’s found a drug to make your blood young
+### 4. A startup claims it’s found a drug to make your blood young
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +56,7 @@ I knew I’d officially become a “longevity influencer” this month when a co
 
 ---
 
-### 4. Raised on AI
+### 5. Raised on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +69,7 @@ When my oldest child was born, I immediately set up Gmail and Twitter accounts i
 
 ---
 
-### 5. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+### 6. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Your brain on AI
+### 7. Your brain on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +95,7 @@ Many people find AI-based chatbots helpful in keeping up with news, but a study 
 
 ---
 
-### 7. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+### 8. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Supporting Thailand’s next generation of AI startups
+### 9. Supporting Thailand’s next generation of AI startups
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +121,7 @@ OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health
 
 ---
 
-### 9. The inside story on why OpenAI agents hacked Hugging Face
+### 10. The inside story on why OpenAI agents hacked Hugging Face
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +134,7 @@ The models responsible for last month’s agent hack of Hugging Face had been in
 
 ---
 
-### 10. Introducing Intelligence Age
+### 11. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +147,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 11. AI models flub these intelligence tests. Can you fare any better?
+### 12. AI models flub these intelligence tests. Can you fare any better?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +160,7 @@ Puzzles and games have been central to AI development since the very beginning. 
 
 ---
 
-### 12. Introducing Intelligence Age
+### 13. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +173,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 13. Expanding OpenAI’s presence in Brazil
+### 14. Expanding OpenAI’s presence in Brazil
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +186,7 @@ OpenAI is expanding its presence in Brazil, deepening engagement with developers
 
 ---
 
-### 14. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+### 15. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +199,7 @@ A randomized study of more than 1,000 students examines ChatGPT, critical thinki
 
 ---
 
-### 15. How loveholidays is making everyone a builder with Codex
+### 16. How loveholidays is making everyone a builder with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +212,7 @@ Discover how loveholidays uses OpenAI Codex to make software development accessi
 
 ---
 
-### 16. The Hugging Face incident and the road ahead
+### 17. The Hugging Face incident and the road ahead
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +225,7 @@ OpenAI shares findings from the Hugging Face security incident and the steps we�
 
 ---
 
-### 17. Learning never stops: How AI makes learning continuous
+### 18. Learning never stops: How AI makes learning continuous
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -225,7 +238,7 @@ OpenAI’s new report explores how students and educators use ChatGPT to make le
 
 ---
 
-### 18. Bringing ChatGPT for Teachers to more U.S. school districts
+### 19. Bringing ChatGPT for Teachers to more U.S. school districts
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -238,7 +251,7 @@ ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI 
 
 ---
 
-### 19. Seeing through murky waters
+### 20. Seeing through murky waters
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -248,18 +261,5 @@ ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI 
 - **Enlace:** https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/
 
 When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8230;
-
----
-
-### 20. AgeLab research inspires an A I startup
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/
-
-When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;
 
 ---

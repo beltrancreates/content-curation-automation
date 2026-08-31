@@ -29734,5 +29734,23 @@
     ],
     "domain": "openai.com",
     "status": "fetched"
+  },
+  {
+    "id": "94e957d0fd96c70c7db67d8067f01fe91300621d5199b5087ade049fbd81616a",
+    "title": "A milestone in expanding access to AI",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "published": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
   }
 ]
