@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-08-31 14:44 UTC_
+_Actualizado: 2026-09-01 12:17 UTC_
 
 ## Selección priorizada
 
-### 1. A milestone in expanding access to AI
+### 1. The Hugging Face hack could indicate cultural issues at OpenAI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 31 Aug 2026 18:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;
+
+---
+
+### 2. How engineered microbes could help feed the world’s crops
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 01 Sep 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/
+
+Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;
+
+---
+
+### 3. Polimill builds Japan's next-generation public AI infrastructure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 31 Aug 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/polimill
+
+Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.
+
+---
+
+### 4. OpenAI supports California’s bill to advance youth AI safety
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 31 Aug 2026 07:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
+
+OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.
+
+---
+
+### 5. A milestone in expanding access to AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +69,7 @@ ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands global
 
 ---
 
-### 2. Our decision on Cursor following its acquisition by SpaceX
+### 6. Our decision on Cursor following its acquisition by SpaceX
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +82,7 @@ Our decision to wind down our contract providing OpenAI models to Cursor followi
 
 ---
 
-### 3. The Download: a secretive antiaging drug and joining virtual power plants
+### 7. The Download: a secretive antiaging drug and joining virtual power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. A startup claims it’s found a drug to make your blood young
+### 8. A startup claims it’s found a drug to make your blood young
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +108,7 @@ I knew I’d officially become a “longevity influencer” this month when a co
 
 ---
 
-### 5. Raised on AI
+### 9. Raised on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +121,7 @@ When my oldest child was born, I immediately set up Gmail and Twitter accounts i
 
 ---
 
-### 6. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+### 10. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Your brain on AI
+### 11. Your brain on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +147,7 @@ Many people find AI-based chatbots helpful in keeping up with news, but a study 
 
 ---
 
-### 8. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+### 12. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. Supporting Thailand’s next generation of AI startups
+### 13. Supporting Thailand’s next generation of AI startups
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health
 
 ---
 
-### 10. The inside story on why OpenAI agents hacked Hugging Face
+### 14. The inside story on why OpenAI agents hacked Hugging Face
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +186,7 @@ The models responsible for last month’s agent hack of Hugging Face had been in
 
 ---
 
-### 11. Introducing Intelligence Age
+### 15. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 12. AI models flub these intelligence tests. Can you fare any better?
+### 16. AI models flub these intelligence tests. Can you fare any better?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +212,7 @@ Puzzles and games have been central to AI development since the very beginning. 
 
 ---
 
-### 13. Introducing Intelligence Age
+### 17. Introducing Intelligence Age
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +225,7 @@ Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI 
 
 ---
 
-### 14. Expanding OpenAI’s presence in Brazil
+### 18. Expanding OpenAI’s presence in Brazil
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ OpenAI is expanding its presence in Brazil, deepening engagement with developers
 
 ---
 
-### 15. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+### 19. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ A randomized study of more than 1,000 students examines ChatGPT, critical thinki
 
 ---
 
-### 16. How loveholidays is making everyone a builder with Codex
+### 20. How loveholidays is making everyone a builder with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ A randomized study of more than 1,000 students examines ChatGPT, critical thinki
 - **Enlace:** https://openai.com/index/loveholidays
 
 Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
-
----
-
-### 17. The Hugging Face incident and the road ahead
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 26 Aug 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/hugging-face-incident-and-the-road-ahead
-
-OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.
-
----
-
-### 18. Learning never stops: How AI makes learning continuous
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 26 Aug 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/learning-never-stops
-
-OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.
-
----
-
-### 19. Bringing ChatGPT for Teachers to more U.S. school districts
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 26 Aug 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
-
-ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.
-
----
-
-### 20. Seeing through murky waters
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/
-
-When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8230;
 
 ---
