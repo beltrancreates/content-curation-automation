@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-02 11:54 UTC_
+_Actualizado: 2026-09-03 11:52 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: engineered microbes for crops, and OpenAI’s culture problem
+### 1. Scaling agentic AI pilots across the enterprise
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 03 Sep 2026 09:30:32 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/
+
+As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;
+
+---
+
+### 2. Facilitating AI integration with simplicity at scale
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 02 Sep 2026 14:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/
+
+As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;
+
+---
+
+### 3. The Download: AI puzzles and a path to our nearest star system
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 02 Sep 2026 12:10:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,machine learning,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;
+
+---
+
+### 4. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 02 Sep 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/atv-big-air-tour
+
+ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
+
+---
+
+### 5. The Download: engineered microbes for crops, and OpenAI’s culture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Making the AI-powered case for legacy modernization
+### 6. Making the AI-powered case for legacy modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ For years, legacy technology has been a problem companies knew they needed to so
 
 ---
 
-### 3. How AI plotted an interstellar journey to Alpha Centauri
+### 7. How AI plotted an interstellar journey to Alpha Centauri
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +95,7 @@ A nonprofit organization called the Fermi Explorer Mission announced today that 
 
 ---
 
-### 4. How law firm Gilbert + Tobin governs and scales AI with OpenAI
+### 8. How law firm Gilbert + Tobin governs and scales AI with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and hu
 
 ---
 
-### 5. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
+### 9. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ ChatGPT can now connect to trusted healthcare data, helping clinicians securely 
 
 ---
 
-### 6. Path to Astra: critical capabilities and frontier safeguards
+### 10. Path to Astra: critical capabilities and frontier safeguards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ Astra is the first OpenAI model to meet the Critical cybersecurity capability th
 
 ---
 
-### 7. How AI-native companies turn workflows into operating capability
+### 11. How AI-native companies turn workflows into operating capability
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ Basis, Clay, and Exa Labs use AI agents to improve onboarding, account managemen
 
 ---
 
-### 8. The Hugging Face hack could indicate cultural issues at OpenAI
+### 12. The Hugging Face hack could indicate cultural issues at OpenAI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +160,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 9. How engineered microbes could help feed the world’s crops
+### 13. How engineered microbes could help feed the world’s crops
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +173,7 @@ Fertilizer is crucial for the global food supply, but making it uses a lot of en
 
 ---
 
-### 10. Polimill builds Japan's next-generation public AI infrastructure
+### 14. Polimill builds Japan's next-generation public AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ Polimill uses OpenAI GPT models and Codex to help municipalities search and use 
 
 ---
 
-### 11. OpenAI supports California’s bill to advance youth AI safety
+### 15. OpenAI supports California’s bill to advance youth AI safety
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ OpenAI supports California SB 1119, advancing strong, age-appropriate AI safegua
 
 ---
 
-### 12. A milestone in expanding access to AI
+### 16. A milestone in expanding access to AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +212,7 @@ ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands global
 
 ---
 
-### 13. Our decision on Cursor following its acquisition by SpaceX
+### 17. Our decision on Cursor following its acquisition by SpaceX
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +225,7 @@ Our decision to wind down our contract providing OpenAI models to Cursor followi
 
 ---
 
-### 14. The Download: a secretive antiaging drug and joining virtual power plants
+### 18. The Download: a secretive antiaging drug and joining virtual power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 15. A startup claims it’s found a drug to make your blood young
+### 19. A startup claims it’s found a drug to make your blood young
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +251,7 @@ I knew I’d officially become a “longevity influencer” this month when a co
 
 ---
 
-### 16. Raised on AI
+### 20. Raised on AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -209,57 +261,5 @@ I knew I’d officially become a “longevity influencer” this month when a co
 - **Enlace:** https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/
 
 When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;
-
----
-
-### 17. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 26 Aug 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;
-
----
-
-### 18. Your brain on AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 25 Aug 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/
-
-Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.&#160; Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling&#8230;
-
----
-
-### 19. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 27 Aug 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;
-
----
-
-### 20. Supporting Thailand’s next generation of AI startups
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 28 Aug 2026 02:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/supporting-next-generation-ai-startups-thailand
-
-OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
 
 ---
