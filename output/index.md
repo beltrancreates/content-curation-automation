@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-03 11:52 UTC_
+_Actualizado: 2026-09-04 11:55 UTC_
 
 ## Selección priorizada
 
-### 1. Scaling agentic AI pilots across the enterprise
+### 1. GPT-4
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 14 Mar 2023 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1270d, duplicate
+- **Enlace:** https://openai.com/index/gpt-4
+
+It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.
+
+---
+
+### 2. Data from drones in Ukraine is fueling a new Wild West marketplace
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 04 Sep 2026 09:25:19 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
+
+Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;
+
+---
+
+### 3. The Download: rethinking child safety and fossil-fueled farming
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 03 Sep 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;
+
+---
+
+### 4. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Sep 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/playco-game-prototyping-with-astra
+
+Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
+
+---
+
+### 5. Legora reviewed 41 documents in minutes with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Sep 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/legora-financial-statement-review-with-astra
+
+Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
+
+---
+
+### 6. Safety overview: GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/safety-overview-gpt-6-astra
+
+GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
+
+---
+
+### 7. Daybreak for Frontline Defenders: $1B to protect essential services
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Sep 2026 13:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/daybreak-for-frontline-defenders
+
+OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
+
+---
+
+### 8. Scaling agentic AI pilots across the enterprise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ As agentic AI moves from experimentation toward enterprise deployment, the chall
 
 ---
 
-### 2. Facilitating AI integration with simplicity at scale
+### 9. Facilitating AI integration with simplicity at scale
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ As companies scale, the technology supporting operations can become a liability 
 
 ---
 
-### 3. The Download: AI puzzles and a path to our nearest star system
+### 10. The Download: AI puzzles and a path to our nearest star system
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+### 11. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and mor
 
 ---
 
-### 5. The Download: engineered microbes for crops, and OpenAI’s culture problem
+### 12. The Download: engineered microbes for crops, and OpenAI’s culture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Making the AI-powered case for legacy modernization
+### 13. Making the AI-powered case for legacy modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +173,7 @@ For years, legacy technology has been a problem companies knew they needed to so
 
 ---
 
-### 7. How AI plotted an interstellar journey to Alpha Centauri
+### 14. How AI plotted an interstellar journey to Alpha Centauri
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +186,7 @@ A nonprofit organization called the Fermi Explorer Mission announced today that 
 
 ---
 
-### 8. How law firm Gilbert + Tobin governs and scales AI with OpenAI
+### 15. How law firm Gilbert + Tobin governs and scales AI with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and hu
 
 ---
 
-### 9. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
+### 16. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ ChatGPT can now connect to trusted healthcare data, helping clinicians securely 
 
 ---
 
-### 10. Path to Astra: critical capabilities and frontier safeguards
+### 17. Path to Astra: critical capabilities and frontier safeguards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +225,7 @@ Astra is the first OpenAI model to meet the Critical cybersecurity capability th
 
 ---
 
-### 11. How AI-native companies turn workflows into operating capability
+### 18. How AI-native companies turn workflows into operating capability
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +238,7 @@ Basis, Clay, and Exa Labs use AI agents to improve onboarding, account managemen
 
 ---
 
-### 12. The Hugging Face hack could indicate cultural issues at OpenAI
+### 19. The Hugging Face hack could indicate cultural issues at OpenAI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 13. How engineered microbes could help feed the world’s crops
+### 20. How engineered microbes could help feed the world’s crops
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -170,96 +261,5 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 - **Enlace:** https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/
 
 Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;
-
----
-
-### 14. Polimill builds Japan's next-generation public AI infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 31 Aug 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/polimill
-
-Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.
-
----
-
-### 15. OpenAI supports California’s bill to advance youth AI safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 31 Aug 2026 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
-
-OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.
-
----
-
-### 16. A milestone in expanding access to AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 31 Aug 2026 04:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
-
-ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.
-
----
-
-### 17. Our decision on Cursor following its acquisition by SpaceX
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 28 Aug 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-
-Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
-
----
-
-### 18. The Download: a secretive antiaging drug and joining virtual power plants
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 28 Aug 2026 12:35:27 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;
-
----
-
-### 19. A startup claims it’s found a drug to make your blood young
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 27 Aug 2026 19:48:13 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/
-
-I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;
-
----
-
-### 20. Raised on AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 26 Aug 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/
-
-When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;
 
 ---
