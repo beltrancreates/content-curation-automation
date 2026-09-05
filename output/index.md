@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-04 11:55 UTC_
+_Actualizado: 2026-09-05 11:04 UTC_
 
 ## Selección priorizada
 
-### 1. GPT-4
+### 1. The Download: selling battlefield drone data and AI reshaping language
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 04 Sep 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;
+
+---
+
+### 2. Architecting memory and storage in the AI era
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 04 Sep 2026 18:39:19 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/
+
+The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;
+
+---
+
+### 3. GPT-6 Astra: A new generation of intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 03 Sep 2026 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:2d
+- **Enlace:** https://openai.com/index/gpt-6-astra
+
+Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
+
+---
+
+### 4. GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +56,7 @@ It can generate, edit, and iterate with users on creative and technical writing 
 
 ---
 
-### 2. Data from drones in Ukraine is fueling a new Wild West marketplace
+### 5. Data from drones in Ukraine is fueling a new Wild West marketplace
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ Battlefields in Ukraine are littered with the remnants of drones, which are now 
 
 ---
 
-### 3. The Download: rethinking child safety and fossil-fueled farming
+### 6. The Download: rethinking child safety and fossil-fueled farming
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+### 7. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +95,7 @@ Using GPT-6 Astra, Playco built three themed game prototypes from one grey box f
 
 ---
 
-### 5. Legora reviewed 41 documents in minutes with GPT-6 Astra
+### 8. Legora reviewed 41 documents in minutes with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted
 
 ---
 
-### 6. Safety overview: GPT-6 Astra
+### 9. Safety overview: GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ GPT-6 Astra is our most capable broadly deployed model and our first to reach th
 
 ---
 
-### 7. Daybreak for Frontline Defenders: $1B to protect essential services
+### 10. Daybreak for Frontline Defenders: $1B to protect essential services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expa
 
 ---
 
-### 8. Scaling agentic AI pilots across the enterprise
+### 11. Scaling agentic AI pilots across the enterprise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +147,7 @@ As agentic AI moves from experimentation toward enterprise deployment, the chall
 
 ---
 
-### 9. Facilitating AI integration with simplicity at scale
+### 12. Facilitating AI integration with simplicity at scale
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +160,7 @@ As companies scale, the technology supporting operations can become a liability 
 
 ---
 
-### 10. The Download: AI puzzles and a path to our nearest star system
+### 13. The Download: AI puzzles and a path to our nearest star system
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+### 14. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and mor
 
 ---
 
-### 12. The Download: engineered microbes for crops, and OpenAI’s culture problem
+### 15. The Download: engineered microbes for crops, and OpenAI’s culture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. Making the AI-powered case for legacy modernization
+### 16. Making the AI-powered case for legacy modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +212,7 @@ For years, legacy technology has been a problem companies knew they needed to so
 
 ---
 
-### 14. How AI plotted an interstellar journey to Alpha Centauri
+### 17. How AI plotted an interstellar journey to Alpha Centauri
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +225,7 @@ A nonprofit organization called the Fermi Explorer Mission announced today that 
 
 ---
 
-### 15. How law firm Gilbert + Tobin governs and scales AI with OpenAI
+### 18. How law firm Gilbert + Tobin governs and scales AI with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and hu
 
 ---
 
-### 16. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
+### 19. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ ChatGPT can now connect to trusted healthcare data, helping clinicians securely 
 
 ---
 
-### 17. Path to Astra: critical capabilities and frontier safeguards
+### 20. Path to Astra: critical capabilities and frontier safeguards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -222,44 +261,5 @@ ChatGPT can now connect to trusted healthcare data, helping clinicians securely 
 - **Enlace:** https://openai.com/index/path-to-astra
 
 Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
-
----
-
-### 18. How AI-native companies turn workflows into operating capability
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Sep 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/ai-native-company-workflows
-
-Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
-
----
-
-### 19. The Hugging Face hack could indicate cultural issues at OpenAI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 31 Aug 2026 18:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;
-
----
-
-### 20. How engineered microbes could help feed the world’s crops
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 01 Sep 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/
-
-Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;
 
 ---
