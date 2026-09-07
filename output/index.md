@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-06 11:28 UTC_
+_Actualizado: 2026-09-07 13:12 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: selling battlefield drone data and AI reshaping language
+### 1. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 07 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;
+
+---
+
+### 2. Supporting independent journalism in Ukraine
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 07 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/supporting-independent-journalism-in-ukraine
+
+OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
+
+---
+
+### 3. An Alien Mind
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 06 Sep 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/an-alien-mind
+
+Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.
+
+---
+
+### 4. Research acceleration: The view inside OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 06 Sep 2026 08:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/research-acceleration-view-inside-openai
+
+Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.
+
+---
+
+### 5. The Download: selling battlefield drone data and AI reshaping language
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Architecting memory and storage in the AI era
+### 6. Architecting memory and storage in the AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ The era of AI inference has arrived. Imagine a healthcare system analyzing milli
 
 ---
 
-### 3. GPT-6 Astra: A new generation of intelligence
+### 7. GPT-6 Astra: A new generation of intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-
 
 ---
 
-### 4. GPT-4
+### 8. GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ It can generate, edit, and iterate with users on creative and technical writing 
 
 ---
 
-### 5. Data from drones in Ukraine is fueling a new Wild West marketplace
+### 9. Data from drones in Ukraine is fueling a new Wild West marketplace
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +121,7 @@ Battlefields in Ukraine are littered with the remnants of drones, which are now 
 
 ---
 
-### 6. The Download: rethinking child safety and fossil-fueled farming
+### 10. The Download: rethinking child safety and fossil-fueled farming
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+### 11. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ Using GPT-6 Astra, Playco built three themed game prototypes from one grey box f
 
 ---
 
-### 8. Legora reviewed 41 documents in minutes with GPT-6 Astra
+### 12. Legora reviewed 41 documents in minutes with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +160,7 @@ Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted
 
 ---
 
-### 9. Safety overview: GPT-6 Astra
+### 13. Safety overview: GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ GPT-6 Astra is our most capable broadly deployed model and our first to reach th
 
 ---
 
-### 10. Daybreak for Frontline Defenders: $1B to protect essential services
+### 14. Daybreak for Frontline Defenders: $1B to protect essential services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expa
 
 ---
 
-### 11. Scaling agentic AI pilots across the enterprise
+### 15. Scaling agentic AI pilots across the enterprise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +199,7 @@ As agentic AI moves from experimentation toward enterprise deployment, the chall
 
 ---
 
-### 12. Facilitating AI integration with simplicity at scale
+### 16. Facilitating AI integration with simplicity at scale
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +212,7 @@ As companies scale, the technology supporting operations can become a liability 
 
 ---
 
-### 13. The Download: AI puzzles and a path to our nearest star system
+### 17. The Download: AI puzzles and a path to our nearest star system
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+### 18. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and mor
 
 ---
 
-### 15. The Download: engineered microbes for crops, and OpenAI’s culture problem
+### 19. The Download: engineered microbes for crops, and OpenAI’s culture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 16. Making the AI-powered case for legacy modernization
+### 20. Making the AI-powered case for legacy modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -209,57 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/
 
 For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;
-
----
-
-### 17. How AI plotted an interstellar journey to Alpha Centauri
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 01 Sep 2026 19:10:36 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/
-
-A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;
-
----
-
-### 18. How law firm Gilbert + Tobin governs and scales AI with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Sep 2026 01:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/gilbert-tobin
-
-See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
-
----
-
-### 19. Healthcare organizations can now connect EHR and additional industry data to ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Sep 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
-
-ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.
-
----
-
-### 20. Path to Astra: critical capabilities and frontier safeguards
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 01 Sep 2026 13:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/path-to-astra
-
-Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
 
 ---
