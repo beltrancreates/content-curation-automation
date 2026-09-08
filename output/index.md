@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-07 13:12 UTC_
+_Actualizado: 2026-09-08 11:55 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
+### 1. This AI entrepreneur is developing agents that can plan ahead for the unexpected
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 08 Sep 2026 10:34:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/
+
+Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;
+
+---
+
+### 2. This founder is teaching chips how to recycle (their energy)
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 08 Sep 2026 10:36:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/
+
+Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;
+
+---
+
+### 3. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Supporting independent journalism in Ukraine
+### 4. Supporting independent journalism in Ukraine
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +56,7 @@ OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organiza
 
 ---
 
-### 3. An Alien Mind
+### 5. An Alien Mind
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +69,7 @@ Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping 
 
 ---
 
-### 4. Research acceleration: The view inside OpenAI
+### 6. Research acceleration: The view inside OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +82,7 @@ Inside OpenAI, coding agents are reshaping AI research. Explore early data on ag
 
 ---
 
-### 5. The Download: selling battlefield drone data and AI reshaping language
+### 7. The Download: selling battlefield drone data and AI reshaping language
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Architecting memory and storage in the AI era
+### 8. Architecting memory and storage in the AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +108,7 @@ The era of AI inference has arrived. Imagine a healthcare system analyzing milli
 
 ---
 
-### 7. GPT-6 Astra: A new generation of intelligence
+### 9. GPT-6 Astra: A new generation of intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +121,7 @@ Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-
 
 ---
 
-### 8. GPT-4
+### 10. GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +134,7 @@ It can generate, edit, and iterate with users on creative and technical writing 
 
 ---
 
-### 9. Data from drones in Ukraine is fueling a new Wild West marketplace
+### 11. Data from drones in Ukraine is fueling a new Wild West marketplace
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +147,7 @@ Battlefields in Ukraine are littered with the remnants of drones, which are now 
 
 ---
 
-### 10. The Download: rethinking child safety and fossil-fueled farming
+### 12. The Download: rethinking child safety and fossil-fueled farming
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+### 13. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ Using GPT-6 Astra, Playco built three themed game prototypes from one grey box f
 
 ---
 
-### 12. Legora reviewed 41 documents in minutes with GPT-6 Astra
+### 14. Legora reviewed 41 documents in minutes with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted
 
 ---
 
-### 13. Safety overview: GPT-6 Astra
+### 15. Safety overview: GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ GPT-6 Astra is our most capable broadly deployed model and our first to reach th
 
 ---
 
-### 14. Daybreak for Frontline Defenders: $1B to protect essential services
+### 16. Daybreak for Frontline Defenders: $1B to protect essential services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expa
 
 ---
 
-### 15. Scaling agentic AI pilots across the enterprise
+### 17. Scaling agentic AI pilots across the enterprise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +225,7 @@ As agentic AI moves from experimentation toward enterprise deployment, the chall
 
 ---
 
-### 16. Facilitating AI integration with simplicity at scale
+### 18. Facilitating AI integration with simplicity at scale
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +238,7 @@ As companies scale, the technology supporting operations can become a liability 
 
 ---
 
-### 17. The Download: AI puzzles and a path to our nearest star system
+### 19. The Download: AI puzzles and a path to our nearest star system
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 18. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+### 20. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -235,31 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://openai.com/index/atv-big-air-tour
 
 ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
-
----
-
-### 19. The Download: engineered microbes for crops, and OpenAI’s culture problem
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 01 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;
-
----
-
-### 20. Making the AI-powered case for legacy modernization
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 01 Sep 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/
-
-For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;
 
 ---
