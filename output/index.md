@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-08 11:55 UTC_
+_Actualizado: 2026-09-09 12:05 UTC_
 
 ## Selección priorizada
 
-### 1. This AI entrepreneur is developing agents that can plan ahead for the unexpected
+### 1. The Download: our 35 Innovators Under 35 this year
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 08 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;
+
+---
+
+### 2. What OpenAI’s latest controversy tells us about the future of math
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 09 Sep 2026 03:10:08 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
+
+OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;
+
+---
+
+### 3. Batteries just broke another record in the US
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 09 Sep 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/
+
+Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;
+
+---
+
+### 4. Introducing ChatGPT Images 2.5
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 11:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-images-2-5
+
+ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
+
+---
+
+### 5. 1Password increases engineering productivity 21% with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/1password
+
+Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
+
+---
+
+### 6. OpenAI expands initiatives to support journalism from classrooms to newsrooms
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
+
+OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
+
+---
+
+### 7. On the Navier–Stokes Millennium Prize Problem
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/navier-stokes-solution
+
+We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
+
+---
+
+### 8. The Work Now Within Reach
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-work-now-within-reach
+
+Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
+
+---
+
+### 9. How GPT-5.6 Sol helps run quantum computing experiments
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/codex-quantum-computing-experiments
+
+See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
+
+---
+
+### 10. Funding grants for new research into AI and teen development
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 08 Sep 2026 09:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/teen-development-research-grants
+
+Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
+
+---
+
+### 11. This AI entrepreneur is developing agents that can plan ahead for the unexpected
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. 
 
 ---
 
-### 2. This founder is teaching chips how to recycle (their energy)
+### 12. This founder is teaching chips how to recycle (their energy)
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ Throughout the history of the computer chip, engineers have treated waste heat a
 
 ---
 
-### 3. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
+### 13. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Supporting independent journalism in Ukraine
+### 14. Supporting independent journalism in Ukraine
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organiza
 
 ---
 
-### 5. An Alien Mind
+### 15. An Alien Mind
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping 
 
 ---
 
-### 6. Research acceleration: The view inside OpenAI
+### 16. Research acceleration: The view inside OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ Inside OpenAI, coding agents are reshaping AI research. Explore early data on ag
 
 ---
 
-### 7. The Download: selling battlefield drone data and AI reshaping language
+### 17. The Download: selling battlefield drone data and AI reshaping language
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Architecting memory and storage in the AI era
+### 18. Architecting memory and storage in the AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ The era of AI inference has arrived. Imagine a healthcare system analyzing milli
 
 ---
 
-### 9. GPT-6 Astra: A new generation of intelligence
+### 19. GPT-6 Astra: A new generation of intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-
 
 ---
 
-### 10. GPT-4
+### 20. GPT-4
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-
 - **Enlace:** https://openai.com/index/gpt-4
 
 It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.
-
----
-
-### 11. Data from drones in Ukraine is fueling a new Wild West marketplace
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 04 Sep 2026 09:25:19 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
-
-Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;
-
----
-
-### 12. The Download: rethinking child safety and fossil-fueled farming
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 03 Sep 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;
-
----
-
-### 13. Playco cut manual fixes 50% prototyping games with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Sep 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/playco-game-prototyping-with-astra
-
-Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
-
----
-
-### 14. Legora reviewed 41 documents in minutes with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Sep 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/legora-financial-statement-review-with-astra
-
-Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
-
----
-
-### 15. Safety overview: GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/safety-overview-gpt-6-astra
-
-GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
-
----
-
-### 16. Daybreak for Frontline Defenders: $1B to protect essential services
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Sep 2026 13:15:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/daybreak-for-frontline-defenders
-
-OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
-
----
-
-### 17. Scaling agentic AI pilots across the enterprise
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 03 Sep 2026 09:30:32 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/
-
-As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;
-
----
-
-### 18. Facilitating AI integration with simplicity at scale
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 02 Sep 2026 14:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/
-
-As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;
-
----
-
-### 19. The Download: AI puzzles and a path to our nearest star system
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 02 Sep 2026 12:10:00 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:ai,machine learning,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;
-
----
-
-### 20. ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 02 Sep 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/atv-big-air-tour
-
-ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
 
 ---
