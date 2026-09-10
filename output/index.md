@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-09 12:05 UTC_
+_Actualizado: 2026-09-10 11:59 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: our 35 Innovators Under 35 this year
+### 1. This road map could help us decide whether to deploy solar geoengineering
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 10 Sep 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/
+
+A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;
+
+---
+
+### 2. Powering AI is an architecture problem
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 10 Sep 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/
+
+On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;
+
+---
+
+### 3. The Download: OpenAI’s turning point for math and a battery record
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 09 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;
+
+---
+
+### 4. Healthcare AI’s next test is integration
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 10 Sep 2026 08:58:01 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/
+
+The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&#8230;
+
+---
+
+### 5. GPT-6 Astra: The next generation in intelligence for work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Sep 2026 11:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gpt-6-astra-next-generation-work
+
+Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.
+
+---
+
+### 6. The AI policy window is open. We need to act.
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Sep 2026 13:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/ai-policy-window
+
+Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
+
+---
+
+### 7. Paul Christiano joins OpenAI Foundation Board
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 09 Sep 2026 17:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/paul-christiano-joins-openai-foundation-board
+
+Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
+
+---
+
+### 8. The Download: our 35 Innovators Under 35 this year
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. What OpenAI’s latest controversy tells us about the future of math
+### 9. What OpenAI’s latest controversy tells us about the future of math
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ OpenAI’s latest mathematical milestone has quickly become mired in controversy
 
 ---
 
-### 3. Batteries just broke another record in the US
+### 10. Batteries just broke another record in the US
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ Battery installations hit a new record in the US in the second quarter of 2026. 
 
 ---
 
-### 4. Introducing ChatGPT Images 2.5
+### 11. Introducing ChatGPT Images 2.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into mo
 
 ---
 
-### 5. 1Password increases engineering productivity 21% with Codex
+### 12. 1Password increases engineering productivity 21% with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ Engineers at 1Password use Codex to rapidly build new features and internal tool
 
 ---
 
-### 6. OpenAI expands initiatives to support journalism from classrooms to newsrooms
+### 13. OpenAI expands initiatives to support journalism from classrooms to newsrooms
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ OpenAI is expanding support for journalism with tools, training, and partnership
 
 ---
 
-### 7. On the Navier–Stokes Millennium Prize Problem
+### 14. On the Navier–Stokes Millennium Prize Problem
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize
 
 ---
 
-### 8. The Work Now Within Reach
+### 15. The Work Now Within Reach
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ Explore how more capable, affordable AI can expand the work people and businesse
 
 ---
 
-### 9. How GPT-5.6 Sol helps run quantum computing experiments
+### 16. How GPT-5.6 Sol helps run quantum computing experiments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantu
 
 ---
 
-### 10. Funding grants for new research into AI and teen development
+### 17. Funding grants for new research into AI and teen development
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +225,7 @@ Apply now for OpenAI’s $5 million grant program supporting independent researc
 
 ---
 
-### 11. This AI entrepreneur is developing agents that can plan ahead for the unexpected
+### 18. This AI entrepreneur is developing agents that can plan ahead for the unexpected
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. 
 
 ---
 
-### 12. This founder is teaching chips how to recycle (their energy)
+### 19. This founder is teaching chips how to recycle (their energy)
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ Throughout the history of the computer chip, engineers have treated waste heat a
 
 ---
 
-### 13. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
+### 20. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -170,96 +261,5 @@ Throughout the history of the computer chip, engineers have treated waste heat a
 - **Enlace:** https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;
-
----
-
-### 14. Supporting independent journalism in Ukraine
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 07 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/supporting-independent-journalism-in-ukraine
-
-OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
-
----
-
-### 15. An Alien Mind
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 06 Sep 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/an-alien-mind
-
-Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.
-
----
-
-### 16. Research acceleration: The view inside OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 06 Sep 2026 08:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/research-acceleration-view-inside-openai
-
-Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.
-
----
-
-### 17. The Download: selling battlefield drone data and AI reshaping language
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 04 Sep 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;
-
----
-
-### 18. Architecting memory and storage in the AI era
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 04 Sep 2026 18:39:19 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/
-
-The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;
-
----
-
-### 19. GPT-6 Astra: A new generation of intelligence
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 03 Sep 2026 11:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:2d
-- **Enlace:** https://openai.com/index/gpt-6-astra
-
-Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
-
----
-
-### 20. GPT-4
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 14 Mar 2023 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:1270d, duplicate
-- **Enlace:** https://openai.com/index/gpt-4
-
-It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.
 
 ---
