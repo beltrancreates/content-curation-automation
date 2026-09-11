@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-10 11:59 UTC_
+_Actualizado: 2026-09-11 11:58 UTC_
 
 ## Selección priorizada
 
-### 1. This road map could help us decide whether to deploy solar geoengineering
+### 1. Meet the under-35s shaping the future of biotech
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 11 Sep 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/
+
+Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;
+
+---
+
+### 2. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 10 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;
+
+---
+
+### 3. Introducing the Agents API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-the-agents-api
+
+Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
+
+---
+
+### 4. Build more natural voice experiences with GPT‑Live‑1 in the API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-gpt-live-1-in-the-api
+
+GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
+
+---
+
+### 5. Expanding AI access and cyber defense for federal, state, local, and tribal governments
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/expanding-ai-access-us-government
+
+OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+
+---
+
+### 6. Introducing ChatGPT for Financial Services
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-financial-services
+
+Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.
+
+---
+
+### 7. Now everyone can put data to work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 15:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/put-data-to-work
+
+Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
+
+---
+
+### 8. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 10 Sep 2026 16:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+
+César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+
+---
+
+### 9. This road map could help us decide whether to deploy solar geoengineering
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +121,7 @@ A San Francisco nonprofit has published a detailed road map of the experiments, 
 
 ---
 
-### 2. Powering AI is an architecture problem
+### 10. Powering AI is an architecture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +134,7 @@ On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of 
 
 ---
 
-### 3. The Download: OpenAI’s turning point for math and a battery record
+### 11. The Download: OpenAI’s turning point for math and a battery record
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Healthcare AI’s next test is integration
+### 12. Healthcare AI’s next test is integration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +160,7 @@ The entrance of major AI companies into healthcare is a meaningful and welcome d
 
 ---
 
-### 5. GPT-6 Astra: The next generation in intelligence for work
+### 13. GPT-6 Astra: The next generation in intelligence for work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +173,7 @@ Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reas
 
 ---
 
-### 6. The AI policy window is open. We need to act.
+### 14. The AI policy window is open. We need to act.
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +186,7 @@ Chris Lehane argues that stronger AI capabilities require stronger safety eviden
 
 ---
 
-### 7. Paul Christiano joins OpenAI Foundation Board
+### 15. Paul Christiano joins OpenAI Foundation Board
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +199,7 @@ Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Co
 
 ---
 
-### 8. The Download: our 35 Innovators Under 35 this year
+### 16. The Download: our 35 Innovators Under 35 this year
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. What OpenAI’s latest controversy tells us about the future of math
+### 17. What OpenAI’s latest controversy tells us about the future of math
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +225,7 @@ OpenAI’s latest mathematical milestone has quickly become mired in controversy
 
 ---
 
-### 10. Batteries just broke another record in the US
+### 18. Batteries just broke another record in the US
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +238,7 @@ Battery installations hit a new record in the US in the second quarter of 2026. 
 
 ---
 
-### 11. Introducing ChatGPT Images 2.5
+### 19. Introducing ChatGPT Images 2.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +251,7 @@ ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into mo
 
 ---
 
-### 12. 1Password increases engineering productivity 21% with Codex
+### 20. 1Password increases engineering productivity 21% with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -157,109 +261,5 @@ ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into mo
 - **Enlace:** https://openai.com/index/1password
 
 Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
-
----
-
-### 13. OpenAI expands initiatives to support journalism from classrooms to newsrooms
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
-
-OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
-
----
-
-### 14. On the Navier–Stokes Millennium Prize Problem
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/navier-stokes-solution
-
-We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
-
----
-
-### 15. The Work Now Within Reach
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 13:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/the-work-now-within-reach
-
-Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
-
----
-
-### 16. How GPT-5.6 Sol helps run quantum computing experiments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/codex-quantum-computing-experiments
-
-See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
-
----
-
-### 17. Funding grants for new research into AI and teen development
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 09:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/teen-development-research-grants
-
-Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
-
----
-
-### 18. This AI entrepreneur is developing agents that can plan ahead for the unexpected
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 08 Sep 2026 10:34:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/
-
-Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;
-
----
-
-### 19. This founder is teaching chips how to recycle (their energy)
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 08 Sep 2026 10:36:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/
-
-Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;
-
----
-
-### 20. The Download: the hunt for underground hydrogen and more rogue OpenAI agents
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 07 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;
 
 ---
