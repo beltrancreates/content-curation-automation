@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-11 11:58 UTC_
+_Actualizado: 2026-09-12 11:25 UTC_
 
 ## Selección priorizada
 
-### 1. Meet the under-35s shaping the future of biotech
+### 1. Introducing ChatGPT Images and GPT‑Image‑1.5
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 16 Dec 2025 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:270d, duplicate
+- **Enlace:** https://openai.com/index/new-chatgpt-images-is-here
+
+This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API. Explore the latest ChatGPT Images 2.5.
+
+---
+
+### 2. The Download: biotech’s future and cheaper, cleaner steel
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 11 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;
+
+---
+
+### 3. Roundtables: AI’s apocalypse crisis
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 11 Sep 2026 20:05:06 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/
+
+Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;
+
+---
+
+### 4. Cognition helps Devin test its own work with GPT‑6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 11 Sep 2026 16:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/cognition-devin-testing-with-astra
+
+GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
+
+---
+
+### 5. Perplexity trusts GPT-6 Astra with end-to-end systems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 14 Sep 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:-2d
+- **Enlace:** https://openai.com/index/perplexity-improving-accuracy-with-astra
+
+Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
+
+---
+
+### 6. Rapidly scaling online storage to serve over 1 billion ChatGPT users
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 11 Sep 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/scaling-storage-one-billion-users-part-one
+
+Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
+
+---
+
+### 7. Meet the under-35s shaping the future of biotech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ Every year, MIT Technology Review puts together a list of some of the brightest 
 
 ---
 
-### 2. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
+### 8. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Introducing the Agents API
+### 9. Introducing the Agents API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +121,7 @@ Build and launch cloud agents with the Agents API, a managed service powered by 
 
 ---
 
-### 4. Build more natural voice experiences with GPT‑Live‑1 in the API
+### 10. Build more natural voice experiences with GPT‑Live‑1 in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +134,7 @@ GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with 
 
 ---
 
-### 5. Expanding AI access and cyber defense for federal, state, local, and tribal governments
+### 11. Expanding AI access and cyber defense for federal, state, local, and tribal governments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 
 ---
 
-### 6. Introducing ChatGPT for Financial Services
+### 12. Introducing ChatGPT for Financial Services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +160,7 @@ Introducing ChatGPT for Financial Services, combining built-in financial data an
 
 ---
 
-### 7. Now everyone can put data to work
+### 13. Now everyone can put data to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and
 
 ---
 
-### 8. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+### 14. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct 
 
 ---
 
-### 9. This road map could help us decide whether to deploy solar geoengineering
+### 15. This road map could help us decide whether to deploy solar geoengineering
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +199,7 @@ A San Francisco nonprofit has published a detailed road map of the experiments, 
 
 ---
 
-### 10. Powering AI is an architecture problem
+### 16. Powering AI is an architecture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +212,7 @@ On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of 
 
 ---
 
-### 11. The Download: OpenAI’s turning point for math and a battery record
+### 17. The Download: OpenAI’s turning point for math and a battery record
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Healthcare AI’s next test is integration
+### 18. Healthcare AI’s next test is integration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ The entrance of major AI companies into healthcare is a meaningful and welcome d
 
 ---
 
-### 13. GPT-6 Astra: The next generation in intelligence for work
+### 19. GPT-6 Astra: The next generation in intelligence for work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reas
 
 ---
 
-### 14. The AI policy window is open. We need to act.
+### 20. The AI policy window is open. We need to act.
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reas
 - **Enlace:** https://openai.com/index/ai-policy-window
 
 Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
-
----
-
-### 15. Paul Christiano joins OpenAI Foundation Board
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Sep 2026 17:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/paul-christiano-joins-openai-foundation-board
-
-Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
-
----
-
-### 16. The Download: our 35 Innovators Under 35 this year
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 08 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;
-
----
-
-### 17. What OpenAI’s latest controversy tells us about the future of math
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 09 Sep 2026 03:10:08 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
-
-OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;
-
----
-
-### 18. Batteries just broke another record in the US
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 09 Sep 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/
-
-Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;
-
----
-
-### 19. Introducing ChatGPT Images 2.5
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 11:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-images-2-5
-
-ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
-
----
-
-### 20. 1Password increases engineering productivity 21% with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/1password
-
-Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
 
 ---
