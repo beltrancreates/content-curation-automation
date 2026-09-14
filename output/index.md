@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-13 12:29 UTC_
+_Actualizado: 2026-09-14 13:33 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing ChatGPT Images and GPT‑Image‑1.5
+### 1. The Download: AI’s real extinction threat and age-reversal tech for eyes
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 14 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;
+
+---
+
+### 2. How Fyxer built an AI executive assistant people trust
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 13 Aug 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:32d
+- **Enlace:** https://openai.com/index/fyxer
+
+Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.
+
+---
+
+### 3. Introducing ChatGPT Images and GPT‑Image‑1.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +43,7 @@ This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image�
 
 ---
 
-### 2. The Download: biotech’s future and cheaper, cleaner steel
+### 4. The Download: biotech’s future and cheaper, cleaner steel
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +56,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Roundtables: AI’s apocalypse crisis
+### 5. Roundtables: AI’s apocalypse crisis
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +69,7 @@ Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real p
 
 ---
 
-### 4. Cognition helps Devin test its own work with GPT‑6 Astra
+### 6. Cognition helps Devin test its own work with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +82,7 @@ GPT‑6 Astra improves Devin’s ability to test software and show that it works
 
 ---
 
-### 5. Perplexity trusts GPT-6 Astra with end-to-end systems
+### 7. Perplexity trusts GPT-6 Astra with end-to-end systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +95,7 @@ Perplexity uses Astra to write communications, change software, and monitor prod
 
 ---
 
-### 6. Rapidly scaling online storage to serve over 1 billion ChatGPT users
+### 8. Rapidly scaling online storage to serve over 1 billion ChatGPT users
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +108,7 @@ Learn how OpenAI evolved Habitat from a Python library into a globally distribut
 
 ---
 
-### 7. Meet the under-35s shaping the future of biotech
+### 9. Meet the under-35s shaping the future of biotech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +121,7 @@ Every year, MIT Technology Review puts together a list of some of the brightest 
 
 ---
 
-### 8. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
+### 10. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. Introducing the Agents API
+### 11. Introducing the Agents API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +147,7 @@ Build and launch cloud agents with the Agents API, a managed service powered by 
 
 ---
 
-### 10. Build more natural voice experiences with GPT‑Live‑1 in the API
+### 12. Build more natural voice experiences with GPT‑Live‑1 in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +160,7 @@ GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with 
 
 ---
 
-### 11. Expanding AI access and cyber defense for federal, state, local, and tribal governments
+### 13. Expanding AI access and cyber defense for federal, state, local, and tribal governments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 
 ---
 
-### 12. Introducing ChatGPT for Financial Services
+### 14. Introducing ChatGPT for Financial Services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ Introducing ChatGPT for Financial Services, combining built-in financial data an
 
 ---
 
-### 13. Now everyone can put data to work
+### 15. Now everyone can put data to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and
 
 ---
 
-### 14. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+### 16. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct 
 
 ---
 
-### 15. This road map could help us decide whether to deploy solar geoengineering
+### 17. This road map could help us decide whether to deploy solar geoengineering
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +225,7 @@ A San Francisco nonprofit has published a detailed road map of the experiments, 
 
 ---
 
-### 16. Powering AI is an architecture problem
+### 18. Powering AI is an architecture problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +238,7 @@ On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of 
 
 ---
 
-### 17. The Download: OpenAI’s turning point for math and a battery record
+### 19. The Download: OpenAI’s turning point for math and a battery record
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 18. Healthcare AI’s next test is integration
+### 20. Healthcare AI’s next test is integration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -235,31 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/
 
 The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&#8230;
-
----
-
-### 19. GPT-6 Astra: The next generation in intelligence for work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Sep 2026 11:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/gpt-6-astra-next-generation-work
-
-Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.
-
----
-
-### 20. The AI policy window is open. We need to act.
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 09 Sep 2026 13:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/ai-policy-window
-
-Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
 
 ---
