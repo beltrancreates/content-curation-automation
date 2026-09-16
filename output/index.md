@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-15 12:24 UTC_
+_Actualizado: 2026-09-16 12:21 UTC_
 
 ## Selección priorizada
 
-### 1. What’s at stake in AI’s trillion-dollar gamble
+### 1. Roundtables: Could AI really kill us all?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 15 Sep 2026 17:47:51 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/
+
+Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;
+
+---
+
+### 2. The Download: AI doomers, whistleblowing agents, and de-aged livers
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 15 Sep 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;
+
+---
+
+### 3. AI models need more data about biology, and OpenAI is paying to create it
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 15 Sep 2026 12:00:00 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:ai,model,safety, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
+
+Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She&#8230;
+
+---
+
+### 4. What’s at stake in AI’s trillion-dollar gamble
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ When Jessica Wachter, a finance professor at the University of Pennsylvania’s 
 
 ---
 
-### 2. AI agents blew the whistle on their cheating colleagues
+### 5. AI agents blew the whistle on their cheating colleagues
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ A group of AI agents asked to solve a series of math problems split into rival f
 
 ---
 
-### 3. The AI industry has taken a doomer turn. What now?
+### 6. The AI industry has taken a doomer turn. What now?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This story appeared in The Algorithm, our weekly newsletter on AI. To get storie
 
 ---
 
-### 4. The Download: AI’s real extinction threat and age-reversal tech for eyes
+### 7. The Download: AI’s real extinction threat and age-reversal tech for eyes
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. How Fyxer built an AI executive assistant people trust
+### 8. How Fyxer built an AI executive assistant people trust
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organiz
 
 ---
 
-### 6. Introducing ChatGPT Images and GPT‑Image‑1.5
+### 9. Introducing ChatGPT Images and GPT‑Image‑1.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image�
 
 ---
 
-### 7. The Download: biotech’s future and cheaper, cleaner steel
+### 10. The Download: biotech’s future and cheaper, cleaner steel
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Roundtables: AI’s apocalypse crisis
+### 11. Roundtables: AI’s apocalypse crisis
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +147,7 @@ Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real p
 
 ---
 
-### 9. Cognition helps Devin test its own work with GPT‑6 Astra
+### 12. Cognition helps Devin test its own work with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ GPT‑6 Astra improves Devin’s ability to test software and show that it works
 
 ---
 
-### 10. Perplexity trusts GPT-6 Astra with end-to-end systems
+### 13. Perplexity trusts GPT-6 Astra with end-to-end systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +173,7 @@ Perplexity uses Astra to write communications, change software, and monitor prod
 
 ---
 
-### 11. Rapidly scaling online storage to serve over 1 billion ChatGPT users
+### 14. Rapidly scaling online storage to serve over 1 billion ChatGPT users
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ Learn how OpenAI evolved Habitat from a Python library into a globally distribut
 
 ---
 
-### 12. Meet the under-35s shaping the future of biotech
+### 15. Meet the under-35s shaping the future of biotech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ Every year, MIT Technology Review puts together a list of some of the brightest 
 
 ---
 
-### 13. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
+### 16. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. Introducing the Agents API
+### 17. Introducing the Agents API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ Build and launch cloud agents with the Agents API, a managed service powered by 
 
 ---
 
-### 15. Build more natural voice experiences with GPT‑Live‑1 in the API
+### 18. Build more natural voice experiences with GPT‑Live‑1 in the API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with 
 
 ---
 
-### 16. Expanding AI access and cyber defense for federal, state, local, and tribal governments
+### 19. Expanding AI access and cyber defense for federal, state, local, and tribal governments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 
 ---
 
-### 17. Introducing ChatGPT for Financial Services
+### 20. Introducing ChatGPT for Financial Services
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -222,44 +261,5 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 - **Enlace:** https://openai.com/index/introducing-chatgpt-financial-services
 
 Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.
-
----
-
-### 18. Now everyone can put data to work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 15:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/put-data-to-work
-
-Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
-
----
-
-### 19. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 16:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
-
-César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
-
----
-
-### 20. This road map could help us decide whether to deploy solar geoengineering
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 10 Sep 2026 11:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/
-
-A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;
 
 ---
