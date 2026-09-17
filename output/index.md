@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-16 12:21 UTC_
+_Actualizado: 2026-09-17 12:21 UTC_
 
 ## Selección priorizada
 
-### 1. Roundtables: Could AI really kill us all?
+### 1. Operation “No Bell”: Coordinated criticism of the US and allies
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell
+
+OpenAI banned accounts linked to a previously unreported, likely Russia-origin operation we dubbed "No Bell", using AI to produce criticism of the US and its allies for audiences across Africa.
+
+---
+
+### 2. Operation “Trolling Stone”: Russia-linked influence activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone
+
+OpenAI banned accounts linked to a previously unreported operation we dubbed "Trolling Stone", using AI to generate comments about an alleged Russian cult leader’s arrest in Argentina.
+
+---
+
+### 3. Operation “Fish Food”: Russia-origin content farm activity
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food
+
+OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia, that used AI to support multilingual influence activity across websites and social platforms.
+
+---
+
+### 4. “Cyber Special Operations”: China-linked influence planning
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations
+
+OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations.
+
+---
+
+### 5. Silver lining playbook: Likely China-origin activity targeting US persons
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:228d
+- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook
+
+OpenAI banned likely China-origin accounts using AI to research US persons, locations, and social-engineering tactics.
+
+---
+
+### 6. How to connect AI usage to business value
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/how-to-connect-ai-usage-to-business-value
+
+Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+
+---
+
+### 7. Reimagining advertising with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/reimagining-advertising-with-ai
+
+Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
+
+---
+
+### 8. Helping older adults use AI in everyday life
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 16:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
+
+OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
+
+---
+
+### 9. Our framework for reporting model misalignment
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/model-misalignment-reporting-framework
+
+OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
+
+---
+
+### 10. How workers are unlocking new ways of working
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 09:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/unlocking-new-ways-of-working
+
+New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
+
+---
+
+### 11. Roundtables: Could AI really kill us all?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Listen to the session or watch below Employees at the world&#8217;s leading AI l
 
 ---
 
-### 2. The Download: AI doomers, whistleblowing agents, and de-aged livers
+### 12. The Download: AI doomers, whistleblowing agents, and de-aged livers
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. AI models need more data about biology, and OpenAI is paying to create it
+### 13. AI models need more data about biology, and OpenAI is paying to create it
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, poste
 
 ---
 
-### 4. What’s at stake in AI’s trillion-dollar gamble
+### 14. What’s at stake in AI’s trillion-dollar gamble
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +186,7 @@ When Jessica Wachter, a finance professor at the University of Pennsylvania’s 
 
 ---
 
-### 5. AI agents blew the whistle on their cheating colleagues
+### 15. AI agents blew the whistle on their cheating colleagues
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +199,7 @@ A group of AI agents asked to solve a series of math problems split into rival f
 
 ---
 
-### 6. The AI industry has taken a doomer turn. What now?
+### 16. The AI industry has taken a doomer turn. What now?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This story appeared in The Algorithm, our weekly newsletter on AI. To get storie
 
 ---
 
-### 7. The Download: AI’s real extinction threat and age-reversal tech for eyes
+### 17. The Download: AI’s real extinction threat and age-reversal tech for eyes
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. How Fyxer built an AI executive assistant people trust
+### 18. How Fyxer built an AI executive assistant people trust
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organiz
 
 ---
 
-### 9. Introducing ChatGPT Images and GPT‑Image‑1.5
+### 19. Introducing ChatGPT Images and GPT‑Image‑1.5
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image�
 
 ---
 
-### 10. The Download: biotech’s future and cheaper, cleaner steel
+### 20. The Download: biotech’s future and cheaper, cleaner steel
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -131,135 +261,5 @@ This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image�
 - **Enlace:** https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;
-
----
-
-### 11. Roundtables: AI’s apocalypse crisis
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 11 Sep 2026 20:05:06 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/
-
-Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;
-
----
-
-### 12. Cognition helps Devin test its own work with GPT‑6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Sep 2026 16:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/cognition-devin-testing-with-astra
-
-GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
-
----
-
-### 13. Perplexity trusts GPT-6 Astra with end-to-end systems
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 14 Sep 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:-2d
-- **Enlace:** https://openai.com/index/perplexity-improving-accuracy-with-astra
-
-Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
-
----
-
-### 14. Rapidly scaling online storage to serve over 1 billion ChatGPT users
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 11 Sep 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/scaling-storage-one-billion-users-part-one
-
-Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
-
----
-
-### 15. Meet the under-35s shaping the future of biotech
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 11 Sep 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/
-
-Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;
-
----
-
-### 16. The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 10 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;
-
----
-
-### 17. Introducing the Agents API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-the-agents-api
-
-Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
-
----
-
-### 18. Build more natural voice experiences with GPT‑Live‑1 in the API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-gpt-live-1-in-the-api
-
-GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
-
----
-
-### 19. Expanding AI access and cyber defense for federal, state, local, and tribal governments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/expanding-ai-access-us-government
-
-OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
-
----
-
-### 20. Introducing ChatGPT for Financial Services
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 10 Sep 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-financial-services
-
-Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.
 
 ---
