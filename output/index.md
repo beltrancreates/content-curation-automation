@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-18 12:00 UTC_
+_Actualizado: 2026-09-19 11:44 UTC_
 
 ## Selección priorizada
 
-### 1. Meet the innovators under 35 shaping climate tech
+### 1. The Download: AI’s extinction risk and bioweapons threat
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 18 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;
+
+---
+
+### 2. The specter of AI-enabled bioweapons is a wake-up call for biotech
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 18 Sep 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/
+
+In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;
+
+---
+
+### 3. Could AI really kill us all? Your questions, answered.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 18 Sep 2026 11:29:22 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/
+
+On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;
+
+---
+
+### 4. The Download: mice with part-human brains and climate tech innovators
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 17 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;
+
+---
+
+### 5. Hex turns complex analysis into visual reports with GPT‑6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 16 Sep 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:2d
+- **Enlace:** https://openai.com/index/hex-gpt-6-astra
+
+GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.
+
+---
+
+### 6. Introducing the Australian Youth Safety Blueprint
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 18 Sep 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/australian-youth-safety-blueprint
+
+OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.
+
+---
+
+### 7. Meet the innovators under 35 shaping climate tech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ Each year, the editorial team at MIT Technology Review puts together a list of 3
 
 ---
 
-### 2. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
+### 8. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Building the materials foundation for AI
+### 9. Building the materials foundation for AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ The AI boom is becoming a materials challenge. As AI pushes computing into new t
 
 ---
 
-### 4. Meet a mouse whose brain cortex is made up of human cells
+### 10. Meet a mouse whose brain cortex is made up of human cells
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ Multiple cameras tracked a mouse as it wandered around a small arena. A computer
 
 ---
 
-### 5. Disrupting a Cambodia-based criminal scam operation
+### 11. Disrupting a Cambodia-based criminal scam operation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support invest
 
 ---
 
-### 6. How Cooley is accelerating IPO work with ChatGPT
+### 12. How Cooley is accelerating IPO work with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +160,7 @@ Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO proces
 
 ---
 
-### 7. Romance scams: AI-enabled romance scam workflows
+### 13. Romance scams: AI-enabled romance scam workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ OpenAI banned accounts using AI to support romance scam workflows, including out
 
 ---
 
-### 8. Operation “False Witness”: Fake recovery service impersonating authorities
+### 14. Operation “False Witness”: Fake recovery service impersonating authorities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ OpenAI banned accounts that very likely originated in Cambodia and used AI to po
 
 ---
 
-### 9. Operation “Date Bait”: AI-enabled scam targeting loveseekers
+### 15. Operation “Date Bait”: AI-enabled scam targeting loveseekers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ OpenAI banned accounts that very likely originated in Cambodia and used AI for s
 
 ---
 
-### 10. Introducing Astra for Law
+### 16. Introducing Astra for Law
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ OpenAI for Law brings frontier intelligence for law, custom firm workflows, conn
 
 ---
 
-### 11. Operation “No Bell”: Coordinated criticism of the US and allies
+### 17. Operation “No Bell”: Coordinated criticism of the US and allies
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +225,7 @@ OpenAI banned accounts linked to a previously unreported, likely Russia-origin o
 
 ---
 
-### 12. Operation “Trolling Stone”: Russia-linked influence activity
+### 18. Operation “Trolling Stone”: Russia-linked influence activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +238,7 @@ OpenAI banned accounts linked to a previously unreported operation we dubbed "Tr
 
 ---
 
-### 13. Operation “Fish Food”: Russia-origin content farm activity
+### 19. Operation “Fish Food”: Russia-origin content farm activity
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ OpenAI banned accounts linked to the Rybar network, some of which likely origina
 
 ---
 
-### 14. “Cyber Special Operations”: China-linked influence planning
+### 20. “Cyber Special Operations”: China-linked influence planning
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ OpenAI banned accounts linked to the Rybar network, some of which likely origina
 - **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations
 
 OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations.
-
----
-
-### 15. Silver lining playbook: Likely China-origin activity targeting US persons
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook
-
-OpenAI banned likely China-origin accounts using AI to research US persons, locations, and social-engineering tactics.
-
----
-
-### 16. How to connect AI usage to business value
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 Sep 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/how-to-connect-ai-usage-to-business-value
-
-Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
-
----
-
-### 17. Reimagining advertising with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 Sep 2026 13:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/reimagining-advertising-with-ai
-
-Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
-
----
-
-### 18. Helping older adults use AI in everyday life
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 Sep 2026 16:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
-
-OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
-
----
-
-### 19. Our framework for reporting model misalignment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 Sep 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/model-misalignment-reporting-framework
-
-OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
-
----
-
-### 20. How workers are unlocking new ways of working
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 16 Sep 2026 09:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/unlocking-new-ways-of-working
-
-New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
 
 ---
