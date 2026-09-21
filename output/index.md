@@ -1,10 +1,75 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-20 11:57 UTC_
+_Actualizado: 2026-09-21 13:32 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: AI’s extinction risk and bioweapons threat
+### 1. She died at the San Diego border. A surveillance camera was in plain sight
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 21 Sep 2026 12:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/
+
+She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;
+
+---
+
+### 2. The US spent billions on border surveillance. Why can’t it catch people before they die?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 21 Sep 2026 12:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/
+
+When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;
+
+---
+
+### 3. 4 ways to address the failures we found along the US border’s “virtual wall”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 21 Sep 2026 12:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/
+
+MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;
+
+---
+
+### 4. The Download: investigating deaths at the US border’s “virtual wall”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 21 Sep 2026 12:20:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;
+
+---
+
+### 5. How V7 gives AI agents institutional memory
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/v7
+
+Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
+
+---
+
+### 6. The Download: AI’s extinction risk and bioweapons threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. The specter of AI-enabled bioweapons is a wake-up call for biotech
+### 7. The specter of AI-enabled bioweapons is a wake-up call for biotech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +95,7 @@ In recent weeks, leaders of some of the biggest AI companies have warned that th
 
 ---
 
-### 3. Could AI really kill us all? Your questions, answered.
+### 8. Could AI really kill us all? Your questions, answered.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +108,7 @@ On Wednesday, MIT Technology Review hosted a live Roundtables event for subscrib
 
 ---
 
-### 4. The Download: mice with part-human brains and climate tech innovators
+### 9. The Download: mice with part-human brains and climate tech innovators
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. Hex turns complex analysis into visual reports with GPT‑6 Astra
+### 10. Hex turns complex analysis into visual reports with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +134,7 @@ GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizatio
 
 ---
 
-### 6. Introducing the Australian Youth Safety Blueprint
+### 11. Introducing the Australian Youth Safety Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +147,7 @@ OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap fo
 
 ---
 
-### 7. Meet the innovators under 35 shaping climate tech
+### 12. Meet the innovators under 35 shaping climate tech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +160,7 @@ Each year, the editorial team at MIT Technology Review puts together a list of 3
 
 ---
 
-### 8. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
+### 13. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. Building the materials foundation for AI
+### 14. Building the materials foundation for AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +186,7 @@ The AI boom is becoming a materials challenge. As AI pushes computing into new t
 
 ---
 
-### 10. Meet a mouse whose brain cortex is made up of human cells
+### 15. Meet a mouse whose brain cortex is made up of human cells
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +199,7 @@ Multiple cameras tracked a mouse as it wandered around a small arena. A computer
 
 ---
 
-### 11. Disrupting a Cambodia-based criminal scam operation
+### 16. Disrupting a Cambodia-based criminal scam operation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +212,7 @@ OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support invest
 
 ---
 
-### 12. How Cooley is accelerating IPO work with ChatGPT
+### 17. How Cooley is accelerating IPO work with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +225,7 @@ Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO proces
 
 ---
 
-### 13. Romance scams: AI-enabled romance scam workflows
+### 18. Romance scams: AI-enabled romance scam workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +238,7 @@ OpenAI banned accounts using AI to support romance scam workflows, including out
 
 ---
 
-### 14. Operation “False Witness”: Fake recovery service impersonating authorities
+### 19. Operation “False Witness”: Fake recovery service impersonating authorities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +251,7 @@ OpenAI banned accounts that very likely originated in Cambodia and used AI to po
 
 ---
 
-### 15. Operation “Date Bait”: AI-enabled scam targeting loveseekers
+### 20. Operation “Date Bait”: AI-enabled scam targeting loveseekers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -196,70 +261,5 @@ OpenAI banned accounts that very likely originated in Cambodia and used AI to po
 - **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait
 
 OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to Indonesian loveseekers, including translation and engagement.
-
----
-
-### 16. Introducing Astra for Law
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 17 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/astra-for-law
-
-OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.
-
----
-
-### 17. Operation “No Bell”: Coordinated criticism of the US and allies
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell
-
-OpenAI banned accounts linked to a previously unreported, likely Russia-origin operation we dubbed "No Bell", using AI to produce criticism of the US and its allies for audiences across Africa.
-
----
-
-### 18. Operation “Trolling Stone”: Russia-linked influence activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone
-
-OpenAI banned accounts linked to a previously unreported operation we dubbed "Trolling Stone", using AI to generate comments about an alleged Russian cult leader’s arrest in Argentina.
-
----
-
-### 19. Operation “Fish Food”: Russia-origin content farm activity
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food
-
-OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia, that used AI to support multilingual influence activity across websites and social platforms.
-
----
-
-### 20. “Cyber Special Operations”: China-linked influence planning
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations
-
-OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations.
 
 ---
