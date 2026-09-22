@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-21 13:32 UTC_
+_Actualizado: 2026-09-22 12:16 UTC_
 
 ## Selección priorizada
 
-### 1. She died at the San Diego border. A surveillance camera was in plain sight
+### 1. Don’t be fooled by this summer of AI hype
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 22 Sep 2026 11:04:51 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
+
+It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;
+
+---
+
+### 2. The Download: why AI’s latest breakthroughs and fears may be more hype than reality
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 22 Sep 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;
+
+---
+
+### 3. Expanding OpenAI Academy with new learning paths
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+
+Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.
+
+---
+
+### 4. Higgsfield AI ships new video features in a day with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+
+With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.
+
+---
+
+### 5. Building standards for the next phase of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 10:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/building-standards-next-phase-ai
+
+OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.
+
+---
+
+### 6. Advisory Group on Mathematics and Artificial Intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:artificial intelligence,ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/advisory-group-on-mathematics-and-ai
+
+OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
+
+---
+
+### 7. She died at the San Diego border. A surveillance camera was in plain sight
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ She had only walked for a couple of hours, and already she was lost.&#160; It wa
 
 ---
 
-### 2. The US spent billions on border surveillance. Why can’t it catch people before they die?
+### 8. The US spent billions on border surveillance. Why can’t it catch people before they die?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ When José Morales Bernal crossed the border into the United States on April 8, 
 
 ---
 
-### 3. 4 ways to address the failures we found along the US border’s “virtual wall”
+### 9. 4 ways to address the failures we found along the US border’s “virtual wall”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ MIT Technology Review today published our investigation into how many people hav
 
 ---
 
-### 4. The Download: investigating deaths at the US border’s “virtual wall”
+### 10. The Download: investigating deaths at the US border’s “virtual wall”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. How V7 gives AI agents institutional memory
+### 11. How V7 gives AI agents institutional memory
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ Using GPT-5.6, V7 turns scattered company files into context agents can use to c
 
 ---
 
-### 6. The Download: AI’s extinction risk and bioweapons threat
+### 12. The Download: AI’s extinction risk and bioweapons threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The specter of AI-enabled bioweapons is a wake-up call for biotech
+### 13. The specter of AI-enabled bioweapons is a wake-up call for biotech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +173,7 @@ In recent weeks, leaders of some of the biggest AI companies have warned that th
 
 ---
 
-### 8. Could AI really kill us all? Your questions, answered.
+### 14. Could AI really kill us all? Your questions, answered.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +186,7 @@ On Wednesday, MIT Technology Review hosted a live Roundtables event for subscrib
 
 ---
 
-### 9. The Download: mice with part-human brains and climate tech innovators
+### 15. The Download: mice with part-human brains and climate tech innovators
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. Hex turns complex analysis into visual reports with GPT‑6 Astra
+### 16. Hex turns complex analysis into visual reports with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizatio
 
 ---
 
-### 11. Introducing the Australian Youth Safety Blueprint
+### 17. Introducing the Australian Youth Safety Blueprint
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +225,7 @@ OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap fo
 
 ---
 
-### 12. Meet the innovators under 35 shaping climate tech
+### 18. Meet the innovators under 35 shaping climate tech
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ Each year, the editorial team at MIT Technology Review puts together a list of 3
 
 ---
 
-### 13. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
+### 19. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. Building the materials foundation for AI
+### 20. Building the materials foundation for AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -183,83 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/
 
 The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;
-
----
-
-### 15. Meet a mouse whose brain cortex is made up of human cells
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 16 Sep 2026 15:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/
-
-Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;
-
----
-
-### 16. Disrupting a Cambodia-based criminal scam operation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 31 Jul 2026 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:48d, duplicate
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
-
-OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
-
----
-
-### 17. How Cooley is accelerating IPO work with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 17 Sep 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/cooley-gopublic
-
-Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
-
----
-
-### 18. Romance scams: AI-enabled romance scam workflows
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam
-
-OpenAI banned accounts using AI to support romance scam workflows, including outreach, translation, victim engagement, and investment-fraud lures.
-
----
-
-### 19. Operation “False Witness”: Fake recovery service impersonating authorities
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness
-
-OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery services, law firms, and authorities targeting people affected by fraud.
-
----
-
-### 20. Operation “Date Bait”: AI-enabled scam targeting loveseekers
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 01 Feb 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:228d
-- **Enlace:** https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait
-
-OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to Indonesian loveseekers, including translation and engagement.
 
 ---
