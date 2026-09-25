@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-24 12:28 UTC_
+_Actualizado: 2026-09-25 12:29 UTC_
 
 ## Selección priorizada
 
-### 1. AI is dominating the conversation at Climate Week
+### 1. Young organs may not be a fountain of youth for recipients
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 25 Sep 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/
+
+Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;
+
+---
+
+### 2. The Download: a bid to scrap the virtual wall and AI hits Climate Week
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 24 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;
+
+---
+
+### 3. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 21 Sep 2026 00:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:4d, duplicate
+- **Enlace:** https://openai.com/index/v7
+
+Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
+
+---
+
+### 4. The Pentagon wants $30 million to build an AI-powered lie detector
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 25 Sep 2026 09:16:25 +0000
+- **Score:** 10.4
+- **Razones:** keyword_hits:artificial intelligence,ai,machine learning, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
+
+The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;
+
+---
+
+### 5. AI is dominating the conversation at Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This week, world leaders descended on Manhattan for the UN General Assembly. It�
 
 ---
 
-### 2. The AI Hype Index: AI loves cheating
+### 6. The AI Hype Index: AI loves cheating
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agen
 
 ---
 
-### 3. How invideo improves color grading 3x with GPT‑6 Astra
+### 7. How invideo improves color grading 3x with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ With GPT‑6 Astra, invideo plans edits with greater precision, improves color c
 
 ---
 
-### 4. Harvey turns legal context into stronger drafts with GPT-6 Astra
+### 8. Harvey turns legal context into stronger drafts with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ GPT-6 Astra produces more structured, context-aware legal documents, freeing law
 
 ---
 
-### 5. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
+### 9. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models t
 
 ---
 
-### 6. ChatGPT Ads expands to Southeast Asia and Taiwan
+### 10. ChatGPT Ads expands to Southeast Asia and Taiwan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesse
 
 ---
 
-### 7. Introducing MentalHealthBench
+### 11. Introducing MentalHealthBench
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ MentalHealthBench is an expert-informed benchmark for evaluating helpful and saf
 
 ---
 
-### 8. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+### 12. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +160,7 @@ Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, an
 
 ---
 
-### 9. Two years of OpenAI Academy
+### 13. Two years of OpenAI Academy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ Marking two years of OpenAI Academy and bringing AI skills to even more communit
 
 ---
 
-### 10. Sam Altman’s remarks at the United Nations Security Council
+### 14. Sam Altman’s remarks at the United Nations Security Council
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ OpenAI CEO Sam Altman discusses AI safety, human control, and international coop
 
 ---
 
-### 11. Roundtables: The Deadly Failures of The Virtual Border Wall
+### 15. Roundtables: The Deadly Failures of The Virtual Border Wall
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +199,7 @@ The US has spent billions building a “virtual wall” of surveillance towers a
 
 ---
 
-### 12. Smart glasses are already causing havoc in India
+### 16. Smart glasses are already causing havoc in India
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +212,7 @@ Shubnam was packing boxes for a move into a new home when their friend sent them
 
 ---
 
-### 13. The Download: India’s smart glasses menace and AI’s trillion-dollar gamble
+### 17. The Download: India’s smart glasses menace and AI’s trillion-dollar gamble
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. Introducing GPT-6 Sol and Luna
+### 18. Introducing GPT-6 Sol and Luna
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday
 
 ---
 
-### 15. Better prompt caching for GPT-6
+### 19. Better prompt caching for GPT-6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnos
 
 ---
 
-### 16. Parallel cut research time and cost in half with GPT‑6 Astra
+### 20. Parallel cut research time and cost in half with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnos
 - **Enlace:** https://openai.com/index/parallel-cuts-time-and-cost-with-astra
 
 GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.
-
----
-
-### 17. Grab and OpenAI bring practical AI skills to Southeast Asia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/grab-openai-ai-skills-southeast-asia
-
-OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.
-
----
-
-### 18. OpenAI extends cyber access to Ukraine for civilian defense
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 13:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:-1d
-- **Enlace:** https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
-
-OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
-
----
-
-### 19. Priorities and principles for effective third party assessments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Sep 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/priorities-principles-third-party-assessments
-
-OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
-
----
-
-### 20. Don’t be fooled by this summer of AI hype
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 22 Sep 2026 11:04:51 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
-
-It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;
 
 ---
