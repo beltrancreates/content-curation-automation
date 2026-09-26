@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-25 12:29 UTC_
+_Actualizado: 2026-09-26 12:00 UTC_
 
 ## Selección priorizada
 
-### 1. Young organs may not be a fountain of youth for recipients
+### 1. The Download: the Pentagon’s AI-powered lie detector and young organ limits
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 25 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;
+
+---
+
+### 2. Asana completed a years-long code migration in 2 weeks with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 18 Aug 2026 07:00:00 GMT
+- **Score:** 7.699999999999999
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:39d, duplicate
+- **Enlace:** https://openai.com/index/asana
+
+Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.
+
+---
+
+### 3. Proaction boosts sales 60% and saves 75+ hours with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 25 Sep 2026 19:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/proaction
+
+With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.
+
+---
+
+### 4. Young organs may not be a fountain of youth for recipients
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ Around this time last year I was attending an aging conference in Manchester, li
 
 ---
 
-### 2. The Download: a bid to scrap the virtual wall and AI hits Climate Week
+### 5. The Download: a bid to scrap the virtual wall and AI hits Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
+### 6. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +82,7 @@ Using GPT-5.6, V7 turns scattered company files into context agents can use to c
 
 ---
 
-### 4. The Pentagon wants $30 million to build an AI-powered lie detector
+### 7. The Pentagon wants $30 million to build an AI-powered lie detector
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ The US government wants to spend $30.3 million over the next five years on an im
 
 ---
 
-### 5. AI is dominating the conversation at Climate Week
+### 8. AI is dominating the conversation at Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +108,7 @@ This week, world leaders descended on Manhattan for the UN General Assembly. It�
 
 ---
 
-### 6. The AI Hype Index: AI loves cheating
+### 9. The AI Hype Index: AI loves cheating
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +121,7 @@ Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agen
 
 ---
 
-### 7. How invideo improves color grading 3x with GPT‑6 Astra
+### 10. How invideo improves color grading 3x with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ With GPT‑6 Astra, invideo plans edits with greater precision, improves color c
 
 ---
 
-### 8. Harvey turns legal context into stronger drafts with GPT-6 Astra
+### 11. Harvey turns legal context into stronger drafts with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ GPT-6 Astra produces more structured, context-aware legal documents, freeing law
 
 ---
 
-### 9. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
+### 12. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models t
 
 ---
 
-### 10. ChatGPT Ads expands to Southeast Asia and Taiwan
+### 13. ChatGPT Ads expands to Southeast Asia and Taiwan
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +173,7 @@ ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesse
 
 ---
 
-### 11. Introducing MentalHealthBench
+### 14. Introducing MentalHealthBench
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ MentalHealthBench is an expert-informed benchmark for evaluating helpful and saf
 
 ---
 
-### 12. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+### 15. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +199,7 @@ Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, an
 
 ---
 
-### 13. Two years of OpenAI Academy
+### 16. Two years of OpenAI Academy
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ Marking two years of OpenAI Academy and bringing AI skills to even more communit
 
 ---
 
-### 14. Sam Altman’s remarks at the United Nations Security Council
+### 17. Sam Altman’s remarks at the United Nations Security Council
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ OpenAI CEO Sam Altman discusses AI safety, human control, and international coop
 
 ---
 
-### 15. Roundtables: The Deadly Failures of The Virtual Border Wall
+### 18. Roundtables: The Deadly Failures of The Virtual Border Wall
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +238,7 @@ The US has spent billions building a “virtual wall” of surveillance towers a
 
 ---
 
-### 16. Smart glasses are already causing havoc in India
+### 19. Smart glasses are already causing havoc in India
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +251,7 @@ Shubnam was packing boxes for a move into a new home when their friend sent them
 
 ---
 
-### 17. The Download: India’s smart glasses menace and AI’s trillion-dollar gamble
+### 20. The Download: India’s smart glasses menace and AI’s trillion-dollar gamble
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ Shubnam was packing boxes for a move into a new home when their friend sent them
 - **Enlace:** https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;
-
----
-
-### 18. Introducing GPT-6 Sol and Luna
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Sep 2026 18:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-gpt-6-sol-and-luna
-
-Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
-
----
-
-### 19. Better prompt caching for GPT-6
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Sep 2026 21:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/better-prompt-caching-for-gpt-6
-
-Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
-
----
-
-### 20. Parallel cut research time and cost in half with GPT‑6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 22 Sep 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/parallel-cuts-time-and-cost-with-astra
-
-GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.
 
 ---
