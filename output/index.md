@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-28 14:51 UTC_
+_Actualizado: 2026-09-29 13:40 UTC_
 
 ## Selección priorizada
 
-### 1. Who’s liable when AI agents go rogue?
+### 1. When can we say AI made a scientific discovery?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 28 Sep 2026 17:03:16 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;
+
+---
+
+### 2. The Download: climate tech companies to watch and AI’s discovery problem
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 29 Sep 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;
+
+---
+
+### 3. Making AI an asset, not an expense
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 29 Sep 2026 10:43:45 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
+
+When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;
+
+---
+
+### 4. Basis completes a tax workbook 2x faster with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Sep 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/basis-tax-workbook-with-astra
+
+GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.
+
+---
+
+### 5. Are you a Codex Original?
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/form/codex-originals
+
+We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.
+
+---
+
+### 6. The Lenfest Institute grows landmark program with expanded OpenAI support
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Sep 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/lenfest-ai-collaborative-expansion
+
+OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.
+
+---
+
+### 7. How we will do better for Australia
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Sep 2026 19:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/how-we-will-do-better-for-australia
+
+OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+
+---
+
+### 8. Towards safety cases for frontier AI training
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 28 Sep 2026 19:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+
+Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
+
+---
+
+### 9. Who’s liable when AI agents go rogue?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +121,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 2. The Download: rogue agent liability and the AI Hype Index
+### 10. The Download: rogue agent liability and the AI Hype Index
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that pro
 
 ---
 
-### 3. The Download: the Pentagon’s AI-powered lie detector and young organ limits
+### 11. The Download: the Pentagon’s AI-powered lie detector and young organ limits
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Asana completed a years-long code migration in 2 weeks with Codex
+### 12. Asana completed a years-long code migration in 2 weeks with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +160,7 @@ Asana used OpenAI Codex to replace an outdated testing system in two weeks, with
 
 ---
 
-### 5. Proaction boosts sales 60% and saves 75+ hours with Codex
+### 13. Proaction boosts sales 60% and saves 75+ hours with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +173,7 @@ With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells m
 
 ---
 
-### 6. Young organs may not be a fountain of youth for recipients
+### 14. Young organs may not be a fountain of youth for recipients
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +186,7 @@ Around this time last year I was attending an aging conference in Manchester, li
 
 ---
 
-### 7. The Download: a bid to scrap the virtual wall and AI hits Climate Week
+### 15. The Download: a bid to scrap the virtual wall and AI hits Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
+### 16. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +212,7 @@ Using GPT-5.6, V7 turns scattered company files into context agents can use to c
 
 ---
 
-### 9. The Pentagon wants $30 million to build an AI-powered lie detector
+### 17. The Pentagon wants $30 million to build an AI-powered lie detector
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +225,7 @@ The US government wants to spend $30.3 million over the next five years on an im
 
 ---
 
-### 10. AI is dominating the conversation at Climate Week
+### 18. AI is dominating the conversation at Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +238,7 @@ This week, world leaders descended on Manhattan for the UN General Assembly. It�
 
 ---
 
-### 11. The AI Hype Index: AI loves cheating
+### 19. The AI Hype Index: AI loves cheating
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +251,7 @@ Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agen
 
 ---
 
-### 12. How invideo improves color grading 3x with GPT‑6 Astra
+### 20. How invideo improves color grading 3x with GPT‑6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -157,109 +261,5 @@ Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agen
 - **Enlace:** https://openai.com/index/invideo-builds-with-gpt-6-astra
 
 With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.
-
----
-
-### 13. Harvey turns legal context into stronger drafts with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/harvey-from-context-to-confidence-with-astra
-
-GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.
-
----
-
-### 14. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 01:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/airbnb-gpt-6-astra
-
-Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.
-
----
-
-### 15. ChatGPT Ads expands to Southeast Asia and Taiwan
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 02:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan
-
-ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.
-
----
-
-### 16. Introducing MentalHealthBench
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-mentalhealthbench
-
-MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.
-
----
-
-### 17. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ringg
-
-Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
-
----
-
-### 18. Two years of OpenAI Academy
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 16:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/two-years-of-openai-academy
-
-Marking two years of OpenAI Academy and bringing AI skills to even more communities.
-
----
-
-### 19. Sam Altman’s remarks at the United Nations Security Council
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 12:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/sam-altman-un-security-council-remarks
-
-OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
-
----
-
-### 20. Roundtables: The Deadly Failures of The Virtual Border Wall
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 22 Sep 2026 13:42:05 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/
-
-The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;
 
 ---
