@@ -1,10 +1,75 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-29 13:40 UTC_
+_Actualizado: 2026-09-30 13:14 UTC_
 
 ## Selección priorizada
 
-### 1. When can we say AI made a scientific discovery?
+### 1. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 30 Sep 2026 10:40:30 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
+
+Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;
+
+---
+
+### 2. The Download: OpenAI’s chief research officer explains its hacking response
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 30 Sep 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;
+
+---
+
+### 3. Introducing GPT-6.1 Sol
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 29 Sep 2026 10:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-gpt-6-1-sol
+
+Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
+
+---
+
+### 4. Introducing dots
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 29 Sep 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-dots
+
+Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
+
+---
+
+### 5. DevDay 2026 Recap
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 29 Sep 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/devday-2026-recap
+
+Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
+
+---
+
+### 6. When can we say AI made a scientific discovery?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +82,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 2. The Download: climate tech companies to watch and AI’s discovery problem
+### 7. The Download: climate tech companies to watch and AI’s discovery problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Making AI an asset, not an expense
+### 8. Making AI an asset, not an expense
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +108,7 @@ When customers talk about AI costs, the conversation usually starts with token p
 
 ---
 
-### 4. Basis completes a tax workbook 2x faster with GPT-6 Astra
+### 9. Basis completes a tax workbook 2x faster with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +121,7 @@ GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and it
 
 ---
 
-### 5. Are you a Codex Original?
+### 10. Are you a Codex Original?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +134,7 @@ We’re collecting real stories of builders, tinkerers, researchers, and creator
 
 ---
 
-### 6. The Lenfest Institute grows landmark program with expanded OpenAI support
+### 11. The Lenfest Institute grows landmark program with expanded OpenAI support
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +147,7 @@ OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 
 
 ---
 
-### 7. How we will do better for Australia
+### 12. How we will do better for Australia
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +160,7 @@ OpenAI apologises for incidents involving Australian government websites and out
 
 ---
 
-### 8. Towards safety cases for frontier AI training
+### 13. Towards safety cases for frontier AI training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +173,7 @@ Our early guidelines for safety cases in frontier AI training cover technical sa
 
 ---
 
-### 9. Who’s liable when AI agents go rogue?
+### 14. Who’s liable when AI agents go rogue?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +186,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 10. The Download: rogue agent liability and the AI Hype Index
+### 15. The Download: rogue agent liability and the AI Hype Index
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that pro
 
 ---
 
-### 11. The Download: the Pentagon’s AI-powered lie detector and young organ limits
+### 16. The Download: the Pentagon’s AI-powered lie detector and young organ limits
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Asana completed a years-long code migration in 2 weeks with Codex
+### 17. Asana completed a years-long code migration in 2 weeks with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +225,7 @@ Asana used OpenAI Codex to replace an outdated testing system in two weeks, with
 
 ---
 
-### 13. Proaction boosts sales 60% and saves 75+ hours with Codex
+### 18. Proaction boosts sales 60% and saves 75+ hours with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +238,7 @@ With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells m
 
 ---
 
-### 14. Young organs may not be a fountain of youth for recipients
+### 19. Young organs may not be a fountain of youth for recipients
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +251,7 @@ Around this time last year I was attending an aging conference in Manchester, li
 
 ---
 
-### 15. The Download: a bid to scrap the virtual wall and AI hits Climate Week
+### 20. The Download: a bid to scrap the virtual wall and AI hits Climate Week
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -196,70 +261,5 @@ Around this time last year I was attending an aging conference in Manchester, li
 - **Enlace:** https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;
-
----
-
-### 16. V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 21 Sep 2026 00:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:4d, duplicate
-- **Enlace:** https://openai.com/index/v7
-
-Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
-
----
-
-### 17. The Pentagon wants $30 million to build an AI-powered lie detector
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 25 Sep 2026 09:16:25 +0000
-- **Score:** 10.4
-- **Razones:** keyword_hits:artificial intelligence,ai,machine learning, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
-
-The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;
-
----
-
-### 18. AI is dominating the conversation at Climate Week
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 24 Sep 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/
-
-This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;
-
----
-
-### 19. The AI Hype Index: AI loves cheating
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 23 Sep 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/
-
-Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;
-
----
-
-### 20. How invideo improves color grading 3x with GPT‑6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 23 Sep 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/invideo-builds-with-gpt-6-astra
-
-With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.
 
 ---
