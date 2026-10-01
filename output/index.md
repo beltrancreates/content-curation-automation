@@ -1,10 +1,75 @@
 # Curación de contenidos
 
-_Actualizado: 2026-09-30 13:14 UTC_
+_Actualizado: 2026-10-01 14:05 UTC_
 
 ## Selección priorizada
 
-### 1. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
+### 1. How smaller, distributed batteries could help the grid
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 01 Oct 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:regulation, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/
+
+If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;
+
+---
+
+### 2. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 01 Oct 2026 10:32:24 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
+
+A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what&#8230;
+
+---
+
+### 3. The Download: AI “mind-reading” and creative uses for small batteries
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 01 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;
+
+---
+
+### 4. Helping small businesses put AI to work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 Sep 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/helping-small-businesses-put-ai-to-work
+
+OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
+
+---
+
+### 5. Disrupting a coordinated model-distillation campaign
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 30 Sep 2026 10:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+
+Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
+
+---
+
+### 6. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +82,7 @@ Two months after the bombshell news that a swarm of its agents had broken their 
 
 ---
 
-### 2. The Download: OpenAI’s chief research officer explains its hacking response
+### 7. The Download: OpenAI’s chief research officer explains its hacking response
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Introducing GPT-6.1 Sol
+### 8. Introducing GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +108,7 @@ Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professi
 
 ---
 
-### 4. Introducing dots
+### 9. Introducing dots
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +121,7 @@ Dots by OpenAI are proactive assistants that can keep working across complex pro
 
 ---
 
-### 5. DevDay 2026 Recap
+### 10. DevDay 2026 Recap
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +134,7 @@ Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr
 
 ---
 
-### 6. When can we say AI made a scientific discovery?
+### 11. When can we say AI made a scientific discovery?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +147,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 7. The Download: climate tech companies to watch and AI’s discovery problem
+### 12. The Download: climate tech companies to watch and AI’s discovery problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Making AI an asset, not an expense
+### 13. Making AI an asset, not an expense
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +173,7 @@ When customers talk about AI costs, the conversation usually starts with token p
 
 ---
 
-### 9. Basis completes a tax workbook 2x faster with GPT-6 Astra
+### 14. Basis completes a tax workbook 2x faster with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +186,7 @@ GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and it
 
 ---
 
-### 10. Are you a Codex Original?
+### 15. Are you a Codex Original?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +199,7 @@ We’re collecting real stories of builders, tinkerers, researchers, and creator
 
 ---
 
-### 11. The Lenfest Institute grows landmark program with expanded OpenAI support
+### 16. The Lenfest Institute grows landmark program with expanded OpenAI support
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +212,7 @@ OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 
 
 ---
 
-### 12. How we will do better for Australia
+### 17. How we will do better for Australia
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +225,7 @@ OpenAI apologises for incidents involving Australian government websites and out
 
 ---
 
-### 13. Towards safety cases for frontier AI training
+### 18. Towards safety cases for frontier AI training
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +238,7 @@ Our early guidelines for safety cases in frontier AI training cover technical sa
 
 ---
 
-### 14. Who’s liable when AI agents go rogue?
+### 19. Who’s liable when AI agents go rogue?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +251,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 15. The Download: rogue agent liability and the AI Hype Index
+### 20. The Download: rogue agent liability and the AI Hype Index
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -196,70 +261,5 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 - **Enlace:** https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;
-
----
-
-### 16. The Download: the Pentagon’s AI-powered lie detector and young organ limits
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 25 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;
-
----
-
-### 17. Asana completed a years-long code migration in 2 weeks with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Aug 2026 07:00:00 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:39d, duplicate
-- **Enlace:** https://openai.com/index/asana
-
-Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.
-
----
-
-### 18. Proaction boosts sales 60% and saves 75+ hours with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 25 Sep 2026 19:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/proaction
-
-With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.
-
----
-
-### 19. Young organs may not be a fountain of youth for recipients
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 25 Sep 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/
-
-Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;
-
----
-
-### 20. The Download: a bid to scrap the virtual wall and AI hits Climate Week
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 24 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;
 
 ---

@@ -32557,5 +32557,92 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "614384c194a98fc2a1fa08d8f6c80a02cfc102355716a0b9302f4919a719249e",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "published": "Wed, 30 Sep 2026 10:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "84426df134c70ed663c0c007e329fd1ceb6b6bccc13717735e23e79902b7394f",
+    "title": "Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "published": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "b038c5d27cf0b7ba78b73f71abda7d60cba1c22938fe41b30a3ff538fa4fb6f9",
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
+    "published": "Thu, 01 Oct 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "fe673aba3a24e220d9a946f01bd0c954477b31abb6a17278971e86fb3aac0dc1",
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what&#8230;",
+    "published": "Thu, 01 Oct 2026 10:32:24 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "50b6c1c1de6d8a5ef2c6f5ddab1debb3e6a46232d1eb8471eba135fb2d6f8596",
+    "title": "How smaller, distributed batteries could help the grid",
+    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "published": "Thu, 01 Oct 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
