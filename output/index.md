@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-01 14:05 UTC_
+_Actualizado: 2026-10-02 13:27 UTC_
 
 ## Selección priorizada
 
-### 1. How smaller, distributed batteries could help the grid
+### 1. Don’t be fooled—LLMs don’t reason
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 02 Oct 2026 08:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
+
+On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;
+
+---
+
+### 2. A new contest pits competitors against each other in a race to biological youth
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 02 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/
+
+This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;
+
+---
+
+### 3. The Download: a biological de-aging contest and why LLMs don’t reason
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 02 Oct 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;
+
+---
+
+### 4. The Den frees up 10-15 hours a week to grow with ChatGPT Work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 01 Oct 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/the-den-family-social
+
+As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
+
+---
+
+### 5. How Albertsons Companies is reimagining retail from the inside out
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 01 Oct 2026 16:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/albertsons-reimagining-retail
+
+Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
+
+---
+
+### 6. The eternal complement
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 01 Oct 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-eternal-complement
+
+Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
+
+---
+
+### 7. How smaller, distributed batteries could help the grid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ If you want to install a big battery in New York City, you have to cut through a
 
 ---
 
-### 2. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+### 8. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ A new AI tool can guess what you’re looking at just by analyzing your brain sc
 
 ---
 
-### 3. The Download: AI “mind-reading” and creative uses for small batteries
+### 9. The Download: AI “mind-reading” and creative uses for small batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Helping small businesses put AI to work
+### 10. Helping small businesses put AI to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +134,7 @@ OpenAI is partnering with America’s SBDC to expand hands-on AI training and lo
 
 ---
 
-### 5. Disrupting a coordinated model-distillation campaign
+### 11. Disrupting a coordinated model-distillation campaign
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ Learn how OpenAI disrupted a campaign to extract protected model reasoning and i
 
 ---
 
-### 6. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
+### 12. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ Two months after the bombshell news that a swarm of its agents had broken their 
 
 ---
 
-### 7. The Download: OpenAI’s chief research officer explains its hacking response
+### 13. The Download: OpenAI’s chief research officer explains its hacking response
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. Introducing GPT-6.1 Sol
+### 14. Introducing GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professi
 
 ---
 
-### 9. Introducing dots
+### 15. Introducing dots
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ Dots by OpenAI are proactive assistants that can keep working across complex pro
 
 ---
 
-### 10. DevDay 2026 Recap
+### 16. DevDay 2026 Recap
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr
 
 ---
 
-### 11. When can we say AI made a scientific discovery?
+### 17. When can we say AI made a scientific discovery?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 12. The Download: climate tech companies to watch and AI’s discovery problem
+### 18. The Download: climate tech companies to watch and AI’s discovery problem
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. Making AI an asset, not an expense
+### 19. Making AI an asset, not an expense
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +251,7 @@ When customers talk about AI costs, the conversation usually starts with token p
 
 ---
 
-### 14. Basis completes a tax workbook 2x faster with GPT-6 Astra
+### 20. Basis completes a tax workbook 2x faster with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ When customers talk about AI costs, the conversation usually starts with token p
 - **Enlace:** https://openai.com/index/basis-tax-workbook-with-astra
 
 GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.
-
----
-
-### 15. Are you a Codex Original?
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 28 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/form/codex-originals
-
-We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.
-
----
-
-### 16. The Lenfest Institute grows landmark program with expanded OpenAI support
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 28 Sep 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/lenfest-ai-collaborative-expansion
-
-OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.
-
----
-
-### 17. How we will do better for Australia
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 28 Sep 2026 19:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/how-we-will-do-better-for-australia
-
-OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
-
----
-
-### 18. Towards safety cases for frontier AI training
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 28 Sep 2026 19:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/towards-safety-cases-for-frontier-ai-training
-
-Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
-
----
-
-### 19. Who’s liable when AI agents go rogue?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 28 Sep 2026 08:06:22 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;
-
----
-
-### 20. The Download: rogue agent liability and the AI Hype Index
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 28 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;
 
 ---
