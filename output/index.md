@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-02 13:27 UTC_
+_Actualizado: 2026-10-03 12:10 UTC_
 
 ## Selección priorizada
 
-### 1. Don’t be fooled—LLMs don’t reason
+### 1. Redefining enterprise intelligence with autonomous AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 02 Oct 2026 15:49:04 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/
+
+Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;
+
+---
+
+### 2. A model guide for the GPT-6 family
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 02 Oct 2026 16:15:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/practical-guide-building-gpt-6
+
+Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
+
+---
+
+### 3. Chatham scales its capital markets expertise with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 02 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/chatham-financial
+
+Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.
+
+---
+
+### 4. Don’t be fooled—LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ On an afternoon in Seoul in March 2016, I watched a program I helped build put a
 
 ---
 
-### 2. A new contest pits competitors against each other in a race to biological youth
+### 5. A new contest pits competitors against each other in a race to biological youth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ This week, I officially signed up for an unusual competition. One that rewards c
 
 ---
 
-### 3. The Download: a biological de-aging contest and why LLMs don’t reason
+### 6. The Download: a biological de-aging contest and why LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. The Den frees up 10-15 hours a week to grow with ChatGPT Work
+### 7. The Den frees up 10-15 hours a week to grow with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +95,7 @@ As it opens a new location, the social club prepares grant applications in 2 hou
 
 ---
 
-### 5. How Albertsons Companies is reimagining retail from the inside out
+### 8. How Albertsons Companies is reimagining retail from the inside out
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams wor
 
 ---
 
-### 6. The eternal complement
+### 9. The eternal complement
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ Advanced AI may matter most for the routine work behind breakthrough ideas. Expl
 
 ---
 
-### 7. How smaller, distributed batteries could help the grid
+### 10. How smaller, distributed batteries could help the grid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +134,7 @@ If you want to install a big battery in New York City, you have to cut through a
 
 ---
 
-### 8. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+### 11. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +147,7 @@ A new AI tool can guess what you’re looking at just by analyzing your brain sc
 
 ---
 
-### 9. The Download: AI “mind-reading” and creative uses for small batteries
+### 12. The Download: AI “mind-reading” and creative uses for small batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. Helping small businesses put AI to work
+### 13. Helping small businesses put AI to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +173,7 @@ OpenAI is partnering with America’s SBDC to expand hands-on AI training and lo
 
 ---
 
-### 11. Disrupting a coordinated model-distillation campaign
+### 14. Disrupting a coordinated model-distillation campaign
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ Learn how OpenAI disrupted a campaign to extract protected model reasoning and i
 
 ---
 
-### 12. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
+### 15. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ Two months after the bombshell news that a swarm of its agents had broken their 
 
 ---
 
-### 13. The Download: OpenAI’s chief research officer explains its hacking response
+### 16. The Download: OpenAI’s chief research officer explains its hacking response
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. Introducing GPT-6.1 Sol
+### 17. Introducing GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professi
 
 ---
 
-### 15. Introducing dots
+### 18. Introducing dots
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ Dots by OpenAI are proactive assistants that can keep working across complex pro
 
 ---
 
-### 16. DevDay 2026 Recap
+### 19. DevDay 2026 Recap
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr
 
 ---
 
-### 17. When can we say AI made a scientific discovery?
+### 20. When can we say AI made a scientific discovery?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr
 - **Enlace:** https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
 
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;
-
----
-
-### 18. The Download: climate tech companies to watch and AI’s discovery problem
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 29 Sep 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;
-
----
-
-### 19. Making AI an asset, not an expense
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 29 Sep 2026 10:43:45 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
-
-When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;
-
----
-
-### 20. Basis completes a tax workbook 2x faster with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 28 Sep 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/basis-tax-workbook-with-astra
-
-GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.
 
 ---
