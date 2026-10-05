@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-04 12:59 UTC_
+_Actualizado: 2026-10-05 15:28 UTC_
 
 ## Selección priorizada
 
-### 1. Redefining enterprise intelligence with autonomous AI
+### 1. EmTech Future 2026: When AI Meets Everything
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 05 Oct 2026 04:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/
+
+Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;
+
+---
+
+### 2. People really hate AI, so why can’t they get enough?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 05 Oct 2026 08:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/
+
+Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;
+
+---
+
+### 3. The Download: AI’s popularity paradox and EmTech Future 2026
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 05 Oct 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;
+
+---
+
+### 4. Bringing predictive analytics to the agentic AI era
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 05 Oct 2026 13:29:32 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/
+
+In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;
+
+---
+
+### 5. Building advertising for the way people use AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 05 Oct 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/new-chatgpt-ads-format-and-measurement
+
+OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
+
+---
+
+### 6. Our approach to EU text provenance rules
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 05 Oct 2026 15:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/eu-text-provenance
+
+How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
+
+---
+
+### 7. Redefining enterprise intelligence with autonomous AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ Enterprise AI is no longer a future ambition. It is in full operational flight. 
 
 ---
 
-### 2. A model guide for the GPT-6 family
+### 8. A model guide for the GPT-6 family
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +108,7 @@ Learn how startups can choose GPT-6 models, tune reasoning effort, improve promp
 
 ---
 
-### 3. Chatham scales its capital markets expertise with OpenAI
+### 9. Chatham scales its capital markets expertise with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +121,7 @@ Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workfl
 
 ---
 
-### 4. Don’t be fooled—LLMs don’t reason
+### 10. Don’t be fooled—LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ On an afternoon in Seoul in March 2016, I watched a program I helped build put a
 
 ---
 
-### 5. A new contest pits competitors against each other in a race to biological youth
+### 11. A new contest pits competitors against each other in a race to biological youth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +147,7 @@ This week, I officially signed up for an unusual competition. One that rewards c
 
 ---
 
-### 6. The Download: a biological de-aging contest and why LLMs don’t reason
+### 12. The Download: a biological de-aging contest and why LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The Den frees up 10-15 hours a week to grow with ChatGPT Work
+### 13. The Den frees up 10-15 hours a week to grow with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ As it opens a new location, the social club prepares grant applications in 2 hou
 
 ---
 
-### 8. How Albertsons Companies is reimagining retail from the inside out
+### 14. How Albertsons Companies is reimagining retail from the inside out
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams wor
 
 ---
 
-### 9. The eternal complement
+### 15. The eternal complement
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ Advanced AI may matter most for the routine work behind breakthrough ideas. Expl
 
 ---
 
-### 10. How smaller, distributed batteries could help the grid
+### 16. How smaller, distributed batteries could help the grid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +212,7 @@ If you want to install a big battery in New York City, you have to cut through a
 
 ---
 
-### 11. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+### 17. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ A new AI tool can guess what you’re looking at just by analyzing your brain sc
 
 ---
 
-### 12. The Download: AI “mind-reading” and creative uses for small batteries
+### 18. The Download: AI “mind-reading” and creative uses for small batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. Helping small businesses put AI to work
+### 19. Helping small businesses put AI to work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ OpenAI is partnering with America’s SBDC to expand hands-on AI training and lo
 
 ---
 
-### 14. Disrupting a coordinated model-distillation campaign
+### 20. Disrupting a coordinated model-distillation campaign
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ OpenAI is partnering with America’s SBDC to expand hands-on AI training and lo
 - **Enlace:** https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 
 Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
-
----
-
-### 15. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 30 Sep 2026 10:40:30 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
-
-Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;
-
----
-
-### 16. The Download: OpenAI’s chief research officer explains its hacking response
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 30 Sep 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;
-
----
-
-### 17. Introducing GPT-6.1 Sol
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 29 Sep 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-gpt-6-1-sol
-
-Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
-
----
-
-### 18. Introducing dots
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 29 Sep 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-dots
-
-Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
-
----
-
-### 19. DevDay 2026 Recap
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 29 Sep 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/devday-2026-recap
-
-Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
-
----
-
-### 20. When can we say AI made a scientific discovery?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 28 Sep 2026 17:03:16 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;
 
 ---
