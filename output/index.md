@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-05 15:28 UTC_
+_Actualizado: 2026-10-06 13:50 UTC_
 
 ## Selección priorizada
 
-### 1. EmTech Future 2026: When AI Meets Everything
+### 1. WeLion New Energy and its semi-solid-state batteries
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 06 Oct 2026 10:35:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/
+
+WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;
+
+---
+
+### 2. The Download: 10 climate tech companies to watch
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 06 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;
+
+---
+
+### 3. BasiGo and its fleet of electric buses
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 06 Oct 2026 10:35:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/
+
+BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government&#8230;
+
+---
+
+### 4. EmTech Future 2026: When AI Meets Everything
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is b
 
 ---
 
-### 2. People really hate AI, so why can’t they get enough?
+### 5. People really hate AI, so why can’t they get enough?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ Over the summer I talked to the CEO of Springboards, a startup building an LLM t
 
 ---
 
-### 3. The Download: AI’s popularity paradox and EmTech Future 2026
+### 6. The Download: AI’s popularity paradox and EmTech Future 2026
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Bringing predictive analytics to the agentic AI era
+### 7. Bringing predictive analytics to the agentic AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ In 2026, the question for enterprise AI is no longer whether predictive models c
 
 ---
 
-### 5. Building advertising for the way people use AI
+### 8. Building advertising for the way people use AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ OpenAI introduces a new visual ad format in ChatGPT and expands measurement tool
 
 ---
 
-### 6. Our approach to EU text provenance rules
+### 9. Our approach to EU text provenance rules
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ How OpenAI is approaching text watermarking under EU rules. Learn where watermar
 
 ---
 
-### 7. Redefining enterprise intelligence with autonomous AI
+### 10. Redefining enterprise intelligence with autonomous AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +134,7 @@ Enterprise AI is no longer a future ambition. It is in full operational flight. 
 
 ---
 
-### 8. A model guide for the GPT-6 family
+### 11. A model guide for the GPT-6 family
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ Learn how startups can choose GPT-6 models, tune reasoning effort, improve promp
 
 ---
 
-### 9. Chatham scales its capital markets expertise with OpenAI
+### 12. Chatham scales its capital markets expertise with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workfl
 
 ---
 
-### 10. Don’t be fooled—LLMs don’t reason
+### 13. Don’t be fooled—LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +173,7 @@ On an afternoon in Seoul in March 2016, I watched a program I helped build put a
 
 ---
 
-### 11. A new contest pits competitors against each other in a race to biological youth
+### 14. A new contest pits competitors against each other in a race to biological youth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +186,7 @@ This week, I officially signed up for an unusual competition. One that rewards c
 
 ---
 
-### 12. The Download: a biological de-aging contest and why LLMs don’t reason
+### 15. The Download: a biological de-aging contest and why LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. The Den frees up 10-15 hours a week to grow with ChatGPT Work
+### 16. The Den frees up 10-15 hours a week to grow with ChatGPT Work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ As it opens a new location, the social club prepares grant applications in 2 hou
 
 ---
 
-### 14. How Albertsons Companies is reimagining retail from the inside out
+### 17. How Albertsons Companies is reimagining retail from the inside out
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams wor
 
 ---
 
-### 15. The eternal complement
+### 18. The eternal complement
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ Advanced AI may matter most for the routine work behind breakthrough ideas. Expl
 
 ---
 
-### 16. How smaller, distributed batteries could help the grid
+### 19. How smaller, distributed batteries could help the grid
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +251,7 @@ If you want to install a big battery in New York City, you have to cut through a
 
 ---
 
-### 17. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+### 20. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ If you want to install a big battery in New York City, you have to cut through a
 - **Enlace:** https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
 
 A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what&#8230;
-
----
-
-### 18. The Download: AI “mind-reading” and creative uses for small batteries
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 01 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;
-
----
-
-### 19. Helping small businesses put AI to work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 Sep 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/helping-small-businesses-put-ai-to-work
-
-OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
-
----
-
-### 20. Disrupting a coordinated model-distillation campaign
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 30 Sep 2026 10:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
-
-Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
 
 ---
