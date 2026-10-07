@@ -1,10 +1,75 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-06 13:50 UTC_
+_Actualizado: 2026-10-07 14:08 UTC_
 
 ## Selección priorizada
 
-### 1. WeLion New Energy and its semi-solid-state batteries
+### 1. The Download: weight-loss drugs slowing aging and carbon dioxide batteries
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 07 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly&#8230;
+
+---
+
+### 2. Advancing computer use with Ironclad
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 Oct 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/advancing-computer-use-with-ironclad
+
+Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
+
+---
+
+### 3. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 Oct 2026 16:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/atlassian-partnership
+
+Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
+
+---
+
+### 4. Sharing AI progress in mathematics
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 Oct 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/sharing-ai-progress-in-mathematics
+
+OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
+
+---
+
+### 5. How Jump Trading is scaling quant research with ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 06 Oct 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/jump-trading
+
+Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
+
+---
+
+### 6. WeLion New Energy and its semi-solid-state batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +82,7 @@ WeLion New Energy is on a quest to make safer, better batteries. The company’s
 
 ---
 
-### 2. The Download: 10 climate tech companies to watch
+### 7. The Download: 10 climate tech companies to watch
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. BasiGo and its fleet of electric buses
+### 8. BasiGo and its fleet of electric buses
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +108,7 @@ BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saha
 
 ---
 
-### 4. EmTech Future 2026: When AI Meets Everything
+### 9. EmTech Future 2026: When AI Meets Everything
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +121,7 @@ Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is b
 
 ---
 
-### 5. People really hate AI, so why can’t they get enough?
+### 10. People really hate AI, so why can’t they get enough?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +134,7 @@ Over the summer I talked to the CEO of Springboards, a startup building an LLM t
 
 ---
 
-### 6. The Download: AI’s popularity paradox and EmTech Future 2026
+### 11. The Download: AI’s popularity paradox and EmTech Future 2026
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Bringing predictive analytics to the agentic AI era
+### 12. Bringing predictive analytics to the agentic AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +160,7 @@ In 2026, the question for enterprise AI is no longer whether predictive models c
 
 ---
 
-### 8. Building advertising for the way people use AI
+### 13. Building advertising for the way people use AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +173,7 @@ OpenAI introduces a new visual ad format in ChatGPT and expands measurement tool
 
 ---
 
-### 9. Our approach to EU text provenance rules
+### 14. Our approach to EU text provenance rules
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +186,7 @@ How OpenAI is approaching text watermarking under EU rules. Learn where watermar
 
 ---
 
-### 10. Redefining enterprise intelligence with autonomous AI
+### 15. Redefining enterprise intelligence with autonomous AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +199,7 @@ Enterprise AI is no longer a future ambition. It is in full operational flight. 
 
 ---
 
-### 11. A model guide for the GPT-6 family
+### 16. A model guide for the GPT-6 family
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +212,7 @@ Learn how startups can choose GPT-6 models, tune reasoning effort, improve promp
 
 ---
 
-### 12. Chatham scales its capital markets expertise with OpenAI
+### 17. Chatham scales its capital markets expertise with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +225,7 @@ Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workfl
 
 ---
 
-### 13. Don’t be fooled—LLMs don’t reason
+### 18. Don’t be fooled—LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +238,7 @@ On an afternoon in Seoul in March 2016, I watched a program I helped build put a
 
 ---
 
-### 14. A new contest pits competitors against each other in a race to biological youth
+### 19. A new contest pits competitors against each other in a race to biological youth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +251,7 @@ This week, I officially signed up for an unusual competition. One that rewards c
 
 ---
 
-### 15. The Download: a biological de-aging contest and why LLMs don’t reason
+### 20. The Download: a biological de-aging contest and why LLMs don’t reason
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -196,70 +261,5 @@ This week, I officially signed up for an unusual competition. One that rewards c
 - **Enlace:** https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;
-
----
-
-### 16. The Den frees up 10-15 hours a week to grow with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 01 Oct 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/the-den-family-social
-
-As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
-
----
-
-### 17. How Albertsons Companies is reimagining retail from the inside out
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 01 Oct 2026 16:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/albertsons-reimagining-retail
-
-Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
-
----
-
-### 18. The eternal complement
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 01 Oct 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/the-eternal-complement
-
-Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
-
----
-
-### 19. How smaller, distributed batteries could help the grid
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 01 Oct 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:regulation, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/
-
-If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;
-
----
-
-### 20. An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 01 Oct 2026 10:32:24 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
-
-A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what&#8230;
 
 ---
