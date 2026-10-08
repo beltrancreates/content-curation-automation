@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-07 14:08 UTC_
+_Actualizado: 2026-10-08 14:18 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: weight-loss drugs slowing aging and carbon dioxide batteries
+### 1. The Download: AI roadblocks for humanoids and portable rubber dams
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 08 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;
+
+---
+
+### 2. Building a safer path to autonomous industrial AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 08 Oct 2026 08:17:32 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/
+
+Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;
+
+---
+
+### 3. AI breakthroughs in robotics won’t change your life any time soon
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 08 Oct 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/
+
+The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;
+
+---
+
+### 4. GPT-6 and Intelligent UI for everyone
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Oct 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gpt-6-for-everyone
+
+GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
+
+---
+
+### 5. Radisson Hotel Group brings hotel discovery into ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/radisson
+
+Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.
+
+---
+
+### 6. Helping teens learn, plan, and shape the future of AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 07 Oct 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/teens-learn-and-plan
+
+College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.
+
+---
+
+### 7. The Download: weight-loss drugs slowing aging and carbon dioxide batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Advancing computer use with Ironclad
+### 8. Advancing computer use with Ironclad
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +108,7 @@ Learn how OpenAI and Ironclad are training and evaluating AI agents on complex c
 
 ---
 
-### 3. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+### 9. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +121,7 @@ Atlassian and OpenAI are expanding their partnership to connect frontier models 
 
 ---
 
-### 4. Sharing AI progress in mathematics
+### 10. Sharing AI progress in mathematics
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +134,7 @@ OpenAI publishes new results on open problems in mathematics from an internal fr
 
 ---
 
-### 5. How Jump Trading is scaling quant research with ChatGPT
+### 11. How Jump Trading is scaling quant research with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ Jump Trading uses OpenAI to expand quantitative research. See how longer-running
 
 ---
 
-### 6. WeLion New Energy and its semi-solid-state batteries
+### 12. WeLion New Energy and its semi-solid-state batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ WeLion New Energy is on a quest to make safer, better batteries. The company’s
 
 ---
 
-### 7. The Download: 10 climate tech companies to watch
+### 13. The Download: 10 climate tech companies to watch
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 8. BasiGo and its fleet of electric buses
+### 14. BasiGo and its fleet of electric buses
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +186,7 @@ BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saha
 
 ---
 
-### 9. EmTech Future 2026: When AI Meets Everything
+### 15. EmTech Future 2026: When AI Meets Everything
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +199,7 @@ Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is b
 
 ---
 
-### 10. People really hate AI, so why can’t they get enough?
+### 16. People really hate AI, so why can’t they get enough?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +212,7 @@ Over the summer I talked to the CEO of Springboards, a startup building an LLM t
 
 ---
 
-### 11. The Download: AI’s popularity paradox and EmTech Future 2026
+### 17. The Download: AI’s popularity paradox and EmTech Future 2026
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Bringing predictive analytics to the agentic AI era
+### 18. Bringing predictive analytics to the agentic AI era
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ In 2026, the question for enterprise AI is no longer whether predictive models c
 
 ---
 
-### 13. Building advertising for the way people use AI
+### 19. Building advertising for the way people use AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ OpenAI introduces a new visual ad format in ChatGPT and expands measurement tool
 
 ---
 
-### 14. Our approach to EU text provenance rules
+### 20. Our approach to EU text provenance rules
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ OpenAI introduces a new visual ad format in ChatGPT and expands measurement tool
 - **Enlace:** https://openai.com/index/eu-text-provenance
 
 How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
-
----
-
-### 15. Redefining enterprise intelligence with autonomous AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 02 Oct 2026 15:49:04 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/
-
-Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;
-
----
-
-### 16. A model guide for the GPT-6 family
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 02 Oct 2026 16:15:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/practical-guide-building-gpt-6
-
-Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
-
----
-
-### 17. Chatham scales its capital markets expertise with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 02 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatham-financial
-
-Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.
-
----
-
-### 18. Don’t be fooled—LLMs don’t reason
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 02 Oct 2026 08:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
-
-On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;
-
----
-
-### 19. A new contest pits competitors against each other in a race to biological youth
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 02 Oct 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/
-
-This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;
-
----
-
-### 20. The Download: a biological de-aging contest and why LLMs don’t reason
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 02 Oct 2026 12:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,llm, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;
 
 ---
