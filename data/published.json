@@ -43976,5 +43976,255 @@
       "authority:8",
       "recent:0d"
     ]
+  },
+  {
+    "id": "4bfd09a6833122114b64a4a63699f05712e5a676c58cc9144f15a862239a907f",
+    "title": "Market research with ChatGPT",
+    "link": "https://openai.com/business/learn/market-research-with-chatgpt",
+    "summary": "See how ChatGPT can plan, search, read sources, and compile a detailed research report to support market analysis.",
+    "published": "Sun, 13 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:545d"
+    ]
+  },
+  {
+    "id": "ea5b29f7fd81bc97370a35d43bbdf4aaac874c1b78553dc30db78ebbdf01b136",
+    "title": "How OpenAI Uses Codex to Accelerate Engineering",
+    "link": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+    "summary": "A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.",
+    "published": "Wed, 14 Jan 2026 21:27:09 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:268d"
+    ]
+  },
+  {
+    "id": "6933b916071ef74c2ba75469c32854c1da94c9c5e542372f1212d7bc9f71e0ae",
+    "title": "Delegate work to ChatGPT agent",
+    "link": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+    "summary": "Watch a ChatGPT agent demo showing how it can research, code, and take action online to complete a business plan in minutes.",
+    "published": "Wed, 06 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "old:430d"
+    ]
+  },
+  {
+    "id": "4e105e47c8ba3be5c6607b979901272aaaa6d82099cdf65ee88b4fe85386f7b5",
+    "title": "How OpenAI uses ChatGPT Atlas at work",
+    "link": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+    "summary": "Watch a webinar on how OpenAI uses ChatGPT Atlas at work.",
+    "published": "Tue, 18 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:326d"
+    ]
+  },
+  {
+    "id": "a3ee96a56023d3ab350a1942574d4e5d58a2584438fed010cc8dc70011c2d191",
+    "title": "A Practical Guide to Building AI Agents",
+    "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+    "summary": "A comprehensive guide to designing, orchestrating, and deploying AI agents—covering use cases, model selection, tool design, guardrails, and multi-agent patterns.",
+    "published": "Thu, 15 Jan 2026 00:25:16 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:268d"
+    ]
+  },
+  {
+    "id": "13b7a1da2c0214228fa18e8146b0ef25c6a098a0c99399392f6358853fb77f96",
+    "title": "Building with the GPT-5 Model Series: A Practical Guide",
+    "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+    "summary": "A practical guide for startups on migrating to the Responses API, designing agents, tuning prompts, steering GPT-5 models, and building reliable AI workflows.",
+    "published": "Thu, 15 Jan 2026 00:09:56 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:268d"
+    ]
+  },
+  {
+    "id": "1dd9bbaa814de0d7aaa5185a5060ef2a270ed51ef3c0984a071e16f86040ba0d",
+    "title": "Automate complex workflows with OpenAI o3",
+    "link": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+    "summary": "See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.",
+    "published": "Thu, 08 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:520d"
+    ]
+  },
+  {
+    "id": "0f1eab57236c05e21cdba9d10fe3f507137396ea9aa3b00ddeb75018f0d89c30",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "cfd10a8a798f52b22d558260e1b1176941750ffe86b91ed278b8792a9ee968dc",
+    "title": "Inside GPT-5 for Work",
+    "link": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+    "summary": "A concise guide to how GPT-5 powers real business workflows—across marketing, engineering, finance, strategy, legal, and IT—and how to evaluate it for your team.",
+    "published": "Wed, 14 Jan 2026 21:43:17 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:268d"
+    ]
+  },
+  {
+    "id": "1099f1c94a05f79018e88d38c042cb78fe73d80062cbc57addc0477047ad5855",
+    "title": "Writing with canvas in ChatGPT",
+    "link": "https://openai.com/business/learn/writing-with-canvas-in-chatgpt",
+    "summary": "See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.",
+    "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:550d"
+    ]
   }
 ]
