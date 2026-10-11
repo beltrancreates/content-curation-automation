@@ -44226,5 +44226,255 @@
       "authority:9",
       "old:550d"
     ]
+  },
+  {
+    "id": "51fa8c33ab34a6e87cdb9a4fdc37db6c167e1e021b652d85adf63de73ed1f667",
+    "title": "Vision and voice in ChatGPT",
+    "link": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+    "summary": "See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally.",
+    "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:550d"
+    ]
+  },
+  {
+    "id": "d9b78593cb1ec89e702fb2b8b72e9a8c285794d766aa643639314f36eee8b8cc",
+    "title": "Strategic planning with ChatGPT",
+    "link": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+    "summary": "See how ChatGPT can support strategic planning by analyzing context, generating options, and turning decisions into next steps.",
+    "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:550d"
+    ]
+  },
+  {
+    "id": "5ee26094069afb76ec42aa9242a7c197a190ec8522204233234b0732845e26d6",
+    "title": "Shipping code to your IDE with ChatGPT",
+    "link": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+    "summary": "See how ChatGPT can help move generated code into your IDE to speed up development workflows.",
+    "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:550d"
+    ]
+  },
+  {
+    "id": "89c7782a794c0d5a94336ebdd0a6a0cc5de46dd8aa169609c358339d71b37cd8",
+    "title": "Think Bigger: How Small Teams Win with ChatGPT",
+    "link": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+    "summary": "A practical guide showing how small teams use ChatGPT to analyze data, create marketing materials, manage budgets, run meetings, and make better decisions.",
+    "published": "Thu, 22 Jan 2026 21:12:55 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:260d"
+    ]
+  },
+  {
+    "id": "1dc3be70d5c9b5015ebff33f0c57ab4773ce32a16895a28fe01704355142eddd",
+    "title": "Using Codex across the software development lifecycle",
+    "link": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+    "summary": "Watch a webinar on using Codex across the software development lifecycle.",
+    "published": "Thu, 20 Nov 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:324d"
+    ]
+  },
+  {
+    "id": "c39086a1268ab1108e8d9591cc3fe2921badc33d7e1e73eb33a989760508c979",
+    "title": "Collaborate and write with GPT-4o",
+    "link": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+    "summary": "Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine, and adjust tone faster.",
+    "published": "Thu, 08 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:520d"
+    ]
+  },
+  {
+    "id": "edd07bc7dd2c5708c8ee16b1ae1265a2a81d2bde40334130b3c107a551761ed1",
+    "title": "Create on-brand visuals with image generation",
+    "link": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+    "summary": "See how ChatGPT image generation helps create branded visuals and product mockups from prompts, sketches, or uploaded images.",
+    "published": "Thu, 08 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:520d"
+    ]
+  },
+  {
+    "id": "330b5e2aefa0efcb947c6c70881a7b69aed4c6db3ac8fda1b0b935b6981d2ed3",
+    "title": "Connect internal knowledge from Google Drive",
+    "link": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+    "summary": "See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with relevant context.",
+    "published": "Thu, 08 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:520d"
+    ]
+  },
+  {
+    "id": "dd3cbb72e4289668c7d9bc57344a8cd85c4499223f4134893f8b9a7473e269b5",
+    "title": "GPT-5: Our best model for work",
+    "link": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+    "summary": "Watch a GPT-5 demo for work showing how the model can analyze feedback, create a product plan and prototype, and summarize next steps.",
+    "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:429d"
+    ]
+  },
+  {
+    "id": "318f766608bb4af4033dab299c548ed5216cb10d8c26969865c9ec6328b69681",
+    "title": "Prototyping with canvas in ChatGPT",
+    "link": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+    "summary": "See how to go from a product requirements document to a working HTML/React prototype using canvas in ChatGPT.",
+    "published": "Sun, 13 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:545d"
+    ]
   }
 ]
