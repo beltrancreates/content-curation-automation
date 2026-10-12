@@ -44476,5 +44476,127 @@
       "authority:9",
       "old:545d"
     ]
+  },
+  {
+    "id": "5eae3025eaf95fc2c6855edc5b69bf95181326c950bb1e7c58334914e96885be",
+    "title": "Creating a contextual workspace in ChatGPT",
+    "link": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+    "summary": "Discover how ChatGPT Projects helps organize files, save context, and keep conversations consistent across workstreams.",
+    "published": "Sun, 13 Apr 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:545d"
+    ]
+  },
+  {
+    "id": "9bbfc37810ed033b4daaa9013899178af5c20fa587169f78166d64cf7182bb3a",
+    "title": "Personalize ChatGPT with custom instructions",
+    "link": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+    "summary": "See how custom instructions help personalize ChatGPT for your role, preferences, and work.",
+    "published": "Mon, 12 May 2025 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "old:516d"
+    ]
+  },
+  {
+    "id": "c3fce2b5dce434002fdbe6d7275bfbf48c4ce859902c6d349a7f01a44a60fa57",
+    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "link": "https://openai.com/index/lowes",
+    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:15d",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "58c7eb6db5245367f1c2ef6f4084ff79079dd451aade394c944096be87bcfd03",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
+    "published": "Mon, 12 Oct 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "90c120a7982744fa998add99331e25ab075832a30137b7227d172d59e2279b40",
+    "title": "The Download: moon city problems and drone traffic controllers",
+    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
+    "published": "Mon, 12 Oct 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]
