@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-13 14:44 UTC_
+_Actualizado: 2026-10-14 12:35 UTC_
 
 ## Selección priorizada
 
-### 1. AI labs are buying data from dead startups to train their models
+### 1. Higgsfield takes AI video from 1 minute to over 10
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 13 Oct 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/higgsfield-longer-videos-voice
+
+Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.
+
+---
+
+### 2. The EU’s next chapter in AI is agentic
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
+
+New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
+
+---
+
+### 3. AI labs are buying data from dead startups to train their models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ When Keelan Miskell began winding down his crypto startup this year, he didn’t
 
 ---
 
-### 2. Open models have real benefits. Do they outweigh the risks?
+### 4. Open models have real benefits. Do they outweigh the risks?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +56,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 3. The Download: open model trade-offs and geothermal power’s promise
+### 5. The Download: open model trade-offs and geothermal power’s promise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. The Download: moon city problems and drone traffic controllers
+### 6. The Download: moon city problems and drone traffic controllers
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. The ecologist revealing the invisible networks that revive rainforests
+### 7. The ecologist revealing the invisible networks that revive rainforests
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +95,7 @@ In a research station in central Panama, you can walk through a century of fores
 
 ---
 
-### 6. Lowe’s answers millions of home improvement questions with OpenAI
+### 8. Lowe’s answers millions of home improvement questions with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +108,7 @@ Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customer
 
 ---
 
-### 7. Personalize ChatGPT with custom instructions
+### 9. Personalize ChatGPT with custom instructions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +121,7 @@ See how custom instructions help personalize ChatGPT for your role, preferences,
 
 ---
 
-### 8. Creating a contextual workspace in ChatGPT
+### 10. Creating a contextual workspace in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +134,7 @@ Discover how ChatGPT Projects helps organize files, save context, and keep conve
 
 ---
 
-### 9. Prototyping with canvas in ChatGPT
+### 11. Prototyping with canvas in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +147,7 @@ See how to go from a product requirements document to a working HTML/React proto
 
 ---
 
-### 10. GPT-5: Our best model for work
+### 12. GPT-5: Our best model for work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +160,7 @@ Watch a GPT-5 demo for work showing how the model can analyze feedback, create a
 
 ---
 
-### 11. Connect internal knowledge from Google Drive
+### 13. Connect internal knowledge from Google Drive
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ See how ChatGPT can connect to Google Drive to use internal knowledge and answer
 
 ---
 
-### 12. Create on-brand visuals with image generation
+### 14. Create on-brand visuals with image generation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ See how ChatGPT image generation helps create branded visuals and product mockup
 
 ---
 
-### 13. Collaborate and write with GPT-4o
+### 15. Collaborate and write with GPT-4o
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ Explore how GPT-4o makes writing and collaboration more natural, helping teams d
 
 ---
 
-### 14. Using Codex across the software development lifecycle
+### 16. Using Codex across the software development lifecycle
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ Watch a webinar on using Codex across the software development lifecycle.
 
 ---
 
-### 15. Think Bigger: How Small Teams Win with ChatGPT
+### 17. Think Bigger: How Small Teams Win with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +225,7 @@ A practical guide showing how small teams use ChatGPT to analyze data, create ma
 
 ---
 
-### 16. Shipping code to your IDE with ChatGPT
+### 18. Shipping code to your IDE with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +238,7 @@ See how ChatGPT can help move generated code into your IDE to speed up developme
 
 ---
 
-### 17. Strategic planning with ChatGPT
+### 19. Strategic planning with ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -225,7 +251,7 @@ See how ChatGPT can support strategic planning by analyzing context, generating 
 
 ---
 
-### 18. Vision and voice in ChatGPT
+### 20. Vision and voice in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -235,31 +261,5 @@ See how ChatGPT can support strategic planning by analyzing context, generating 
 - **Enlace:** https://openai.com/business/learn/vision-and-voice-in-chatgpt
 
 See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally.
-
----
-
-### 19. Writing with canvas in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:550d
-- **Enlace:** https://openai.com/business/learn/writing-with-canvas-in-chatgpt
-
-See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.
-
----
-
-### 20. Inside GPT-5 for Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Jan 2026 21:43:17 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:268d
-- **Enlace:** https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work
-
-A concise guide to how GPT-5 powers real business workflows—across marketing, engineering, finance, strategy, legal, and IT—and how to evaluate it for your team.
 
 ---
