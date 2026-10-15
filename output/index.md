@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-14 12:35 UTC_
+_Actualizado: 2026-10-15 12:22 UTC_
 
 ## Selección priorizada
 
-### 1. Higgsfield takes AI video from 1 minute to over 10
+### 1. Pig kidneys that were “frozen” for a year have been brought back to life
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 15 Oct 2026 08:43:24 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/
+
+Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one&#8230;
+
+---
+
+### 2. Six wild ideas for perpetuating your mind
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 15 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/
+
+Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that&#8230;
+
+---
+
+### 3. The Download: reviving frozen pig kidneys and boosting nuclear power
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 15 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;
+
+---
+
+### 4. The Download: faking blood and the future of batteries
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 14 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:1d
+- **Enlace:** https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;
+
+---
+
+### 5. How Block is building AI-powered security with OpenAI technology
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/block-ai-powered-security
+
+Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
+
+---
+
+### 6. SentinelOne cuts malware analysis from weeks to hours
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Oct 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/sentinelone
+
+With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
+
+---
+
+### 7. Amp puts AI agents to work beyond code with OpenAI models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Oct 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/amp-beyond-coding
+
+See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+
+---
+
+### 8. How Third Moment Research runs 10,000 agents for 36+ hours
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 14 Oct 2026 07:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/third-moment-research
+
+With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
+
+---
+
+### 9. Higgsfield takes AI video from 1 minute to over 10
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +121,7 @@ Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with 
 
 ---
 
-### 2. The EU’s next chapter in AI is agentic
+### 10. The EU’s next chapter in AI is agentic
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +134,7 @@ New analysis shows how agentic AI adoption is growing across EU enterprises and 
 
 ---
 
-### 3. AI labs are buying data from dead startups to train their models
+### 11. AI labs are buying data from dead startups to train their models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ When Keelan Miskell began winding down his crypto startup this year, he didn’t
 
 ---
 
-### 4. Open models have real benefits. Do they outweigh the risks?
+### 12. Open models have real benefits. Do they outweigh the risks?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +160,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 5. The Download: open model trade-offs and geothermal power’s promise
+### 13. The Download: open model trade-offs and geothermal power’s promise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. The Download: moon city problems and drone traffic controllers
+### 14. The Download: moon city problems and drone traffic controllers
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The ecologist revealing the invisible networks that revive rainforests
+### 15. The ecologist revealing the invisible networks that revive rainforests
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +199,7 @@ In a research station in central Panama, you can walk through a century of fores
 
 ---
 
-### 8. Lowe’s answers millions of home improvement questions with OpenAI
+### 16. Lowe’s answers millions of home improvement questions with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +212,7 @@ Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customer
 
 ---
 
-### 9. Personalize ChatGPT with custom instructions
+### 17. Personalize ChatGPT with custom instructions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +225,7 @@ See how custom instructions help personalize ChatGPT for your role, preferences,
 
 ---
 
-### 10. Creating a contextual workspace in ChatGPT
+### 18. Creating a contextual workspace in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +238,7 @@ Discover how ChatGPT Projects helps organize files, save context, and keep conve
 
 ---
 
-### 11. Prototyping with canvas in ChatGPT
+### 19. Prototyping with canvas in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +251,7 @@ See how to go from a product requirements document to a working HTML/React proto
 
 ---
 
-### 12. GPT-5: Our best model for work
+### 20. GPT-5: Our best model for work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -157,109 +261,5 @@ See how to go from a product requirements document to a working HTML/React proto
 - **Enlace:** https://openai.com/business/learn/gpt-5-our-best-model-for-work
 
 Watch a GPT-5 demo for work showing how the model can analyze feedback, create a product plan and prototype, and summarize next steps.
-
----
-
-### 13. Connect internal knowledge from Google Drive
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 May 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:520d
-- **Enlace:** https://openai.com/business/learn/connect-internal-knowledge-from-google-drive
-
-See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with relevant context.
-
----
-
-### 14. Create on-brand visuals with image generation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 May 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:520d
-- **Enlace:** https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
-
-See how ChatGPT image generation helps create branded visuals and product mockups from prompts, sketches, or uploaded images.
-
----
-
-### 15. Collaborate and write with GPT-4o
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 May 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:520d
-- **Enlace:** https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
-
-Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine, and adjust tone faster.
-
----
-
-### 16. Using Codex across the software development lifecycle
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 20 Nov 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:324d
-- **Enlace:** https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle
-
-Watch a webinar on using Codex across the software development lifecycle.
-
----
-
-### 17. Think Bigger: How Small Teams Win with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Jan 2026 21:12:55 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:260d
-- **Enlace:** https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide
-
-A practical guide showing how small teams use ChatGPT to analyze data, create marketing materials, manage budgets, run meetings, and make better decisions.
-
----
-
-### 18. Shipping code to your IDE with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:550d
-- **Enlace:** https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
-
-See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-
----
-
-### 19. Strategic planning with ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:550d
-- **Enlace:** https://openai.com/business/learn/strategic-planning-with-chatgpt
-
-See how ChatGPT can support strategic planning by analyzing context, generating options, and turning decisions into next steps.
-
----
-
-### 20. Vision and voice in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 08 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:550d
-- **Enlace:** https://openai.com/business/learn/vision-and-voice-in-chatgpt
-
-See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally.
 
 ---
