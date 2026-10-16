@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-15 12:22 UTC_
+_Actualizado: 2026-10-16 12:02 UTC_
 
 ## Selección priorizada
 
-### 1. Pig kidneys that were “frozen” for a year have been brought back to life
+### 1. Kids are outsmarting social media bans. That’s not a problem we need to solve.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 16 Oct 2026 07:56:32 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/
+
+Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;
+
+---
+
+### 2. Love is infrastructure
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 16 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/
+
+I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;
+
+---
+
+### 3. This implant can restore sight for patients with macular degeneration
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 16 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/
+
+Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients&#8230;
+
+---
+
+### 4. Sullivan & Cromwell brings legal expertise into agreement review
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/sullivan-cromwell
+
+In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
+
+---
+
+### 5. Teaching students to think and learn through questions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Oct 2026 13:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+
+Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+
+---
+
+### 6. Bringing GPT-Rosalind to academic research labs
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 15 Oct 2026 19:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-the-rosalind-academic-plan
+
+Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
+
+---
+
+### 7. Pig kidneys that were “frozen” for a year have been brought back to life
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ Pig kidneys that were cooled to -150 °C and stored in a freezer for months have
 
 ---
 
-### 2. Six wild ideas for perpetuating your mind
+### 8. Six wild ideas for perpetuating your mind
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ Have you ever thought about what makes you you? Science assures us it has everyt
 
 ---
 
-### 3. The Download: reviving frozen pig kidneys and boosting nuclear power
+### 9. The Download: reviving frozen pig kidneys and boosting nuclear power
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. The Download: faking blood and the future of batteries
+### 10. The Download: faking blood and the future of batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. How Block is building AI-powered security with OpenAI technology
+### 11. How Block is building AI-powered security with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +147,7 @@ Block is building AI-powered security with OpenAI. Its security team investigate
 
 ---
 
-### 6. SentinelOne cuts malware analysis from weeks to hours
+### 12. SentinelOne cuts malware analysis from weeks to hours
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +160,7 @@ With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creat
 
 ---
 
-### 7. Amp puts AI agents to work beyond code with OpenAI models
+### 13. Amp puts AI agents to work beyond code with OpenAI models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafas
 
 ---
 
-### 8. How Third Moment Research runs 10,000 agents for 36+ hours
+### 14. How Third Moment Research runs 10,000 agents for 36+ hours
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI
 
 ---
 
-### 9. Higgsfield takes AI video from 1 minute to over 10
+### 15. Higgsfield takes AI video from 1 minute to over 10
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with 
 
 ---
 
-### 10. The EU’s next chapter in AI is agentic
+### 16. The EU’s next chapter in AI is agentic
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ New analysis shows how agentic AI adoption is growing across EU enterprises and 
 
 ---
 
-### 11. AI labs are buying data from dead startups to train their models
+### 17. AI labs are buying data from dead startups to train their models
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ When Keelan Miskell began winding down his crypto startup this year, he didn’t
 
 ---
 
-### 12. Open models have real benefits. Do they outweigh the risks?
+### 18. Open models have real benefits. Do they outweigh the risks?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 13. The Download: open model trade-offs and geothermal power’s promise
+### 19. The Download: open model trade-offs and geothermal power’s promise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. The Download: moon city problems and drone traffic controllers
+### 20. The Download: moon city problems and drone traffic controllers
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -183,83 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;
-
----
-
-### 15. The ecologist revealing the invisible networks that revive rainforests
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 12 Oct 2026 09:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/
-
-In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;
-
----
-
-### 16. Lowe’s answers millions of home improvement questions with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 25 Sep 2026 07:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:15d, duplicate
-- **Enlace:** https://openai.com/index/lowes
-
-Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.
-
----
-
-### 17. Personalize ChatGPT with custom instructions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 12 May 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:516d
-- **Enlace:** https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions
-
-See how custom instructions help personalize ChatGPT for your role, preferences, and work.
-
----
-
-### 18. Creating a contextual workspace in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 13 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:545d
-- **Enlace:** https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt
-
-Discover how ChatGPT Projects helps organize files, save context, and keep conversations consistent across workstreams.
-
----
-
-### 19. Prototyping with canvas in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 13 Apr 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:545d
-- **Enlace:** https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt
-
-See how to go from a product requirements document to a working HTML/React prototype using canvas in ChatGPT.
-
----
-
-### 20. GPT-5: Our best model for work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 07 Aug 2025 00:00:00 GMT
-- **Score:** 9.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:429d
-- **Enlace:** https://openai.com/business/learn/gpt-5-our-best-model-for-work
-
-Watch a GPT-5 demo for work showing how the model can analyze feedback, create a product plan and prototype, and summarize next steps.
 
 ---
