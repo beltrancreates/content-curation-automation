@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-18 11:54 UTC_
+_Actualizado: 2026-10-19 14:14 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: failed social media bans, and extending pets’ lives
+### 1. How far can we push computing?
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/
+
+MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s&#8230;
+
+---
+
+### 2. Inside the quest to combat Arctic fires and save the planet’s frozen carbon
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 09:22:17 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/
+
+In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;
+
+---
+
+### 3. The Download: preserving the Arctic permafrost, and playful AI agents
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,&#8230;
+
+---
+
+### 4. AI researchers stranded Claude on a virtual desert island. It started to “play.”
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 09:08:05 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
+
+What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;
+
+---
+
+### 5. The Download: failed social media bans, and extending pets’ lives
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Roundtables: A Conversation With the Creator of AI-Designed Viruses
+### 6. Roundtables: A Conversation With the Creator of AI-Designed Viruses
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ Listen to the session or watch below Can AI design new life forms? In 2025, Stan
 
 ---
 
-### 3. Benefit Street Partners answers questions faster with Codex
+### 7. Benefit Street Partners answers questions faster with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ Anant Kumar builds tools to compare loan valuations and analyze credit agreement
 
 ---
 
-### 4. Stack Overflow for Agents triples signups with ChatGPT plugin
+### 8. Stack Overflow for Agents triples signups with ChatGPT plugin
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and i
 
 ---
 
-### 5. How Itaú is building generative AI for its entire customer base
+### 9. How Itaú is building generative AI for its entire customer base
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ With ia.i, a conversational interface, and the IARA governance platform, Itaú i
 
 ---
 
-### 6. Kids are outsmarting social media bans. That’s not a problem we need to solve.
+### 10. Kids are outsmarting social media bans. That’s not a problem we need to solve.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +134,7 @@ Social media bans are stacking up. In July, France joined Australia in restricti
 
 ---
 
-### 7. Love is infrastructure
+### 11. Love is infrastructure
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +147,7 @@ I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart w
 
 ---
 
-### 8. This implant can restore sight for patients with macular degeneration
+### 12. This implant can restore sight for patients with macular degeneration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +160,7 @@ Age-related macular degeneration (AMD) affects more than 5 million people around
 
 ---
 
-### 9. Sullivan & Cromwell brings legal expertise into agreement review
+### 13. Sullivan & Cromwell brings legal expertise into agreement review
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, 
 
 ---
 
-### 10. Teaching students to think and learn through questions
+### 14. Teaching students to think and learn through questions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see 
 
 ---
 
-### 11. Bringing GPT-Rosalind to academic research labs
+### 15. Bringing GPT-Rosalind to academic research labs
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ Introducing the Rosalind Academic Plan, offering eligible academic labs sponsore
 
 ---
 
-### 12. Pig kidneys that were “frozen” for a year have been brought back to life
+### 16. Pig kidneys that were “frozen” for a year have been brought back to life
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +212,7 @@ Pig kidneys that were cooled to -150 °C and stored in a freezer for months have
 
 ---
 
-### 13. Six wild ideas for perpetuating your mind
+### 17. Six wild ideas for perpetuating your mind
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +225,7 @@ Have you ever thought about what makes you you? Science assures us it has everyt
 
 ---
 
-### 14. The Download: reviving frozen pig kidneys and boosting nuclear power
+### 18. The Download: reviving frozen pig kidneys and boosting nuclear power
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -186,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 15. The Download: faking blood and the future of batteries
+### 19. The Download: faking blood and the future of batteries
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 16. How Block is building AI-powered security with OpenAI technology
+### 20. How Block is building AI-powered security with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://openai.com/index/block-ai-powered-security
 
 Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
-
----
-
-### 17. SentinelOne cuts malware analysis from weeks to hours
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Oct 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/sentinelone
-
-With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
-
----
-
-### 18. Amp puts AI agents to work beyond code with OpenAI models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Oct 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/amp-beyond-coding
-
-See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
-
----
-
-### 19. How Third Moment Research runs 10,000 agents for 36+ hours
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Oct 2026 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/third-moment-research
-
-With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
-
----
-
-### 20. Higgsfield takes AI video from 1 minute to over 10
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 13 Oct 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/higgsfield-longer-videos-voice
-
-Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.
 
 ---
