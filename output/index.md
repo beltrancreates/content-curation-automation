@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-19 14:14 UTC_
+_Actualizado: 2026-10-20 12:28 UTC_
 
 ## Selección priorizada
 
-### 1. How far can we push computing?
+### 1. Making the internet better for AI agents might make it worse for everyone else
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 18:22:47 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;
+
+---
+
+### 2. These startups hope “blended” food will cut our appetite for red meat
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 20 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/
+
+In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;
+
+---
+
+### 3. How to study a swiftly melting climate disaster
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 20 Oct 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/
+
+Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;
+
+---
+
+### 4. “We were looking at it wrong”: The explosive claim that’s upended the AI world
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 19 Oct 2026 17:45:55 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/
+
+“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;
+
+---
+
+### 5. A visit to Samsung’s massive new semiconductor hub
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 20 Oct 2026 09:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/
+
+Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;
+
+---
+
+### 6. Advancing coding in low‑resource programming languages
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 19 Oct 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/low-resource-programming-languages
+
+Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.
+
+---
+
+### 7. How far can we push computing?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ MIT Technology Review Explains: Let our writers untangle the complex, messy worl
 
 ---
 
-### 2. Inside the quest to combat Arctic fires and save the planet’s frozen carbon
+### 8. Inside the quest to combat Arctic fires and save the planet’s frozen carbon
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ In the middle of an especially warm July in 2021, a wildfire ignited in a thick 
 
 ---
 
-### 3. The Download: preserving the Arctic permafrost, and playful AI agents
+### 9. The Download: preserving the Arctic permafrost, and playful AI agents
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. AI researchers stranded Claude on a virtual desert island. It started to “play.”
+### 10. AI researchers stranded Claude on a virtual desert island. It started to “play.”
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +134,7 @@ What do AI agents do if you don’t tell them to do anything? The answer looks a
 
 ---
 
-### 5. The Download: failed social media bans, and extending pets’ lives
+### 11. The Download: failed social media bans, and extending pets’ lives
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Roundtables: A Conversation With the Creator of AI-Designed Viruses
+### 12. Roundtables: A Conversation With the Creator of AI-Designed Viruses
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +160,7 @@ Listen to the session or watch below Can AI design new life forms? In 2025, Stan
 
 ---
 
-### 7. Benefit Street Partners answers questions faster with Codex
+### 13. Benefit Street Partners answers questions faster with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ Anant Kumar builds tools to compare loan valuations and analyze credit agreement
 
 ---
 
-### 8. Stack Overflow for Agents triples signups with ChatGPT plugin
+### 14. Stack Overflow for Agents triples signups with ChatGPT plugin
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and i
 
 ---
 
-### 9. How Itaú is building generative AI for its entire customer base
+### 15. How Itaú is building generative AI for its entire customer base
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +199,7 @@ With ia.i, a conversational interface, and the IARA governance platform, Itaú i
 
 ---
 
-### 10. Kids are outsmarting social media bans. That’s not a problem we need to solve.
+### 16. Kids are outsmarting social media bans. That’s not a problem we need to solve.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +212,7 @@ Social media bans are stacking up. In July, France joined Australia in restricti
 
 ---
 
-### 11. Love is infrastructure
+### 17. Love is infrastructure
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +225,7 @@ I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart w
 
 ---
 
-### 12. This implant can restore sight for patients with macular degeneration
+### 18. This implant can restore sight for patients with macular degeneration
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +238,7 @@ Age-related macular degeneration (AMD) affects more than 5 million people around
 
 ---
 
-### 13. Sullivan & Cromwell brings legal expertise into agreement review
+### 19. Sullivan & Cromwell brings legal expertise into agreement review
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, 
 
 ---
 
-### 14. Teaching students to think and learn through questions
+### 20. Teaching students to think and learn through questions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, 
 - **Enlace:** https://openai.com/index/teaching-students-to-think-and-learn-through-questions
 
 Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
-
----
-
-### 15. Bringing GPT-Rosalind to academic research labs
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 15 Oct 2026 19:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-the-rosalind-academic-plan
-
-Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
-
----
-
-### 16. Pig kidneys that were “frozen” for a year have been brought back to life
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 15 Oct 2026 08:43:24 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/
-
-Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one&#8230;
-
----
-
-### 17. Six wild ideas for perpetuating your mind
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 15 Oct 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/
-
-Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that&#8230;
-
----
-
-### 18. The Download: reviving frozen pig kidneys and boosting nuclear power
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 15 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;
-
----
-
-### 19. The Download: faking blood and the future of batteries
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 14 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:1d
-- **Enlace:** https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;
-
----
-
-### 20. How Block is building AI-powered security with OpenAI technology
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Oct 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/block-ai-powered-security
-
-Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
 
 ---
