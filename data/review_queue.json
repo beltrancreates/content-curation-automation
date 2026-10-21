@@ -12573,6 +12573,56 @@
     ]
   },
   {
+    "id": "664de976daa3398069d98663daf799df1c0dadea1369ea785981db7f8341ba37",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "link": "https://openai.com/index/terminal-x",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "0dd0d569b729ba5e5a26d618ba571722e5ab50324f248d23c3428bdc31ad53dd",
+    "title": "OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -28550,6 +28600,31 @@
     "link": "https://openai.com/index/benefit-street-partners",
     "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "2e330bd03bcad3c478b51900917312e8812f22edbf1411faf05b12899dc6dca2",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "published": "Tue, 20 Oct 2026 10:00:00 GMT",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
     "source_type": "rss",
@@ -44974,6 +45049,75 @@
     "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
     "published": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "402deff7a92005a5fe80c6f8d08aa22337cc1e30560b52078969c13207942da6",
+    "title": "The Download: introducing the Impossible issue",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
+    "published": "Wed, 21 Oct 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "3ee86504009493cde2aabbb1576edbe51656215845c5537e4feaf7d384d704d6",
+    "title": "Exercise in a pill",
+    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "176736d798dcb2b75027d348e3260ba1d897667d873571938325a00def20230e",
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
+    "published": "Tue, 20 Oct 2026 21:00:00 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",
