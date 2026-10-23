@@ -35057,5 +35057,128 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "d589aa35f6fd634ec46de64afd1bbf47e30761235e132ef263fb04a473805d2c",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "6318b8276a4bb44da133614b185ec1b866be1ab9fef9b885f8ba5ee950e54c58",
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://openai.com/index/decisions-api",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "published": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "b92ad9c58cc47be91ce27f4c488f0f5e0546158b5e8459bc4b5d1cf6be8fdd78",
+    "title": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "published": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "18be8f62b8aaf188d11494b1f7ce2a0089420d93409cddfc22c86166fc344002",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "7706ba3db2d6248bef0f7372788438429101c32cf8889627103ccce5aeb89c1a",
+    "title": "In the biotech world, you can’t see everything",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "published": "Fri, 23 Oct 2026 09:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "59b524c3ba27d800a1fbb009549f7cb88bee6794d5aade23f4bcbb7ef3983d89",
+    "title": "Designing an AI serving harness built to last",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "published": "Thu, 22 Oct 2026 21:17:29 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "2c6fa66aecc7e24258c5c22569178d12d6bc27d8d5edbd7b83256058e9fd0dfc",
+    "title": "The Foundations of Scalable AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "published": "Thu, 22 Oct 2026 18:48:04 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

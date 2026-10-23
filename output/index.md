@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-22 12:42 UTC_
+_Actualizado: 2026-10-23 12:20 UTC_
 
 ## Selección priorizada
 
-### 1. Making the case for context-aware AI
+### 1. The Download: computing’s next leap and permafrost’s climate threat
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 22 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;
+
+---
+
+### 2. The Foundations of Scalable AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 22 Oct 2026 18:48:04 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/
+
+A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;
+
+---
+
+### 3. Designing an AI serving harness built to last
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 22 Oct 2026 21:17:29 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/
+
+The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;
+
+---
+
+### 4. AI’s hidden storage bill: What inference leaves behind
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 22 Oct 2026 08:41:18 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/
+
+Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;
+
+---
+
+### 5. Build more responsive apps with the Decisions API
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 22 Oct 2026 19:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/decisions-api
+
+Fast, focused, low-cost decisions for any application.
+
+---
+
+### 6. What FDE means at OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 22 Oct 2026 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/forward-deployed-engineering-means
+
+What forward deployed engineering means at OpenAI
+
+---
+
+### 7. Uber brings ChatGPT Work to all employees with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 22 Oct 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/uber-chatgpt-work-rollout
+
+Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.
+
+---
+
+### 8. OpenAI and Poland’s NASK partner to advance AI safety and security
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 23 Oct 2026 00:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/openai-nask-ai-safety-security-partnership
+
+OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
+
+---
+
+### 9. Making the case for context-aware AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +121,7 @@ Enterprise AI can generate recommendations, automate tasks, and help organizatio
 
 ---
 
-### 2. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+### 10. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +134,7 @@ From local businesses to global brands, more advertisers can now reach people as
 
 ---
 
-### 3. Democratic governance of frontier AI, part II: Empowering cyber defenders
+### 11. Democratic governance of frontier AI, part II: Empowering cyber defenders
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +147,7 @@ OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, str
 
 ---
 
-### 4. Cloudflare links vulnerability discovery to defense with OpenAI
+### 12. Cloudflare links vulnerability discovery to defense with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +160,7 @@ Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes
 
 ---
 
-### 5. OpenAI models are coming to Google Cloud
+### 13. OpenAI models are coming to Google Cloud
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +173,7 @@ OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemi
 
 ---
 
-### 6. How AT&T is rethinking in-house legal work with OpenAI
+### 14. How AT&T is rethinking in-house legal work with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +186,7 @@ AT&T is working with OpenAI to make legal knowledge easier to access. Learn how 
 
 ---
 
-### 7. Broad access through consistent standards
+### 15. Broad access through consistent standards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +199,7 @@ How OpenAI works with distribution partners to uphold consistent safeguards, sup
 
 ---
 
-### 8. Using thousands of AI agents to uncover new leads in biological data
+### 16. Using thousands of AI agents to uncover new leads in biological data
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +212,7 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 
 ---
 
-### 9. How we built ChatGPT’s novel ad stack for user trust and relevance
+### 17. How we built ChatGPT’s novel ad stack for user trust and relevance
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +225,7 @@ Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversati
 
 ---
 
-### 10. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
+### 18. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +238,7 @@ Patch the Planet connects security researchers, maintainers, and incident respon
 
 ---
 
-### 11. It’s a bird, it’s a plane … it’s a robo-puffin?
+### 19. It’s a bird, it’s a plane … it’s a robo-puffin?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +251,7 @@ Given that water is 1,000 times denser than air, moving through those two medium
 
 ---
 
-### 12. Exercise in a pill
+### 20. Exercise in a pill
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -157,109 +261,5 @@ Given that water is 1,000 times denser than air, moving through those two medium
 - **Enlace:** https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/
 
 We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who&#8230;
-
----
-
-### 13. The Download: introducing the Impossible issue
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 21 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;
-
----
-
-### 14. Franchisee reconciles cash in 94% less time with ChatGPT Work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Oct 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ted-taylor-restaurant
-
-An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.
-
----
-
-### 15. OpenAI acquires Orchestra Bio
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-to-acquire-orchestra-bio
-
-OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.
-
----
-
-### 16. Terminal X matches senior investor judgment 88.6% with GPT-6.1
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 20 Oct 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/terminal-x
-
-Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
-
----
-
-### 17. Making the internet better for AI agents might make it worse for everyone else
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 19 Oct 2026 18:22:47 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;
-
----
-
-### 18. These startups hope “blended” food will cut our appetite for red meat
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 20 Oct 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/
-
-In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;
-
----
-
-### 19. How to study a swiftly melting climate disaster
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 20 Oct 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/
-
-Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;
-
----
-
-### 20. “We were looking at it wrong”: The explosive claim that’s upended the AI world
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 19 Oct 2026 17:45:55 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/
-
-“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;
 
 ---
