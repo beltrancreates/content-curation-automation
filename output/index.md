@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-23 12:20 UTC_
+_Actualizado: 2026-10-24 11:47 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: computing’s next leap and permafrost’s climate threat
+### 1. The Download: testing six tech promises and biotech’s blind spots
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 23 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;
+
+---
+
+### 2. Securing our frontier model training environment
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 23 Oct 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/securing-our-frontier-model-training-environment
+
+OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
+
+---
+
+### 3. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 23 Oct 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/scaling-storage-one-billion-users-part-two
+
+Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
+
+---
+
+### 4. The Download: computing’s next leap and permafrost’s climate threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. The Foundations of Scalable AI
+### 5. The Foundations of Scalable AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ A scalable AI system requires a strong foundation. Data, engineering, platforms,
 
 ---
 
-### 3. Designing an AI serving harness built to last
+### 6. Designing an AI serving harness built to last
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ The next competitive advantage in enterprise AI has less to do with which model 
 
 ---
 
-### 4. AI’s hidden storage bill: What inference leaves behind
+### 7. AI’s hidden storage bill: What inference leaves behind
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ Ask most executives to picture the cost of AI and they’ll likely see GPUs—ra
 
 ---
 
-### 5. Build more responsive apps with the Decisions API
+### 8. Build more responsive apps with the Decisions API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ Fast, focused, low-cost decisions for any application.
 
 ---
 
-### 6. What FDE means at OpenAI
+### 9. What FDE means at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ What forward deployed engineering means at OpenAI
 
 ---
 
-### 7. Uber brings ChatGPT Work to all employees with OpenAI
+### 10. Uber brings ChatGPT Work to all employees with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams re
 
 ---
 
-### 8. OpenAI and Poland’s NASK partner to advance AI safety and security
+### 11. OpenAI and Poland’s NASK partner to advance AI safety and security
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ OpenAI and Poland’s NASK are partnering on AI safety, security, and technical 
 
 ---
 
-### 9. Making the case for context-aware AI
+### 12. Making the case for context-aware AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +160,7 @@ Enterprise AI can generate recommendations, automate tasks, and help organizatio
 
 ---
 
-### 10. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+### 13. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +173,7 @@ From local businesses to global brands, more advertisers can now reach people as
 
 ---
 
-### 11. Democratic governance of frontier AI, part II: Empowering cyber defenders
+### 14. Democratic governance of frontier AI, part II: Empowering cyber defenders
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +186,7 @@ OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, str
 
 ---
 
-### 12. Cloudflare links vulnerability discovery to defense with OpenAI
+### 15. Cloudflare links vulnerability discovery to defense with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +199,7 @@ Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes
 
 ---
 
-### 13. OpenAI models are coming to Google Cloud
+### 16. OpenAI models are coming to Google Cloud
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemi
 
 ---
 
-### 14. How AT&T is rethinking in-house legal work with OpenAI
+### 17. How AT&T is rethinking in-house legal work with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ AT&T is working with OpenAI to make legal knowledge easier to access. Learn how 
 
 ---
 
-### 15. Broad access through consistent standards
+### 18. Broad access through consistent standards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ How OpenAI works with distribution partners to uphold consistent safeguards, sup
 
 ---
 
-### 16. Using thousands of AI agents to uncover new leads in biological data
+### 19. Using thousands of AI agents to uncover new leads in biological data
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 
 ---
 
-### 17. How we built ChatGPT’s novel ad stack for user trust and relevance
+### 20. How we built ChatGPT’s novel ad stack for user trust and relevance
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -222,44 +261,5 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 - **Enlace:** https://openai.com/index/building-chatgpt-ad-stack
 
 Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
-
----
-
-### 18. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 07:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,open source, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
-
-Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.
-
----
-
-### 19. It’s a bird, it’s a plane … it’s a robo-puffin?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 20 Oct 2026 21:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/
-
-Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;
-
----
-
-### 20. Exercise in a pill
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 21 Oct 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/
-
-We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who&#8230;
 
 ---
