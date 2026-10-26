@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-25 12:16 UTC_
+_Actualizado: 2026-10-26 13:47 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: testing six tech promises and biotech’s blind spots
+### 1. The focus on AI safety disasters ignores everyday harms
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 26 Oct 2026 09:01:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/
+
+Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;
+
+---
+
+### 2. The Download: everyday AI harms and the race to nuclear spaceflight
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 26 Oct 2026 12:40:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;
+
+---
+
+### 3. The Download: testing six tech promises and biotech’s blind spots
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Securing our frontier model training environment
+### 4. Securing our frontier model training environment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +56,7 @@ OpenAI explains how we strengthened containment for frontier model training and 
 
 ---
 
-### 3. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+### 5. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +69,7 @@ Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and
 
 ---
 
-### 4. The Download: computing’s next leap and permafrost’s climate threat
+### 6. The Download: computing’s next leap and permafrost’s climate threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. The Foundations of Scalable AI
+### 7. The Foundations of Scalable AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +95,7 @@ A scalable AI system requires a strong foundation. Data, engineering, platforms,
 
 ---
 
-### 6. Designing an AI serving harness built to last
+### 8. Designing an AI serving harness built to last
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +108,7 @@ The next competitive advantage in enterprise AI has less to do with which model 
 
 ---
 
-### 7. AI’s hidden storage bill: What inference leaves behind
+### 9. AI’s hidden storage bill: What inference leaves behind
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +121,7 @@ Ask most executives to picture the cost of AI and they’ll likely see GPUs—ra
 
 ---
 
-### 8. Build more responsive apps with the Decisions API
+### 10. Build more responsive apps with the Decisions API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +134,7 @@ Fast, focused, low-cost decisions for any application.
 
 ---
 
-### 9. What FDE means at OpenAI
+### 11. What FDE means at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +147,7 @@ What forward deployed engineering means at OpenAI
 
 ---
 
-### 10. Uber brings ChatGPT Work to all employees with OpenAI
+### 12. Uber brings ChatGPT Work to all employees with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +160,7 @@ Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams re
 
 ---
 
-### 11. OpenAI and Poland’s NASK partner to advance AI safety and security
+### 13. OpenAI and Poland’s NASK partner to advance AI safety and security
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ OpenAI and Poland’s NASK are partnering on AI safety, security, and technical 
 
 ---
 
-### 12. Making the case for context-aware AI
+### 14. Making the case for context-aware AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +186,7 @@ Enterprise AI can generate recommendations, automate tasks, and help organizatio
 
 ---
 
-### 13. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+### 15. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ From local businesses to global brands, more advertisers can now reach people as
 
 ---
 
-### 14. Democratic governance of frontier AI, part II: Empowering cyber defenders
+### 16. Democratic governance of frontier AI, part II: Empowering cyber defenders
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, str
 
 ---
 
-### 15. Cloudflare links vulnerability discovery to defense with OpenAI
+### 17. Cloudflare links vulnerability discovery to defense with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +225,7 @@ Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes
 
 ---
 
-### 16. OpenAI models are coming to Google Cloud
+### 18. OpenAI models are coming to Google Cloud
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +238,7 @@ OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemi
 
 ---
 
-### 17. How AT&T is rethinking in-house legal work with OpenAI
+### 19. How AT&T is rethinking in-house legal work with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -225,7 +251,7 @@ AT&T is working with OpenAI to make legal knowledge easier to access. Learn how 
 
 ---
 
-### 18. Broad access through consistent standards
+### 20. Broad access through consistent standards
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -235,31 +261,5 @@ AT&T is working with OpenAI to make legal knowledge easier to access. Learn how 
 - **Enlace:** https://openai.com/index/broad-access-through-consistent-standards
 
 How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
-
----
-
-### 19. Using thousands of AI agents to uncover new leads in biological data
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 04:50:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/scaling-ai-research-for-complex-biological-data
-
-See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
-
----
-
-### 20. How we built ChatGPT’s novel ad stack for user trust and relevance
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,llm, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/building-chatgpt-ad-stack
-
-Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
 
 ---
