@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-26 13:47 UTC_
+_Actualizado: 2026-10-27 12:54 UTC_
 
 ## Selección priorizada
 
-### 1. The focus on AI safety disasters ignores everyday harms
+### 1. Will the real Anthropic please stand up
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 26 Oct 2026 17:45:43 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;
+
+---
+
+### 2. How solid-state transformers could help power the AI boom
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 27 Oct 2026 09:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/
+
+Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;
+
+---
+
+### 3. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 27 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;
+
+---
+
+### 4. Introducing GPT-6.1 Terra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-gpt-6-1-terra
+
+Bringing fast and capable computer use to everyone
+
+---
+
+### 5. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 13:45:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
+
+CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+
+---
+
+### 6. Greptile takes bug detection beyond code review with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 22:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/greptile-code-review-codex-astra
+
+How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+
+---
+
+### 7. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-cut-incident-investigation
+
+See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+
+---
+
+### 8. How Fanatics and OpenAI streamline the fan experience
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/fanatics-streamline-fan-experience
+
+Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
+
+---
+
+### 9. ChatGPT’s expanding world of work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/chatgpt-expanding-world-of-work
+
+Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.
+
+---
+
+### 10. Working with academic communities to build scientific understanding
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Oct 2026 14:30:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/building-scientific-understanding-with-academic-communities
+
+OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
+
+---
+
+### 11. The focus on AI safety disasters ignores everyday harms
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ Consider what passes for success in technology policy. An AI company promises th
 
 ---
 
-### 2. The Download: everyday AI harms and the race to nuclear spaceflight
+### 12. The Download: everyday AI harms and the race to nuclear spaceflight
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. The Download: testing six tech promises and biotech’s blind spots
+### 13. The Download: testing six tech promises and biotech’s blind spots
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Securing our frontier model training environment
+### 14. Securing our frontier model training environment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI explains how we strengthened containment for frontier model training and 
 
 ---
 
-### 5. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+### 15. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and
 
 ---
 
-### 6. The Download: computing’s next leap and permafrost’s climate threat
+### 16. The Download: computing’s next leap and permafrost’s climate threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. The Foundations of Scalable AI
+### 17. The Foundations of Scalable AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +225,7 @@ A scalable AI system requires a strong foundation. Data, engineering, platforms,
 
 ---
 
-### 8. Designing an AI serving harness built to last
+### 18. Designing an AI serving harness built to last
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +238,7 @@ The next competitive advantage in enterprise AI has less to do with which model 
 
 ---
 
-### 9. AI’s hidden storage bill: What inference leaves behind
+### 19. AI’s hidden storage bill: What inference leaves behind
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +251,7 @@ Ask most executives to picture the cost of AI and they’ll likely see GPUs—ra
 
 ---
 
-### 10. Build more responsive apps with the Decisions API
+### 20. Build more responsive apps with the Decisions API
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Ask most executives to picture the cost of AI and they’ll likely see GPUs—ra
 - **Enlace:** https://openai.com/index/decisions-api
 
 Fast, focused, low-cost decisions for any application.
-
----
-
-### 11. What FDE means at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Oct 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/forward-deployed-engineering-means
-
-What forward deployed engineering means at OpenAI
-
----
-
-### 12. Uber brings ChatGPT Work to all employees with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Oct 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/uber-chatgpt-work-rollout
-
-Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.
-
----
-
-### 13. OpenAI and Poland’s NASK partner to advance AI safety and security
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Oct 2026 00:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/openai-nask-ai-safety-security-partnership
-
-OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
-
----
-
-### 14. Making the case for context-aware AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 22 Oct 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/
-
-Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;
-
----
-
-### 15. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 13:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/chatgpt-ads-expands-26-new-countries
-
-From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
-
----
-
-### 16. Democratic governance of frontier AI, part II: Empowering cyber defenders
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/empowering-cyber-defenders
-
-OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
-
----
-
-### 17. Cloudflare links vulnerability discovery to defense with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/cloudflare-cyber
-
-Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.
-
----
-
-### 18. OpenAI models are coming to Google Cloud
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-models-google-cloud
-
-OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
-
----
-
-### 19. How AT&T is rethinking in-house legal work with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/att-legal
-
-AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
-
----
-
-### 20. Broad access through consistent standards
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 21 Oct 2026 21:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/broad-access-through-consistent-standards
-
-How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
 
 ---
