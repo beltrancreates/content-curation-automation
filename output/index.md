@@ -1,10 +1,127 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-27 12:54 UTC_
+_Actualizado: 2026-10-28 13:43 UTC_
 
 ## Selección priorizada
 
-### 1. Will the real Anthropic please stand up
+### 1. Pairing industrial AI autonomy and human control
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 28 Oct 2026 12:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/
+
+
+
+---
+
+### 2. The Download: dead startups fueling AI and interspecies communication
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 28 Oct 2026 12:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;
+
+---
+
+### 3. How Localiza reorganized work around generative AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 16 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:12d
+- **Enlace:** https://openai.com/index/localiza-generative-ai
+
+See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.
+
+---
+
+### 4. How Grupo Boticário uses AI to strengthen human connections
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 16 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:12d
+- **Enlace:** https://openai.com/index/grupo-boticario
+
+Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.
+
+---
+
+### 5. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 23 Oct 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:5d
+- **Enlace:** https://openai.com/index/anima
+
+Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.
+
+---
+
+### 6. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/oracle-apps-in-chatgpt
+
+OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
+
+---
+
+### 7. Retell uses OpenAI models to help power 100M monthly calls
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Oct 2026 15:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/retell-ai
+
+GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
+
+---
+
+### 8. Legora is building the agentic operating system for legal work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Oct 2026 09:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/legora-agentic-operating-system-for-legal-work
+
+See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+
+---
+
+### 9. How Check Point accelerates vulnerability research with Daybreak
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 27 Oct 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/check-point-daybreak
+
+With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.
+
+---
+
+### 10. Will the real Anthropic please stand up
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +134,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 2. How solid-state transformers could help power the AI boom
+### 11. How solid-state transformers could help power the AI boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +147,7 @@ Transformers are a crucial but nearly invisible part of our grid. The devices he
 
 ---
 
-### 3. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
+### 12. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Introducing GPT-6.1 Terra
+### 13. Introducing GPT-6.1 Terra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +173,7 @@ Bringing fast and capable computer use to everyone
 
 ---
 
-### 5. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+### 14. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +186,7 @@ CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebas
 
 ---
 
-### 6. Greptile takes bug detection beyond code review with GPT-6 Astra
+### 15. Greptile takes bug detection beyond code review with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +199,7 @@ How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen sec
 
 ---
 
-### 7. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+### 16. How Ultrafast cut incident investigation from hours to minutes at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +212,7 @@ See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes
 
 ---
 
-### 8. How Fanatics and OpenAI streamline the fan experience
+### 17. How Fanatics and OpenAI streamline the fan experience
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +225,7 @@ Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the 
 
 ---
 
-### 9. ChatGPT’s expanding world of work
+### 18. ChatGPT’s expanding world of work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +238,7 @@ Explore OpenAI Signals data on 165 work activities across nearly 100 countries, 
 
 ---
 
-### 10. Working with academic communities to build scientific understanding
+### 19. Working with academic communities to build scientific understanding
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +251,7 @@ OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesi
 
 ---
 
-### 11. The focus on AI safety disasters ignores everyday harms
+### 20. The focus on AI safety disasters ignores everyday harms
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -144,122 +261,5 @@ OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesi
 - **Enlace:** https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/
 
 Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;
-
----
-
-### 12. The Download: everyday AI harms and the race to nuclear spaceflight
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 26 Oct 2026 12:40:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;
-
----
-
-### 13. The Download: testing six tech promises and biotech’s blind spots
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 23 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;
-
----
-
-### 14. Securing our frontier model training environment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Oct 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/securing-our-frontier-model-training-environment
-
-OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
-
----
-
-### 15. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Oct 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/scaling-storage-one-billion-users-part-two
-
-Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
-
----
-
-### 16. The Download: computing’s next leap and permafrost’s climate threat
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 22 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;
-
----
-
-### 17. The Foundations of Scalable AI
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 22 Oct 2026 18:48:04 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/
-
-A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;
-
----
-
-### 18. Designing an AI serving harness built to last
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 22 Oct 2026 21:17:29 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/
-
-The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;
-
----
-
-### 19. AI’s hidden storage bill: What inference leaves behind
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 22 Oct 2026 08:41:18 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/
-
-Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;
-
----
-
-### 20. Build more responsive apps with the Decisions API
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 22 Oct 2026 19:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/decisions-api
-
-Fast, focused, low-cost decisions for any application.
 
 ---
