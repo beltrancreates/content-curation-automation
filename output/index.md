@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-28 13:43 UTC_
+_Actualizado: 2026-10-29 13:53 UTC_
 
 ## Selección priorizada
 
-### 1. Pairing industrial AI autonomy and human control
+### 1. Our climate models have a big, dangerous blind spot
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 29 Oct 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/
+
+Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;
+
+---
+
+### 2. We urgently need to monitor AI agents’ actions in real time
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 29 Oct 2026 10:11:12 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
+
+This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;
+
+---
+
+### 3. The Download: AI agent tracking and climate feedback loops
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 29 Oct 2026 12:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;
+
+---
+
+### 4. Creating AI value with enterprise context
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 28 Oct 2026 20:32:02 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
+
+Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;
+
+---
+
+### 5. Legora is building the agentic operating system for legal work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Oct 2026 09:30:00 GMT
+- **Score:** 9.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d, duplicate
+- **Enlace:** https://openai.com/index/legora
+
+See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+
+---
+
+### 6. The future of the firm
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Oct 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/the-future-of-the-firm
+
+How AI might enter the org chart—beneath, beside, and between us.
+
+---
+
+### 7. OpenAI and ServiceNow expand partnership across enterprise workflows
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Oct 2026 13:15:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-servicenow-partnership-expansion
+
+OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
+
+---
+
+### 8. Pairing industrial AI autonomy and human control
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ _Actualizado: 2026-10-28 13:43 UTC_
 
 ---
 
-### 2. The Download: dead startups fueling AI and interspecies communication
+### 9. The Download: dead startups fueling AI and interspecies communication
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. How Localiza reorganized work around generative AI
+### 10. How Localiza reorganized work around generative AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +134,7 @@ See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ special
 
 ---
 
-### 4. How Grupo Boticário uses AI to strengthen human connections
+### 11. How Grupo Boticário uses AI to strengthen human connections
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ Almost 50 years after starting in a compounding pharmacy in Paraná, the group o
 
 ---
 
-### 5. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
+### 12. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ Anima expands what care teams can do with OpenAI models, giving them more capaci
 
 ---
 
-### 6. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+### 13. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ OpenAI and Oracle are expanding their partnership to bring business applications
 
 ---
 
-### 7. Retell uses OpenAI models to help power 100M monthly calls
+### 14. Retell uses OpenAI models to help power 100M monthly calls
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a 
 
 ---
 
-### 8. Legora is building the agentic operating system for legal work
+### 15. Legora is building the agentic operating system for legal work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl
 
 ---
 
-### 9. How Check Point accelerates vulnerability research with Daybreak
+### 16. How Check Point accelerates vulnerability research with Daybreak
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ With OpenAI Daybreak, Check Point speeds up the research behind new security pro
 
 ---
 
-### 10. Will the real Anthropic please stand up
+### 17. Will the real Anthropic please stand up
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +225,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 11. How solid-state transformers could help power the AI boom
+### 18. How solid-state transformers could help power the AI boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ Transformers are a crucial but nearly invisible part of our grid. The devices he
 
 ---
 
-### 12. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
+### 19. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 13. Introducing GPT-6.1 Terra
+### 20. Introducing GPT-6.1 Terra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -170,96 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://openai.com/index/introducing-gpt-6-1-terra
 
 Bringing fast and capable computer use to everyone
-
----
-
-### 14. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 13:45:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
-
-CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
-
----
-
-### 15. Greptile takes bug detection beyond code review with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 22:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/greptile-code-review-codex-astra
-
-How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
-
----
-
-### 16. How Ultrafast cut incident investigation from hours to minutes at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-cut-incident-investigation
-
-See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
-
----
-
-### 17. How Fanatics and OpenAI streamline the fan experience
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/fanatics-streamline-fan-experience
-
-Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
-
----
-
-### 18. ChatGPT’s expanding world of work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/chatgpt-expanding-world-of-work
-
-Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.
-
----
-
-### 19. Working with academic communities to build scientific understanding
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 14:30:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/building-scientific-understanding-with-academic-communities
-
-OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
-
----
-
-### 20. The focus on AI safety disasters ignores everyday harms
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 26 Oct 2026 09:01:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/
-
-Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;
 
 ---

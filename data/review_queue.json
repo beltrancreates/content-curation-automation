@@ -13223,6 +13223,56 @@
     ]
   },
   {
+    "id": "3473b57ebd9db8dc4426b1c4b91e4a796f04126189354e2a17df9b37afcf9059",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "published": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "372defbbd636f8891e28b7a9b6848ef3c744073391b119012ad928341a798dd2",
+    "title": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -35485,6 +35535,32 @@
     ]
   },
   {
+    "id": "66164bca3c2a44bf9678161d6f8bf2e335cf6c91501c1b0a25ee3805ad85c99b",
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 9.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d",
+      "duplicate"
+    ]
+  },
+  {
     "id": "713ad390566d6c9037a2fc6ab508b5ae041c4f89792812c460908a46bd2308fb",
     "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
     "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
@@ -46155,6 +46231,98 @@
     "score": 6.4,
     "reasons": [
       "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "de3c1805f5c9ecd2f93a30316ae0520eb3f30a1281c43f521e5618d0dcd94e4f",
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+    "published": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "0ddfe5d11bb9cf7dabf2d75c73e749edbf977615bb098745a8e1f7cf9aa8c46b",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;",
+    "published": "Thu, 29 Oct 2026 12:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "ced445a22761d5c76daae8f1515f4aa329843960aaa8c298ec5d45d6a660a979",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+    "published": "Thu, 29 Oct 2026 10:11:12 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "1573dfa8f0c3ac1d4e66197c04ecb7ee45ef55bf0fc4d92f9749d9d8b1b7bb40",
+    "title": "Our climate models have a big, dangerous blind spot",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;",
+    "published": "Thu, 29 Oct 2026 10:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:model",
       "authority:8",
       "recent:0d"
     ]
