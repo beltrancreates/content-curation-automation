@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-10-29 13:53 UTC_
+_Actualizado: 2026-10-30 13:45 UTC_
 
 ## Selección priorizada
 
-### 1. Our climate models have a big, dangerous blind spot
+### 1. The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 30 Oct 2026 11:30:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;
+
+---
+
+### 2. How Ropes & Gray is developing AI for transactional diligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Oct 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/ropes-gray-ai-diligence
+
+Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
+
+---
+
+### 3. How we detect frontier model misalignment
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Oct 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/how-we-detect-frontier-model-misalignment
+
+OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.
+
+---
+
+### 4. An updated Model Spec for more capable and beneficial AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 29 Oct 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/updated-model-spec
+
+OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
+
+---
+
+### 5. Our climate models have a big, dangerous blind spot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ Climate change itself is increasingly fueling climate change. Rising concentrati
 
 ---
 
-### 2. We urgently need to monitor AI agents’ actions in real time
+### 6. We urgently need to monitor AI agents’ actions in real time
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +82,7 @@ This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. T
 
 ---
 
-### 3. The Download: AI agent tracking and climate feedback loops
+### 7. The Download: AI agent tracking and climate feedback loops
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +95,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Creating AI value with enterprise context
+### 8. Creating AI value with enterprise context
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +108,7 @@ Across a business, any number of AI platforms, systems, and tools may be at work
 
 ---
 
-### 5. Legora is building the agentic operating system for legal work
+### 9. Legora is building the agentic operating system for legal work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl
 
 ---
 
-### 6. The future of the firm
+### 10. The future of the firm
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ How AI might enter the org chart—beneath, beside, and between us.
 
 ---
 
-### 7. OpenAI and ServiceNow expand partnership across enterprise workflows
+### 11. OpenAI and ServiceNow expand partnership across enterprise workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents
 
 ---
 
-### 8. Pairing industrial AI autonomy and human control
+### 12. Pairing industrial AI autonomy and human control
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +160,7 @@ OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents
 
 ---
 
-### 9. The Download: dead startups fueling AI and interspecies communication
+### 13. The Download: dead startups fueling AI and interspecies communication
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. How Localiza reorganized work around generative AI
+### 14. How Localiza reorganized work around generative AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ special
 
 ---
 
-### 11. How Grupo Boticário uses AI to strengthen human connections
+### 15. How Grupo Boticário uses AI to strengthen human connections
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ Almost 50 years after starting in a compounding pharmacy in Paraná, the group o
 
 ---
 
-### 12. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
+### 16. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +212,7 @@ Anima expands what care teams can do with OpenAI models, giving them more capaci
 
 ---
 
-### 13. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+### 17. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +225,7 @@ OpenAI and Oracle are expanding their partnership to bring business applications
 
 ---
 
-### 14. Retell uses OpenAI models to help power 100M monthly calls
+### 18. Retell uses OpenAI models to help power 100M monthly calls
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a 
 
 ---
 
-### 15. Legora is building the agentic operating system for legal work
+### 19. Legora is building the agentic operating system for legal work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl
 
 ---
 
-### 16. How Check Point accelerates vulnerability research with Daybreak
+### 20. How Check Point accelerates vulnerability research with Daybreak
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl
 - **Enlace:** https://openai.com/index/check-point-daybreak
 
 With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.
-
----
-
-### 17. Will the real Anthropic please stand up
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 26 Oct 2026 17:45:43 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;
-
----
-
-### 18. How solid-state transformers could help power the AI boom
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 27 Oct 2026 09:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/
-
-Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;
-
----
-
-### 19. The Download: Anthropic’s IPO, smarter power grids, and exercise pills
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 27 Oct 2026 12:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;
-
----
-
-### 20. Introducing GPT-6.1 Terra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Oct 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-gpt-6-1-terra
-
-Bringing fast and capable computer use to everyone
 
 ---
