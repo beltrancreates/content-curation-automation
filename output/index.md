@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-01 13:58 UTC_
+_Actualizado: 2026-11-02 16:44 UTC_
 
 ## Selección priorizada
 
-### 1. Fair use benefits everyone
+### 1. The Download: the agentic web arrives and the drive for safer roads
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 02 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our&#8230;
+
+---
+
+### 2. Stop counting tokens, start counting what ships
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 02 Nov 2026 13:10:32 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/
+
+When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;
+
+---
+
+### 3. Introducing the Grid Protectors Program
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 02 Nov 2026 15:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/grid-protectors-program
+
+OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
+
+---
+
+### 4. Fair use benefits everyone
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +56,7 @@ OpenAI shares excerpts from court briefs by creators, academics, accessibility a
 
 ---
 
-### 2. Making it easier for websites to express AI training preferences
+### 5. Making it easier for websites to express AI training preferences
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +69,7 @@ OpenAI will honor a shared robots.txt signal to help website operators communica
 
 ---
 
-### 3. Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
+### 6. Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +82,7 @@ Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders a
 
 ---
 
-### 4. Community safety report and new protections for teens
+### 7. Community safety report and new protections for teens
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +95,7 @@ OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards,
 
 ---
 
-### 5. The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals
+### 8. The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. How Ropes & Gray is developing AI for transactional diligence
+### 9. How Ropes & Gray is developing AI for transactional diligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers r
 
 ---
 
-### 7. How we detect frontier model misalignment
+### 10. How we detect frontier model misalignment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ OpenAI uses layered monitoring to detect frontier model misalignment and unautho
 
 ---
 
-### 8. An updated Model Spec for more capable and beneficial AI
+### 11. An updated Model Spec for more capable and beneficial AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ OpenAI’s updated Model Spec outlines five core values to guide more capable AI
 
 ---
 
-### 9. Our climate models have a big, dangerous blind spot
+### 12. Our climate models have a big, dangerous blind spot
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +160,7 @@ Climate change itself is increasingly fueling climate change. Rising concentrati
 
 ---
 
-### 10. We urgently need to monitor AI agents’ actions in real time
+### 13. We urgently need to monitor AI agents’ actions in real time
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +173,7 @@ This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. T
 
 ---
 
-### 11. The Download: AI agent tracking and climate feedback loops
+### 14. The Download: AI agent tracking and climate feedback loops
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Creating AI value with enterprise context
+### 15. Creating AI value with enterprise context
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ Across a business, any number of AI platforms, systems, and tools may be at work
 
 ---
 
-### 13. Legora is building the agentic operating system for legal work
+### 16. Legora is building the agentic operating system for legal work
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl
 
 ---
 
-### 14. The future of the firm
+### 17. The future of the firm
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ How AI might enter the org chart—beneath, beside, and between us.
 
 ---
 
-### 15. OpenAI and ServiceNow expand partnership across enterprise workflows
+### 18. OpenAI and ServiceNow expand partnership across enterprise workflows
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents
 
 ---
 
-### 16. Pairing industrial AI autonomy and human control
+### 19. Pairing industrial AI autonomy and human control
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +251,7 @@ OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents
 
 ---
 
-### 17. The Download: dead startups fueling AI and interspecies communication
+### 20. The Download: dead startups fueling AI and interspecies communication
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents
 - **Enlace:** https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;
-
----
-
-### 18. How Localiza reorganized work around generative AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:12d
-- **Enlace:** https://openai.com/index/localiza-generative-ai
-
-See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.
-
----
-
-### 19. How Grupo Boticário uses AI to strengthen human connections
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 16 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:12d
-- **Enlace:** https://openai.com/index/grupo-boticario
-
-Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.
-
----
-
-### 20. Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 23 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:5d
-- **Enlace:** https://openai.com/index/anima
-
-Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.
 
 ---
