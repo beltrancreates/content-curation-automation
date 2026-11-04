@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-03 14:47 UTC_
+_Actualizado: 2026-11-04 14:59 UTC_
 
 ## Selección priorizada
 
-### 1. Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+### 1. Securing the agentic enterprise with data lineage
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 04 Nov 2026 13:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/
+
+A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;
+
+---
+
+### 2. The Download: blended meat, restored sight, and the agentic web
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 04 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;
+
+---
+
+### 3. Raising the quality of insights in agentic analytics
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 02 Nov 2026 17:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/
+
+In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;
+
+---
+
+### 4. Accelerating engineering for the physical world
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Nov 2026 12:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/accelerating-engineering-for-the-physical-world
+
+Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.
+
+---
+
+### 5. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
+
+Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.
+
+---
+
+### 6. How Cisco defends at machine speed with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 03 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/cisco-cyber
+
+Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.
+
+---
+
+### 7. Evernote turns AI-driven discovery into paid subscriptions
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 28 Oct 2026 19:40:49 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:6d
+- **Enlace:** https://openai.com/ads/customers/evernote
+
+Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.
+
+---
+
+### 8. Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 2. The Download: controlling AI agents and “Super Intelligence” loyalty tests
+### 9. The Download: controlling AI agents and “Super Intelligence” loyalty tests
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. How “reverse game theory” could keep AI agents in check
+### 10. How “reverse game theory” could keep AI agents in check
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ A new approach known as “reverse game theory” aims to control powerful AI mo
 
 ---
 
-### 4. Qodo builds context into AI code review with Codex
+### 11. Qodo builds context into AI code review with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ Qodo brings company knowledge and coding standards into Codex, helping developer
 
 ---
 
-### 5. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
+### 12. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ OpenAI appoints Dan Driscoll to advise on responsible AI for national security m
 
 ---
 
-### 6. LifeVal
+### 13. LifeVal
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ Introducing LifeVal, a benchmark measuring how well AI helps people complete eve
 
 ---
 
-### 7. Scaling Git at OpenAI
+### 14. Scaling Git at OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ How OpenAI built Pando, a Git-compatible backend designed for the scale of devel
 
 ---
 
-### 8. Preparing our next security sprint to harden OpenAI
+### 15. Preparing our next security sprint to harden OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ OpenAI is preparing its next internal security sprint with Cathedral Systems to 
 
 ---
 
-### 9. Heimstaden is changing residential real estate management with AI
+### 16. Heimstaden is changing residential real estate management with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transfor
 
 ---
 
-### 10. Rewarding defenders with bigger bug bounties
+### 17. Rewarding defenders with bigger bug bounties
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +225,7 @@ OpenAI is raising Security Bug Bounty rewards and introducing report quality, lo
 
 ---
 
-### 11. The Download: the agentic web arrives and the drive for safer roads
+### 18. The Download: the agentic web arrives and the drive for safer roads
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Stop counting tokens, start counting what ships
+### 19. Stop counting tokens, start counting what ships
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ When a developer gives an AI agent a coding task, the agent does more than answe
 
 ---
 
-### 13. Introducing the Grid Protectors Program
+### 20. Introducing the Grid Protectors Program
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -170,96 +261,5 @@ When a developer gives an AI agent a coding task, the agent does more than answe
 - **Enlace:** https://openai.com/index/grid-protectors-program
 
 OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
-
----
-
-### 14. Fair use benefits everyone
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 30 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/fair-use-benefits-everyone
-
-OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.
-
----
-
-### 15. Making it easier for websites to express AI training preferences
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 30 Oct 2026 09:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/helping-websites-express-ai-training-preferences
-
-OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
-
----
-
-### 16. Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Oct 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:2d
-- **Enlace:** https://openai.com/index/credit-saison
-
-Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.
-
----
-
-### 17. Community safety report and new protections for teens
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 30 Oct 2026 09:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/community-safety-report-and-new-protections-for-teens
-
-OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
-
----
-
-### 18. The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 30 Oct 2026 11:30:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;
-
----
-
-### 19. How Ropes & Gray is developing AI for transactional diligence
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Oct 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/ropes-gray-ai-diligence
-
-Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
-
----
-
-### 20. How we detect frontier model misalignment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 29 Oct 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/how-we-detect-frontier-model-misalignment
-
-OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.
 
 ---
