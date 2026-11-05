@@ -1,10 +1,127 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-04 14:59 UTC_
+_Actualizado: 2026-11-05 15:05 UTC_
 
 ## Selección priorizada
 
-### 1. Securing the agentic enterprise with data lineage
+### 1. The Download: Texas’s fragile AI boom and energy policy shifts
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 05 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;
+
+---
+
+### 2. Roundtables: Inside the Quest for Cognitive Immortality
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 04 Nov 2026 18:21:40 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/
+
+Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;
+
+---
+
+### 3. Texas was the new epicenter of the AI data center buildout. That might be kaput.
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 04 Nov 2026 18:50:55 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+
+Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;
+
+---
+
+### 4. DevRev delivers autonomous self-service with GPT-6.1 Sol
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/devrev-enterprise-self-service
+
+DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.
+
+---
+
+### 5. Introducing Images 2.6
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-images-2-6
+
+Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
+
+---
+
+### 6. Setting a new standard for responsible AI infrastructure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 02:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
+
+OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
+
+---
+
+### 7. Daybreak Red is now available in AWS GovCloud (US-East)
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Nov 2026 07:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/daybreak-red-aws-govcloud
+
+Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
+
+---
+
+### 8. A thousand fewer paths to root
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/a-thousand-fewer-paths-to-root
+
+OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.
+
+---
+
+### 9. OpenAI to acquire Pierre Computer Company, Inc.
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 04 Nov 2026 14:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/openai-to-acquire-pierre
+
+OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
+
+---
+
+### 10. Securing the agentic enterprise with data lineage
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +134,7 @@ A sales representative asks an AI agent for customer pricing, and the agent pull
 
 ---
 
-### 2. The Download: blended meat, restored sight, and the agentic web
+### 11. The Download: blended meat, restored sight, and the agentic web
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Raising the quality of insights in agentic analytics
+### 12. Raising the quality of insights in agentic analytics
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +160,7 @@ In just a few years, generative AI has changed the face of enterprise analytics,
 
 ---
 
-### 4. Accelerating engineering for the physical world
+### 13. Accelerating engineering for the physical world
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +173,7 @@ Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design,
 
 ---
 
-### 5. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
+### 14. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +186,7 @@ Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the
 
 ---
 
-### 6. How Cisco defends at machine speed with OpenAI
+### 15. How Cisco defends at machine speed with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +199,7 @@ Cisco combines network intelligence with OpenAI models to strengthen enterprise 
 
 ---
 
-### 7. Evernote turns AI-driven discovery into paid subscriptions
+### 16. Evernote turns AI-driven discovery into paid subscriptions
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +212,7 @@ Evernote used ChatGPT Ads to introduce its note-taking app to people working wit
 
 ---
 
-### 8. Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+### 17. Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +225,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 9. The Download: controlling AI agents and “Super Intelligence” loyalty tests
+### 18. The Download: controlling AI agents and “Super Intelligence” loyalty tests
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. How “reverse game theory” could keep AI agents in check
+### 19. How “reverse game theory” could keep AI agents in check
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +251,7 @@ A new approach known as “reverse game theory” aims to control powerful AI mo
 
 ---
 
-### 11. Qodo builds context into AI code review with Codex
+### 20. Qodo builds context into AI code review with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -144,122 +261,5 @@ A new approach known as “reverse game theory” aims to control powerful AI mo
 - **Enlace:** https://openai.com/index/qodo-codex-plugin
 
 Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
-
----
-
-### 12. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/dan-driscoll-joins-openai
-
-OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
-
----
-
-### 13. LifeVal
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/lifeval
-
-Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
-
----
-
-### 14. Scaling Git at OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 15:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/scaling-git-at-openai
-
-How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.
-
----
-
-### 15. Preparing our next security sprint to harden OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 18:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
-
-OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
-
----
-
-### 16. Heimstaden is changing residential real estate management with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/heimstaden
-
-Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
-
----
-
-### 17. Rewarding defenders with bigger bug bounties
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 18:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
-
-OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
-
----
-
-### 18. The Download: the agentic web arrives and the drive for safer roads
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 02 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our&#8230;
-
----
-
-### 19. Stop counting tokens, start counting what ships
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 02 Nov 2026 13:10:32 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/
-
-When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;
-
----
-
-### 20. Introducing the Grid Protectors Program
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 15:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/grid-protectors-program
-
-OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
 
 ---
