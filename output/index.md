@@ -1,10 +1,101 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-05 15:05 UTC_
+_Actualizado: 2026-11-06 14:43 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Texas’s fragile AI boom and energy policy shifts
+### 1. The Download: a humanoid cleans house and Samsung builds for the AI boom
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 06 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;
+
+---
+
+### 2. Cult.fit builds operational muscle with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 20:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/cultfit-builds-with-codex
+
+Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
+
+---
+
+### 3. Flipsnack grows product signups with conversion optimization
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 00:45:15 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/ads/customers/flipsnack
+
+Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.
+
+---
+
+### 4. Merge builds product and business tools with OpenAI technology
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/merge-builds-with-openai
+
+Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.
+
+---
+
+### 5. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-gpt-6-cyber
+
+Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
+
+---
+
+### 6. Australian universities are creating AI-native graduates
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/australian-universities-ai-native-graduates
+
+Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
+
+---
+
+### 7. Franklin Templeton uses OpenAI to support investment research
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Nov 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/franklin-templeton
+
+Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.
+
+---
+
+### 8. The Download: Texas’s fragile AI boom and energy policy shifts
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Roundtables: Inside the Quest for Cognitive Immortality
+### 9. Roundtables: Inside the Quest for Cognitive Immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +121,7 @@ Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the se
 
 ---
 
-### 3. Texas was the new epicenter of the AI data center buildout. That might be kaput.
+### 10. Texas was the new epicenter of the AI data center buildout. That might be kaput.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +134,7 @@ Texas is the fastest-growing data center market in the US and ground zero for Bi
 
 ---
 
-### 4. DevRev delivers autonomous self-service with GPT-6.1 Sol
+### 11. DevRev delivers autonomous self-service with GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +147,7 @@ DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe
 
 ---
 
-### 5. Introducing Images 2.6
+### 12. Introducing Images 2.6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +160,7 @@ Images 2.6 brings faster image generation, GIF creation, more precise editing, a
 
 ---
 
-### 6. Setting a new standard for responsible AI infrastructure
+### 13. Setting a new standard for responsible AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +173,7 @@ OpenAI introduces its National Community Compact and Compute Campus Policy Bluep
 
 ---
 
-### 7. Daybreak Red is now available in AWS GovCloud (US-East)
+### 14. Daybreak Red is now available in AWS GovCloud (US-East)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +186,7 @@ Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East
 
 ---
 
-### 8. A thousand fewer paths to root
+### 15. A thousand fewer paths to root
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +199,7 @@ OpenAI built an autonomous pipeline that found, validated, and generated patches
 
 ---
 
-### 9. OpenAI to acquire Pierre Computer Company, Inc.
+### 16. OpenAI to acquire Pierre Computer Company, Inc.
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +212,7 @@ OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for build
 
 ---
 
-### 10. Securing the agentic enterprise with data lineage
+### 17. Securing the agentic enterprise with data lineage
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +225,7 @@ A sales representative asks an AI agent for customer pricing, and the agent pull
 
 ---
 
-### 11. The Download: blended meat, restored sight, and the agentic web
+### 18. The Download: blended meat, restored sight, and the agentic web
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +238,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Raising the quality of insights in agentic analytics
+### 19. Raising the quality of insights in agentic analytics
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +251,7 @@ In just a few years, generative AI has changed the face of enterprise analytics,
 
 ---
 
-### 13. Accelerating engineering for the physical world
+### 20. Accelerating engineering for the physical world
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -170,96 +261,5 @@ In just a few years, generative AI has changed the face of enterprise analytics,
 - **Enlace:** https://openai.com/index/accelerating-engineering-for-the-physical-world
 
 Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.
-
----
-
-### 14. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
-
-Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.
-
----
-
-### 15. How Cisco defends at machine speed with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/cisco-cyber
-
-Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.
-
----
-
-### 16. Evernote turns AI-driven discovery into paid subscriptions
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 28 Oct 2026 19:40:49 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:6d
-- **Enlace:** https://openai.com/ads/customers/evernote
-
-Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.
-
----
-
-### 17. Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 03 Nov 2026 04:18:47 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;
-
----
-
-### 18. The Download: controlling AI agents and “Super Intelligence” loyalty tests
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 03 Nov 2026 13:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;
-
----
-
-### 19. How “reverse game theory” could keep AI agents in check
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 03 Nov 2026 10:43:41 +0000
-- **Score:** 12.4
-- **Razones:** keyword_hits:ai,model,research,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
-
-A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;
-
----
-
-### 20. Qodo builds context into AI code review with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 02 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/qodo-codex-plugin
-
-Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
 
 ---
