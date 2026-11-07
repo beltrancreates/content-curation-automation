@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-06 14:43 UTC_
+_Actualizado: 2026-11-07 13:41 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: a humanoid cleans house and Samsung builds for the AI boom
+### 1. Measuring how AI agents handle everyday wet-lab science
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 06 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+
+OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
+
+---
+
+### 2. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 06 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/partnering-with-hacktron
+
+OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
+
+---
+
+### 3. The Download: a humanoid cleans house and Samsung builds for the AI boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Cult.fit builds operational muscle with Codex
+### 4. Cult.fit builds operational muscle with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +56,7 @@ Cult.fit is using Codex to help teams across functions build tools, move faster,
 
 ---
 
-### 3. Flipsnack grows product signups with conversion optimization
+### 5. Flipsnack grows product signups with conversion optimization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +69,7 @@ Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product
 
 ---
 
-### 4. Merge builds product and business tools with OpenAI technology
+### 6. Merge builds product and business tools with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +82,7 @@ Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support ma
 
 ---
 
-### 5. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+### 7. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +95,7 @@ Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitabl
 
 ---
 
-### 6. Australian universities are creating AI-native graduates
+### 8. Australian universities are creating AI-native graduates
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +108,7 @@ Australian universities are expanding access to ChatGPT and bringing AI into tea
 
 ---
 
-### 7. Franklin Templeton uses OpenAI to support investment research
+### 9. Franklin Templeton uses OpenAI to support investment research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +121,7 @@ Starting with equity research, Franklin Templeton is developing AI workflows to 
 
 ---
 
-### 8. The Download: Texas’s fragile AI boom and energy policy shifts
+### 10. The Download: Texas’s fragile AI boom and energy policy shifts
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. Roundtables: Inside the Quest for Cognitive Immortality
+### 11. Roundtables: Inside the Quest for Cognitive Immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +147,7 @@ Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the se
 
 ---
 
-### 10. Texas was the new epicenter of the AI data center buildout. That might be kaput.
+### 12. Texas was the new epicenter of the AI data center buildout. That might be kaput.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +160,7 @@ Texas is the fastest-growing data center market in the US and ground zero for Bi
 
 ---
 
-### 11. DevRev delivers autonomous self-service with GPT-6.1 Sol
+### 13. DevRev delivers autonomous self-service with GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +173,7 @@ DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe
 
 ---
 
-### 12. Introducing Images 2.6
+### 14. Introducing Images 2.6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ Images 2.6 brings faster image generation, GIF creation, more precise editing, a
 
 ---
 
-### 13. Setting a new standard for responsible AI infrastructure
+### 15. Setting a new standard for responsible AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ OpenAI introduces its National Community Compact and Compute Campus Policy Bluep
 
 ---
 
-### 14. Daybreak Red is now available in AWS GovCloud (US-East)
+### 16. Daybreak Red is now available in AWS GovCloud (US-East)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East
 
 ---
 
-### 15. A thousand fewer paths to root
+### 17. A thousand fewer paths to root
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +225,7 @@ OpenAI built an autonomous pipeline that found, validated, and generated patches
 
 ---
 
-### 16. OpenAI to acquire Pierre Computer Company, Inc.
+### 18. OpenAI to acquire Pierre Computer Company, Inc.
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +238,7 @@ OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for build
 
 ---
 
-### 17. Securing the agentic enterprise with data lineage
+### 19. Securing the agentic enterprise with data lineage
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +251,7 @@ A sales representative asks an AI agent for customer pricing, and the agent pull
 
 ---
 
-### 18. The Download: blended meat, restored sight, and the agentic web
+### 20. The Download: blended meat, restored sight, and the agentic web
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -235,31 +261,5 @@ A sales representative asks an AI agent for customer pricing, and the agent pull
 - **Enlace:** https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;
-
----
-
-### 19. Raising the quality of insights in agentic analytics
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 02 Nov 2026 17:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/
-
-In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;
-
----
-
-### 20. Accelerating engineering for the physical world
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 03 Nov 2026 12:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/accelerating-engineering-for-the-physical-world
-
-Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.
 
 ---
