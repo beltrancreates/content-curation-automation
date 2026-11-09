@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-08 14:00 UTC_
+_Actualizado: 2026-11-09 17:03 UTC_
 
 ## Selección priorizada
 
-### 1. Measuring how AI agents handle everyday wet-lab science
+### 1. The Download: empty AI climate claims, and an Nvidia investigation
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 09 Nov 2026 13:15:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;
+
+---
+
+### 2. The climate case for AI has not been made
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 09 Nov 2026 10:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/
+
+This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;
+
+---
+
+### 3. Innovating with AI in the special chemicals industry
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 09 Nov 2026 13:00:00 +0000
+- **Score:** 12.4
+- **Razones:** keyword_hits:artificial intelligence,ai,model,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/
+
+As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;
+
+---
+
+### 4. Measuring how AI agents handle everyday wet-lab science
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +56,7 @@ OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI age
 
 ---
 
-### 2. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+### 5. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +69,7 @@ OpenAI is partnering with Hacktron to find vulnerabilities, test connections wit
 
 ---
 
-### 3. The Download: a humanoid cleans house and Samsung builds for the AI boom
+### 6. The Download: a humanoid cleans house and Samsung builds for the AI boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. Cult.fit builds operational muscle with Codex
+### 7. Cult.fit builds operational muscle with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +95,7 @@ Cult.fit is using Codex to help teams across functions build tools, move faster,
 
 ---
 
-### 5. Flipsnack grows product signups with conversion optimization
+### 8. Flipsnack grows product signups with conversion optimization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product
 
 ---
 
-### 6. Merge builds product and business tools with OpenAI technology
+### 9. Merge builds product and business tools with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support ma
 
 ---
 
-### 7. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+### 10. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitabl
 
 ---
 
-### 8. Australian universities are creating AI-native graduates
+### 11. Australian universities are creating AI-native graduates
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ Australian universities are expanding access to ChatGPT and bringing AI into tea
 
 ---
 
-### 9. Franklin Templeton uses OpenAI to support investment research
+### 12. Franklin Templeton uses OpenAI to support investment research
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ Starting with equity research, Franklin Templeton is developing AI workflows to 
 
 ---
 
-### 10. The Download: Texas’s fragile AI boom and energy policy shifts
+### 13. The Download: Texas’s fragile AI boom and energy policy shifts
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. Roundtables: Inside the Quest for Cognitive Immortality
+### 14. Roundtables: Inside the Quest for Cognitive Immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +186,7 @@ Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the se
 
 ---
 
-### 12. Texas was the new epicenter of the AI data center buildout. That might be kaput.
+### 15. Texas was the new epicenter of the AI data center buildout. That might be kaput.
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ Texas is the fastest-growing data center market in the US and ground zero for Bi
 
 ---
 
-### 13. DevRev delivers autonomous self-service with GPT-6.1 Sol
+### 16. DevRev delivers autonomous self-service with GPT-6.1 Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe
 
 ---
 
-### 14. Introducing Images 2.6
+### 17. Introducing Images 2.6
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ Images 2.6 brings faster image generation, GIF creation, more precise editing, a
 
 ---
 
-### 15. Setting a new standard for responsible AI infrastructure
+### 18. Setting a new standard for responsible AI infrastructure
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ OpenAI introduces its National Community Compact and Compute Campus Policy Bluep
 
 ---
 
-### 16. Daybreak Red is now available in AWS GovCloud (US-East)
+### 19. Daybreak Red is now available in AWS GovCloud (US-East)
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +251,7 @@ Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East
 
 ---
 
-### 17. A thousand fewer paths to root
+### 20. A thousand fewer paths to root
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -222,44 +261,5 @@ Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East
 - **Enlace:** https://openai.com/index/a-thousand-fewer-paths-to-root
 
 OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.
-
----
-
-### 18. OpenAI to acquire Pierre Computer Company, Inc.
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Nov 2026 14:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/openai-to-acquire-pierre
-
-OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
-
----
-
-### 19. Securing the agentic enterprise with data lineage
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 04 Nov 2026 13:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/
-
-A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;
-
----
-
-### 20. The Download: blended meat, restored sight, and the agentic web
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 04 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;
 
 ---
