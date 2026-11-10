@@ -36694,5 +36694,199 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "27031441594673205128142b26da5dac89f7ee7cdb1351aa1d763b4ed2714da6",
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "7d36bedb27f3251ba8b1d640d81004902aa9b24db62ecceab5d6da7ff9edb85a",
+    "title": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "e408ab02dd9218605bc817b087600990b911b7f55a09830dd4ad69cd9f21e6de",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "f3ef4768044670a4b34423e88f05d22b3f3ef26ad775b7418285a07df262412f",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "40e1bcddf66c65d92f79cb1a79c7798f29f723e3c8e357f7846b445a6b0868dc",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "published": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "c82ebf36618531ca139c4e490e80ebe75b89b8700828e5d6682862da9a4cfa20",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "8125218d29e0ffc2b182db71c9ecaf467084e7ff3f3fe80ac15290ea2bf50ff7",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "link": "https://openai.com/index/kuken",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "25c99a6477dbb57a3e9d3f1d8d5fa0484ea21c07078c01698de4c8c89b1379c1",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+    "published": "Tue, 10 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "90c81f412b1ada2fdbd95ae58020cd8c5d822ba3e65084aa853953ceeacff9bb",
+    "title": "Evolving metal extraction processes",
+    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+    "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "421dffacf562682d2088cbac47eb9f1aeeab23120bc05551f631bae218d820f4",
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+    "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "18d769ee858751355e839cb60f9e186a88b5ce7d13c45dde6db25eae13f0c272",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
+    "published": "Mon, 09 Nov 2026 17:05:43 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

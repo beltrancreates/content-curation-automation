@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-09 17:03 UTC_
+_Actualizado: 2026-11-10 15:21 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: empty AI climate claims, and an Nvidia investigation
+### 1. Nancy Pelosi’s replacement is ready to regulate AI
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 09 Nov 2026 17:05:43 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+
+As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;
+
+---
+
+### 2. The backlash about data centers might really just be about electricity
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 09 Nov 2026 19:35:33 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;
+
+---
+
+### 3. The Download: Pelosi’s successor targets AI and data centers face power woes
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 10 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;
+
+---
+
+### 4. Kuken Industries searches 70 years of drawings in minutes
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/kuken
+
+Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.
+
+---
+
+### 5. CodeRabbit scales agentic software development and ships 20x more
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/coderabbit-codex-daybreak
+
+CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.
+
+---
+
+### 6. ChatGPT Enterprise now available in AWS Marketplace
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Nov 2026 19:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/chatgpt-enterprise-aws-marketplace
+
+ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.
+
+---
+
+### 7. Helping caregivers use AI in everyday life
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Nov 2026 12:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+
+OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
+
+---
+
+### 8. Work at the Frontier: AI’s effect on freelance work
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Nov 2026 07:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/ai-effect-on-freelance-work
+
+New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
+
+---
+
+### 9. Closing the AI guidance gap in education
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 10 Nov 2026 09:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/closing-ai-guidance-gap-education
+
+New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
+
+---
+
+### 10. Control Room: A central system to track and stop model workloads across our research infrastructure
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Nov 2026 13:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/control-room
+
+Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.
+
+---
+
+### 11. The Download: empty AI climate claims, and an Nvidia investigation
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. The climate case for AI has not been made
+### 12. The climate case for AI has not been made
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ This week, as countries meet in Antalya, Turkey for the United Nations climate c
 
 ---
 
-### 3. Innovating with AI in the special chemicals industry
+### 13. Innovating with AI in the special chemicals industry
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ As companies look to accelerate innovation with artificial intelligence, cloud c
 
 ---
 
-### 4. Measuring how AI agents handle everyday wet-lab science
+### 14. Measuring how AI agents handle everyday wet-lab science
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI age
 
 ---
 
-### 5. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+### 15. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ OpenAI is partnering with Hacktron to find vulnerabilities, test connections wit
 
 ---
 
-### 6. The Download: a humanoid cleans house and Samsung builds for the AI boom
+### 16. The Download: a humanoid cleans house and Samsung builds for the AI boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 7. Cult.fit builds operational muscle with Codex
+### 17. Cult.fit builds operational muscle with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ Cult.fit is using Codex to help teams across functions build tools, move faster,
 
 ---
 
-### 8. Flipsnack grows product signups with conversion optimization
+### 18. Flipsnack grows product signups with conversion optimization
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product
 
 ---
 
-### 9. Merge builds product and business tools with OpenAI technology
+### 19. Merge builds product and business tools with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support ma
 
 ---
 
-### 10. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+### 20. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support ma
 - **Enlace:** https://openai.com/index/introducing-gpt-6-cyber
 
 Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
-
----
-
-### 11. Australian universities are creating AI-native graduates
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Nov 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/australian-universities-ai-native-graduates
-
-Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
-
----
-
-### 12. Franklin Templeton uses OpenAI to support investment research
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Nov 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/franklin-templeton
-
-Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.
-
----
-
-### 13. The Download: Texas’s fragile AI boom and energy policy shifts
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 05 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;
-
----
-
-### 14. Roundtables: Inside the Quest for Cognitive Immortality
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 04 Nov 2026 18:21:40 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/
-
-Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;
-
----
-
-### 15. Texas was the new epicenter of the AI data center buildout. That might be kaput.
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 04 Nov 2026 18:50:55 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
-
-Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;
-
----
-
-### 16. DevRev delivers autonomous self-service with GPT-6.1 Sol
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/devrev-enterprise-self-service
-
-DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.
-
----
-
-### 17. Introducing Images 2.6
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-images-2-6
-
-Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
-
----
-
-### 18. Setting a new standard for responsible AI infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Nov 2026 02:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
-
-OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
-
----
-
-### 19. Daybreak Red is now available in AWS GovCloud (US-East)
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Nov 2026 07:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/daybreak-red-aws-govcloud
-
-Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
-
----
-
-### 20. A thousand fewer paths to root
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 04 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/a-thousand-fewer-paths-to-root
-
-OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.
 
 ---
