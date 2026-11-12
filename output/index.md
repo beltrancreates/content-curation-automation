@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-11 14:51 UTC_
+_Actualizado: 2026-11-12 15:42 UTC_
 
 ## Selección priorizada
 
-### 1. New in ChatGPT for Business: April 2025
+### 1. Fine-tuning GPT-4o webinar
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 26 Aug 2024 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:807d, duplicate
+- **Enlace:** https://openai.com/business/learn/fine-tuning-gpt-4o-webinar
+
+Fine-Tuning GPT-4o Webinar
+
+---
+
+### 2. Using GPT-4 to deliver a new customer service standard
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 05 Sep 2024 08:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:797d, duplicate
+- **Enlace:** https://openai.com/business/customer-stories/ada
+
+Ada uses GPT-4 to deliver a new customer service standard
+
+---
+
+### 3. Enabling a data-driven workforce
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 08 Aug 2024 00:00:00 GMT
+- **Score:** 5.699999999999999
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:825d, duplicate
+- **Enlace:** https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar
+
+In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.
+
+---
+
+### 4. The Download: COP31’s climate challenge and the quest for immortality
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 12 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;
+
+---
+
+### 5. What to know about this year’s UN climate talks
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 11 Nov 2026 17:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/
+
+It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;
+
+---
+
+### 6. Holiday Extras is rethinking what it can build with Codex
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Nov 2026 09:30:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/business/customer-stories/holidays-extras-codex
+
+With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+
+---
+
+### 7. JioStar’s chief architect on AI discovery at 500M-user scale
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 11 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/jiostar-vijay-seshadri
+
+JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
+
+---
+
+### 8. Supporting research on AI and children’s safety
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Nov 2026 00:00:00 GMT
+- **Score:** 17.7
+- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/children-first-declaration
+
+OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+
+---
+
+### 9. New in ChatGPT for Business: April 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +121,7 @@ Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generatio
 
 ---
 
-### 2. New in ChatGPT for Business: March 2025
+### 10. New in ChatGPT for Business: March 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +134,7 @@ Join us as we share our latest releases and how ChatGPT is becoming more interac
 
 ---
 
-### 3. The Download: preserving minds and weighing open AI risks
+### 11. The Download: preserving minds and weighing open AI risks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. How OpenAI Uses Codex to Accelerate Engineering
+### 12. How OpenAI Uses Codex to Accelerate Engineering
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +160,7 @@ A detailed look at how OpenAI teams use Codex to understand code, refactor syste
 
 ---
 
-### 5. Blue J’s approach for scaling fast in complex, regulated domains
+### 13. Blue J’s approach for scaling fast in complex, regulated domains
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +173,7 @@ Blue J scaled to three countries and more than 3,000 firms thanks to focus, doma
 
 ---
 
-### 6. Introducing Businesses in ChatGPT
+### 14. Introducing Businesses in ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +186,7 @@ Manage your business information, get insights about how your business shows up,
 
 ---
 
-### 7. Gilbert + Tobin rethinks the business of law with AI
+### 15. Gilbert + Tobin rethinks the business of law with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +199,7 @@ A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert
 
 ---
 
-### 8. Cogent and OpenAI build cyber defense factories for enterprises
+### 16. Cogent and OpenAI build cyber defense factories for enterprises
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +212,7 @@ Cogent combines OpenAI models with enterprise context to help automatically reme
 
 ---
 
-### 9. Singapore Airlines elevates travel & work with OpenAI technology
+### 17. Singapore Airlines elevates travel & work with OpenAI technology
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +225,7 @@ Discover how Singapore Airlines uses OpenAI models and API to enhance customer s
 
 ---
 
-### 10. ChatGPT Plus for veterans and servicemembers
+### 18. ChatGPT Plus for veterans and servicemembers
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +238,7 @@ More than 20,000 veterans and transitioning service members have claimed a free 
 
 ---
 
-### 11. Nancy Pelosi’s replacement is ready to regulate AI
+### 19. Nancy Pelosi’s replacement is ready to regulate AI
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +251,7 @@ As a California state senator, Scott Wiener authored legislation aimed at curbin
 
 ---
 
-### 12. The backlash about data centers might really just be about electricity
+### 20. The backlash about data centers might really just be about electricity
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -157,109 +261,5 @@ As a California state senator, Scott Wiener authored legislation aimed at curbin
 - **Enlace:** https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
 
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;
-
----
-
-### 13. The Download: Pelosi’s successor targets AI and data centers face power woes
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 10 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;
-
----
-
-### 14. Kuken Industries searches 70 years of drawings in minutes
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/kuken
-
-Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.
-
----
-
-### 15. CodeRabbit scales agentic software development and ships 20x more
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/coderabbit-codex-daybreak
-
-CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.
-
----
-
-### 16. ChatGPT Enterprise now available in AWS Marketplace
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Nov 2026 19:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/chatgpt-enterprise-aws-marketplace
-
-ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.
-
----
-
-### 17. Helping caregivers use AI in everyday life
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Nov 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
-
-OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
-
----
-
-### 18. Work at the Frontier: AI’s effect on freelance work
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Nov 2026 07:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/ai-effect-on-freelance-work
-
-New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
-
----
-
-### 19. Closing the AI guidance gap in education
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Nov 2026 09:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/closing-ai-guidance-gap-education
-
-New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
-
----
-
-### 20. Control Room: A central system to track and stop model workloads across our research infrastructure
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Nov 2026 13:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/control-room
-
-Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.
 
 ---
