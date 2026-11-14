@@ -1,10 +1,36 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-13 15:01 UTC_
+_Actualizado: 2026-11-14 13:53 UTC_
 
 ## Selección priorizada
 
-### 1. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
+### 1. Introducing ChatGPT Wallet
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 13 Nov 2026 15:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-wallet
+
+Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
+
+---
+
+### 2. Shield helps technicians hand off legacy portal work with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 13 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/shield
+
+Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
+
+---
+
+### 3. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +43,7 @@ The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executi
 
 ---
 
-### 2. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
+### 4. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +56,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
+### 5. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +69,7 @@ Representatives from Nvidia told Illinois representative Bill Foster that it wou
 
 ---
 
-### 4. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
+### 6. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +82,7 @@ Scientists have been working on ways to decode brain activity for decades. Teams
 
 ---
 
-### 5. Gondola doubles revenue as its team builds more with Codex
+### 7. Gondola doubles revenue as its team builds more with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +95,7 @@ Gondola helps creatives get credit and get hired, with Codex raising its lead en
 
 ---
 
-### 6. How Amplitude ships product improvements in 1–2 days with OpenAI
+### 8. How Amplitude ships product improvements in 1–2 days with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +108,7 @@ Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, i
 
 ---
 
-### 7. Fine-tuning GPT-4o webinar
+### 9. Fine-tuning GPT-4o webinar
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +121,7 @@ Fine-Tuning GPT-4o Webinar
 
 ---
 
-### 8. Using GPT-4 to deliver a new customer service standard
+### 10. Using GPT-4 to deliver a new customer service standard
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +134,7 @@ Ada uses GPT-4 to deliver a new customer service standard
 
 ---
 
-### 9. Enabling a data-driven workforce
+### 11. Enabling a data-driven workforce
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +147,7 @@ In this video, we share practical examples of how employees can use ChatGPT Ente
 
 ---
 
-### 10. The Download: COP31’s climate challenge and the quest for immortality
+### 12. The Download: COP31’s climate challenge and the quest for immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +160,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. What to know about this year’s UN climate talks
+### 13. What to know about this year’s UN climate talks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +173,7 @@ It’s that time of year again: Thousands of delegates, lobbyists, and journalis
 
 ---
 
-### 12. Holiday Extras is rethinking what it can build with Codex
+### 14. Holiday Extras is rethinking what it can build with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +186,7 @@ With Codex, Holiday Extras is turning customer expertise into better apps, highe
 
 ---
 
-### 13. JioStar’s chief architect on AI discovery at 500M-user scale
+### 15. JioStar’s chief architect on AI discovery at 500M-user scale
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +199,7 @@ JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his le
 
 ---
 
-### 14. Supporting research on AI and children’s safety
+### 16. Supporting research on AI and children’s safety
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +212,7 @@ OpenAI commits $2 million to research on AI and children’s safety. The work su
 
 ---
 
-### 15. New in ChatGPT for Business: April 2025
+### 17. New in ChatGPT for Business: April 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +225,7 @@ Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generatio
 
 ---
 
-### 16. New in ChatGPT for Business: March 2025
+### 18. New in ChatGPT for Business: March 2025
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -212,7 +238,7 @@ Join us as we share our latest releases and how ChatGPT is becoming more interac
 
 ---
 
-### 17. The Download: preserving minds and weighing open AI risks
+### 19. The Download: preserving minds and weighing open AI risks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +251,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 18. How OpenAI Uses Codex to Accelerate Engineering
+### 20. How OpenAI Uses Codex to Accelerate Engineering
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -235,31 +261,5 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 - **Enlace:** https://openai.com/business/learn/how-openai-uses-codex
 
 A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.
-
----
-
-### 19. Blue J’s approach for scaling fast in complex, regulated domains
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 21 Aug 2025 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:447d
-- **Enlace:** https://openai.com/business/customer-stories/blue-j
-
-Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.
-
----
-
-### 20. Introducing Businesses in ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 10 Nov 2026 10:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-businesses-chatgpt
-
-Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.
 
 ---

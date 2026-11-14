@@ -14373,6 +14373,31 @@
     ]
   },
   {
+    "id": "b1d639a251b9b815ab961926c1052544b4994d73bdd42b8a32ec091ed45e9a50",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "52bcf83b4da823e5d3949eefda32e0ea062c04037f734a6de16ff91402e2adae",
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -30721,6 +30746,31 @@
     "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
     "published": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8c23c72f8d6120b37f69dc68d59bf0364e8a254813db6b4dac78a6fce748d893",
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "published": "Fri, 13 Nov 2026 15:00:00 GMT",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
     "source_type": "rss",
