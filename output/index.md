@@ -1,10 +1,127 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-15 14:27 UTC_
+_Actualizado: 2026-11-16 16:40 UTC_
 
 ## Selección priorizada
 
-### 1. Introducing ChatGPT Wallet
+### 1. The Download: testing tech promises and searching for cognitive immortality
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;
+
+---
+
+### 2. Building AI that can work across the enterprise
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Nov 2026 13:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/
+
+For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;
+
+---
+
+### 3. Building trustworthy AI by fencing it in, not predicting it
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Nov 2026 16:04:28 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/
+
+In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;
+
+---
+
+### 4. More ways to move care forward with ChatGPT for Healthcare
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
+
+Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
+
+---
+
+### 5. Advancing computer-use agents for healthcare teams
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 06:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/advancing-computer-use-for-healthcare-teams
+
+
+
+---
+
+### 6. The King’s Trust and OpenAI launch £1m partnership
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/the-kings-trust-and-openai
+
+The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
+
+---
+
+### 7. LVMH’s Media Division announces strategic partnership with OpenAI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 09:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/lvmh-media-division-partnership
+
+LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
+
+---
+
+### 8. A step toward defining the Standard Model on a lattice
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 15 Nov 2026 22:00:01 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/step-toward-defining-the-standard-model
+
+Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
+
+---
+
+### 9. Our new blog for science
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 15 Nov 2026 22:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/our-new-blog-for-science
+
+The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
+
+---
+
+### 10. Introducing ChatGPT Wallet
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -17,7 +134,7 @@ Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and 
 
 ---
 
-### 2. Shield helps technicians hand off legacy portal work with OpenAI
+### 11. Shield helps technicians hand off legacy portal work with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +147,7 @@ Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its F
 
 ---
 
-### 3. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
+### 12. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +160,7 @@ The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executi
 
 ---
 
-### 4. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
+### 13. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
+### 14. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +186,7 @@ Representatives from Nvidia told Illinois representative Bill Foster that it wou
 
 ---
 
-### 6. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
+### 15. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -82,7 +199,7 @@ Scientists have been working on ways to decode brain activity for decades. Teams
 
 ---
 
-### 7. Gondola doubles revenue as its team builds more with Codex
+### 16. Gondola doubles revenue as its team builds more with Codex
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +212,7 @@ Gondola helps creatives get credit and get hired, with Codex raising its lead en
 
 ---
 
-### 8. How Amplitude ships product improvements in 1–2 days with OpenAI
+### 17. How Amplitude ships product improvements in 1–2 days with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +225,7 @@ Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, i
 
 ---
 
-### 9. Fine-tuning GPT-4o webinar
+### 18. Fine-tuning GPT-4o webinar
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +238,7 @@ Fine-Tuning GPT-4o Webinar
 
 ---
 
-### 10. Using GPT-4 to deliver a new customer service standard
+### 19. Using GPT-4 to deliver a new customer service standard
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +251,7 @@ Ada uses GPT-4 to deliver a new customer service standard
 
 ---
 
-### 11. Enabling a data-driven workforce
+### 20. Enabling a data-driven workforce
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -144,122 +261,5 @@ Ada uses GPT-4 to deliver a new customer service standard
 - **Enlace:** https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar
 
 In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.
-
----
-
-### 12. The Download: COP31’s climate challenge and the quest for immortality
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;
-
----
-
-### 13. What to know about this year’s UN climate talks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 11 Nov 2026 17:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/
-
-It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;
-
----
-
-### 14. Holiday Extras is rethinking what it can build with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Nov 2026 09:30:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/business/customer-stories/holidays-extras-codex
-
-With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
-
----
-
-### 15. JioStar’s chief architect on AI discovery at 500M-user scale
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 11 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/jiostar-vijay-seshadri
-
-JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
-
----
-
-### 16. Supporting research on AI and children’s safety
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Nov 2026 00:00:00 GMT
-- **Score:** 17.7
-- **Razones:** keyword_hits:ai,modelo,model,research,safety, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/children-first-declaration
-
-OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
-
----
-
-### 17. New in ChatGPT for Business: April 2025
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 24 Apr 2025 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:566d, duplicate
-- **Enlace:** https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025
-
-Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.
-
----
-
-### 18. New in ChatGPT for Business: March 2025
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 18 Mar 2025 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:603d, duplicate
-- **Enlace:** https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025
-
-Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.
-
----
-
-### 19. The Download: preserving minds and weighing open AI risks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 11 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;
-
----
-
-### 20. How OpenAI Uses Codex to Accelerate Engineering
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 14 Jan 2026 21:27:09 GMT
-- **Score:** 7.699999999999999
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, old:300d, duplicate
-- **Enlace:** https://openai.com/business/learn/how-openai-uses-codex
-
-A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.
 
 ---
