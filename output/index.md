@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-16 16:40 UTC_
+_Actualizado: 2026-11-17 16:37 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: testing tech promises and searching for cognitive immortality
+### 1. The Download: Jensen Huang’s open-source dilemma and cognitive immortality
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 17 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;
+
+---
+
+### 2. Research Reports
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 17 Nov 2026 14:39:46 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/17/1148203/research-reports/
+
+To access a report, click on the corresponding image below.
+
+---
+
+### 3. At Holiday Extras, dots get to work before anyone asks
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/holiday-extras-dots
+
+Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.
+
+---
+
+### 4. How Revolut raises ambition without lowering the bar
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 09:30:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/revolut
+
+Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
+
+---
+
+### 5. Strengthening the fight against online child sexual abuse with new tools and support
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 17:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/strengthening-online-child-safety
+
+New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
+
+---
+
+### 6. Introducing OpenAI for Chile
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-openai-for-chile
+
+OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+
+---
+
+### 7. Strengthening NATO and allied cyber defenses with AI
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+
+How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+
+---
+
+### 8. Our first phase of embedded assessments
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 08:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/our-first-phase-of-embedded-assessments
+
+OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
+
+---
+
+### 9. Science at the Frontier: How scientists use ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 12:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/science-at-the-frontier
+
+Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.
+
+---
+
+### 10. Broadening access to AI for scientists
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 16 Nov 2026 17:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/expanding-chatgpt-for-academic-researchers
+
+We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
+
+---
+
+### 11. The Download: testing tech promises and searching for cognitive immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Building AI that can work across the enterprise
+### 12. Building AI that can work across the enterprise
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ For years, enterprises have approached AI as a series of discrete experiments. N
 
 ---
 
-### 3. Building trustworthy AI by fencing it in, not predicting it
+### 13. Building trustworthy AI by fencing it in, not predicting it
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +173,7 @@ In October this year, OpenAI disclosed that two of its AI agents had switched of
 
 ---
 
-### 4. More ways to move care forward with ChatGPT for Healthcare
+### 14. More ways to move care forward with ChatGPT for Healthcare
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Introducing computer-use agents, improved clinical answers, and new healthcare p
 
 ---
 
-### 5. Advancing computer-use agents for healthcare teams
+### 15. Advancing computer-use agents for healthcare teams
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ Introducing computer-use agents, improved clinical answers, and new healthcare p
 
 ---
 
-### 6. The King’s Trust and OpenAI launch £1m partnership
+### 16. The King’s Trust and OpenAI launch £1m partnership
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 you
 
 ---
 
-### 7. LVMH’s Media Division announces strategic partnership with OpenAI
+### 17. LVMH’s Media Division announces strategic partnership with OpenAI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ LVMH’s Media Division and OpenAI announce a partnership to support journalism 
 
 ---
 
-### 8. A step toward defining the Standard Model on a lattice
+### 18. A step toward defining the Standard Model on a lattice
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ Explore a candidate nonperturbative lattice definition of the Standard Model and
 
 ---
 
-### 9. Our new blog for science
+### 19. Our new blog for science
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ The OpenAI science blog shares new findings, practical methods, and firsthand ac
 
 ---
 
-### 10. Introducing ChatGPT Wallet
+### 20. Introducing ChatGPT Wallet
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ The OpenAI science blog shares new findings, practical methods, and firsthand ac
 - **Enlace:** https://openai.com/index/introducing-chatgpt-wallet
 
 Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
-
----
-
-### 11. Shield helps technicians hand off legacy portal work with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/shield
-
-Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
-
----
-
-### 12. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Nov 2026 10:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/
-
-The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;
-
----
-
-### 13. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;
-
----
-
-### 14. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 12 Nov 2026 20:16:24 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
-
-Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”  Foster, a Democrat who serves on the Committee on&#8230;
-
----
-
-### 15. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 13 Nov 2026 10:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/
-
-Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;
-
----
-
-### 16. Gondola doubles revenue as its team builds more with Codex
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Nov 2026 12:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/gondola
-
-Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
-
----
-
-### 17. How Amplitude ships product improvements in 1–2 days with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 12 Nov 2026 20:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/business/customer-stories/amplitude
-
-Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
-
----
-
-### 18. Fine-tuning GPT-4o webinar
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 26 Aug 2024 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:807d, duplicate
-- **Enlace:** https://openai.com/business/learn/fine-tuning-gpt-4o-webinar
-
-Fine-Tuning GPT-4o Webinar
-
----
-
-### 19. Using GPT-4 to deliver a new customer service standard
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 05 Sep 2024 08:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:797d, duplicate
-- **Enlace:** https://openai.com/business/customer-stories/ada
-
-Ada uses GPT-4 to deliver a new customer service standard
-
----
-
-### 20. Enabling a data-driven workforce
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 08 Aug 2024 00:00:00 GMT
-- **Score:** 5.699999999999999
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, old:825d, duplicate
-- **Enlace:** https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar
-
-In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.
 
 ---

@@ -2748,6 +2748,81 @@
     ]
   },
   {
+    "id": "71915ef40a330028e0d0f528c18ce2b96ecf37dad043a27ebdfddfc2c162f673",
+    "title": "Broadening access to AI for scientists",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "843c978a7aa6edd6df4b4b2132481af783568117e18d94ec4c47adc411d0b146",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "link": "https://openai.com/index/science-at-the-frontier",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "bff5476eefa9c5df1cbdd660954f53395d3296d8ffb57e4d7941064ba1155609",
+    "title": "Our first phase of embedded assessments",
+    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 15.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model,research",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
     "id": "149f5fb0f71d21938c51de7ec55d9e7cb1a4f65dc6f63235c18ce79c1a1ae296",
     "title": "Requests for Research 2.0",
     "link": "https://openai.com/index/requests-for-research-2",
@@ -14495,6 +14570,106 @@
       "preferred_domain",
       "authority:9",
       "recent:0d"
+    ]
+  },
+  {
+    "id": "3048869c76c26eea6d6e3997f9e091c5c9e1633a357a3e18943ec52f1ab8210a",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "10235f5007203fe1aa5e9c2676687b6c0d995ef2d81bde5f25a33e54da437c4c",
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "dc1e32884a697e9f703eafb0d35a9083024341d41461e3dff6007befaf8387d9",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "c458e316d067406eb14ce1825af64dbc9d6a0a813fa75d7127b7a1474c12da78",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "published": "Mon, 16 Nov 2026 09:30:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
     ]
   },
   {
@@ -30938,6 +31113,31 @@
       "preferred_domain",
       "authority:9",
       "recent:0d"
+    ]
+  },
+  {
+    "id": "4e57f98ca8f393a9e6137bb361cb19e65628986db780639245dca35d66ba6545",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 11.7,
+    "reasons": [
+      "keyword_hits:modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
     ]
   },
   {
@@ -48478,6 +48678,75 @@
     "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;",
     "published": "Mon, 16 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "8a5af85b36f5eddca754c52beb302cd279acff874166770820886208ae828971",
+    "title": "Research Reports",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "summary": "To access a report, click on the corresponding image below.",
+    "published": "Tue, 17 Nov 2026 14:39:46 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:research",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "2b5629e0c93cf4093a58882f2d065a4c4b4051e260fac13c9307f0676d74d1b7",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
+    "published": "Tue, 17 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 6.4,
+    "reasons": [
+      "keyword_hits:ai",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "9e9d6821995fe5f1ed19bc6ad6b2d62e5ef4a1aa66f5b49f86e89f07bff2f56b",
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+    "published": "Mon, 16 Nov 2026 18:38:47 +0000",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/feed/",
     "source_type": "rss",
