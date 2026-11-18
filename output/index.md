@@ -1,10 +1,140 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-17 16:37 UTC_
+_Actualizado: 2026-11-18 16:05 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Jensen Huang’s open-source dilemma and cognitive immortality
+### 1. This smell startup says its AI nose is as good as a human’s
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 18 Nov 2026 10:20:30 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
+
+In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;
+
+---
+
+### 2. The AI Hype Index: AI is everywhere
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 18 Nov 2026 14:42:44 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/
+
+Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;
+
+---
+
+### 3. The open-source movement wants Jensen Huang back
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 16 Nov 2026 18:38:47 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;
+
+---
+
+### 4. The Download: AI learns to smell and hydropower struggles
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 18 Nov 2026 13:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;
+
+---
+
+### 5. How VistaPrint helps small businesses get the word out
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 09 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:9d
+- **Enlace:** https://openai.com/ads/customers/vistaprint
+
+Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.
+
+---
+
+### 6. ChatGPT Ads increases its market presence in 44 countries
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Thu, 12 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:6d
+- **Enlace:** https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence
+
+Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies
+
+---
+
+### 7. Astra for Law leads in legal intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/astra-law-6-2
+
+Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
+
+---
+
+### 8. Introducing GPT-6.2 Astra and Sol
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Nov 2026 17:45:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-gpt-6-2-astra-sol
+
+Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
+
+---
+
+### 9. Introducing ChatGPT for Sales
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 17 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-chatgpt-for-sales
+
+Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.
+
+---
+
+### 10. Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
+
+Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+
+---
+
+### 11. The Download: Jensen Huang’s open-source dilemma and cognitive immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Research Reports
+### 12. Research Reports
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +160,7 @@ To access a report, click on the corresponding image below.
 
 ---
 
-### 3. At Holiday Extras, dots get to work before anyone asks
+### 13. At Holiday Extras, dots get to work before anyone asks
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +173,7 @@ Dots deliver launch reports unprompted, flag issues people might miss, and talk 
 
 ---
 
-### 4. How Revolut raises ambition without lowering the bar
+### 14. How Revolut raises ambition without lowering the bar
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +186,7 @@ Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%
 
 ---
 
-### 5. Strengthening the fight against online child sexual abuse with new tools and support
+### 15. Strengthening the fight against online child sexual abuse with new tools and support
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +199,7 @@ New tools, practical guidance, and partnerships will help prevent, detect and re
 
 ---
 
-### 6. Introducing OpenAI for Chile
+### 16. Introducing OpenAI for Chile
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +212,7 @@ OpenAI and the Government of Chile are partnering to support responsible AI adop
 
 ---
 
-### 7. Strengthening NATO and allied cyber defenses with AI
+### 17. Strengthening NATO and allied cyber defenses with AI
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +225,7 @@ How OpenAI is working with NATO and allied cyber agencies to help trusted defend
 
 ---
 
-### 8. Our first phase of embedded assessments
+### 18. Our first phase of embedded assessments
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +238,7 @@ OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, an
 
 ---
 
-### 9. Science at the Frontier: How scientists use ChatGPT
+### 19. Science at the Frontier: How scientists use ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +251,7 @@ Explore how more than 1,800 scientists use ChatGPT in research. See findings on 
 
 ---
 
-### 10. Broadening access to AI for scientists
+### 20. Broadening access to AI for scientists
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -131,135 +261,5 @@ Explore how more than 1,800 scientists use ChatGPT in research. See findings on 
 - **Enlace:** https://openai.com/index/expanding-chatgpt-for-academic-researchers
 
 We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
-
----
-
-### 11. The Download: testing tech promises and searching for cognitive immortality
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;
-
----
-
-### 12. Building AI that can work across the enterprise
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Nov 2026 13:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/
-
-For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;
-
----
-
-### 13. Building trustworthy AI by fencing it in, not predicting it
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Nov 2026 16:04:28 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,safety, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/
-
-In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;
-
----
-
-### 14. More ways to move care forward with ChatGPT for Healthcare
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
-
-Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
----
-
-### 15. Advancing computer-use agents for healthcare teams
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 06:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/advancing-computer-use-for-healthcare-teams
-
-
-
----
-
-### 16. The King’s Trust and OpenAI launch £1m partnership
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/the-kings-trust-and-openai
-
-The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
-
----
-
-### 17. LVMH’s Media Division announces strategic partnership with OpenAI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 09:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/lvmh-media-division-partnership
-
-LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-
----
-
-### 18. A step toward defining the Standard Model on a lattice
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 15 Nov 2026 22:00:01 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/step-toward-defining-the-standard-model
-
-Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
-
----
-
-### 19. Our new blog for science
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 15 Nov 2026 22:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/our-new-blog-for-science
-
-The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
-
----
-
-### 20. Introducing ChatGPT Wallet
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 13 Nov 2026 15:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-chatgpt-wallet
-
-Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
 
 ---
