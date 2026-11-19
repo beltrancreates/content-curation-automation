@@ -1,10 +1,127 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-18 16:05 UTC_
+_Actualizado: 2026-11-19 16:13 UTC_
 
 ## Selección priorizada
 
-### 1. This smell startup says its AI nose is as good as a human’s
+### 1. What a billion-dollar deal says about the US battery market
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 19 Nov 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/
+
+After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;
+
+---
+
+### 2. A human liver has been kept alive outside the body for a record seven weeks
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 19 Nov 2026 12:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/
+
+Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;
+
+---
+
+### 3. The Download: a living liver, a billion-dollar battery deal, and AI hype
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 19 Nov 2026 13:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life support outside the&#8230;
+
+---
+
+### 4. Inside the Codex sandbox
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/inside-the-codex-sandbox
+
+See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
+
+---
+
+### 5. Advancing chip design with OpenAI models
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/advancing-chip-design-with-our-models
+
+OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
+
+---
+
+### 6. Managing frontier AI risk: From training to deployment
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 06:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/managing-frontier-ai-risk
+
+OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
+
+---
+
+### 7. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/sumitomo-life
+
+Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
+
+---
+
+### 8. The Silent Consensus
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/the-silent-consensus
+
+Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+
+---
+
+### 9. Research acceleration: The jagged frontier
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/research-acceleration-jagged-frontier
+
+OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
+
+---
+
+### 10. This smell startup says its AI nose is as good as a human’s
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +134,7 @@ In a lab near Newark Airport in New Jersey, a team of around 30 experienced huma
 
 ---
 
-### 2. The AI Hype Index: AI is everywhere
+### 11. The AI Hype Index: AI is everywhere
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +147,7 @@ Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down
 
 ---
 
-### 3. The open-source movement wants Jensen Huang back
+### 12. The open-source movement wants Jensen Huang back
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +160,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 4. The Download: AI learns to smell and hydropower struggles
+### 13. The Download: AI learns to smell and hydropower struggles
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 5. How VistaPrint helps small businesses get the word out
+### 14. How VistaPrint helps small businesses get the word out
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +186,7 @@ Small business owners preparing for a launch or an event often know what they wa
 
 ---
 
-### 6. ChatGPT Ads increases its market presence in 44 countries
+### 15. ChatGPT Ads increases its market presence in 44 countries
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +199,7 @@ Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer loc
 
 ---
 
-### 7. Astra for Law leads in legal intelligence
+### 16. Astra for Law leads in legal intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +212,7 @@ Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Ever
 
 ---
 
-### 8. Introducing GPT-6.2 Astra and Sol
+### 17. Introducing GPT-6.2 Astra and Sol
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +225,7 @@ Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, c
 
 ---
 
-### 9. Introducing ChatGPT for Sales
+### 18. Introducing ChatGPT for Sales
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +238,7 @@ Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT
 
 ---
 
-### 10. Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
+### 19. Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +251,7 @@ Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT
 
 ---
 
-### 11. The Download: Jensen Huang’s open-source dilemma and cognitive immortality
+### 20. The Download: Jensen Huang’s open-source dilemma and cognitive immortality
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -144,122 +261,5 @@ Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT
 - **Enlace:** https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;
-
----
-
-### 12. Research Reports
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Tue, 17 Nov 2026 14:39:46 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/17/1148203/research-reports/
-
-To access a report, click on the corresponding image below.
-
----
-
-### 13. At Holiday Extras, dots get to work before anyone asks
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/holiday-extras-dots
-
-Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.
-
----
-
-### 14. How Revolut raises ambition without lowering the bar
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 09:30:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/revolut
-
-Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
-
----
-
-### 15. Strengthening the fight against online child sexual abuse with new tools and support
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 17:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/strengthening-online-child-safety
-
-New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
-
----
-
-### 16. Introducing OpenAI for Chile
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/introducing-openai-for-chile
-
-OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
-
----
-
-### 17. Strengthening NATO and allied cyber defenses with AI
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Tue, 17 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
-
-How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-
----
-
-### 18. Our first phase of embedded assessments
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 08:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/our-first-phase-of-embedded-assessments
-
-OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
-
----
-
-### 19. Science at the Frontier: How scientists use ChatGPT
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 12:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/science-at-the-frontier
-
-Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.
-
----
-
-### 20. Broadening access to AI for scientists
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 16 Nov 2026 17:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:0d
-- **Enlace:** https://openai.com/index/expanding-chatgpt-for-academic-researchers
-
-We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
 
 ---
