@@ -38055,5 +38055,112 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "f86b76b3c863b8b763e08452c857f9db2f41ffa34d4bc23c5037434bbced338f",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "e3f6dae780c5a8a71648e3a458968f63c3a21cb9496c05e8d18094b4133876a8",
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "16af40845a325f0716b222c8229ee2e4bb02cf47714e245b9b3529717e7d52f0",
+    "title": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "777ef9aa734050c0b7f50bb3b94d2eedcc13f46b629b9cff92978dd01a330b35",
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "5340d0124bdcc858d3ad4f0401ff56254adcdcfebbbb290f2e089dfdffd58595",
+    "title": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "85ae5b00a3569db6f22781a38a2b53f757f9e01debf9c539e0e8871c6964ad07",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+    "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]
