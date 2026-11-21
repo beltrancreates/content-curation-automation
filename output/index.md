@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-20 15:52 UTC_
+_Actualizado: 2026-11-21 15:01 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: inside the quest to make our minds immortal
+### 1. The most misunderstood graph in AI just got a major update
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 20 Nov 2026 18:15:15 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+
+A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;
+
+---
+
+### 2. Can AI help scientists identify promising drug candidates?
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 20 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/introducing-medchembench
+
+MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
+
+---
+
+### 3. Combatting adversarial distillation
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 20 Nov 2026 10:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/combatting-adversarial-distillation
+
+OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.
+
+---
+
+### 4. Hebbia sees improvements in financial research with GPT-6 Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Fri, 20 Nov 2026 00:00:00 GMT
+- **Score:** 15.7
+- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/hebbia
+
+Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.
+
+---
+
+### 5. The Download: inside the quest to make our minds immortal
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. Get started with Daybreak Blue
+### 6. Get started with Daybreak Blue
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +82,7 @@ Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the se
 
 ---
 
-### 3. Explore the Codex Security Plugin
+### 7. Explore the Codex Security Plugin
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ Watch a demo of the Codex Security Plugin and see the workflow in action, from g
 
 ---
 
-### 4. See PR scans in action
+### 8. See PR scans in action
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 
 ---
 
-### 5. Deploying Daybreak Red
+### 9. Deploying Daybreak Red
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +121,7 @@ Explore a reference architecture for supervised security investigations with Day
 
 ---
 
-### 6. How OpenAI’s Performance Factory keeps ChatGPT fast
+### 10. How OpenAI’s Performance Factory keeps ChatGPT fast
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ Learn how OpenAI built the Performance Factory, a system of Codex-powered workfl
 
 ---
 
-### 7. What a billion-dollar deal says about the US battery market
+### 11. What a billion-dollar deal says about the US battery market
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +147,7 @@ After a tough few years littered with some high-profile failures, there’s some
 
 ---
 
-### 8. A human liver has been kept alive outside the body for a record seven weeks
+### 12. A human liver has been kept alive outside the body for a record seven weeks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +160,7 @@ Researchers in Australia claim they’ve kept a human liver alive, on life suppo
 
 ---
 
-### 9. The Download: a living liver, a billion-dollar battery deal, and AI hype
+### 13. The Download: a living liver, a billion-dollar battery deal, and AI hype
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +173,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. Inside the Codex sandbox
+### 14. Inside the Codex sandbox
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ See how Codex runs commands on your machine while enforcing the filesystem and n
 
 ---
 
-### 11. Advancing chip design with OpenAI models
+### 15. Advancing chip design with OpenAI models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +199,7 @@ OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V
 
 ---
 
-### 12. Managing frontier AI risk: From training to deployment
+### 16. Managing frontier AI risk: From training to deployment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +212,7 @@ OpenAI explains how it manages frontier AI risk from training through deployment
 
 ---
 
-### 13. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
+### 17. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +225,7 @@ Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, a
 
 ---
 
-### 14. The Silent Consensus
+### 18. The Silent Consensus
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou
 
 ---
 
-### 15. Research acceleration: The jagged frontier
+### 19. Research acceleration: The jagged frontier
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ OpenAI measures how coding agents are accelerating AI research, where their perf
 
 ---
 
-### 16. This smell startup says its AI nose is as good as a human’s
+### 20. This smell startup says its AI nose is as good as a human’s
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -209,57 +261,5 @@ OpenAI measures how coding agents are accelerating AI research, where their perf
 - **Enlace:** https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
 
 In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;
-
----
-
-### 17. The AI Hype Index: AI is everywhere
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 18 Nov 2026 14:42:44 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/
-
-Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;
-
----
-
-### 18. The open-source movement wants Jensen Huang back
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 16 Nov 2026 18:38:47 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;
-
----
-
-### 19. The Download: AI learns to smell and hydropower struggles
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 18 Nov 2026 13:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;
-
----
-
-### 20. How VistaPrint helps small businesses get the word out
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Mon, 09 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:9d
-- **Enlace:** https://openai.com/ads/customers/vistaprint
-
-Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.
 
 ---
