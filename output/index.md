@@ -1,10 +1,62 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-22 14:59 UTC_
+_Actualizado: 2026-11-23 18:54 UTC_
 
 ## Selección priorizada
 
-### 1. The most misunderstood graph in AI just got a major update
+### 1. Why using rocks for carbon removal could eventually reduce crop growth
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Nov 2026 11:00:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/
+
+Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;
+
+---
+
+### 2. The Download: AI’s judgment problem and carbon removal’s crop threat
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Nov 2026 13:10:00 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;
+
+---
+
+### 3. A legendary philosopher isn’t buying Anthropic’s consciousness argument
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Mon, 23 Nov 2026 17:36:08 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;
+
+---
+
+### 4. Perplexity and Intelligence
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Sun, 22 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/perplexity-and-intelligence
+
+How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
+
+---
+
+### 5. The most misunderstood graph in AI just got a major update
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +69,7 @@ A new report from the AI evaluation nonprofit METR finds that some AI capabiliti
 
 ---
 
-### 2. Can AI help scientists identify promising drug candidates?
+### 6. Can AI help scientists identify promising drug candidates?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -30,7 +82,7 @@ MedChemBench evaluates how well AI models interpret molecular structures, reason
 
 ---
 
-### 3. Combatting adversarial distillation
+### 7. Combatting adversarial distillation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -43,7 +95,7 @@ OpenAI’s layered approach to adversarial distillation combines model training,
 
 ---
 
-### 4. Hebbia sees improvements in financial research with GPT-6 Astra
+### 8. Hebbia sees improvements in financial research with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +108,7 @@ Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations fou
 
 ---
 
-### 5. The Download: inside the quest to make our minds immortal
+### 9. The Download: inside the quest to make our minds immortal
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +121,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 6. Get started with Daybreak Blue
+### 10. Get started with Daybreak Blue
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +134,7 @@ Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the se
 
 ---
 
-### 7. Explore the Codex Security Plugin
+### 11. Explore the Codex Security Plugin
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +147,7 @@ Watch a demo of the Codex Security Plugin and see the workflow in action, from g
 
 ---
 
-### 8. See PR scans in action
+### 12. See PR scans in action
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +160,7 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 
 ---
 
-### 9. Deploying Daybreak Red
+### 13. Deploying Daybreak Red
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +173,7 @@ Explore a reference architecture for supervised security investigations with Day
 
 ---
 
-### 10. How OpenAI’s Performance Factory keeps ChatGPT fast
+### 14. How OpenAI’s Performance Factory keeps ChatGPT fast
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +186,7 @@ Learn how OpenAI built the Performance Factory, a system of Codex-powered workfl
 
 ---
 
-### 11. What a billion-dollar deal says about the US battery market
+### 15. What a billion-dollar deal says about the US battery market
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +199,7 @@ After a tough few years littered with some high-profile failures, there’s some
 
 ---
 
-### 12. A human liver has been kept alive outside the body for a record seven weeks
+### 16. A human liver has been kept alive outside the body for a record seven weeks
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +212,7 @@ Researchers in Australia claim they’ve kept a human liver alive, on life suppo
 
 ---
 
-### 13. The Download: a living liver, a billion-dollar battery deal, and AI hype
+### 17. The Download: a living liver, a billion-dollar battery deal, and AI hype
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -173,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 14. Inside the Codex sandbox
+### 18. Inside the Codex sandbox
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +238,7 @@ See how Codex runs commands on your machine while enforcing the filesystem and n
 
 ---
 
-### 15. Advancing chip design with OpenAI models
+### 19. Advancing chip design with OpenAI models
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +251,7 @@ OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V
 
 ---
 
-### 16. Managing frontier AI risk: From training to deployment
+### 20. Managing frontier AI risk: From training to deployment
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -209,57 +261,5 @@ OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V
 - **Enlace:** https://openai.com/index/managing-frontier-ai-risk
 
 OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
-
----
-
-### 17. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/sumitomo-life
-
-Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
-
----
-
-### 18. The Silent Consensus
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/the-silent-consensus
-
-Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
-
----
-
-### 19. Research acceleration: The jagged frontier
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/research-acceleration-jagged-frontier
-
-OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
-
----
-
-### 20. This smell startup says its AI nose is as good as a human’s
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Wed, 18 Nov 2026 10:20:30 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
-
-In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;
 
 ---

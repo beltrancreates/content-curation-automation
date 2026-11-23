@@ -49993,5 +49993,99 @@
       "authority:8",
       "recent:0d"
     ]
+  },
+  {
+    "id": "eab0ff871b65d3e96dd0d3ef370167253b6e247524b182e12096eb4c4b5de17d",
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "review",
+    "score": 13.7,
+    "reasons": [
+      "keyword_hits:ai,modelo,model",
+      "preferred_domain",
+      "authority:9",
+      "recent:1d"
+    ]
+  },
+  {
+    "id": "f8e5d98e73117d6e3a8d75c8e33bd1190b3e4169add85899be45a7d7ba1bf9b7",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
+    "published": "Mon, 23 Nov 2026 17:36:08 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "9a7eeb3f238edd4516bebd63630ad754cebbc99a6d12ae314da10570f24b690f",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+    "published": "Mon, 23 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
+  },
+  {
+    "id": "7d847755f7b51cfbbbc7a1fbca67e5b118c06ba8d80e78a0f2d4cec9916f51e9",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;",
+    "published": "Mon, 23 Nov 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "review",
+    "score": 8.4,
+    "reasons": [
+      "keyword_hits:ai,model",
+      "authority:8",
+      "recent:0d"
+    ]
   }
 ]
