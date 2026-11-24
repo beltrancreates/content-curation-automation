@@ -38302,5 +38302,110 @@
     ],
     "domain": "www.technologyreview.com",
     "status": "fetched"
+  },
+  {
+    "id": "abf95077897dd087cad1415f000b4004228d7036ec60724f42f21c8ca3075e74",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "39b098ce704e5d3ab9fda9c267239a4e2af78b196da8bd8e4cc0508c8398c3a3",
+    "title": "Connected intelligence for in-house legal",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "e46317e06d98fbbea5e7b87ed864e4bafb48556a0597eee9f4463b295912eaed",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "source_type": "rss",
+    "authority_weight": 9,
+    "source_tags": [
+      "ia",
+      "tecnologia",
+      "modelos"
+    ],
+    "domain": "openai.com",
+    "status": "fetched"
+  },
+  {
+    "id": "7109f021deaae1f20ab01778b63298cefcc0cf7be200fe07ff5c5ede13b46a13",
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+    "published": "Tue, 24 Nov 2026 15:15:16 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "a897256503105f0a06401404fca20034c05ede3a81116b3f32a704b6ea028d6e",
+    "title": "The Download: AI’s gas power boom and a consciousness reality check",
+    "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
+    "published": "Tue, 24 Nov 2026 13:10:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
+  },
+  {
+    "id": "7cdd9f61d020f45b547ac2766d418e2087b3a210f6cd4d9f06d681effe40a54a",
+    "title": "Data centers are getting their own natural gas power plants",
+    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
+    "published": "Tue, 24 Nov 2026 11:00:00 +0000",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/feed/",
+    "source_type": "rss",
+    "authority_weight": 8,
+    "source_tags": [
+      "tecnologia",
+      "innovacion"
+    ],
+    "domain": "www.technologyreview.com",
+    "status": "fetched"
   }
 ]

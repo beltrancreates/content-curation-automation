@@ -1,10 +1,88 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-23 18:54 UTC_
+_Actualizado: 2026-11-24 18:33 UTC_
 
 ## Selección priorizada
 
-### 1. Why using rocks for carbon removal could eventually reduce crop growth
+### 1. Data centers are getting their own natural gas power plants
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Nov 2026 11:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
+
+One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;
+
+---
+
+### 2. The Download: AI’s gas power boom and a consciousness reality check
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;
+
+---
+
+### 3. Raising the stakes for enterprise networks with AI modernization
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Tue, 24 Nov 2026 15:15:16 +0000
+- **Score:** 8.4
+- **Razones:** keyword_hits:artificial intelligence,ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
+
+Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;
+
+---
+
+### 4. Richpanel helps companies automate 50% of support in 30 days
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/richpanel-ai-customer-support
+
+Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
+
+---
+
+### 5. Connected intelligence for in-house legal
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Nov 2026 08:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/learn/connected-intelligence-for-in-house-legal
+
+Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.
+
+---
+
+### 6. OpenAI and Cisco introduce Shirudo
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Mon, 23 Nov 2026 21:20:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:0d
+- **Enlace:** https://openai.com/index/introducing-shirudo
+
+OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
+
+---
+
+### 7. Why using rocks for carbon removal could eventually reduce crop growth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +95,7 @@ Tech companies are investing a lot of hope and money in rocks. Google, Microsoft
 
 ---
 
-### 2. The Download: AI’s judgment problem and carbon removal’s crop threat
+### 8. The Download: AI’s judgment problem and carbon removal’s crop threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +108,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. A legendary philosopher isn’t buying Anthropic’s consciousness argument
+### 9. A legendary philosopher isn’t buying Anthropic’s consciousness argument
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +121,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 4. Perplexity and Intelligence
+### 10. Perplexity and Intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +134,7 @@ How perplexity measures progress in AI models, and why it could help developers 
 
 ---
 
-### 5. The most misunderstood graph in AI just got a major update
+### 11. The most misunderstood graph in AI just got a major update
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -69,7 +147,7 @@ A new report from the AI evaluation nonprofit METR finds that some AI capabiliti
 
 ---
 
-### 6. Can AI help scientists identify promising drug candidates?
+### 12. Can AI help scientists identify promising drug candidates?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +160,7 @@ MedChemBench evaluates how well AI models interpret molecular structures, reason
 
 ---
 
-### 7. Combatting adversarial distillation
+### 13. Combatting adversarial distillation
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +173,7 @@ OpenAI’s layered approach to adversarial distillation combines model training,
 
 ---
 
-### 8. Hebbia sees improvements in financial research with GPT-6 Astra
+### 14. Hebbia sees improvements in financial research with GPT-6 Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +186,7 @@ Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations fou
 
 ---
 
-### 9. The Download: inside the quest to make our minds immortal
+### 15. The Download: inside the quest to make our minds immortal
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +199,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 10. Get started with Daybreak Blue
+### 16. Get started with Daybreak Blue
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +212,7 @@ Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the se
 
 ---
 
-### 11. Explore the Codex Security Plugin
+### 17. Explore the Codex Security Plugin
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -147,7 +225,7 @@ Watch a demo of the Codex Security Plugin and see the workflow in action, from g
 
 ---
 
-### 12. See PR scans in action
+### 18. See PR scans in action
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +238,7 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 
 ---
 
-### 13. Deploying Daybreak Red
+### 19. Deploying Daybreak Red
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +251,7 @@ Explore a reference architecture for supervised security investigations with Day
 
 ---
 
-### 14. How OpenAI’s Performance Factory keeps ChatGPT fast
+### 20. How OpenAI’s Performance Factory keeps ChatGPT fast
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -183,83 +261,5 @@ Explore a reference architecture for supervised security investigations with Day
 - **Enlace:** https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 
 Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
-
----
-
-### 15. What a billion-dollar deal says about the US battery market
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 19 Nov 2026 11:00:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/
-
-After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;
-
----
-
-### 16. A human liver has been kept alive outside the body for a record seven weeks
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 19 Nov 2026 12:00:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/
-
-Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;
-
----
-
-### 17. The Download: a living liver, a billion-dollar battery deal, and AI hype
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Thu, 19 Nov 2026 13:10:00 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,research, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life support outside the&#8230;
-
----
-
-### 18. Inside the Codex sandbox
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 08:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/inside-the-codex-sandbox
-
-See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
-
----
-
-### 19. Advancing chip design with OpenAI models
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/advancing-chip-design-with-our-models
-
-OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
-
----
-
-### 20. Managing frontier AI risk: From training to deployment
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Wed, 18 Nov 2026 06:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/managing-frontier-ai-risk
-
-OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
 
 ---
