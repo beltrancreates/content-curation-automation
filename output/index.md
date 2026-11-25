@@ -1,10 +1,114 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-24 18:33 UTC_
+_Actualizado: 2026-11-25 17:44 UTC_
 
 ## Selección priorizada
 
-### 1. Data centers are getting their own natural gas power plants
+### 1. AI is straining America’s open records systems
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Nov 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/
+
+In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;
+
+---
+
+### 2. The Download: AI swamping open records, and firefighting for permafrost
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;
+
+---
+
+### 3. How data centers are driving a US natural-gas boom
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Wed, 25 Nov 2026 17:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/
+
+In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like&#8230;
+
+---
+
+### 4. How iFood scales coding agents across 15,000 repositories
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Nov 2026 00:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/ifood
+
+
+
+---
+
+### 5. Searching for distant planets with Astra
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Nov 2026 11:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/searching-for-distant-planets-with-astra
+
+See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.
+
+---
+
+### 6. GPT-6 models demonstrate intrinsic protein-design capabilities
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Nov 2026 13:00:00 GMT
+- **Score:** 11.7
+- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+
+GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.
+
+---
+
+### 7. Clay helps sales teams win with Codex and ChatGPT
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/clay-plugins-openai
+
+ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.
+
+---
+
+### 8. How Intentful uses dots to make more time for growth
+
+- **Fuente:** OpenAI Blog
+- **Dominio:** openai.com
+- **Fecha:** Tue, 24 Nov 2026 00:00:00 GMT
+- **Score:** 13.7
+- **Razones:** keyword_hits:modelo,model,research, preferred_domain, authority:9, recent:1d
+- **Enlace:** https://openai.com/business/customer-stories/intentful-dots
+
+Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.
+
+---
+
+### 9. Data centers are getting their own natural gas power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +121,7 @@ One of the biggest roadblocks to starting up a data center is getting approval t
 
 ---
 
-### 2. The Download: AI’s gas power boom and a consciousness reality check
+### 10. The Download: AI’s gas power boom and a consciousness reality check
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +134,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. Raising the stakes for enterprise networks with AI modernization
+### 11. Raising the stakes for enterprise networks with AI modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +147,7 @@ Enterprise networks are under severe strain. As companies rush to deploy artific
 
 ---
 
-### 4. Richpanel helps companies automate 50% of support in 30 days
+### 12. Richpanel helps companies automate 50% of support in 30 days
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +160,7 @@ Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with t
 
 ---
 
-### 5. Connected intelligence for in-house legal
+### 13. Connected intelligence for in-house legal
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +173,7 @@ Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Coo
 
 ---
 
-### 6. OpenAI and Cisco introduce Shirudo
+### 14. OpenAI and Cisco introduce Shirudo
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +186,7 @@ OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps t
 
 ---
 
-### 7. Why using rocks for carbon removal could eventually reduce crop growth
+### 15. Why using rocks for carbon removal could eventually reduce crop growth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -95,7 +199,7 @@ Tech companies are investing a lot of hope and money in rocks. Google, Microsoft
 
 ---
 
-### 8. The Download: AI’s judgment problem and carbon removal’s crop threat
+### 16. The Download: AI’s judgment problem and carbon removal’s crop threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -108,7 +212,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 9. A legendary philosopher isn’t buying Anthropic’s consciousness argument
+### 17. A legendary philosopher isn’t buying Anthropic’s consciousness argument
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +225,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 10. Perplexity and Intelligence
+### 18. Perplexity and Intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -134,7 +238,7 @@ How perplexity measures progress in AI models, and why it could help developers 
 
 ---
 
-### 11. The most misunderstood graph in AI just got a major update
+### 19. The most misunderstood graph in AI just got a major update
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +251,7 @@ A new report from the AI evaluation nonprofit METR finds that some AI capabiliti
 
 ---
 
-### 12. Can AI help scientists identify promising drug candidates?
+### 20. Can AI help scientists identify promising drug candidates?
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -157,109 +261,5 @@ A new report from the AI evaluation nonprofit METR finds that some AI capabiliti
 - **Enlace:** https://openai.com/index/introducing-medchembench
 
 MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
-
----
-
-### 13. Combatting adversarial distillation
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 20 Nov 2026 10:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/combatting-adversarial-distillation
-
-OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.
-
----
-
-### 14. Hebbia sees improvements in financial research with GPT-6 Astra
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 20 Nov 2026 00:00:00 GMT
-- **Score:** 15.7
-- **Razones:** keyword_hits:ai,modelo,model,research, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/customer-stories/hebbia
-
-Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.
-
----
-
-### 15. The Download: inside the quest to make our minds immortal
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 20 Nov 2026 13:10:00 +0000
-- **Score:** 6.4
-- **Razones:** keyword_hits:ai, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/
-
-This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;
-
----
-
-### 16. Get started with Daybreak Blue
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/learn/daybreak-blue-onboarding-demo
-
-Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
-
----
-
-### 17. Explore the Codex Security Plugin
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/learn/codex-security-plugin-demo
-
-Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.
-
----
-
-### 18. See PR scans in action
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Nov 2026 00:00:00 GMT
-- **Score:** 11.7
-- **Razones:** keyword_hits:modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/learn/pr-scans-demo
-
-Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
-
----
-
-### 19. Deploying Daybreak Red
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:modelo,model,safety, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/business/learn/deploying-daybreak-red
-
-Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
-
----
-
-### 20. How OpenAI’s Performance Factory keeps ChatGPT fast
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Thu, 19 Nov 2026 08:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
-
-Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
 
 ---
