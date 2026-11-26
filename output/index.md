@@ -1,10 +1,23 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-25 17:44 UTC_
+_Actualizado: 2026-11-26 17:28 UTC_
 
 ## Selección priorizada
 
-### 1. AI is straining America’s open records systems
+### 1. The Download: Better bionic hands and AI’s natural-gas boom
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Thu, 26 Nov 2026 13:10:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a few prosthetics. But his latest&#8230;
+
+---
+
+### 2. AI is straining America’s open records systems
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +30,7 @@ In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted 
 
 ---
 
-### 2. The Download: AI swamping open records, and firefighting for permafrost
+### 3. The Download: AI swamping open records, and firefighting for permafrost
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +43,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 3. How data centers are driving a US natural-gas boom
+### 4. How data centers are driving a US natural-gas boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +56,7 @@ In May 2025, my colleague David Rotman wrote a feature story describing how AI c
 
 ---
 
-### 4. How iFood scales coding agents across 15,000 repositories
+### 5. How iFood scales coding agents across 15,000 repositories
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -56,7 +69,7 @@ In May 2025, my colleague David Rotman wrote a feature story describing how AI c
 
 ---
 
-### 5. Searching for distant planets with Astra
+### 6. Searching for distant planets with Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +82,7 @@ See how two amateur astronomers used Codex and Astra to find potential exoplanet
 
 ---
 
-### 6. GPT-6 models demonstrate intrinsic protein-design capabilities
+### 7. GPT-6 models demonstrate intrinsic protein-design capabilities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +95,7 @@ GPT-6 models design protein structures and sequences using reasoning and code. L
 
 ---
 
-### 7. Clay helps sales teams win with Codex and ChatGPT
+### 8. Clay helps sales teams win with Codex and ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +108,7 @@ ChatGPT and Codex integrations help Clay’s users research deals and turn data 
 
 ---
 
-### 8. How Intentful uses dots to make more time for growth
+### 9. How Intentful uses dots to make more time for growth
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +121,7 @@ Marina Petrova’s dot Aria helps research websites and build proposals, while p
 
 ---
 
-### 9. Data centers are getting their own natural gas power plants
+### 10. Data centers are getting their own natural gas power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -121,7 +134,7 @@ One of the biggest roadblocks to starting up a data center is getting approval t
 
 ---
 
-### 10. The Download: AI’s gas power boom and a consciousness reality check
+### 11. The Download: AI’s gas power boom and a consciousness reality check
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +147,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 11. Raising the stakes for enterprise networks with AI modernization
+### 12. Raising the stakes for enterprise networks with AI modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +160,7 @@ Enterprise networks are under severe strain. As companies rush to deploy artific
 
 ---
 
-### 12. Richpanel helps companies automate 50% of support in 30 days
+### 13. Richpanel helps companies automate 50% of support in 30 days
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -160,7 +173,7 @@ Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with t
 
 ---
 
-### 13. Connected intelligence for in-house legal
+### 14. Connected intelligence for in-house legal
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +186,7 @@ Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Coo
 
 ---
 
-### 14. OpenAI and Cisco introduce Shirudo
+### 15. OpenAI and Cisco introduce Shirudo
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +199,7 @@ OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps t
 
 ---
 
-### 15. Why using rocks for carbon removal could eventually reduce crop growth
+### 16. Why using rocks for carbon removal could eventually reduce crop growth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -199,7 +212,7 @@ Tech companies are investing a lot of hope and money in rocks. Google, Microsoft
 
 ---
 
-### 16. The Download: AI’s judgment problem and carbon removal’s crop threat
+### 17. The Download: AI’s judgment problem and carbon removal’s crop threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +225,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 17. A legendary philosopher isn’t buying Anthropic’s consciousness argument
+### 18. A legendary philosopher isn’t buying Anthropic’s consciousness argument
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -225,7 +238,7 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 ---
 
-### 18. Perplexity and Intelligence
+### 19. Perplexity and Intelligence
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -238,7 +251,7 @@ How perplexity measures progress in AI models, and why it could help developers 
 
 ---
 
-### 19. The most misunderstood graph in AI just got a major update
+### 20. The most misunderstood graph in AI just got a major update
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -248,18 +261,5 @@ How perplexity measures progress in AI models, and why it could help developers 
 - **Enlace:** https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
 
 A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;
-
----
-
-### 20. Can AI help scientists identify promising drug candidates?
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Fri, 20 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/introducing-medchembench
-
-MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
 
 ---
