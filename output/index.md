@@ -1,10 +1,49 @@
 # Curación de contenidos
 
-_Actualizado: 2026-11-26 17:28 UTC_
+_Actualizado: 2026-11-27 17:07 UTC_
 
 ## Selección priorizada
 
-### 1. The Download: Better bionic hands and AI’s natural-gas boom
+### 1. How cutting-edge prosthetics can help probe the human mind
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 27 Nov 2026 10:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/
+
+Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking&#8230;
+
+---
+
+### 2. Our 2027 Innovators Under 35 competition is now open
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 27 Nov 2026 10:48:47 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:research, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/
+
+Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and founders who are engineering solutions to some of&#8230;
+
+---
+
+### 3. The Download: Innovators Under 35 nominations are open, and a bionic window into the mind
+
+- **Fuente:** MIT Technology Review
+- **Dominio:** www.technologyreview.com
+- **Fecha:** Fri, 27 Nov 2026 13:00:00 +0000
+- **Score:** 6.4
+- **Razones:** keyword_hits:ai, authority:8, recent:0d
+- **Enlace:** https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/
+
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.&#8230;
+
+---
+
+### 4. The Download: Better bionic hands and AI’s natural-gas boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -17,7 +56,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 2. AI is straining America’s open records systems
+### 5. AI is straining America’s open records systems
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -30,7 +69,7 @@ In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted 
 
 ---
 
-### 3. The Download: AI swamping open records, and firefighting for permafrost
+### 6. The Download: AI swamping open records, and firefighting for permafrost
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -43,7 +82,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 4. How data centers are driving a US natural-gas boom
+### 7. How data centers are driving a US natural-gas boom
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -56,7 +95,7 @@ In May 2025, my colleague David Rotman wrote a feature story describing how AI c
 
 ---
 
-### 5. How iFood scales coding agents across 15,000 repositories
+### 8. How iFood scales coding agents across 15,000 repositories
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -69,7 +108,7 @@ In May 2025, my colleague David Rotman wrote a feature story describing how AI c
 
 ---
 
-### 6. Searching for distant planets with Astra
+### 9. Searching for distant planets with Astra
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -82,7 +121,7 @@ See how two amateur astronomers used Codex and Astra to find potential exoplanet
 
 ---
 
-### 7. GPT-6 models demonstrate intrinsic protein-design capabilities
+### 10. GPT-6 models demonstrate intrinsic protein-design capabilities
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -95,7 +134,7 @@ GPT-6 models design protein structures and sequences using reasoning and code. L
 
 ---
 
-### 8. Clay helps sales teams win with Codex and ChatGPT
+### 11. Clay helps sales teams win with Codex and ChatGPT
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -108,7 +147,7 @@ ChatGPT and Codex integrations help Clay’s users research deals and turn data 
 
 ---
 
-### 9. How Intentful uses dots to make more time for growth
+### 12. How Intentful uses dots to make more time for growth
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -121,7 +160,7 @@ Marina Petrova’s dot Aria helps research websites and build proposals, while p
 
 ---
 
-### 10. Data centers are getting their own natural gas power plants
+### 13. Data centers are getting their own natural gas power plants
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -134,7 +173,7 @@ One of the biggest roadblocks to starting up a data center is getting approval t
 
 ---
 
-### 11. The Download: AI’s gas power boom and a consciousness reality check
+### 14. The Download: AI’s gas power boom and a consciousness reality check
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -147,7 +186,7 @@ This is today&#8217;s edition of The Download, our weekday newsletter that provi
 
 ---
 
-### 12. Raising the stakes for enterprise networks with AI modernization
+### 15. Raising the stakes for enterprise networks with AI modernization
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -160,7 +199,7 @@ Enterprise networks are under severe strain. As companies rush to deploy artific
 
 ---
 
-### 13. Richpanel helps companies automate 50% of support in 30 days
+### 16. Richpanel helps companies automate 50% of support in 30 days
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -173,7 +212,7 @@ Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with t
 
 ---
 
-### 14. Connected intelligence for in-house legal
+### 17. Connected intelligence for in-house legal
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -186,7 +225,7 @@ Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Coo
 
 ---
 
-### 15. OpenAI and Cisco introduce Shirudo
+### 18. OpenAI and Cisco introduce Shirudo
 
 - **Fuente:** OpenAI Blog
 - **Dominio:** openai.com
@@ -199,7 +238,7 @@ OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps t
 
 ---
 
-### 16. Why using rocks for carbon removal could eventually reduce crop growth
+### 19. Why using rocks for carbon removal could eventually reduce crop growth
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -212,7 +251,7 @@ Tech companies are investing a lot of hope and money in rocks. Google, Microsoft
 
 ---
 
-### 17. The Download: AI’s judgment problem and carbon removal’s crop threat
+### 20. The Download: AI’s judgment problem and carbon removal’s crop threat
 
 - **Fuente:** MIT Technology Review
 - **Dominio:** www.technologyreview.com
@@ -222,44 +261,5 @@ Tech companies are investing a lot of hope and money in rocks. Google, Microsoft
 - **Enlace:** https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
 
 This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;
-
----
-
-### 18. A legendary philosopher isn’t buying Anthropic’s consciousness argument
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Mon, 23 Nov 2026 17:36:08 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;
-
----
-
-### 19. Perplexity and Intelligence
-
-- **Fuente:** OpenAI Blog
-- **Dominio:** openai.com
-- **Fecha:** Sun, 22 Nov 2026 00:00:00 GMT
-- **Score:** 13.7
-- **Razones:** keyword_hits:ai,modelo,model, preferred_domain, authority:9, recent:1d
-- **Enlace:** https://openai.com/index/perplexity-and-intelligence
-
-How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
-
----
-
-### 20. The most misunderstood graph in AI just got a major update
-
-- **Fuente:** MIT Technology Review
-- **Dominio:** www.technologyreview.com
-- **Fecha:** Fri, 20 Nov 2026 18:15:15 +0000
-- **Score:** 8.4
-- **Razones:** keyword_hits:ai,model, authority:8, recent:0d
-- **Enlace:** https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
-
-A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;
 
 ---
